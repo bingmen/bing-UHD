@@ -66,10 +66,9 @@ def main():
     data.sort(key=lambda x: x["enddate"], reverse=True)
 
     md_lines = [
-        # 20261006
-        # "# Bing 每日壁纸（中国区） - {} 年 UHD 高清图\n".format(YEAR),
-        "# Bing 每日壁纸 - UHD 中文 - {}）\n".format(YEAR),
+        "# Bing 每日壁纸 - UHD 中文 - {}\n".format(YEAR),
         "",
+        "> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
         "| 日期 | 标题 | 版权 | 略缩图 | 高清图 |",
         "|------|------|------|--------|--------|",
     ]
