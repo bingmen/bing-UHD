@@ -1,6 +1,8 @@
 # Bing 每日壁纸 - UHD 中文 - 2022
 
 
+> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
+
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 |------|------|------|--------|--------|
 | 20230101 | 在北极附近打盹 | 北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images) | ![](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2022/20230101_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp) |
