@@ -13,7 +13,7 @@ from pathlib import Path
 from datetime import datetime
 
 # ========== 配置 ==========
-YEAR = "2023"
+YEAR = "2024"
 JSON_FILE = f"bing-JSON-cn-{YEAR}.json"
 UHD_DIR = f"bing-UHD-cn-{YEAR}"
 THUMB_DIR = f"bing-320-cn-{YEAR}"
