@@ -1,0 +1,68 @@
+# bing-JSON-cn.yml
+# github.com/shenjuexiao
+# 20261007
+
+# .github/workflows/bing-JSON-cn.yml
+name: bing-JSON-cn
+
+on:
+  # 手动触发
+  workflow_dispatch:
+  # 每天定时运行（UTC 时间，北京时间 = UTC+8）
+  # schedule:
+    # - cron: "0 22 * * *"   # 每天 UTC 22:00 = 北京时间 06:00
+
+# 允许工作流写入仓库（用于提交生成的图片和 Markdown）
+permissions:
+  contents: write
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 拉取完整历史，避免推送冲突
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Show environment
+        run: |
+          python --version
+          pwd
+          ls -la
+
+      - name: Run downloader script
+        run: |
+          python bing-JSON-cn.py
+
+      - name: Show generated files
+        run: |
+          echo "=== Markdown ==="
+          ls -la bing-UHD-cn-*.md || true
+          echo "=== UHD dir ==="
+          ls -la bing-UHD-cn-* || true
+          echo "=== Thumb dir ==="
+          ls -la bing-320-cn-* || true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          # 如果没有变化就跳过提交，避免报错
+          if git diff --cached --quiet; then
+            echo "没有需要提交的变更。"
+            exit 0
+          fi
+
+          git commit -m "chore: update Bing UHD CN $(date -u +'%Y-%m-%d')"
+          git push
