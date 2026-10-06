@@ -10,6 +10,7 @@ import os
 import re
 import urllib.request
 from pathlib import Path
+from datetime import datetime
 
 # ========== 配置 ==========
 YEAR = "2022"
@@ -66,9 +67,9 @@ def main():
     data.sort(key=lambda x: x["enddate"], reverse=True)
 
     md_lines = [
-        "# Bing 每日壁纸 - UHD 中文 - {}\n".format(YEAR),
+        f"# Bing 每日壁纸 - UHD 中文 - {YEAR}",
         "",
-        "> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
+        f"> 最后更新：{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n"
         "| 日期 | 标题 | 版权 | 略缩图 | 高清图 |",
         "|------|------|------|--------|--------|",
     ]
