@@ -53,16 +53,18 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "shenjuexiao"
+          git config user.email "shenjuexiao@qq.com"
 
           git add -A
 
-          # 如果没有变化就跳过提交，避免报错
           if git diff --cached --quiet; then
             echo "没有需要提交的变更。"
             exit 0
           fi
 
           git commit -m "chore: update Bing UHD CN $(date -u +'%Y-%m-%d')"
-          git push
+
+          # 关键：先拉取远程最新提交，再推送
+          git pull --rebase origin main
+          git push origin main
