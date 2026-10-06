@@ -3,7 +3,7 @@
 # 20261006
 
 # .github/workflows/bing-UHD-cn.yml
-name: Bing UHD CN Daily
+name: bing-UHD-cn
 on:
   schedule:
     # 每天 00:05 UTC 运行（北京时间 08:05）
