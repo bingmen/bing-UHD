@@ -1,0 +1,44 @@
+# bing-UHD-cn-0.0.3.yml
+# github.com/shenjuexiao
+# 20261006
+
+# .github/workflows/bing-UHD-cn.yml
+name: Bing UHD CN Daily
+on:
+  schedule:
+    # 每天 00:05 UTC 运行（北京时间 08:05）
+    - cron: '5 0 * * *'
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run script
+        run: python bing-UHD-cn.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "shenjuexiao@qq.com"
+          git config --local user.name "shenjuexiao"
+          YEAR=$(date +%Y)
+          git add bing-UHD-cn-${YEAR}.md bing-JSON-cn-${YEAR}.json bing-UHD-cn-${YEAR}/ bing-320-cn-${YEAR}/ bing-JSON-cn-${YEAR}/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update Bing UHD CN wallpapers [skip ci]"
+          git push
