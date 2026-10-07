@@ -10,8 +10,8 @@
 - 📅 [2022](https://github.com/bingmen/bing-UHD/blob/main/bing-UHD-cn-2022.md) 🐅
 
 ## 目录结构
-- 🖼️ 略缩图：bing-320-cn-{year}
 - 📄 数据：bing-JSON-cn-{year}
+- 🖼️ 略缩图：bing-320-cn-{year}
 - 🎞️ 高清图：bing-UHD-cn-{year}
 
 ## 资料参考
