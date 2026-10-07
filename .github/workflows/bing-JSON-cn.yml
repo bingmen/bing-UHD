@@ -2,9 +2,6 @@
 # github.com/shenjuexiao
 # 20261007
 
-# chat.deepseek.com/a/chat/s/2026cdf4-1c04-4b28-b287-9353c2a396f4
-# GitHub Actions 运行，编写工作流
-
 # .github/workflows/bing-JSON-cn.yml
 name: bing-JSON-cn
 
