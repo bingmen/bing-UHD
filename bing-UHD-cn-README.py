@@ -1,8 +1,7 @@
-# bing-UHD-cn-README-0.0.0.py
+# bing-UHD-cn-README-0.0.1.py
 # github.com/shenjuexiao
-# 20261007
+# 20261008
 
-# bing-UHD-cn-README.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -22,6 +21,10 @@ YEAR_EMOJI = {
     2023: "🐇",
     2022: "🐅",
 }
+# 各年份可选的起始日期（不指定则从 1 月 1 日开始）
+YEAR_START_DATE = {
+    2022: date(2022, 4, 28),
+}
 THUMB_URL_TEMPLATE = (
     "https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/"
     "bing-320-cn-{year}/{date}_320_cn.jpg"
@@ -34,7 +37,7 @@ OUTPUT = Path("README.md")
 
 def random_dates(year: int, count: int = TOTAL) -> list[date]:
     """在指定年份内随机选取不重复日期，按时间顺序排列。"""
-    start = date(year, 1, 1)
+    start = YEAR_START_DATE.get(year, date(year, 1, 1))
     end = date(year, 12, 31)
     # 如果是 2026 年，且当前日期未到年底，则限制到昨天
     today = date.today()
@@ -118,3 +121,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
