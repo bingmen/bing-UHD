@@ -1,4 +1,4 @@
-# bing-UHD-cn-0.2.0.yml
+# bing-UHD-cn-0.1.0.yml
 # github.com/shenjuexiao
 # 20261008
 
@@ -16,15 +16,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository (sparse, minimal)
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 1
-          sparse-checkout: |
-            bing-UHD-cn.py
-            bing-UHD-cn-README.py
-          sparse-checkout-cone-mode: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,8 +41,6 @@ jobs:
         run: |
           git config --local user.email "shenjuexiao@qq.com"
           git config --local user.name "shenjuexiao"
-          # 禁用稀疏检出，使所有路径可被 git add 跟踪
-          git sparse-checkout disable
           YEAR=$(date +%Y)
           git add bing-UHD-cn-${YEAR}.md bing-JSON-cn-${YEAR}.json bing-UHD-cn-${YEAR}/ bing-320-cn-${YEAR}/ bing-JSON-cn-${YEAR}/ README.md
           if git diff --staged --quiet; then
