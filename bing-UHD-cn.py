@@ -1,6 +1,6 @@
-# bing-UHD-cn-0.1.0.py
+# bing-UHD-cn-0.1.1.py
 # github.com/shenjuexiao
-# 20261007
+# 20261008
 
 # bing-UHD-cn.py
 #!/usr/bin/env python3
@@ -11,8 +11,9 @@ Bing 每日壁纸抓取脚本
 - 下载 UHD 高清图到 bing-UHD-cn-{year}/ 目录
 - 下载 320x240 缩略图到 bing-320-cn-{year}/ 目录
 - 保存 JSON 数据到 bing-JSON-cn-{year}/ 目录
-- 生成/追加 bing-UHD-cn-{year}.md 表格：日期 | 标题 | 版权 | 略缩图 | 高清图
 - 生成/追加 bing-JSON-cn-{year}.json（按年汇总，同日期去重，日期倒序）
+- 根据 bing-JSON-cn-{year}.json 数据生成 bing-UHD-cn-{year}.md 表格：
+  日期 | 标题 | 版权 | 略缩图 | 高清图
 - 图片命名：YYYYMMDD_title_UHD_cn.jpg / YYYYMMDD_320_cn.jpg
 - JSON 命名：YYYYMMDD_JSON_cn.json
 - 日期列统一为 YYYY-MM-DD，文件名前缀统一为 YYYYMMDD
@@ -88,8 +89,11 @@ def save_json(img: dict, json_dir: str, date_compact: str) -> None:
         print(f"  [失败] 保存 JSON {json_filepath} -> {e}")
 
 
-def append_yearly_json(year: str, new_images: list) -> None:
-    """将本次获取的图片追加到 bing-JSON-cn-{year}.json，按日期去重并倒序"""
+def append_yearly_json(year: str, new_images: list) -> list:
+    """
+    将本次获取的图片追加到 bing-JSON-cn-{year}.json，
+    按日期去重并倒序，返回合并后的列表。
+    """
     yearly_json_file = f"bing-JSON-cn-{year}.json"
 
     existing: list = []
@@ -125,41 +129,58 @@ def append_yearly_json(year: str, new_images: list) -> None:
     except Exception as e:
         print(f"  [失败] 写入 {yearly_json_file} -> {e}")
 
-
-def parse_md_rows(md_file: str) -> dict:
-    """
-    读取已有 Markdown 表格行，返回 {date_iso: row_line} 字典。
-    仅解析形如 | YYYY-MM-DD | ... 的数据行。
-    """
-    rows: dict = {}
-    if not (os.path.exists(md_file) and os.path.getsize(md_file) > 0):
-        return rows
-    try:
-        with open(md_file, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.rstrip("\n")
-                m = re.match(r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|", line)
-                if m:
-                    rows[m.group(1)] = line
-    except Exception as e:
-        print(f"  [警告] 读取 {md_file} 失败: {e}")
-    return rows
+    return merged_list
 
 
-def write_yearly_md(year: str, new_rows: dict) -> None:
+def build_md_row(img: dict, year: str) -> str:
     """
-    生成/追加 bing-UHD-cn-{year}.md：
-    - 合并已有行与新行，按日期去重（新行覆盖旧行）
-    - 按日期倒序输出
+    根据单条图片 JSON 数据构造 Markdown 表格行：
+    日期 | 标题 | 版权 | 略缩图 | 高清图
+    """
+    enddate = img.get("enddate", "")  # YYYYMMDD
+    if len(enddate) == 8:
+        date_iso = f"{enddate[:4]}-{enddate[4:6]}-{enddate[6:]}"
+        date_compact = enddate
+    else:
+        date_iso = enddate
+        date_compact = enddate
+
+    title = (img.get("title", "") or "").strip()
+    copyright_ = (img.get("copyright", "") or "").strip()
+
+    # 缩略图 CDN 链接
+    thumb_dir = f"bing-320-cn-{year}"
+    thumb_filename = f"{date_compact}_320_cn.jpg"
+    thumb_cdn_url = f"{CDN_BASE}/{thumb_dir}/{thumb_filename}"
+
+    # UHD 高清图链接
+    urlbase = img.get("urlbase", "")
+    if urlbase:
+        uhd_url = f"{UHD_BASE}{urlbase}_UHD.jpg"
+    else:
+        raw_url = img.get("url", "")
+        uhd_url = raw_url.replace("_1920x1080", "_UHD")
+
+    md_title = title.replace("|", "\\|")
+    md_copy = copyright_.replace("|", "\\|")
+
+    return (
+        f"| {date_iso} | {md_title} | {md_copy} "
+        f"| ![{md_title}]({thumb_cdn_url}) "
+        f"| [UHD]({uhd_url}) |"
+    )
+
+
+def write_yearly_md(year: str, yearly_images: list) -> None:
+    """
+    根据 bing-JSON-cn-{year}.json 的汇总数据生成 bing-UHD-cn-{year}.md。
+    - 数据来源：yearly_images（已按日期倒序去重）
+    - 表格列：日期 | 标题 | 版权 | 略缩图 | 高清图
     """
     md_file = f"bing-UHD-cn-{year}.md"
-    existing_rows = parse_md_rows(md_file)
 
-    merged = dict(existing_rows)
-    merged.update(new_rows)
-
-    # 按日期倒序（最新在前）
-    sorted_dates = sorted(merged.keys(), reverse=True)
+    # 已按 enddate 倒序，直接生成行
+    rows = [build_md_row(img, year) for img in yearly_images]
 
     try:
         with open(md_file, "w", encoding="utf-8") as f:
@@ -169,9 +190,9 @@ def write_yearly_md(year: str, new_rows: dict) -> None:
             )
             f.write("| 日期 | 标题 | 版权 | 略缩图 | 高清图 |\n")
             f.write("| --- | --- | --- | --- | --- |\n")
-            for d in sorted_dates:
-                f.write(merged[d] + "\n")
-        print(f"\n{year} 年 Markdown 已写入 {md_file}（共 {len(sorted_dates)} 行）")
+            for row in rows:
+                f.write(row + "\n")
+        print(f"\n{year} 年 Markdown 已写入 {md_file}（共 {len(rows)} 行）")
     except Exception as e:
         print(f"  [失败] 写入 {md_file} -> {e}")
 
@@ -182,19 +203,15 @@ def main():
         print("未获取到任何图片数据")
         return
 
-    # {year: {date_iso: row_line}}
-    year_rows: dict[str, dict] = {}
     # {year: [img, ...]} 用于追加年度汇总 JSON
     year_images: dict[str, list] = {}
 
     for img in images:
         date_str = img.get("enddate", "")
         if len(date_str) == 8:
-            date_iso = f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:]}"
             date_compact = date_str  # YYYYMMDD
             year = date_str[:4]
         else:
-            date_iso = date_str
             date_compact = date_str
             year = datetime.utcnow().strftime("%Y")
 
@@ -206,8 +223,7 @@ def main():
         os.makedirs(thumb_dir, exist_ok=True)
         os.makedirs(json_dir, exist_ok=True)
 
-        title = img.get("title", "").strip()
-        copyright_ = img.get("copyright", "").strip()
+        title = (img.get("title", "") or "").strip()
 
         # 保存单日 JSON
         save_json(img, json_dir, date_compact)
@@ -235,26 +251,10 @@ def main():
         download_image(uhd_url, uhd_filepath)
         download_image(thumb_url, thumb_filepath)
 
-        # 缩略图 CDN 链接
-        thumb_cdn_url = f"{CDN_BASE}/{thumb_dir}/{thumb_filename}"
-
-        # Markdown 行
-        md_title = title.replace("|", "\\|") if title else ""
-        md_copy = copyright_.replace("|", "\\|") if copyright_ else ""
-        row = (
-            f"| {date_iso} | {md_title} | {md_copy} "
-            f"| ![{md_title}]({thumb_cdn_url}) "
-            f"| [UHD]({uhd_url}) |"
-        )
-        year_rows.setdefault(year, {})[date_iso] = row
-
-    # 每个年份分别写入/追加 Markdown（去重 + 倒序）
-    for year, rows in year_rows.items():
-        write_yearly_md(year, rows)
-
-    # 追加年度汇总 JSON
+    # 先写年度汇总 JSON，再根据 JSON 数据生成 Markdown
     for year, imgs in year_images.items():
-        append_yearly_json(year, imgs)
+        merged_list = append_yearly_json(year, imgs)
+        write_yearly_md(year, merged_list)
 
 
 if __name__ == "__main__":
