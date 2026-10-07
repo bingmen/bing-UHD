@@ -1,4 +1,4 @@
-# bing-UHD-cn-0.1.0.yml
+# bing-UHD-cn-0.2.0.yml
 # github.com/shenjuexiao
 # 20261008
 
@@ -16,10 +16,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (sparse, minimal)
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+          sparse-checkout: |
+            bing-UHD-cn.py
+            bing-UHD-cn-README.py
+          sparse-checkout-cone-mode: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
