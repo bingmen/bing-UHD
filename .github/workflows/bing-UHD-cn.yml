@@ -1,6 +1,6 @@
-# bing-UHD-cn-0.0.4.yml
+# bing-UHD-cn-0.1.0.yml
 # github.com/shenjuexiao
-# 20261007
+# 20261008
 
 # .github/workflows/bing-UHD-cn.yml
 name: bing-UHD-cn
@@ -34,12 +34,15 @@ jobs:
       - name: Run script
         run: python bing-UHD-cn.py
 
+      - name: Generate README
+        run: python bing-UHD-cn-README.py
+
       - name: Commit and push changes
         run: |
           git config --local user.email "shenjuexiao@qq.com"
           git config --local user.name "shenjuexiao"
           YEAR=$(date +%Y)
-          git add bing-UHD-cn-${YEAR}.md bing-JSON-cn-${YEAR}.json bing-UHD-cn-${YEAR}/ bing-320-cn-${YEAR}/ bing-JSON-cn-${YEAR}/
+          git add bing-UHD-cn-${YEAR}.md bing-JSON-cn-${YEAR}.json bing-UHD-cn-${YEAR}/ bing-320-cn-${YEAR}/ bing-JSON-cn-${YEAR}/ README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
