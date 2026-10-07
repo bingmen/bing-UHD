@@ -9,5 +9,10 @@
 - 📅 [2023](https://github.com/bingmen/bing-UHD/blob/main/bing-UHD-cn-2023.md) 🐇
 - 📅 [2022](https://github.com/bingmen/bing-UHD/blob/main/bing-UHD-cn-2022.md) 🐅
 
+## 目录结构
+- 🖼️ 略缩图：bing-320-cn-{year}
+- 📄 数据：bing-JSON-cn-{year}
+- 🎞️ 高清图：bing-UHD-cn-{year}
+
 ## 资料参考
 - [Bing-Wallpaper-Action 公开API](https://bing-wallpaper.apifox.cn/)
