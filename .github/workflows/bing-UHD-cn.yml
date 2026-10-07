@@ -46,6 +46,8 @@ jobs:
         run: |
           git config --local user.email "shenjuexiao@qq.com"
           git config --local user.name "shenjuexiao"
+          # 禁用稀疏检出，使所有路径可被 git add 跟踪
+          git sparse-checkout disable
           YEAR=$(date +%Y)
           git add bing-UHD-cn-${YEAR}.md bing-JSON-cn-${YEAR}.json bing-UHD-cn-${YEAR}/ bing-320-cn-${YEAR}/ bing-JSON-cn-${YEAR}/ README.md
           if git diff --staged --quiet; then
