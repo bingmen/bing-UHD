@@ -2,6 +2,7 @@
 # github.com/shenjuexiao
 # 20261008
 
+# bing-UHD-cn-README.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -21,10 +22,6 @@ YEAR_EMOJI = {
     2023: "🐇",
     2022: "🐅",
 }
-# 各年份可选的起始日期（不指定则从 1 月 1 日开始）
-YEAR_START_DATE = {
-    2022: date(2022, 4, 28),
-}
 THUMB_URL_TEMPLATE = (
     "https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/"
     "bing-320-cn-{year}/{date}_320_cn.jpg"
@@ -34,15 +31,24 @@ ROWS = 4
 TOTAL = COLS * ROWS
 OUTPUT = Path("README.md")
 
+# 每个年份对应的缩略图日期区间（起始, 结束）
+DATE_RANGES = {
+    2022: (date(2022, 4, 28), date(2023, 1, 1)),
+    2023: (date(2023, 1, 2), date(2024, 1, 1)),
+    2024: (date(2024, 1, 2), date(2025, 1, 1)),
+    2025: (date(2025, 1, 2), date(2026, 1, 1)),
+    2026: (date(2026, 1, 2), date.today()),
+}
+
 
 def random_dates(year: int, count: int = TOTAL) -> list[date]:
-    """在指定年份内随机选取不重复日期，按时间顺序排列。"""
-    start = YEAR_START_DATE.get(year, date(year, 1, 1))
-    end = date(year, 12, 31)
-    # 如果是 2026 年，且当前日期未到年底，则限制到昨天
+    """在指定年份对应的区间内随机选取不重复日期，按时间顺序排列。"""
+    start, end = DATE_RANGES[year]
+
+    # 若结束日期晚于今天，则截断到今天（避免抓取未来日期）
     today = date.today()
-    if year == today.year:
-        end = min(end, today - timedelta(days=1))
+    if end > today:
+        end = today
     if end < start:
         return []
 
@@ -57,7 +63,7 @@ def render_thumb_table(year: int, dates: list[date]) -> str:
     lines = []
     # 补齐到 TOTAL 个，避免表格不齐
     while len(dates) < TOTAL:
-        dates.append(dates[-1] if dates else date(year, 1, 1))
+        dates.append(dates[-1] if dates else DATE_RANGES[year][0])
 
     for r in range(ROWS):
         row_dates = dates[r * COLS:(r + 1) * COLS]
@@ -121,4 +127,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
