@@ -5,6 +5,7 @@
 # bing-UHD-cn.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 Bing 每日壁纸抓取脚本
 - 获取 Bing 壁纸 JSON (cn 区域)
