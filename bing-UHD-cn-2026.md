@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-10-08 06:00:19 UTC
+> 最后更新：2026-10-09 06:05:36 UTC
 
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 | --- | --- | --- | --- | --- |
+| 2026-10-09 | 科西嘉岛的岩石前哨 | 桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images) | ![科西嘉岛的岩石前哨](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261009_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg) |
 | 2026-10-08 | 现在你“海”能看见我…… | 印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures) | ![现在你“海”能看见我……](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261008_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg) |
 | 2026-10-07 | 迷惑不解？沿着小径走 | 覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images) | ![迷惑不解？沿着小径走](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261007_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg) |
 | 2026-10-06 | 条纹中的地球故事 | 丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images) | ![条纹中的地球故事](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261006_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg) |
