@@ -5,6 +5,7 @@
 # bing-UHD-cn-README.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 重新生成 Bing 每日壁纸 - UHD 中文 的 README.md
 """
