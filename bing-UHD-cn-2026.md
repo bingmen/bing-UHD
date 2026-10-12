@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-10-11 05:43:13 UTC
+> 最后更新：2026-10-12 05:53:30 UTC
 
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 | --- | --- | --- | --- | --- |
+| 2026-10-12 | 从铁轨到潮汐 | 曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock) | ![从铁轨到潮汐](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261012_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg) |
 | 2026-10-11 | 秋色中转动的水轮 | 格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images) | ![秋色中转动的水轮](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261011_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg) |
 | 2026-10-10 | 迁飞路线上的生命 | 蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures) | ![迁飞路线上的生命](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261010_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg) |
 | 2026-10-09 | 科西嘉岛的岩石前哨 | 桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images) | ![科西嘉岛的岩石前哨](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261009_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg) |
