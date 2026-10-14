@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-10-13 06:48:06 UTC
+> 最后更新：2026-10-14 04:50:51 UTC
 
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 | --- | --- | --- | --- | --- |
+| 2026-10-14 | 穿越时间的螺旋 | 侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images) | ![穿越时间的螺旋](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261014_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg) |
 | 2026-10-13 | 蓝与绿的交响曲 | 普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy) | ![蓝与绿的交响曲](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261013_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg) |
 | 2026-10-12 | 从铁轨到潮汐 | 曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock) | ![从铁轨到潮汐](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261012_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg) |
 | 2026-10-11 | 秋色中转动的水轮 | 格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images) | ![秋色中转动的水轮](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261011_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg) |
