@@ -1,0 +1,39 @@
+# _config.yml
+# github.com/shenjuexiao
+# 20261014
+
+# GitHub 仓库，使用 Jekyll 渲染页面，主页：README.md
+# 主题：minima
+
+title: Bing 每日壁纸 - UHD 中文
+description: 自动抓取 Bing 每日壁纸（中国地区），存储 UHD 和 320×240 格式
+theme: minima
+
+# 包含的文件（Jekyll 默认会忽略以下划线开头的文件，
+# 但这里列出的文件需要被处理）
+include:
+  - README.md
+  - bing-UHD-cn-2022.md
+  - bing-UHD-cn-2023.md
+  - bing-UHD-cn-2024.md
+  - bing-UHD-cn-2025.md
+  - bing-UHD-cn-2026.md
+
+# 排除的文件和目录（不参与 Jekyll 构建）
+exclude:
+  - "*.json"
+  - bing-UHD-cn-2022
+  - bing-UHD-cn-2023
+  - bing-UHD-cn-2024
+  - bing-UHD-cn-2025
+  - bing-UHD-cn-2026
+  - bing-JSON-cn-2022
+  - bing-JSON-cn-2023
+  - bing-JSON-cn-2024
+  - bing-JSON-cn-2025
+  - bing-JSON-cn-2026
+  - bing-320-cn-2022
+  - bing-320-cn-2023
+  - bing-320-cn-2024
+  - bing-320-cn-2025
+  - bing-320-cn-2026
