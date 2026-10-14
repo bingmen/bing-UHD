@@ -86,21 +86,25 @@ def render_thumb_table(year: int, dates: list[date]) -> str:
 
 def build_readme() -> str:
     parts = []
-    parts.append("# Bing 每日壁纸 - UHD 中文\n\n")
-    parts.append("🚀 [bingmen/bing-UHD](https://github.com/bingmen/bing-UHD)\n\n")
+    parts.append("# Bing 每日壁纸 - UHD 中文\n")
+    
+    parts.append("🚀 [bingmen/bing-UHD](https://github.com/bingmen/bing-UHD)\n")
+    
     parts.append("## 简介\n")
     parts.append(
         "👀 自动抓取 Bing 每日壁纸（中国地区），存储 UHD 和 320×240 格式，"
-        "后者作为略缩图形成归档汇总表格。\n"
+        "后者作为略缩图形成归档汇总表格。"
     )
+    parts.append("")
+    
     parts.append("## 归档\n")
-
     for year in YEARS:
         emoji = YEAR_EMOJI[year]
         parts.append(
             f"### {emoji} [{year}]"
             f"(bing-UHD-cn-{year}.md)"
         )
+        parts.append("")
         dates = random_dates(year)
         parts.append(render_thumb_table(year, dates))
         parts.append("")
@@ -108,7 +112,8 @@ def build_readme() -> str:
     parts.append("## 目录\n")
     parts.append("- 📄 数据：bing-JSON-cn-{year}")
     parts.append("- 🖼️ 略缩图：bing-320-cn-{year}")
-    parts.append("- 🎞️ 高清图：bing-UHD-cn-{year}\n")
+    parts.append("- 🎞️ 高清图：bing-UHD-cn-{year}")
+    parts.append("")
 
     parts.append("## 参考\n")
     parts.append("- [Bing-Wallpaper-Action 公开API](https://bing-wallpaper.apifox.cn/)")
