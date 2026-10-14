@@ -110,9 +110,9 @@ def build_readme() -> str:
         parts.append("")
 
     parts.append("## 目录\n")
-    parts.append("- 📄 数据：bing-JSON-cn-{year}")
-    parts.append("- 🖼️ 略缩图：bing-320-cn-{year}")
-    parts.append("- 🎞️ 高清图：bing-UHD-cn-{year}")
+    parts.append("- 📄 数据：bing-JSON-cn-{year}/")
+    parts.append("- 🖼️ 略缩图：bing-320-cn-{year}/")
+    parts.append("- 🎞️ 高清图：bing-UHD-cn-{year}/")
     parts.append("")
 
     parts.append("## 参考\n")
