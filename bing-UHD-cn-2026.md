@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD 中文 - 2026
 
-> 最后更新：2026-10-16 04:28:30 UTC
+> 最后更新：2026-10-17 04:20:35 UTC
 
 | 日期 | 标题 | 版权 | 略缩图 | 高清图 |
 | --- | --- | --- | --- | --- |
+| 2026-10-17 | 发掘尘封的过去 | 肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy) | ![发掘尘封的过去](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261017_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg) |
 | 2026-10-16 | 一窥科罗拉多群峰 | 斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images) | ![一窥科罗拉多群峰](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261016_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg) |
 | 2026-10-15 | 桥梁、屋顶与暮色 | 弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock) | ![桥梁、屋顶与暮色](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261015_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg) |
 | 2026-10-14 | 穿越时间的螺旋 | 侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images) | ![穿越时间的螺旋](https://cdn.jsdelivr.net/gh/bingmen/bing-UHD@main/bing-320-cn-2026/20261014_320_cn.jpg) | [UHD](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg) |
