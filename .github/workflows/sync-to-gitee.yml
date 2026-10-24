@@ -1,0 +1,51 @@
+# sync-to-gitee-1.0.2.yml
+# github.com/shenjuexiao
+# 20261021
+
+# .github/workflows/sync-to-gitee.yml
+# ⌨️ 用法
+# 1. 新建 Gitee 私人令牌
+# `账号设置` -> `私人令牌`-> [`GITEE_TOKEN`]
+# 2. 新建 GitHub 仓库 Repository Secrets
+# `Settings` -> `Secrets and variables` -> `Actions` -> `Repository secrets` -> `Repository secrets`
+# 3. 将 [`examples/workflow.yml`](examples/workflow.yml) （重命名）复制到 `.github/workflows/`
+# 或者将相应代码复制到原有的 `*.yml` 的 `steps: `内
+#
+name: Sync to Gitee
+
+on:
+  push:
+    branches: [main, master]
+  # schedule:
+    # 每天 UTC 02:00（北京时间 10:00）
+    # - cron: '0 2 * * *'
+  workflow_run:
+    # 修改为实际的前置工作流名称
+    workflows: ["bing-UHD-simple", "bing-UHD-README"]   
+    types: [completed]
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    # 仅当前置工作流成功完成时运行（workflow_run 场景）
+    # push / workflow_dispatch 场景下该条件不生效
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # workflow_run 触发时默认 checkout 的是默认分支的最新代码，
+          # 如需同步触发运行的那次 commit，可显式指定 ref
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          fetch-depth: 0
+
+      - name: hubee-action
+        uses: shenjuexiao/hubee-action@v1
+        with:
+          gitee_token:    ${{ secrets.GITEE_TOKEN }}
+          gitee_org:      ${{ secrets.GITEE_ORG }}
+          gitee_username: ${{ secrets.GITEE_USERNAME }}
+          gitee_repo:     ${{ secrets.GITEE_REPO }}
+          gitee_private:  ${{ secrets.GITEE_PRIVATE }}
