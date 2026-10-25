@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-10-24 03:18:00 UTC
+> Last updated: 2026-10-25 03:12:51 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-25 | The road that runs on water | Grand Canal in Venice, Italy (© Juan Romero/Cavan Images) | [![The road that runs on water](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_UHD.jpg) |
 | 2026-10-24 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg) |
 | 2026-10-23 | Partners in the wild | Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg) |
 | 2026-10-22 | Still waters, vivid colours | Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images) | [![Still waters, vivid colours](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_320x240.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-IN7823705566_UHD.jpg) |
