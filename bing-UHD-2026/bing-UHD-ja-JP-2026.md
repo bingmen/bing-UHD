@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-10-24 03:19:55 UTC
+> 最終更新: 2026-10-25 03:14:51 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-10-25 | 冬の大地を進むオオカミたち | ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images) | [![冬の大地を進むオオカミたち](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg) |
 | 2026-10-24 | 図書館の天窓から差し込む自然光 | 王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock) | [![図書館の天窓から差し込む自然光](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg) |
 | 2026-10-23 | 今日は霜降 | 蔦沼, 青森県 十和田市 (© MASATO SAITO/Getty Images) | [![今日は霜降](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_320x240.jpg)](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg) |
 | 2026-10-22 | 紅葉に彩られた東屋 | 内蔵山国立公園, 韓国 (© Twenty47studio/Getty Images) | [![紅葉に彩られた東屋](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_320x240.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg) |
