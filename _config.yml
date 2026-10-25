@@ -1,0 +1,117 @@
+# bing-UHD_config.yml
+# github.com/shenjuexiao
+# 20261025
+
+# _config.yml
+
+title: Bing 每日壁纸 - UHD
+description: 👀 抓取 Bing 每日壁纸（九个地区）数据，存储 JSON、UHD 和缩略图，汇总表格。
+
+# 包含的文件（Jekyll 默认会忽略以下划线开头的文件，
+# 但这里列出的文件需要被处理）
+include:
+  - README.md
+  # bing-UHD-2026/
+  - bing-UHD-2026/README-de-DE-2026.md
+  - bing-UHD-2026/README-en-CA-2026.md
+  - bing-UHD-2026/README-en-GB-2026.md
+  - bing-UHD-2026/README-en-IN-2026.md
+  - bing-UHD-2026/README-en-US-2026.md
+  - bing-UHD-2026/README-fr-FR-2026.md
+  - bing-UHD-2026/README-it-IT-2026.md
+  - bing-UHD-2026/README-ja-JP-2026.md
+  - bing-UHD-2026/README-zh-CN-2026.md
+  - bing-UHD-2026/README.md
+  - bing-UHD-2026/bing-UHD-de-DE-2026.md
+  - bing-UHD-2026/bing-UHD-en-CA-2026.md
+  - bing-UHD-2026/bing-UHD-en-GB-2026.md
+  - bing-UHD-2026/bing-UHD-en-IN-2026.md
+  - bing-UHD-2026/bing-UHD-en-US-2026.md
+  - bing-UHD-2026/bing-UHD-fr-FR-2026.md
+  - bing-UHD-2026/bing-UHD-it-IT-2026.md
+  - bing-UHD-2026/bing-UHD-ja-JP-2026.md
+  - bing-UHD-2026/bing-UHD-zh-CN-2026.md
+  # bing-UHD-2025/
+  - bing-UHD-2025/README-de-DE-2025.md
+  - bing-UHD-2025/README-en-CA-2025.md
+  - bing-UHD-2025/README-en-GB-2025.md
+  - bing-UHD-2025/README-en-IN-2025.md
+  - bing-UHD-2025/README-en-US-2025.md
+  - bing-UHD-2025/README-fr-FR-2025.md
+  - bing-UHD-2025/README-it-IT-2025.md
+  - bing-UHD-2025/README-ja-JP-2025.md
+  - bing-UHD-2025/README-zh-CN-2025.md
+  - bing-UHD-2025/README.md
+  - bing-UHD-2025/bing-UHD-de-DE-2025.md
+  - bing-UHD-2025/bing-UHD-en-CA-2025.md
+  - bing-UHD-2025/bing-UHD-en-GB-2025.md
+  - bing-UHD-2025/bing-UHD-en-IN-2025.md
+  - bing-UHD-2025/bing-UHD-en-US-2025.md
+  - bing-UHD-2025/bing-UHD-fr-FR-2025.md
+  - bing-UHD-2025/bing-UHD-it-IT-2025.md
+  - bing-UHD-2025/bing-UHD-ja-JP-2025.md
+  - bing-UHD-2025/bing-UHD-zh-CN-2025.md
+  # bing-UHD-2024/
+  - bing-UHD-2024/README-de-DE-2024.md
+  - bing-UHD-2024/README-en-CA-2024.md
+  - bing-UHD-2024/README-en-GB-2024.md
+  - bing-UHD-2024/README-en-IN-2024.md
+  - bing-UHD-2024/README-en-US-2024.md
+  - bing-UHD-2024/README-fr-FR-2024.md
+  - bing-UHD-2024/README-it-IT-2024.md
+  - bing-UHD-2024/README-ja-JP-2024.md
+  - bing-UHD-2024/README-zh-CN-2024.md
+  - bing-UHD-2024/README.md
+  - bing-UHD-2024/bing-UHD-de-DE-2024.md
+  - bing-UHD-2024/bing-UHD-en-CA-2024.md
+  - bing-UHD-2024/bing-UHD-en-GB-2024.md
+  - bing-UHD-2024/bing-UHD-en-IN-2024.md
+  - bing-UHD-2024/bing-UHD-en-US-2024.md
+  - bing-UHD-2024/bing-UHD-fr-FR-2024.md
+  - bing-UHD-2024/bing-UHD-it-IT-2024.md
+  - bing-UHD-2024/bing-UHD-ja-JP-2024.md
+  - bing-UHD-2024/bing-UHD-zh-CN-2024.md  
+  # bing-UHD-2023/
+  - bing-UHD-2023/README-de-DE-2023.md
+  - bing-UHD-2023/README-en-CA-2023.md
+  - bing-UHD-2023/README-en-GB-2023.md
+  - bing-UHD-2023/README-en-IN-2023.md
+  - bing-UHD-2023/README-en-US-2023.md
+  - bing-UHD-2023/README-fr-FR-2023.md
+  - bing-UHD-2023/README-it-IT-2023.md
+  - bing-UHD-2023/README-ja-JP-2023.md
+  - bing-UHD-2023/README-zh-CN-2023.md
+  - bing-UHD-2023/README.md
+  - bing-UHD-2023/bing-UHD-de-DE-2023.md
+  - bing-UHD-2023/bing-UHD-en-CA-2023.md
+  - bing-UHD-2023/bing-UHD-en-GB-2023.md
+  - bing-UHD-2023/bing-UHD-en-IN-2023.md
+  - bing-UHD-2023/bing-UHD-en-US-2023.md
+  - bing-UHD-2023/bing-UHD-fr-FR-2023.md
+  - bing-UHD-2023/bing-UHD-it-IT-2023.md
+  - bing-UHD-2023/bing-UHD-ja-JP-2023.md
+  - bing-UHD-2023/bing-UHD-zh-CN-2023.md  
+  # bing-UHD-2022/
+  - bing-UHD-2022/README-de-DE-2022.md
+  - bing-UHD-2022/README-en-CA-2022.md
+  - bing-UHD-2022/README-en-GB-2022.md
+  - bing-UHD-2022/README-en-IN-2022.md
+  - bing-UHD-2022/README-en-US-2022.md
+  - bing-UHD-2022/README-fr-FR-2022.md
+  - bing-UHD-2022/README-it-IT-2022.md
+  - bing-UHD-2022/README-ja-JP-2022.md
+  - bing-UHD-2022/README-zh-CN-2022.md
+  - bing-UHD-2022/README.md
+  - bing-UHD-2022/bing-UHD-de-DE-2022.md
+  - bing-UHD-2022/bing-UHD-en-CA-2022.md
+  - bing-UHD-2022/bing-UHD-en-GB-2022.md
+  - bing-UHD-2022/bing-UHD-en-IN-2022.md
+  - bing-UHD-2022/bing-UHD-en-US-2022.md
+  - bing-UHD-2022/bing-UHD-fr-FR-2022.md
+  - bing-UHD-2022/bing-UHD-it-IT-2022.md
+  - bing-UHD-2022/bing-UHD-ja-JP-2022.md
+  - bing-UHD-2022/bing-UHD-zh-CN-2022.md
+  
+# 排除的文件和目录（不参与 Jekyll 构建）
+exclude:
+  - "*.json"
