@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-10-24 03:17:31 UTC
+> Last updated: 2026-10-25 03:12:20 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-26 | The clock strikes back | The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images) | [![The clock strikes back](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_320x240.jpg)](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg) |
 | 2026-10-24 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-GB5432733315_UHD.jpg) |
 | 2026-10-23 | Partners in the wild | Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-GB5342942021_UHD.jpg) |
 | 2026-10-22 | Still waters, vivid colours | Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images) | [![Still waters, vivid colours](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_320x240.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-GB5252582759_UHD.jpg) |
