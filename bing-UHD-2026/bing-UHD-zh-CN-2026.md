@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新: 2026-10-24 03:20:27 UTC
+> 最后更新: 2026-10-25 03:15:18 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-10-25 | 群峰与宁静相遇之地 | 玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images) | [![群峰与宁静相遇之地](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_320x240.jpg)](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg) |
 | 2026-10-24 | 书香里的极致华美 | 皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock) | [![书香里的极致华美](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg) |
 | 2026-10-23 | 荒野伙伴 | 两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images) | [![荒野伙伴](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg) |
 | 2026-10-22 | 静水映斑斓 | 内藏山国立公园的秋景，韩国 (© Twenty47studio/Getty Images) | [![静水映斑斓](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_320x240.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg) |
