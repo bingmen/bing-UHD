@@ -113,4 +113,4 @@ include:
   
 # 排除的文件和目录（不参与 Jekyll 构建）
 exclude:
-  - "*.json"
+  - "**/*.json"
