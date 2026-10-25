@@ -3,7 +3,6 @@
 # 20261025
 
 # _config.yml
-
 title: Bing 每日壁纸 - UHD
 description: 👀 抓取 Bing 每日壁纸（九个地区）数据，存储 JSON、UHD 和缩略图，汇总表格。
 
