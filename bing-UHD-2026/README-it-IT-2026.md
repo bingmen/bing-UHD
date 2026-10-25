@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-10-24 05:59:30 UTC
+> Ultimo aggiornamento：2026-10-25 03:15:39 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-07-28 | Ein Gleichgewicht in Bewegung | Ein Seetangwald vor Anacapa Island, Channel Islands National Park, Kalifornien, USA (© Ian Shive/Tandem Stills + Motion) | [![Ein Gleichgewicht in Bewegung](https://www.bing.com/th?id=OHR.ChannelKelp_DE-DE2528098746_320x240.jpg)](https://www.bing.com/th?id=OHR.ChannelKelp_DE-DE2528098746_UHD.jpg) |
-| 2026-03-06 | Wellen aus Beton | Das Wohngebäude Bølgen „The Wave“ in Vejle, Dänemark (© Frank Bach/Alamy) | [![Wellen aus Beton](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_320x240.jpg)](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_UHD.jpg) |
-| 2026-07-15 | Die Belohnung nach der Wanderung | Marie Lake, John Muir Wilderness, nahe Bishop, Kalifornien, USA (© Steve Dunleavy/Getty Images) | [![Die Belohnung nach der Wanderung](https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_320x240.jpg)](https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_UHD.jpg) |
+| 2026-08-21 | Auf in die Berge! | Serpentinenstraße am Julierpass, Schweiz (© Westend61/Getty Images) | [![Auf in die Berge!](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_320x240.jpg)](https://www.bing.com/th?id=OHR.JulierPass_DE-DE4547078745_UHD.jpg) |
+| 2026-07-29 | Ein Comeback mit Krallen | Eine Bengaltigerfamilie im Ranthambore-Nationalpark in Rajasthan, Indien (© Archna Singh/Shutterstock) | [![Ein Comeback mit Krallen](https://www.bing.com/th?id=OHR.TigerFamily_DE-DE3531108966_320x240.jpg)](https://www.bing.com/th?id=OHR.TigerFamily_DE-DE3531108966_UHD.jpg) |
+| 2026-03-07 | Zwischen Wald und Wellen | Pacific Rim National Park Reserve, Vancouver Island, Kanada (© EmilyNorton/Getty Images) | [![Zwischen Wald und Wellen](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_320x240.jpg)](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-02-28 | Life on thinning ice | Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com) | [![Life on thinning ice](https://www.bing.com/th?id=OHR.ArcitcCub_EN-CA9950201389_320x240.jpg)](https://www.bing.com/th?id=OHR.ArcitcCub_EN-CA9950201389_UHD.jpg) |
-| 2026-03-08 | A legendary sunrise | Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images) | [![A legendary sunrise](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-CA3220764261_320x240.jpg)](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-CA3220764261_UHD.jpg) |
-| 2026-06-02 | Flavours of history | Palermo skyline at dusk, Sicily, Italy (© Sean Pavone/Getty Images) | [![Flavours of history](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_320x240.jpg)](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_UHD.jpg) |
+| 2026-07-16 | The reward after the climb | Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images) | [![The reward after the climb](https://www.bing.com/th?id=OHR.MarieLake_EN-CA6168691994_320x240.jpg)](https://www.bing.com/th?id=OHR.MarieLake_EN-CA6168691994_UHD.jpg) |
+| 2026-03-01 | Overflowing with community | Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images) | [![Overflowing with community](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_320x240.jpg)](https://www.bing.com/th?id=OHR.OloupenaFalls_EN-CA7570794029_UHD.jpg) |
+| 2026-03-09 | The art of saving daylight | Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images) | [![The art of saving daylight](https://www.bing.com/th?id=OHR.UlmClock_EN-CA0107157724_320x240.jpg)](https://www.bing.com/th?id=OHR.UlmClock_EN-CA0107157724_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-07 | Waves cast in concrete | The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy) | [![Waves cast in concrete](https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_320x240.jpg)](https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_UHD.jpg) |
-| 2026-01-24 | Feasting through frost | Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images) | [![Feasting through frost](https://www.bing.com/th?id=OHR.IcelandSheep_EN-GB3300540353_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSheep_EN-GB3300540353_UHD.jpg) |
-| 2026-02-01 | Love at first stripe | Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock) | [![Love at first stripe](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_320x240.jpg)](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_UHD.jpg) |
+| 2026-06-03 | Where the road stops, the ride begins | Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images) | [![Where the road stops, the ride begins](https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_320x240.jpg)](https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_UHD.jpg) |
+| 2026-03-08 | Peak-a-boo! | The Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images) | [![Peak-a-boo!](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_320x240.jpg)](https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_UHD.jpg) |
+| 2026-01-25 | A window seat to wildlife | Red kite in snow (© Carl Mckie/500px/Getty Images) | [![A window seat to wildlife](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139_320x240.jpg)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-GB3790300139_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-05-21 | Brewing a legacy | Tea terraces in Sichuan Province, China (© lzf/Shutterstock) | [![Brewing a legacy](https://www.bing.com/th?id=OHR.SichuanTea_EN-IN0699009240_320x240.jpg)](https://www.bing.com/th?id=OHR.SichuanTea_EN-IN0699009240_UHD.jpg) |
-| 2026-07-16 | The wheels of tradition | The Stone Chariot, Hampi, Karnataka (© Alan_Lagadu/iStock/Getty Images) | [![The wheels of tradition](https://www.bing.com/th?id=OHR.RathYatra2026_EN-IN7824400350_320x240.jpg)](https://www.bing.com/th?id=OHR.RathYatra2026_EN-IN7824400350_UHD.jpg) |
-| 2026-03-26 | A step above the wild | Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock) | [![A step above the wild](https://www.bing.com/th?id=OHR.LoganCreek_EN-IN3774408675_320x240.jpg)](https://www.bing.com/th?id=OHR.LoganCreek_EN-IN3774408675_UHD.jpg) |
+| 2026-02-03 | Tahoe serving views | Emerald Bay and Fannette Island, Lake Tahoe, California, United States (© Bill Stevenson/Cavan Images) | [![Tahoe serving views](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_320x240.jpg)](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg) |
+| 2026-05-22 | The shape of life at sea | Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy) | [![The shape of life at sea](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-IN0930317309_320x240.jpg)](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-IN0930317309_UHD.jpg) |
+| 2026-07-17 | A Greek escape | Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images) | [![A Greek escape](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-IN8171582034_320x240.jpg)](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-IN8171582034_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-04-19 | The silence of unfinished giants | Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy) | [![The silence of unfinished giants](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_320x240.jpg)](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg) |
-| 2026-05-19 | Hope in the hall | Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion) | [![Hope in the hall](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg) |
-| 2026-07-10 | Tradition in every step | Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images) | [![Tradition in every step](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_320x240.jpg)](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg) |
+| 2026-03-27 | A step above the wild | Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock) | [![A step above the wild](https://www.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_320x240.jpg)](https://www.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg) |
+| 2026-04-20 | Stories start here | Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy) | [![Stories start here](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_320x240.jpg)](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg) |
+| 2026-05-20 | The edge of Mallorca | Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images) | [![The edge of Mallorca](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_320x240.jpg)](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-08-09 | Quand architecture et identité vont de pair | Centre culturel Tjibaou, Nouvelle-Calédonie (© Fabien Astre/Alamy) | [![Quand architecture et identité vont de pair](https://www.bing.com/th?id=OHR.JMTjibaou_FR-FR6204350565_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_FR-FR6204350565_UHD.jpg) |
-| 2026-04-28 | Les lunettes des Andes | Ours à lunettes se reposant dans un arbre, Équateur (© Andy Rouse/Nature Picture Library) | [![Les lunettes des Andes](https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639_320x240.jpg)](https://www.bing.com/th?id=OHR.AndeanBear_FR-FR7657835639_UHD.jpg) |
-| 2026-08-01 | Debout face aux vagues | Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images) | [![Debout face aux vagues](https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_320x240.jpg)](https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_UHD.jpg) |
+| 2026-07-11 | Niché au creux du Loc’h | Port de Saint-Goustan, Auray, Bretagne (© Rolf E. Staerk/Shutterstock) | [![Niché au creux du Loc’h](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_320x240.jpg)](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_UHD.jpg) |
+| 2026-08-10 | Un point de rencontre aride | Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images) | [![Un point de rencontre aride](https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_320x240.jpg)](https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_UHD.jpg) |
+| 2026-04-29 | L’histoire gravée dans la pierre | Tour de Belém au bord du Tage, Lisbonne, Portugal (© f9photos/Getty Images) | [![L’histoire gravée dans la pierre](https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_320x240.jpg)](https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-02-13 | Oltre i confini | Terzo ponte dell'amicizia tra Thailandia e Laos (© chaiyut samsuk/Getty Images) | [![Oltre i confini](https://www.bing.com/th?id=OHR.FriendshipBridge_IT-IT0003771526_320x240.jpg)](https://www.bing.com/th?id=OHR.FriendshipBridge_IT-IT0003771526_UHD.jpg) |
-| 2026-02-28 | Respiro tropicale | Cascate Olo'upena, isola di Moloka'i, Hawaii, USA (© Andrew Aylett/Getty Images) | [![Respiro tropicale](https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_320x240.jpg)](https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_UHD.jpg) |
-| 2026-08-20 | Voci dal fondo dell'oceano | Un'orca emerge nel Lynn Canal vicino ai Monti Chilkat, Alaska, USA (© John Hyde/Alamy) | [![Voci dal fondo dell'oceano](https://www.bing.com/th?id=OHR.LynnCanalOrca_IT-IT4270143164_320x240.jpg)](https://www.bing.com/th?id=OHR.LynnCanalOrca_IT-IT4270143164_UHD.jpg) |
+| 2026-08-02 | Figlia del Baltico | La costa di Helsinki durante l'ora blu, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images) | [![Figlia del Baltico](https://www.bing.com/th?id=OHR.HelsinkiBlue_IT-IT9429337121_320x240.jpg)](https://www.bing.com/th?id=OHR.HelsinkiBlue_IT-IT9429337121_UHD.jpg) |
+| 2026-02-14 | Dove nasce l'amore | Verona, Veneto (© Jan Hendrik/Shutterstock/Getty Images) | [![Dove nasce l'amore](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_320x240.jpg)](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_UHD.jpg) |
+| 2026-03-01 | Indipendenza e libertà | Ibiza, Isole Baleari Spagna (© tokar/Shutterstock) | [![Indipendenza e libertà](https://www.bing.com/th?id=OHR.BalearesDay_IT-IT5306710674_320x240.jpg)](https://www.bing.com/th?id=OHR.BalearesDay_IT-IT5306710674_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-01-03 | 今日は J・R・R・トールキンの誕生日 | ラウターブルンネン, スイス (© pongnathee kluaythong/Getty Images) | [![今日は J・R・R・トールキンの誕生日](https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_320x240.jpg)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_UHD.jpg) |
-| 2026-06-24 | 今週は全米花粉媒介者週間 | 花の蜜を味わう蝶 (© lzh/Getty Images) | [![今週は全米花粉媒介者週間](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_320x240.jpg)](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg) |
-| 2026-07-03 | 夕焼けに染まる水辺と枯れ木 | ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock) | [![夕焼けに染まる水辺と枯れ木](https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_320x240.jpg)](https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_UHD.jpg) |
+| 2026-08-21 | アルブラアルプスを縫う山岳道路 | ユリア峠, スイス (© Westend61/Getty Images) | [![アルブラアルプスを縫う山岳道路](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_320x240.jpg)](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_UHD.jpg) |
+| 2026-01-04 | 雪に覆われた険しい峰 | キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) | [![雪に覆われた険しい峰](https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_320x240.jpg)](https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_UHD.jpg) |
+| 2026-06-25 | 初夏に揺れる紫の花畑 | ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus) | [![初夏に揺れる紫の花畑](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_320x240.jpg)](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg) |
 
 ## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-03-05 | 古老岩石，现代灯光 | 格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images) | [![古老岩石，现代灯光](https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_320x240.jpg)](https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg) |
-| 2026-03-20 | 春日绯梦 | 春日樱花，上海，中国 (© junyyeung/Getty Images) | [![春日绯梦](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg) |
-| 2026-08-09 | 身份认同的建筑表达 | 让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy) | [![身份认同的建筑表达](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg) |
+| 2026-07-04 | 此行，不虚绕道 | 凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images) | [![此行，不虚绕道](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_320x240.jpg)](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg) |
+| 2026-03-06 | 混凝土中铸造的波浪 | 波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy) | [![混凝土中铸造的波浪](https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_320x240.jpg)](https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg) |
+| 2026-03-21 | 根系自由生长的地方 | 莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library) | [![根系自由生长的地方](https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_320x240.jpg)](https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg) |
 
