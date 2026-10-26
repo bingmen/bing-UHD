@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-10-25 03:14:18 UTC
+> Ultimo aggiornamento: 2026-10-26 03:14:58 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-10-26 | Acqua, pietra e mistero | Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images) | [![Acqua, pietra e mistero](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg) |
 | 2026-10-25 | Cinema, piazze e pasta | Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images) | [![Cinema, piazze e pasta](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_320x240.jpg)](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg) |
 | 2026-10-24 | Una cattedrale di libri | Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock) | [![Una cattedrale di libri](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_UHD.jpg) |
 | 2026-10-23 | La vita nel branco | Due lupi grigi, Parco nazionale di Yellowstone, Wyoming, USA (© John Morrison/Getty Images) | [![La vita nel branco](https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_IT-IT3969091116_UHD.jpg) |
