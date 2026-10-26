@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2024
 
-> Ultimo aggiornamento：2026-10-25 06:15:02 UTC
+> Ultimo aggiornamento：2026-10-26 03:16:22 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2024-03-11 | Wovon träumt der Koala? | Ein Koala schläft auf einem Eukalyptusbaum, Australien (© Anton Rogozin/Getty Images) | [![Wovon träumt der Koala?](https://www.bing.com/th?id=OHR.SleepyKoala_DE-DE9658817284_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepyKoala_DE-DE9658817284_UHD.jpg) |
-| 2024-10-29 | Philosophen des Waldes | Virginia-Uhu (© Mark Newman/Getty Images) | [![Philosophen des Waldes](https://www.bing.com/th?id=OHR.GreatOwl_DE-DE5072344548_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatOwl_DE-DE5072344548_UHD.jpg) |
-| 2024-03-23 | Mutter Erde | Große Ambosswolken über dem Amazonas in Brasilien (© NASA) | [![Mutter Erde](https://www.bing.com/th?id=OHR.AmazonClouds_DE-DE3843150009_320x240.jpg)](https://www.bing.com/th?id=OHR.AmazonClouds_DE-DE3843150009_UHD.jpg) |
+| 2024-04-13 | Göttliches Licht auf verbotene Früchte? | Apfelbäume im Frühling, Deutschland (© Smileus/Getty Images) | [![Göttliches Licht auf verbotene Früchte?](https://www.bing.com/th?id=OHR.SpringApple_DE-DE5480839920_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringApple_DE-DE5480839920_UHD.jpg) |
+| 2024-09-11 | Ein Märchen aus Stein | Burg Eltz, Wierschem, Rheinland-Pfalz (© Allard Schager/Alamy) | [![Ein Märchen aus Stein](https://www.bing.com/th?id=OHR.EltzCastle_DE-DE9717708394_320x240.jpg)](https://www.bing.com/th?id=OHR.EltzCastle_DE-DE9717708394_UHD.jpg) |
+| 2024-03-31 | Hat der Osterhase diese Eier versteckt? | Ostereier von Tünde Csuhaj, Szekszárd, Ungarn (© ATTILA KISBENEDEK/AFP/Getty Images) | [![Hat der Osterhase diese Eier versteckt?](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_320x240.jpg)](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-03-22 | Woodn't it be nice | Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com) | [![Woodn't it be nice](https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-CA3766951907_320x240.jpg)](https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-CA3766951907_UHD.jpg) |
-| 2024-11-16 | Hope takes flight | Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images) | [![Hope takes flight](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-CA5878267253_320x240.jpg)](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-CA5878267253_UHD.jpg) |
-| 2024-05-31 | 'Everglad' to be here | A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion) | [!['Everglad' to be here](https://www.bing.com/th?id=OHR.Everglades90th_EN-CA7240904105_320x240.jpg)](https://www.bing.com/th?id=OHR.Everglades90th_EN-CA7240904105_UHD.jpg) |
+| 2024-03-11 | Time to change the time | San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images) | [![Time to change the time](https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_320x240.jpg)](https://www.bing.com/th?id=OHR.BeaumontClock_EN-CA5068787864_UHD.jpg) |
+| 2024-10-29 | It's carving time | Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy Stock Photo) | [![It's carving time](https://www.bing.com/th?id=OHR.PumpkinMist_EN-CA5942039818_320x240.jpg)](https://www.bing.com/th?id=OHR.PumpkinMist_EN-CA5942039818_UHD.jpg) |
+| 2024-03-23 | 'Water' we celebrating? | Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy) | [!['Water' we celebrating?](https://www.bing.com/th?id=OHR.WaikatoWater_EN-CA3565028886_320x240.jpg)](https://www.bing.com/th?id=OHR.WaikatoWater_EN-CA3565028886_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-09-19 | Avast, landlubbers! | Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images) | [![Avast, landlubbers!](https://www.bing.com/th?id=OHR.PiratePlayground_EN-GB4703060204_320x240.jpg)](https://www.bing.com/th?id=OHR.PiratePlayground_EN-GB4703060204_UHD.jpg) |
-| 2024-02-10 | Rocks and roll | Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images) | [![Rocks and roll](https://www.bing.com/th?id=OHR.PegadungRocks_EN-GB6159819116_320x240.jpg)](https://www.bing.com/th?id=OHR.PegadungRocks_EN-GB6159819116_UHD.jpg) |
-| 2024-12-16 | A lake of tears | Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images) | [![A lake of tears](https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408_320x240.jpg)](https://www.bing.com/th?id=OHR.MisurinaLake_EN-GB5184581408_UHD.jpg) |
+| 2024-03-20 | A gorge-ous walk | Cave Dale and Peveril Castle in Castleton, Peak District National Park, Derbyshire, England (© James Osmond/Alamy) | [![A gorge-ous walk](https://www.bing.com/th?id=OHR.SpringCaveDale_EN-GB2092563802_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringCaveDale_EN-GB2092563802_UHD.jpg) |
+| 2024-11-16 | Hope takes flight | Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images) | [![Hope takes flight](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-GB5743270673_320x240.jpg)](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-GB5743270673_UHD.jpg) |
+| 2024-05-30 | 'Everglad' to be here | A stand of slash pines and sawgrass prairie, Everglades National Park, Florida, USA (© Jonathan Gewirtz/Tandem Stills + Motion) | [!['Everglad' to be here](https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_320x240.jpg)](https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-06-18 | 'Lupin' into summer | Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images) | [!['Lupin' into summer](https://www.bing.com/th?id=OHR.LupinIceland_EN-IN5917999831_320x240.jpg)](https://www.bing.com/th?id=OHR.LupinIceland_EN-IN5917999831_UHD.jpg) |
-| 2024-01-06 | Crab an apple! | Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures) | [![Crab an apple!](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_320x240.jpg)](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_UHD.jpg) |
-| 2024-09-14 | Stone sentinels of Easter Island | Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images) | [![Stone sentinels of Easter Island](https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-IN8068654010_320x240.jpg)](https://www.bing.com/th?id=OHR.RapaNuiSunrise_EN-IN8068654010_UHD.jpg) |
+| 2024-09-20 | A buccaneer's final haven | Ocracoke Lighthouse on Ocracoke Island, North Carolina, USA (© Chansak Joe/Getty Images) | [![A buccaneer's final haven](https://www.bing.com/th?id=OHR.OcracokeLight_EN-IN6376239162_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_EN-IN6376239162_UHD.jpg) |
+| 2024-02-12 | Home sweet volcano | Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures) | [![Home sweet volcano](https://www.bing.com/th?id=OHR.GiantTortoise_EN-IN9689128271_320x240.jpg)](https://www.bing.com/th?id=OHR.GiantTortoise_EN-IN9689128271_UHD.jpg) |
+| 2024-12-16 | Twinkling streets and icy peaks | Salzburg, Austria (© bluejayphoto/Getty Images) | [![Twinkling streets and icy peaks](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-IN9939957339_320x240.jpg)](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-IN9939957339_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-03-14 | Bird's-eye view | Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images) | [![Bird's-eye view](https://www.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_320x240.jpg)](https://www.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg) |
-| 2024-05-13 | Happy Mother's Day! | Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina (© Gabriel Rojo/Minden Pictures) | [![Happy Mother's Day!](https://www.bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_320x240.jpg)](https://www.bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg) |
-| 2024-07-26 | Into the thick of it | Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images) | [![Into the thick of it](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_320x240.jpg)](https://www.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg) |
+| 2024-06-18 | Spread the pollen | Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy) | [![Spread the pollen](https://www.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_320x240.jpg)](https://www.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg) |
+| 2024-01-06 | Chisels and chills | International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Chisels and chills](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg) |
+| 2024-09-14 | Finding safe haven | Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images) | [![Finding safe haven](https://www.bing.com/th?id=OHR.PointReyes_EN-US4731803211_320x240.jpg)](https://www.bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2024-06-30 | Ubud, l’oasis spirituelle de Bali | Sculpture sur pierre dans un temple à Ubud, Bali, Indonésie (© R. Schönebaum/plainpicture) | [![Ubud, l’oasis spirituelle de Bali](https://www.bing.com/th?id=OHR.UbudBali_FR-FR6392717738_320x240.jpg)](https://www.bing.com/th?id=OHR.UbudBali_FR-FR6392717738_UHD.jpg) |
-| 2024-10-09 | Le Colorado haut en couleur | Peuplier tremble près de Marble, Colorado, États-Unis (© Jason Hatfield/Tandem Stills + Motion) | [![Le Colorado haut en couleur](https://www.bing.com/th?id=OHR.AspensColorado_FR-FR2017267378_320x240.jpg)](https://www.bing.com/th?id=OHR.AspensColorado_FR-FR2017267378_UHD.jpg) |
-| 2024-04-14 | Un bowling à la plage ? | Coucher de soleil sur la plage de Bowling Ball, Californie, États-Unis (© Melo Qiao/Getty Images) | [![Un bowling à la plage ?](https://www.bing.com/th?id=OHR.BowlingBallCali_FR-FR7572590133_320x240.jpg)](https://www.bing.com/th?id=OHR.BowlingBallCali_FR-FR7572590133_UHD.jpg) |
+| 2024-03-14 | 3,14 raisons de fêter cette journée ! | Wat Phra Ngam, Parc d'Ayutthaya, Thaïlande (© boonchai wedmakawand/Alamy) | [![3,14 raisons de fêter cette journée !](https://www.bing.com/th?id=OHR.AyutthayaTree_FR-FR1986765308_320x240.jpg)](https://www.bing.com/th?id=OHR.AyutthayaTree_FR-FR1986765308_UHD.jpg) |
+| 2024-05-13 | Le deuxième plus grand canyon du monde | Canyon de la rivière Fish, Namibie (© R. M. Nunes/Getty Images) | [![Le deuxième plus grand canyon du monde](https://www.bing.com/th?id=OHR.NamibiaCanyon_FR-FR1473160217_320x240.jpg)](https://www.bing.com/th?id=OHR.NamibiaCanyon_FR-FR1473160217_UHD.jpg) |
+| 2024-07-26 | « Ouvrons grand les Jeux » | Coucher de soleil sur la Seine avec la Conciergerie, Paris (© Britus/iStock/Getty Images Plus) | [![« Ouvrons grand les Jeux »](https://www.bing.com/th?id=OHR.ParisOlympicGames_FR-FR9795678627_320x240.jpg)](https://www.bing.com/th?id=OHR.ParisOlympicGames_FR-FR9795678627_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2024-11-08 | Si scorge una festa in lontananza | LUMEN - Museo della fotografia di montagna, Brunico, Trentino-Alto Adige, Italia (© Giorgio Filippini/Sime/eStock Photo) | [![Si scorge una festa in lontananza](https://www.bing.com/th?id=OHR.TrentinoAltoBolzanoMerano_IT-IT4259043530_320x240.jpg)](https://www.bing.com/th?id=OHR.TrentinoAltoBolzanoMerano_IT-IT4259043530_UHD.jpg) |
-| 2024-04-19 | Rosso di sera...ed anche a Perugia è primavera! | Palazzo dei Priori, Perugia, Italia (© Photo Beto/Getty Images) | [![Rosso di sera...ed anche a Perugia è primavera!](https://www.bing.com/th?id=OHR.PerugiaPriori_IT-IT0077173597_320x240.jpg)](https://www.bing.com/th?id=OHR.PerugiaPriori_IT-IT0077173597_UHD.jpg) |
-| 2024-05-24 | Andiamo fino in cima! | Gola di Añisclo, Parco Nazionale di Ordesa e Monte Perdido, Huesca, Spagna (© Marisa Estivill/Shutterstock) | [![Andiamo fino in cima!](https://www.bing.com/th?id=OHR.OrdesaNationalPark_IT-IT5681157201_320x240.jpg)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_IT-IT5681157201_UHD.jpg) |
+| 2024-06-30 | Orgoglio infinito | Mole Antonelliana, Torino, Piemonte (© Nicolò Campo/Getty Images) | [![Orgoglio infinito](https://www.bing.com/th?id=OHR.PrideItalia_IT-IT3295714060_320x240.jpg)](https://www.bing.com/th?id=OHR.PrideItalia_IT-IT3295714060_UHD.jpg) |
+| 2024-10-09 | Colorado colorato | Pioppo tremolo americano, Marble, Colorado, USA (© Jason Hatfield/TANDEM Stills + Motion) | [![Colorado colorato](https://www.bing.com/th?id=OHR.AspensColorado_IT-IT4462449086_320x240.jpg)](https://www.bing.com/th?id=OHR.AspensColorado_IT-IT4462449086_UHD.jpg) |
+| 2024-04-14 | Un fenomeno ottico veramente colorato! | Alone solare sulle Dolomiti presso il lago di Antermoia, Italia (© Walter Donega/Getty Images) | [![Un fenomeno ottico veramente colorato!](https://www.bing.com/th?id=OHR.AloneSole_IT-IT3498476071_320x240.jpg)](https://www.bing.com/th?id=OHR.AloneSole_IT-IT3498476071_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2024-10-04 | 今日から世界宇宙週間 | 木星の衛星エウロパ (© NASA/JPL-Caltech/SETI Institute) | [![今日から世界宇宙週間](https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_320x240.jpg)](https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_UHD.jpg) |
-| 2024-09-04 | 夜のハンター | ウスグロワシミミズク, パキスタン (© zahoor salmi/Getty Images) | [![夜のハンター](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_UHD.jpg) |
-| 2024-04-02 | ブナの木と野生のアネモネ | ユトランド半島の風景, デンマーク (© Nick Brundle Photography/Getty Images) | [![ブナの木と野生のアネモネ](https://www.bing.com/th?id=OHR.JutlandSpring_JA-JP6178777806_320x240.jpg)](https://www.bing.com/th?id=OHR.JutlandSpring_JA-JP6178777806_UHD.jpg) |
+| 2024-11-08 | 氷と火の交響曲 | 氷河河川システムの航空写真, アイスランド (© rybarmarekk/Shutterstock) | [![氷と火の交響曲](https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_320x240.jpg)](https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_UHD.jpg) |
+| 2024-04-19 | 環状列石の遺跡群 | リング・オブ・ブロッガー, スコットランド (© Paul Williams - FunkyStock/Getty Images) | [![環状列石の遺跡群](https://www.bing.com/th?id=OHR.OrkneyStones_JA-JP3906042620_320x240.jpg)](https://www.bing.com/th?id=OHR.OrkneyStones_JA-JP3906042620_UHD.jpg) |
+| 2024-05-24 | 今日はヨーロッパの公園の日 | オルデサ・イ・モンテ・ペルディード国立公園, スペイン (© Marisa Estivill/Shutterstock) | [![今日はヨーロッパの公園の日](https://www.bing.com/th?id=OHR.OrdesaNationalPark_JA-JP1484731643_320x240.jpg)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_JA-JP1484731643_UHD.jpg) |
 
 ## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2024-02-27 | 在冰天雪地里玩耍 | 玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images) | [![在冰天雪地里玩耍](https://www.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_320x240.jpg)](https://www.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_UHD.jpg) |
-| 2024-05-17 | 今天不是无关紧要的一天 | 塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images) | [![今天不是无关紧要的一天](https://www.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_320x240.jpg)](https://www.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg) |
-| 2024-11-02 | 从濒临灭绝到成为国家的象征 | 黄石国家公园的美洲野牛，怀俄明州，美国 (© Ian Shive/TANDEM Stills + Motion) | [![从濒临灭绝到成为国家的象征](https://www.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_320x240.jpg)](https://www.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg) |
+| 2024-10-04 | 一轮蓝月亮 | 木星的冰卫星木卫二 (© NASA/JPL-Caltech/SETI Institute) | [![一轮蓝月亮](https://www.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_320x240.jpg)](https://www.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg) |
+| 2024-09-04 | 物以类聚，人以群分 | 乌雕鸮，巴基斯坦 (© zahoor salmi/Getty Images) | [![物以类聚，人以群分](https://www.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg) |
+| 2024-04-02 | 一缕阳光下的林地 | 日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images) | [![一缕阳光下的林地](https://www.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_320x240.jpg)](https://www.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg) |
 

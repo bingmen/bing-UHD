@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2025
 
-> Last updated：2026-10-25 06:15:02 UTC
+> Last updated：2026-10-26 03:16:22 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2025-08-24 | Natur mit Noblesse | Europäischer Damhirsch, England (© Enrique Aguirre Aves/Getty Images) | [![Natur mit Noblesse](https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_320x240.jpg)](https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_UHD.jpg) |
-| 2025-12-30 | Ein Tanz mit dem Wind | Singschwäne, Kotoku-Teich, Japan (© Martin Bailey/Shutterstock) | [![Ein Tanz mit dem Wind](https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_320x240.jpg)](https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_UHD.jpg) |
-| 2025-04-29 | Geometrie in Blüte | Château de Villandry, Loiretal, Frankreich (© Mint Images/Getty Images) | [![Geometrie in Blüte](https://www.bing.com/th?id=OHR.GardensVillandry_DE-DE3270965160_320x240.jpg)](https://www.bing.com/th?id=OHR.GardensVillandry_DE-DE3270965160_UHD.jpg) |
+| 2025-08-01 | Die Stadt wird zur Bühne | Royal Mile, Edinburgh, Schottland (© MEDITERRANEAN/Getty Images) | [![Die Stadt wird zur Bühne](https://www.bing.com/th?id=OHR.EdinburghFringe_DE-DE9968170483_320x240.jpg)](https://www.bing.com/th?id=OHR.EdinburghFringe_DE-DE9968170483_UHD.jpg) |
+| 2025-08-30 | Faszinierend, friedlich, gefährdet | Walhai vor der Küste des Alifu Dhaalu-Atolls, Malediven (© Bachir Moukarzel/Amazing Aerial Agency) | [![Faszinierend, friedlich, gefährdet](https://www.bing.com/th?id=OHR.MaldivesWhaleShark_DE-DE5305266157_320x240.jpg)](https://www.bing.com/th?id=OHR.MaldivesWhaleShark_DE-DE5305266157_UHD.jpg) |
+| 2025-09-15 | Anmutig und stimmfreudig | Stelzenläufer, Frankreich (© Antonio Sementa/500px/Getty Images) | [![Anmutig und stimmfreudig](https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083_320x240.jpg)](https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-06-14 | From city streets to racing seats | Montreal skyline reflecting in St. Lawrence River, Quebec (© Walter Bibikow/Stone/Getty Images) | [![From city streets to racing seats](https://www.bing.com/th?id=OHR.CanadianGPQuebec_EN-CA4428568673_320x240.jpg)](https://www.bing.com/th?id=OHR.CanadianGPQuebec_EN-CA4428568673_UHD.jpg) |
-| 2025-01-28 | Peaked your curiosity | Zoroaster Temple, Grand Canyon National Park, Arizona, USA (© Nick Lake/Tandem Stills + Motion) | [![Peaked your curiosity](https://www.bing.com/th?id=OHR.CanyonSnow_EN-CA0932914294_320x240.jpg)](https://www.bing.com/th?id=OHR.CanyonSnow_EN-CA0932914294_UHD.jpg) |
-| 2025-01-18 | A pizza margherita è Napule | Looking over the Gulf of Naples towards Mount Vesuvius, Italy (© ezypix/Getty Images) | [![A pizza margherita è Napule](https://www.bing.com/th?id=OHR.NapoliPizza_EN-CA6013158057_320x240.jpg)](https://www.bing.com/th?id=OHR.NapoliPizza_EN-CA6013158057_UHD.jpg) |
+| 2025-08-24 | Gothic majesty | St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images) | [![Gothic majesty](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_320x240.jpg)](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-CA1578716793_UHD.jpg) |
+| 2025-12-30 | The church that outlived a city | St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images) | [![The church that outlived a city](https://www.bing.com/th?id=OHR.AniTurkey_EN-CA0360895261_320x240.jpg)](https://www.bing.com/th?id=OHR.AniTurkey_EN-CA0360895261_UHD.jpg) |
+| 2025-04-29 | Pause and pose | Impala in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images) | [![Pause and pose](https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_320x240.jpg)](https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-02-08 | Stuck in a blue moment | Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images) | [![Stuck in a blue moment](https://www.bing.com/th?id=OHR.BlueNorway_EN-GB4715422563_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueNorway_EN-GB4715422563_UHD.jpg) |
-| 2025-03-14 | Holi colour splash | Holi celebration in Jaipur, India (© powerofforever/Getty Images) | [![Holi colour splash](https://www.bing.com/th?id=OHR.HoliColors_EN-GB1907650380_320x240.jpg)](https://www.bing.com/th?id=OHR.HoliColors_EN-GB1907650380_UHD.jpg) |
-| 2025-03-28 | A standing ovation for theatres | Odeon of Herodes Atticus theatre, Acropolis of Athens, Greece (© f11photo/Getty Images) | [![A standing ovation for theatres](https://www.bing.com/th?id=OHR.OdeonAthens_EN-GB5028449189_320x240.jpg)](https://www.bing.com/th?id=OHR.OdeonAthens_EN-GB5028449189_UHD.jpg) |
+| 2025-06-13 | The ocean's hidden heartbeat | Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images) | [![The ocean's hidden heartbeat](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-GB5976110890_320x240.jpg)](https://www.bing.com/th?id=OHR.SanMiguelAzores_EN-GB5976110890_UHD.jpg) |
+| 2025-01-26 | Ode over the bridge | Devorgilla Bridge in Dumfries Galloway Scotland, UK (© jazman/Shutterstock) | [![Ode over the bridge](https://www.bing.com/th?id=OHR.BurnsNight2025_EN-GB6468698638_320x240.jpg)](https://www.bing.com/th?id=OHR.BurnsNight2025_EN-GB6468698638_UHD.jpg) |
+| 2025-01-16 | Where the past is always present | The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock) | [![Where the past is always present](https://www.bing.com/th?id=OHR.MuseumCourt_EN-GB7712861262_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumCourt_EN-GB7712861262_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-08-02 | Age-old storyboard | Petroglyphs near Fruita in Capitol Reef National Park, Utah, United States (© Nicolas VINCENT/Adobe Stock) | [![Age-old storyboard](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-IN8959176933_320x240.jpg)](https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-IN8959176933_UHD.jpg) |
-| 2025-10-11 | Nest stop: Mexico! | Wood duck hen, United States (© ps50ace/iStock/Getty Images) | [![Nest stop: Mexico!](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-IN0584855660_320x240.jpg)](https://www.bing.com/th?id=OHR.WoodDuckHen_EN-IN0584855660_UHD.jpg) |
-| 2025-03-22 | Legends of Nalanda | Nalanda mahavihara, Bihar (© bambam kumar jha/Getty Images) | [![Legends of Nalanda](https://www.bing.com/th?id=OHR.NalandaRuins_EN-IN5140897796_320x240.jpg)](https://www.bing.com/th?id=OHR.NalandaRuins_EN-IN5140897796_UHD.jpg) |
+| 2025-02-10 | Under my umbrella | Art installation of umbrellas, Borough Market, London, England (© Malcolm P Chapman/Getty Images) | [![Under my umbrella](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-IN8605591874_320x240.jpg)](https://www.bing.com/th?id=OHR.UmbrellaDay_EN-IN8605591874_UHD.jpg) |
+| 2025-03-16 | Back to black...and white | Baby giant panda in the snow, China (© Cheryl Schneider/Alamy Stock Photo) | [![Back to black...and white](https://www.bing.com/th?id=OHR.PandaSnow_EN-IN5935458208_320x240.jpg)](https://www.bing.com/th?id=OHR.PandaSnow_EN-IN5935458208_UHD.jpg) |
+| 2025-03-30 | Harbouring nice views | Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images) | [![Harbouring nice views](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-IN0606023668_320x240.jpg)](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-IN0606023668_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-09-22 | Otterly cool | Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images) | [![Otterly cool](https://www.bing.com/th?id=OHR.IceOtters_EN-US7982442590_320x240.jpg)](https://www.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg) |
-| 2025-12-20 | High mountains, deep history | Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images) | [![High mountains, deep history](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_320x240.jpg)](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg) |
-| 2025-01-05 | A borderline paradise | Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures) | [![A borderline paradise](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_320x240.jpg)](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg) |
+| 2025-08-02 | Expect the unexpected | Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images) | [![Expect the unexpected](https://www.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_320x240.jpg)](https://www.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg) |
+| 2025-10-11 | A reef of reflection | Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock) | [![A reef of reflection](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_320x240.jpg)](https://www.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg) |
+| 2025-03-22 | Long live the trees | Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy) | [![Long live the trees](https://www.bing.com/th?id=OHR.DanumValley_EN-US1030783251_320x240.jpg)](https://www.bing.com/th?id=OHR.DanumValley_EN-US1030783251_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2025-07-11 | Croissance ou équilibre ? | Tokyo au lever du jour, Japon (© pongnathee kluaythong/Getty Images) | [![Croissance ou équilibre ?](https://www.bing.com/th?id=OHR.TokyoSunrise_FR-FR0485662273_320x240.jpg)](https://www.bing.com/th?id=OHR.TokyoSunrise_FR-FR0485662273_UHD.jpg) |
-| 2025-07-23 | Le plus petit État du monde | La Cité du Vatican avec la basilique Saint-Pierre, Rome, Italie (© RudyBalasko/Getty Images) | [![Le plus petit État du monde](https://www.bing.com/th?id=OHR.VaticanCity_FR-FR5939943225_320x240.jpg)](https://www.bing.com/th?id=OHR.VaticanCity_FR-FR5939943225_UHD.jpg) |
-| 2025-09-17 | Le souffle calme de la force | Jeune élan mâle, parc national de Denali, Alaska, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion) | [![Le souffle calme de la force](https://www.bing.com/th?id=OHR.YoungMoose_FR-FR2257077158_320x240.jpg)](https://www.bing.com/th?id=OHR.YoungMoose_FR-FR2257077158_UHD.jpg) |
+| 2025-09-22 | Peupliers faux-trembles… mais pas de peur ! | Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis (© Danita Delimont/Getty Images) | [![Peupliers faux-trembles… mais pas de peur !](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_320x240.jpg)](https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_UHD.jpg) |
+| 2025-12-20 | L’hiver en majesté | Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy) | [![L’hiver en majesté](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_320x240.jpg)](https://www.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg) |
+| 2025-01-05 | Une perruche qui compte pour des prunes ! | Perruche à tête de prune, Shimoga, Karnataka, Inde (© Hira Punjabi/Alamy) | [![Une perruche qui compte pour des prunes !](https://www.bing.com/th?id=OHR.PlumParakeet_FR-FR1766885015_320x240.jpg)](https://www.bing.com/th?id=OHR.PlumParakeet_FR-FR1766885015_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2025-02-22 | Sorriso celeste? | Arco della Porta e St. Louis, Missouri, USA (© f11photo/Getty Images) | [![Sorriso celeste?](https://www.bing.com/th?id=OHR.StLouisArch_IT-IT9390622803_320x240.jpg)](https://www.bing.com/th?id=OHR.StLouisArch_IT-IT9390622803_UHD.jpg) |
-| 2025-02-03 | Sospeso tra i ghiacchi | Viadotto Ribblehead e monte Ingleborough, North Yorkshire, Inghilterra (© AWL Images/DanitaDelimont.com) | [![Sospeso tra i ghiacchi](https://www.bing.com/th?id=OHR.RibbleheadViaduct_IT-IT3273904446_320x240.jpg)](https://www.bing.com/th?id=OHR.RibbleheadViaduct_IT-IT3273904446_UHD.jpg) |
-| 2025-10-06 | Sfumature commestibili | Funghi agarici ametistini, Seabeck, Washington, USA (© Danita Delimont/Shutterstock) | [![Sfumature commestibili](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_320x240.jpg)](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_UHD.jpg) |
+| 2025-07-11 | Sol Levante | Tokyo all’alba, Giappone (© pongnathee kluaythong/Getty Images) | [![Sol Levante](https://www.bing.com/th?id=OHR.TokyoSunrise_IT-IT6877517307_320x240.jpg)](https://www.bing.com/th?id=OHR.TokyoSunrise_IT-IT6877517307_UHD.jpg) |
+| 2025-07-23 | Silenzi salmastri | Alassio, Savona, Liguria (© Xantana/iStock/Getty Images Plus) | [![Silenzi salmastri](https://www.bing.com/th?id=OHR.AlassioLiguria_IT-IT1114546774_320x240.jpg)](https://www.bing.com/th?id=OHR.AlassioLiguria_IT-IT1114546774_UHD.jpg) |
+| 2025-09-17 | Ho visto un re? | Giovane alce maschio nel Parco Nazionale di Denali, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion) | [![Ho visto un re?](https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_320x240.jpg)](https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2025-01-27 | 時の流れが刻んだ奇跡の大地 | グランド・キャニオン国立公園, 米国 アリゾナ州 (© Nick Lake/Tandem Stills + Motion) | [![時の流れが刻んだ奇跡の大地](https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_320x240.jpg)](https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_UHD.jpg) |
-| 2025-03-20 | 今日は春分の日 | スイセンの花 (© LedyX/Shutterstock) | [![今日は春分の日](https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringDaffodils_JA-JP0516701335_UHD.jpg) |
-| 2025-02-18 | カリブ海の宝石 | グレート・ブルーホール, ベリーズ (© JamiesOnAMission/Shutterstock) | [![カリブ海の宝石](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_UHD.jpg) |
+| 2025-02-22 | 西部開拓の記念モニュメント | ゲートウェイ・アーチ, 米国 ミズーリ州 (© f11photo/Getty Images) | [![西部開拓の記念モニュメント](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_320x240.jpg)](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_UHD.jpg) |
+| 2025-02-03 | 今日は立春 | 梅の花で吸蜜するメジロ (© yankane/shutterstock) | [![今日は立春](https://www.bing.com/th?id=OHR.Risshun2025_JA-JP6529014440_320x240.jpg)](https://www.bing.com/th?id=OHR.Risshun2025_JA-JP6529014440_UHD.jpg) |
+| 2025-10-06 | 今日は中秋の名月 | 錦江に映える安順橋と満月, 中国 (© Philippe LEJEANVRE/Getty Images) | [![今日は中秋の名月](https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_320x240.jpg)](https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2025-11-10 | 草原之下的生命 | 土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images) | [![草原之下的生命](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_320x240.jpg)](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg) |
-| 2025-03-25 | 色彩斑斓的访客 | 向日葵田里的红额金翅雀，德国 (© Juniors Bildarchiv GmbH/Alamy) | [![色彩斑斓的访客](https://www.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg) |
-| 2025-04-15 | 梦幻城堡！ | 卡拉奥拉城堡，格拉纳达，西班牙 (© Ugo Mellone/eStock Photo) | [![梦幻城堡！](https://www.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_320x240.jpg)](https://www.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg) |
+| 2025-01-27 | 激发你的好奇心 | 琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国 (© Nick Lake/Tandem Stills + Motion) | [![激发你的好奇心](https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_320x240.jpg)](https://www.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg) |
+| 2025-03-20 | 春日仙境 | 美丽盛开的樱花，杭州的春天，中国 (© zhang shuang/Getty Images) | [![春日仙境](https://www.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg) |
+| 2025-02-18 | 无尽的蓝色 | 大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock) | [![无尽的蓝色](https://www.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg) |
 

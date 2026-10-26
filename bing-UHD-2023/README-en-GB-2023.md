@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2023
 
-> Last updated：2026-10-25 06:15:02 UTC
+> Last updated：2026-10-26 03:16:23 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
@@ -8,41 +8,41 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2023-06-19 | Renn Reh renn! | Rehkitz im Gras in der Normandie, Frankreich (© Gerard Lacz/Minden) | [![Renn Reh renn!](https://www.bing.com/th?id=OHR.Fawn_DE-DE1059166078_320x240.jpg)](https://www.bing.com/th?id=OHR.Fawn_DE-DE1059166078_UHD.jpg) |
 | 2023-01-31 | Pfälzerwald | Samenköpfe der Kanadischen Goldrute im Raureif im Morgenlicht, Wasgau, NP Pfälzerwald, Biosphärenreservat Pfälzerwald-Nordvogesen, Rheinland-Pfalz (©  mauritius images GmbH/Alamy Stock Photo) | [![Pfälzerwald](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg) |
 | 2023-09-13 | Geflüster der Vergangenheit | Tempel auf dem Hemakuta-Gebirge, Hampi, Karnataka, Indien (© Images of india/Alamy Stock Photo) | [![Geflüster der Vergangenheit](https://www.bing.com/th?id=OHR.HemakutaHill_DE-DE2402524948_320x240.jpg)](https://www.bing.com/th?id=OHR.HemakutaHill_DE-DE2402524948_UHD.jpg) |
-| 2023-09-29 | Im Blick des Vollmondes! | Jiaxiu-Pagode bei Vollmond, Guiyang, Provinz Guizhou, China (© Wang Yukun/Getty Images) | [![Im Blick des Vollmondes!](https://www.bing.com/th?id=OHR.GuiyangMoon_DE-DE0511223733_320x240.jpg)](https://www.bing.com/th?id=OHR.GuiyangMoon_DE-DE0511223733_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-09-29 | Aye aye, captain! | Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images) | [![Aye aye, captain!](https://www.bing.com/th?id=OHR.MaritimeDay_EN-CA2505931032_320x240.jpg)](https://www.bing.com/th?id=OHR.MaritimeDay_EN-CA2505931032_UHD.jpg) |
 | 2023-07-15 | A shiver of sharks on the hunt | Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images) | [![A shiver of sharks on the hunt](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-CA0142331117_320x240.jpg)](https://www.bing.com/th?id=OHR.BlacktipSharks_EN-CA0142331117_UHD.jpg) |
 | 2023-09-14 | Whispers of the past | Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy) | [![Whispers of the past](https://www.bing.com/th?id=OHR.HemakutaHill_EN-CA8619866663_320x240.jpg)](https://www.bing.com/th?id=OHR.HemakutaHill_EN-CA8619866663_UHD.jpg) |
-| 2023-03-07 | What are these unique creatures? | Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock) | [![What are these unique creatures?](https://www.bing.com/th?id=OHR.IcelandHorses_EN-CA7850121224_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandHorses_EN-CA7850121224_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-03-05 | The road less taken? | Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images) | [![The road less taken?](https://www.bing.com/th?id=OHR.PicoVolcano_EN-GB9536177361_320x240.jpg)](https://www.bing.com/th?id=OHR.PicoVolcano_EN-GB9536177361_UHD.jpg) |
 | 2023-04-07 | Two hungry baby beavers | Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures) | [![Two hungry baby beavers](https://www.bing.com/th?id=OHR.KitsAspen_EN-GB5526308393_320x240.jpg)](https://www.bing.com/th?id=OHR.KitsAspen_EN-GB5526308393_UHD.jpg) |
 | 2023-01-12 | Lighting the way | Godrevy Lighthouse, Cornwall (© Paul Nash/Shutterstock) | [![Lighting the way](https://www.bing.com/th?id=OHR.GodrevyRocks_EN-GB8938156788_320x240.jpg)](https://www.bing.com/th?id=OHR.GodrevyRocks_EN-GB8938156788_UHD.jpg) |
-| 2023-04-26 | Just a couple of 'know-it-owls' | Great horned owl fledglings (© Michael Morse/Getty Images) | [![Just a couple of 'know-it-owls'](https://www.bing.com/th?id=OHR.GHOAudubonDay_EN-GB5353280661_320x240.jpg)](https://www.bing.com/th?id=OHR.GHOAudubonDay_EN-GB5353280661_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-04-27 | An endless stretch of sky | South Padre Island, Texas (© Jeff R Clow/Getty Images) | [![An endless stretch of sky](https://www.bing.com/th?id=OHR.SouthPadre_EN-IN4631581656_320x240.jpg)](https://www.bing.com/th?id=OHR.SouthPadre_EN-IN4631581656_UHD.jpg) |
 | 2023-11-10 | Not so bad lands | Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion) | [![Not so bad lands](https://www.bing.com/th?id=OHR.BadlandsSunrise_EN-IN3577388637_320x240.jpg)](https://www.bing.com/th?id=OHR.BadlandsSunrise_EN-IN3577388637_UHD.jpg) |
 | 2023-07-04 | Nature’s art installation | Grasslands National Park, Saskatchewan, Canada (© Robert Postma/Getty Images) | [![Nature’s art installation](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_EN-IN6949225948_320x240.jpg)](https://www.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_EN-IN6949225948_UHD.jpg) |
-| 2023-09-06 | Ready to drop anchor? | Old Venetian harbour, Rethymno, Crete Island, Greece (© Gatsi/Getty Images) | [![Ready to drop anchor?](https://www.bing.com/th?id=OHR.CreteHarbor_EN-IN7844383498_320x240.jpg)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-IN7844383498_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-09-06 | A digital creation? Nor-way! | Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images) | [![A digital creation? Nor-way!](https://www.bing.com/th?id=OHR.MountSegla_EN-US3570750349_320x240.jpg)](https://www.bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg) |
 | 2023-03-08 | Shining through the centuries | Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images) | [![Shining through the centuries](https://www.bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_320x240.jpg)](https://www.bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg) |
 | 2023-01-12 | Stairway to where? | 'Umschreibung,' a sculpture by artist Olafur Eliasson in Munich, Germany (© Manfred Bail/Alamy) | [![Stairway to where?](https://www.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_320x240.jpg)](https://www.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg) |
-| 2023-01-02 | Napping near the North Pole | Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images) | [![Napping near the North Pole](https://www.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2023.md)
 
