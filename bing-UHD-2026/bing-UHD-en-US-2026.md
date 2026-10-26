@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-10-25 03:13:22 UTC
+> Last updated: 2026-10-26 03:13:57 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-26 | Nature's autumn soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's autumn soundtrack](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg) |
 | 2026-10-25 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg) |
 | 2026-10-24 | Partners in the wild | Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images) | [![Partners in the wild](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg) |
 | 2026-10-23 | Still waters, vivid colors | Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images) | [![Still waters, vivid colors](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_320x240.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg) |
