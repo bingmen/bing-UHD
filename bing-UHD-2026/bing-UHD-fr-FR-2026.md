@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-10-25 03:13:51 UTC
+> Dernière mise à jour: 2026-10-26 03:14:27 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-10-26 | Le son de l’automne | Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie (© Nadya85/Getty Images) | [![Le son de l’automne](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_UHD.jpg) |
 | 2026-10-25 | Des étoiles plein les yeux | Lac Maligne, Parc national Jasper, Alberta, Canada (© Andrey Popov/Getty Images) | [![Des étoiles plein les yeux](https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_320x240.jpg)](https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg) |
 | 2026-10-24 | De quoi en perdre ses mots | Cabinet royal portugais de lecture, Rio de Janeiro, Brésil (© Antonio Salaverry/Shutterstock) | [![De quoi en perdre ses mots](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-FR9364310812_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-FR9364310812_UHD.jpg) |
 | 2026-10-23 | Là où naissent les bulles | Vignobles à Verzenay, montagne de Reims, Champagne (© Philippe TURPIN/Getty Images) | [![Là où naissent les bulles](https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_320x240.jpg)](https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_UHD.jpg) |
