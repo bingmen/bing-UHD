@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-10-25 03:11:28 UTC
+> Zuletzt aktualisiert: 2026-10-26 03:11:58 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-10-26 | Der Klang des Herbstes | Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images) | [![Der Klang des Herbstes](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg) |
 | 2026-10-25 | Wo Gipfel auf Stille treffen | Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images) | [![Wo Gipfel auf Stille treffen](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_320x240.jpg)](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg) |
 | 2026-10-24 | Architektur des Wissens | Philologische Bibliothek der Freien Universität Berlin, Berlin (© ullstein bild/Getty Images) | [![Architektur des Wissens](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_320x240.jpg)](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg) |
 | 2026-10-23 | Partner in freier Wildbahn | Wölfe im Yellowstone-Nationalpark, Wyoming, USA (© John Morrison/Getty Images) | [![Partner in freier Wildbahn](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg) |
