@@ -1,6 +1,6 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-10-26 03:16:22 UTC
+> 最終更新：2026-10-26 06:23:42 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
