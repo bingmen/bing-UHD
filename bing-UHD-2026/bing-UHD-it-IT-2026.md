@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-10-26 03:14:58 UTC
+> Ultimo aggiornamento: 2026-10-27 03:44:57 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-10-27 | Riflessi dorati | Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images) | [![Riflessi dorati](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_UHD.jpg) |
 | 2026-10-26 | Acqua, pietra e mistero | Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images) | [![Acqua, pietra e mistero](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg) |
 | 2026-10-25 | Cinema, piazze e pasta | Chiesa di Santa Barbara in Largo dei Librari, vicino al mercato di Campo de' Fiori a Roma, Italia (© Alexander Spatari/Getty Images) | [![Cinema, piazze e pasta](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_320x240.jpg)](https://www.bing.com/th?id=OHR.CarbonaraRomeMarket_IT-IT4675824754_UHD.jpg) |
 | 2026-10-24 | Una cattedrale di libri | Real Gabinete Portoghese di Lettura, Rio de Janeiro, Brasile (© Antonio Salaverry/Shutterstock) | [![Una cattedrale di libri](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_IT-IT4308985837_UHD.jpg) |
