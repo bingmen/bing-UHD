@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-10-26 03:13:27 UTC
+> Last updated: 2026-10-27 03:43:27 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-27 | Nature's golden mirror | A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_UHD.jpg) |
 | 2026-10-26 | Nature's autumn soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's autumn soundtrack](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg) |
 | 2026-10-25 | The road that runs on water | Grand Canal in Venice, Italy (© Juan Romero/Cavan Images) | [![The road that runs on water](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-IN8305689376_UHD.jpg) |
 | 2026-10-24 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg) |
