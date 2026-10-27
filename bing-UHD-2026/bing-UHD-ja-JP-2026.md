@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-10-26 03:15:27 UTC
+> 最終更新: 2026-10-27 03:45:26 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-10-27 | 水面に映る秋の森 | ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images) | [![水面に映る秋の森](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg) |
 | 2026-10-26 | 紅葉の中を流れ落ちる滝 | シトヴォ滝, ブルガリア (© Nadya85/Getty Images) | [![紅葉の中を流れ落ちる滝](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg) |
 | 2026-10-25 | 冬の大地を進むオオカミたち | ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images) | [![冬の大地を進むオオカミたち](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg) |
 | 2026-10-24 | 図書館の天窓から差し込む自然光 | 王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock) | [![図書館の天窓から差し込む自然光](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg) |
