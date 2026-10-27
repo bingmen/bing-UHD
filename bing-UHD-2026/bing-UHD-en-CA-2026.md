@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated: 2026-10-26 03:12:21 UTC
+> Last updated: 2026-10-27 03:42:32 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-27 | Nature's fall soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's fall soundtrack](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_UHD.jpg) |
 | 2026-10-26 | 'Peak' into Colorado | Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images) | [!['Peak' into Colorado](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_320x240.jpg)](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_UHD.jpg) |
 | 2026-10-25 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-CA0206045106_UHD.jpg) |
 | 2026-10-24 | Partners in the wild | Two grey wolves Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-CA9692259331_UHD.jpg) |
