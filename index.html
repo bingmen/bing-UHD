@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bing 每日壁纸 · UHD</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: #f5f7fa;
+      color: #1e2a3a;
+      padding: 2rem 1.5rem;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 24px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+      padding: 2rem 2.5rem;
+    }
+    h1, h2, h3 {
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+    h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.25rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    h1 small {
+      font-size: 1rem;
+      font-weight: 400;
+      color: #5b6f87;
+      margin-left: 8px;
+    }
+    .daily-wallpaper {
+      margin: 1.8rem 0 2rem 0;
+      padding: 1.5rem 0;
+      border-top: 2px solid #eef2f6;
+      border-bottom: 2px solid #eef2f6;
+      text-align: center;
+    }
+    .daily-wallpaper img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.2);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      display: block;
+      margin: 0 auto;
+    }
+    .daily-wallpaper img:hover {
+      transform: scale(1.01);
+      box-shadow: 0 18px 35px -8px rgba(0, 0, 0, 0.25);
+    }
+    .daily-meta {
+      margin-top: 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.2rem;
+    }
+    .daily-date {
+      font-weight: 500;
+      color: #2c3e50;
+      font-size: 1rem;
+    }
+    .daily-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #0b1d2e;
+      letter-spacing: -0.01em;
+    }
+    .daily-copyright {
+      font-size: 0.9rem;
+      color: #5e6f82;
+      font-style: italic;
+    }
+    .badge {
+      display: inline-block;
+      background: #eef2f6;
+      border-radius: 30px;
+      padding: 0.2rem 0.8rem;
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: #2d4b6e;
+      margin-left: 8px;
+    }
+    .link-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem 0.2rem;
+      align-items: center;
+    }
+    a {
+      color: #1a5fb4;
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+    a:hover {
+      color: #0b3d7a;
+      text-decoration: underline;
+    }
+    .region-item {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0.25rem 0.5rem;
+      margin: 0.5rem 0;
+      padding-left: 0.5rem;
+      border-left: 3px solid #d0ddeb;
+    }
+    .region-label {
+      font-weight: 600;
+      min-width: 160px;
+      color: #1f3a5f;
+    }
+    .region-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.2rem 0.6rem;
+    }
+    .archive-year {
+      margin: 1.8rem 0 0.5rem 0;
+      font-size: 1.3rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .archive-year .emoji {
+      font-size: 1.5rem;
+    }
+    .archive-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+      gap: 0.3rem 1.2rem;
+      margin: 0.6rem 0 1rem 0;
+      padding-left: 0.8rem;
+    }
+    .archive-grid a {
+      font-weight: 400;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .storage-list, .directory-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1.5rem;
+      margin: 0.8rem 0 1rem 0;
+      padding-left: 0.5rem;
+    }
+    hr {
+      border: 0;
+      border-top: 2px solid #e5ecf3;
+      margin: 2rem 0 0.5rem 0;
+    }
+    .footer-note {
+      margin-top: 2.5rem;
+      font-size: 0.85rem;
+      color: #6d7e92;
+      text-align: center;
+      border-top: 1px solid #dce5ed;
+      padding-top: 1.5rem;
+    }
+    .md-link-icon {
+      font-size: 0.9rem;
+      margin-right: 2px;
+    }
+    /* 原始 markdown 风格的链接转换提示 */
+    .md-hint {
+      display: none;
+    }
+    @media (max-width: 640px) {
+      body { padding: 1rem; }
+      .container { padding: 1.5rem; }
+      h1 { font-size: 1.7rem; }
+      .region-label { min-width: 100%; }
+      .archive-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <!-- 标题 -->
+  <h1>🌄 Bing 每日壁纸 - UHD <span class="badge">九个地区 · 高清收藏</span></h1>
+
+  <!-- 当日壁纸展示区块（动态填充） -->
+  <div class="daily-wallpaper" id="dailyWallpaper">
+    <!-- 占位提示，将被 JS 替换 -->
+    <div style="padding: 2rem; color: #6b7f96;">加载今日 Bing 壁纸…</div>
+  </div>
+
+  <!-- 以下是 markdown 转换后的内容，所有相对 .md 链接已添加前缀 https://uhd.bingmen.com -->
+  <!-- 简介 -->
+  <p style="margin-top: 1.5rem; font-size: 1.05rem;">
+    👀 抓取 Bing 每日壁纸（九个地区）数据，存储 JSON、UHD 和缩略图，汇总表格。
+  </p>
+
+  <!-- 地区列表 -->
+  <h2 style="margin-top: 2rem;">📍 地区</h2>
+  <div class="region-item">
+    <span class="region-label">de-DE：德语（德国）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-de-DE-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-de-DE-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-de-DE-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-de-DE-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-de-DE-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">en-CA：英语（加拿大）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-en-CA-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-en-CA-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-en-CA-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-en-CA-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-en-CA-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">en-GB：英语（英国）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-en-GB-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-en-GB-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-en-GB-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-en-GB-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-en-GB-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">en-IN：英语（印度）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-en-IN-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-en-IN-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-en-IN-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-en-IN-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-en-IN-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">en-US：英语（美国）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-en-US-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-en-US-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-en-US-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-en-US-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-en-US-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">fr-FR：法语（法国）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-fr-FR-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-fr-FR-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-fr-FR-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-fr-FR-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-fr-FR-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">it-IT：意大利语（意大利）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-it-IT-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-it-IT-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-it-IT-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-it-IT-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-it-IT-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">ja-JP：日语（日本）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-ja-JP-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-ja-JP-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-ja-JP-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-ja-JP-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-ja-JP-2022.html">2022</a> 🔹
+    </span>
+  </div>
+  <div class="region-item">
+    <span class="region-label">zh-CN：简体中文（中国）</span>
+    <span class="region-links">
+      <a href="https://uhd.bingmen.com/bing-UHD-2026/README-zh-CN-2026.html">2026</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2025/README-zh-CN-2025.html">2025</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2024/README-zh-CN-2024.html">2024</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2023/README-zh-CN-2023.html">2023</a> 🔹
+      <a href="https://uhd.bingmen.com/bing-UHD-2022/README-zh-CN-2022.html">2022</a> 🔹
+    </span>
+  </div>
+
+  <!-- 归档部分 -->
+  <h2 style="margin-top: 2rem;">🗂️ 归档</h2>
+
+  <!-- 2026 -->
+  <div class="archive-year"><span class="emoji">🐎</span> 2026</div>
+	<div class="archive-grid">
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-de-DE-2026.html">de-DE</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-CA-2026.html">en-CA</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-GB-2026.html">en-GB</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-IN-2026.html">en-IN</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-en-US-2026.html">en-US</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-fr-FR-2026.html">fr-FR</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-it-IT-2026.html">it-IT</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-ja-JP-2026.html">ja-JP</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2026/bing-UHD-zh-CN-2026.html">zh-CN</a>
+  </div>
+
+  <!-- 2025 -->
+  <div class="archive-year"><span class="emoji">🐍</span> 2025</div>
+  <div class="archive-grid">
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-de-DE-2025.html">de-DE</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-CA-2025.html">en-CA</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-GB-2025.html">en-GB</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-IN-2025.html">en-IN</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-en-US-2025.html">en-US</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-fr-FR-2025.html">fr-FR</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-it-IT-2025.html">it-IT</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-ja-JP-2025.html">ja-JP</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2025/bing-UHD-zh-CN-2025.html">zh-CN</a>
+  </div>
+
+  <!-- 2024 -->
+  <div class="archive-year"><span class="emoji">🐉</span> 2024</div>
+  <div class="archive-grid">
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-de-DE-2024.html">de-DE</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-CA-2024.html">en-CA</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-GB-2024.html">en-GB</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-IN-2024.html">en-IN</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-en-US-2024.html">en-US</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-fr-FR-2024.html">fr-FR</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-it-IT-2024.html">it-IT</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-ja-JP-2024.html">ja-JP</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2024/bing-UHD-zh-CN-2024.html">zh-CN</a>
+  </div>
+
+  <!-- 2023 -->
+  <div class="archive-year"><span class="emoji">🐇</span> 2023</div>
+  <div class="archive-grid">
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-de-DE-2023.html">de-DE</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-CA-2023.html">en-CA</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-GB-2023.html">en-GB</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-IN-2023.html">en-IN</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-en-US-2023.html">en-US</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-fr-FR-2023.html">fr-FR</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-it-IT-2023.html">it-IT</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-ja-JP-2023.html">ja-JP</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2023/bing-UHD-zh-CN-2023.html">zh-CN</a>
+  </div>
+
+  <!-- 2022 -->
+  <div class="archive-year"><span class="emoji">🐅</span> 2022</div>
+  <div class="archive-grid">
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-de-DE-2022.html">de-DE</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-CA-2022.html">en-CA</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-GB-2022.html">en-GB</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-IN-2022.html">en-IN</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-en-US-2022.html">en-US</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-fr-FR-2022.html">fr-FR</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-it-IT-2022.html">it-IT</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-ja-JP-2022.html">ja-JP</a>
+    <a href="https://uhd.bingmen.com/bing-UHD-2022/bing-UHD-zh-CN-2022.html">zh-CN</a>
+  </div>
+
+  <!-- 存储 -->
+  <h2 style="margin-top: 2rem;">📦 存储</h2>
+  <div class="storage-list">
+    <span>🐎 <a href="https://github.com/bingmen/bing-UHD-2026">bing-UHD-2026</a></span>
+    <span>🐍 <a href="https://github.com/bingmen/bing-UHD-2025">bing-UHD-2025</a></span>
+    <span>🐉 <a href="https://github.com/bingmen/bing-UHD-2024">bing-UHD-2024</a></span>
+    <span>🐇 <a href="https://github.com/bingmen/bing-UHD-2023">bing-UHD-2023</a></span>
+    <span>🐅 <a href="https://github.com/bingmen/bing-UHD-2022">bing-UHD-2022</a></span>
+  </div>
+
+  <!-- 目录 -->
+  <h2 style="margin-top: 2rem;">🗂️ 目录</h2>
+  <div class="directory-list">
+    <span>📄 数据：bing-JSON-地区-年份</span>
+    <span>🖼️ 缩略图：bing-320-地区-年份</span>
+    <span>🎞️ 高清图：bing-UHD-地区-年份</span>
+  </div>
+
+  <!-- 参考 -->
+  <h2 style="margin-top: 2rem;">📚 参考</h2>
+  <p><a href="https://bing-wallpaper.apifox.cn" target="_blank" rel="noopener">Bing-Wallpaper-Action 公开API</a></p>
+
+  <!-- 许可证 -->
+  <h2 style="margin-top: 2rem;">📄 许可证</h2>
+  <p><a href="https://github.com/bingmen/bing-UHD/blob/main/LICENSE">MIT</a></p>
+
+  <hr>
+  <div class="footer-note">
+    ⚡ 数据每日更新 · 图片来自 Bing 壁纸 API
+  </div>
+</div>
+
+<script>
+  (function() {
+    // 接口地址
+    const API_URL = 'https://raw.onmicrosoft.cn/Bing-Wallpaper-Action/main/data/zh-CN_update.json';
+    // 目标容器
+    const container = document.getElementById('dailyWallpaper');
+
+    // 格式化为 YYYY-MM-DD
+    function formatDate(enddate) {
+      if (!enddate) return '未知日期';
+      // enddate 期望格式如 20260324 或 2026-03-24 等，做兼容
+      const str = String(enddate).trim();
+      // 如果匹配 yyyyMMdd
+      if (/^\d{8}$/.test(str)) {
+        return str.slice(0, 4) + '-' + str.slice(4, 6) + '-' + str.slice(6, 8);
+      }
+      // 如果已经是 yyyy-mm-dd 风格或者带分隔符，尝试用 Date 解析并格式化
+      try {
+        const d = new Date(str);
+        if (!isNaN(d.getTime())) {
+          const y = d.getFullYear();
+          const m = String(d.getMonth() + 1).padStart(2, '0');
+          const day = String(d.getDate()).padStart(2, '0');
+          return `${y}-${m}-${day}`;
+        }
+      } catch (e) {}
+      // 兜底返回原始字符串
+      return str;
+    }
+
+    // 从数组中选取 enddate 最大的一项
+    function findLatestItem(items) {
+      if (!Array.isArray(items) || items.length === 0) return null;
+      let latest = items[0];
+      // 比较 enddate 大小（统一转换为数字或可比较字符串）
+      for (let i = 1; i < items.length; i++) {
+        const cur = items[i];
+        // 假设 enddate 为 YYYYMMDD 或类似格式，直接字符串比较往往也有效，但此处转为整数
+        const latestVal = latest.enddate;
+        const curVal = cur.enddate;
+        // 提取数字进行比较
+        const latestNum = parseInt(String(latestVal).replace(/[-]/g, ''), 10) || 0;
+        const curNum = parseInt(String(curVal).replace(/[-]/g, ''), 10) || 0;
+        if (curNum > latestNum) {
+          latest = cur;
+        }
+      }
+      return latest;
+    }
+
+    // 渲染壁纸信息
+    function renderWallpaper(item) {
+      if (!item) {
+        container.innerHTML = '<div style="padding: 2rem; color: #6b7f96;">暂无壁纸数据，请稍后再试。</div>';
+        return;
+      }
+
+      const urlbase = item.urlbase || '';
+      if (!urlbase) {
+        container.innerHTML = '<div style="padding: 2rem; color: #6b7f96;">壁纸链接缺失。</div>';
+        return;
+      }
+
+      // 拼接
+      const pic = 'https://www.bing.com' + urlbase + '_800x600.jpg';
+      const uhd = 'https://www.bing.com' + urlbase + '_UHD.jpg';
+      const title = item.title || '今日壁纸';
+      const copyright = item.copyright || '';
+      const enddate = item.enddate || '';
+      const dateFormatted = formatDate(enddate);
+
+      // 构建 HTML
+      const html = `
+        <a href="${uhd}" target="_blank" rel="noopener">
+          <img src="${pic}" alt="${title.replace(/"/g, '&quot;')}" loading="lazy">
+        </a>
+        <div class="daily-meta">
+          <span class="daily-date">📅 ${dateFormatted}</span>
+          <span class="daily-title">${title}</span>
+          <span class="daily-copyright">${copyright}</span>
+        </div>
+      `;
+      container.innerHTML = html;
+    }
+
+    // 请求数据
+    fetch(API_URL)
+      .then(response => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      })
+      .then(data => {
+        // 假设接口返回数组
+        let items = [];
+        if (Array.isArray(data)) {
+          items = data;
+        } else if (data && Array.isArray(data.images)) {
+          // 有些接口可能包裹在 images 里
+          items = data.images;
+        } else if (data && data.data && Array.isArray(data.data)) {
+          items = data.data;
+        } else {
+          // 尝试查找可能的数组字段
+          for (let key in data) {
+            if (Array.isArray(data[key])) {
+              items = data[key];
+              break;
+            }
+          }
+        }
+
+        if (items.length === 0) {
+          throw new Error('未找到壁纸数据');
+        }
+
+        const latest = findLatestItem(items);
+        renderWallpaper(latest);
+      })
+      .catch(error => {
+        console.error('获取壁纸失败:', error);
+        container.innerHTML = `<div style="padding: 2rem; color: #b34a4a;">⚠️ 壁纸加载失败，请稍后重试。<br><span style="font-size:0.85rem;">${error.message}</span></div>`;
+      });
+  })();
+</script>
+</body>
+</html>
