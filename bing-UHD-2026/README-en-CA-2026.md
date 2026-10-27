@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-10-26 06:23:42 UTC
+> Last updated：2026-10-27 03:46:20 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-08-13 | Leuchtender Himmel | Perseiden-Meteore über dem Teide-Observatorium auf Teneriffa, Spanien (© Westend61/Getty Images) | [![Leuchtender Himmel](https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996_320x240.jpg)](https://www.bing.com/th?id=OHR.PerseidasTenerife_DE-DE8459328996_UHD.jpg) |
-| 2026-05-23 | Harte Schale, starkes Leben | Schildkröten mit Schmetterlingen (© Patrick Gallet/Getty Images) | [![Harte Schale, starkes Leben](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_320x240.jpg)](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_UHD.jpg) |
-| 2026-03-06 | Wellen aus Beton | Das Wohngebäude Bølgen „The Wave“ in Vejle, Dänemark (© Frank Bach/Alamy) | [![Wellen aus Beton](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_320x240.jpg)](https://www.bing.com/th?id=OHR.WaveDenmark_DE-DE5579252511_UHD.jpg) |
+| 2026-08-14 | Für Pfoten gebaut | Luftaufnahme einer Grünbrücke bei Zakrzów, Polen (© bbsferrari/Getty Images) | [![Für Pfoten gebaut](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_320x240.jpg)](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_DE-DE6173480409_UHD.jpg) |
+| 2026-05-24 | Schutz für Europas natürliche Vielfalt | Naturpark Drei Zinnen, Südtirol, Italien (© Adisorn Fineday Chutikunakorn/Getty Images) | [![Schutz für Europas natürliche Vielfalt](https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_UHD.jpg) |
+| 2026-03-07 | Zwischen Wald und Wellen | Pacific Rim National Park Reserve, Vancouver Island, Kanada (© EmilyNorton/Getty Images) | [![Zwischen Wald und Wellen](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_320x240.jpg)](https://www.bing.com/th?id=OHR.PacificRimNP_DE-DE6585110286_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-09-11 | Plot twist pending | The Roy Thomson Hall, Toronto, Ontario (© eskystudio/Shutterstock) | [![Plot twist pending](https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_320x240.jpg)](https://www.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_UHD.jpg) |
-| 2026-05-14 | Rock on, Milky Way! | Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures) | [![Rock on, Milky Way!](https://www.bing.com/th?id=OHR.AlabamaHills_EN-CA2745537583_320x240.jpg)](https://www.bing.com/th?id=OHR.AlabamaHills_EN-CA2745537583_UHD.jpg) |
-| 2026-07-19 | Going full circle | Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images) | [![Going full circle](https://www.bing.com/th?id=OHR.DevilsBridge_EN-CA9488720591_320x240.jpg)](https://www.bing.com/th?id=OHR.DevilsBridge_EN-CA9488720591_UHD.jpg) |
+| 2026-09-12 | Where the Mediterranean reigns supreme | Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images) | [![Where the Mediterranean reigns supreme](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_320x240.jpg)](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_UHD.jpg) |
+| 2026-05-15 | A journey through time | Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus) | [![A journey through time](https://www.bing.com/th?id=OHR.Pitigliano_EN-CA9857257534_320x240.jpg)](https://www.bing.com/th?id=OHR.Pitigliano_EN-CA9857257534_UHD.jpg) |
+| 2026-07-20 | Wings at rest | Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion) | [![Wings at rest](https://www.bing.com/th?id=OHR.HirundoRustica_EN-CA9613012856_320x240.jpg)](https://www.bing.com/th?id=OHR.HirundoRustica_EN-CA9613012856_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-10-19 | The road that runs on water | Grand Canal in Venice, Italy (© Juan Romero/Cavan Images) | [![The road that runs on water](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_UHD.jpg) |
-| 2026-02-25 | The pulse beneath the pond | Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion) | [![The pulse beneath the pond](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_320x240.jpg)](https://www.bing.com/th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg) |
-| 2026-05-27 | No 'otter' like them | Sea otter, Kachemak Bay, Homer, Alaska, United States (© roclwyr/Getty Images) | [![No 'otter' like them](https://www.bing.com/th?id=OHR.OtterDay_EN-GB6482423127_320x240.jpg)](https://www.bing.com/th?id=OHR.OtterDay_EN-GB6482423127_UHD.jpg) |
+| 2026-10-20 | Life in the slow lane | Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Life in the slow lane](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_320x240.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg) |
+| 2026-02-26 | Ice, lit from within | Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock) | [![Ice, lit from within](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_320x240.jpg)](https://www.bing.com/th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg) |
+| 2026-05-28 | Design meets discipline | Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images) | [![Design meets discipline](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_320x240.jpg)](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-24 | Family, in full colour | Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library) | [![Family, in full colour](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_320x240.jpg)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_UHD.jpg) |
-| 2026-06-27 | The trees that lost ground | Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock) | [![The trees that lost ground](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_320x240.jpg)](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_UHD.jpg) |
-| 2026-10-23 | Partners in the wild | Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images) | [![Partners in the wild](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-IN7964007510_UHD.jpg) |
+| 2026-07-25 | Into Galicia's hidden arches | Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock) | [![Into Galicia's hidden arches](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-IN8935924229_320x240.jpg)](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-IN8935924229_UHD.jpg) |
+| 2026-06-28 | Looking sharp | Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images) | [![Looking sharp](https://www.bing.com/th?id=OHR.SaguaroSun_EN-IN9141839272_320x240.jpg)](https://www.bing.com/th?id=OHR.SaguaroSun_EN-IN9141839272_UHD.jpg) |
+| 2026-10-24 | Bookishly extravagant | Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock) | [![Bookishly extravagant](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-IN8235557432_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-11 | The land of moving shorelines | Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images) | [![The land of moving shorelines](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_320x240.jpg)](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg) |
-| 2026-07-07 | A city written in centuries | Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images) | [![A city written in centuries](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_320x240.jpg)](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg) |
-| 2026-07-14 | Born to rock | Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images) | [![Born to rock](https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_320x240.jpg)](https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg) |
+| 2026-07-12 | Where Brittany meets the tide | Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock) | [![Where Brittany meets the tide](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_320x240.jpg)](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg) |
+| 2026-07-08 | Color, craft, and canopy life | Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures) | [![Color, craft, and canopy life](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_320x240.jpg)](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg) |
+| 2026-07-15 | Fin-tastic truths | Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library) | [![Fin-tastic truths](https://www.bing.com/th?id=OHR.LemonShark_EN-US9828936448_320x240.jpg)](https://www.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-08-01 | Debout face aux vagues | Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images) | [![Debout face aux vagues](https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_320x240.jpg)](https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_UHD.jpg) |
-| 2026-04-01 | Un bond en avril | Rainette japonaise au cœur d’une fleur de liseron rose (© Tetsuya Tanooka/Getty Images) | [![Un bond en avril](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_320x240.jpg)](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_FR-FR2900221891_UHD.jpg) |
-| 2026-05-06 | Des plaines sous haute tension | Orage sur les plaines, Bulgarie (© Revolu7ion93/Getty Images) | [![Des plaines sous haute tension](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_320x240.jpg)](https://www.bing.com/th?id=OHR.BulgariaPlains_FR-FR4904282030_UHD.jpg) |
+| 2026-08-02 | Fille de la Baltique | Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images) | [![Fille de la Baltique](https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_320x240.jpg)](https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_UHD.jpg) |
+| 2026-04-02 | De croquants petits rongeurs | Muscardin à l’entrée de leur nid, Normandie (© slowmotiongli/Getty Images) | [![De croquants petits rongeurs](https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_320x240.jpg)](https://www.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_UHD.jpg) |
+| 2026-05-07 | Un désert à l’état pur | Refuge faunique national de Kofa, Arizona, États-Unis (© Denis Tangney Jr/Getty Images) | [![Un désert à l’état pur](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_320x240.jpg)](https://www.bing.com/th?id=OHR.Kofa_FR-FR5084005411_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-10-03 | Pesca, mangia, ripeti | Orso bruno a Silver Salmon Creek, Parco nazionale e riserva di Lake Clark, Alaska, Stati Uniti (© Danny Green/Nature Picture Library) | [![Pesca, mangia, ripeti](https://www.bing.com/th?id=OHR.GrizzlySwim_IT-IT0100605871_320x240.jpg)](https://www.bing.com/th?id=OHR.GrizzlySwim_IT-IT0100605871_UHD.jpg) |
-| 2026-09-20 | Il suono alpino dell'Oktoberfest | Giocatori di alphorn, Baviera, Germania (© U. J. Alexander/Shutterstock) | [![Il suono alpino dell'Oktoberfest](https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_320x240.jpg)](https://www.bing.com/th?id=OHR.AlphornBavaria_IT-IT7483263500_UHD.jpg) |
-| 2026-06-08 | Corrente molto forte | Medusa dalla criniera di leone che nuota nell'oceano (© Alexander Semenov Images/Shutterstock) | [![Corrente molto forte](https://www.bing.com/th?id=OHR.Cyanea_IT-IT7439646926_320x240.jpg)](https://www.bing.com/th?id=OHR.Cyanea_IT-IT7439646926_UHD.jpg) |
+| 2026-10-04 | L'universo ci chiama | Il razzo lunare Artemis I al Launch Complex 39B, Kennedy Space Center, Florida, Stati Uniti, 15 giugno 2022 (© EVA MARIE UZCATEGUI/Getty Images) | [![L'universo ci chiama](https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_320x240.jpg)](https://www.bing.com/th?id=OHR.ArtemisRocket_IT-IT8266299733_UHD.jpg) |
+| 2026-09-21 | Vita tra pelliccia e mare | Lontra marina, baia di Monterey, California, USA (© Suzi Eszterhas/Minden Pictures) | [![Vita tra pelliccia e mare](https://www.bing.com/th?id=OHR.GroomingOtter_IT-IT7662965878_320x240.jpg)](https://www.bing.com/th?id=OHR.GroomingOtter_IT-IT7662965878_UHD.jpg) |
+| 2026-06-09 | Quale delle cinque? | Vernazza, Cinque Terre, Liguria (© Kelly Cheng/Getty Images) | [![Quale delle cinque?](https://www.bing.com/th?id=OHR.CTNPVernazza_IT-IT7594806802_320x240.jpg)](https://www.bing.com/th?id=OHR.CTNPVernazza_IT-IT7594806802_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-07-05 | 一面に広がる紫色のラベンダー畑 | ヴァランソール高原, フランス (© Robert Harding/Shutterstock) | [![一面に広がる紫色のラベンダー畑](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_320x240.jpg)](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg) |
-| 2026-07-30 | 夕暮れの砂漠を貫く道 | モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock) | [![夕暮れの砂漠を貫く道](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_320x240.jpg)](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_UHD.jpg) |
-| 2026-03-18 | 桜が彩る都市公園 | トム・マッコール・ウォーターフロント・パーク, 米国 オレゴン州 (© Eric Vogt/Tandem Stills + Motion) | [![桜が彩る都市公園](https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_320x240.jpg)](https://www.bing.com/th?id=OHR.PortlandBlossoms_JA-JP9732254183_UHD.jpg) |
+| 2026-07-06 | 夕焼けに染まる海に突き出た石造要塞 | シラクサ, イタリア (© Balate Dorin/Getty Images) | [![夕焼けに染まる海に突き出た石造要塞](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_320x240.jpg)](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg) |
+| 2026-07-31 | 深緑の森を貫く木道 | バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images) | [![深緑の森を貫く木道](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_320x240.jpg)](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg) |
+| 2026-03-19 | 卵を産む哺乳類 | ハリモグラ, オーストラリア (© Etienne Littlefair/naturepl.com) | [![卵を産む哺乳類](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_320x240.jpg)](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-10-19 | 水上通衢 | 大运河，威尼斯，意大利 (© Juan Romero/Cavan Images) | [![水上通衢](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg) |
-| 2026-01-06 | 努克的慵懒时光 | 努克, 格陵兰 (© nevereverro/Getty Images) | [![努克的慵懒时光](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_320x240.jpg)](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg) |
-| 2026-06-04 | 优雅羽饰 | 梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures) | [![优雅羽饰](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_320x240.jpg)](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg) |
+| 2026-10-20 | 慢节奏生活 | 褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures) | [![慢节奏生活](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_320x240.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg) |
+| 2026-01-07 | 古老岩石的传奇 | 拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion) | [![古老岩石的传奇](https://www.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_320x240.jpg)](https://www.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg) |
+| 2026-06-05 | 无人问津之地的静默力量 | 从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images) | [![无人问津之地的静默力量](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_320x240.jpg)](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg) |
 

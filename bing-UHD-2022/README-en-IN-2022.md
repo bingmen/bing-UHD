@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2022
 
-> Last updated：2026-10-26 06:23:42 UTC
+> Last updated：2026-10-27 03:46:21 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-12-08 | Was sind das für urzeitliche Tiere? | Moschusochsenmutter und Kalb im Dovrefjell-Sunndalsfjella-Nationalpark, Norwegen (© Robert Haasmann/Minden Pictures) | [![Was sind das für urzeitliche Tiere?](https://www.bing.com/th?id=OHR.NorwayMuskox_DE-DE4462995800_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayMuskox_DE-DE4462995800_UHD.jpg) |
-| 2022-06-15 | Der Gipfel von Tennessee | Great-Smoky-Mountains-Nationalpark, Tennessee, USA (© Tony Barber/Getty Images) | [![Der Gipfel von Tennessee](https://www.bing.com/th?id=OHR.ClingmansDome_DE-DE1419431068_320x240.jpg)](https://www.bing.com/th?id=OHR.ClingmansDome_DE-DE1419431068_UHD.jpg) |
-| 2022-09-30 | Giganten des Ozeans | Tauchender Südkaper im Golfo Nuevo nahe der Halbinsel Valdés, Argentinien (© Gabriel Rojo/Minden Pictures) | [![Giganten des Ozeans](https://www.bing.com/th?id=OHR.EubalaenaAustralis_DE-DE2170737652_320x240.jpg)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_DE-DE2170737652_UHD.jpg) |
+| 2022-11-25 | Juwel der Corrèze | Das Bergdorf Turenne bei Sonnenaufgang, Département Corrèze, Region Nouvelle-Aquitaine, Frankreich (© Tim Mannakee/plainpicture) | [![Juwel der Corrèze](https://www.bing.com/th?id=OHR.TurenneSunrise_DE-DE5722564700_320x240.jpg)](https://www.bing.com/th?id=OHR.TurenneSunrise_DE-DE5722564700_UHD.jpg) |
+| 2022-09-13 | Wie Sand im Stundenglas | Great-Sand-Dunes-Nationalpark, Colorado, USA (© Y Paudel/Getty Images) | [![Wie Sand im Stundenglas](https://www.bing.com/th?id=OHR.GSDNPest_DE-DE6345585971_320x240.jpg)](https://www.bing.com/th?id=OHR.GSDNPest_DE-DE6345585971_UHD.jpg) |
+| 2022-09-19 | Abschied von einer großen Monarchin | Blumengaben als Zeichen der Anteilnahme zum Tod von Königin Elisabeth II., London, England, Vereinigtes Königreich (© Maja Smiejkowska/Reuters) | [![Abschied von einer großen Monarchin](https://www.bing.com/th?id=OHR.QueenFuneral_DE-DE1005379634_320x240.jpg)](https://www.bing.com/th?id=OHR.QueenFuneral_DE-DE1005379634_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-12-15 | Festive foliage in the garden | The 12 Days of Christmas display at Butchart Gardens, Vancouver, B.C. (© Michael Wheatley/Alamy Stock Photo) | [![Festive foliage in the garden](https://www.bing.com/th?id=OHR.ButchartDisplay_EN-CA6004185985_320x240.jpg)](https://www.bing.com/th?id=OHR.ButchartDisplay_EN-CA6004185985_UHD.jpg) |
 | 2022-06-06 | ‘Only one Earth’ | Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy) | [![‘Only one Earth’](https://www.bing.com/th?id=OHR.RapadalenSNP_EN-CA8010953917_320x240.jpg)](https://www.bing.com/th?id=OHR.RapadalenSNP_EN-CA8010953917_UHD.jpg) |
-| 2022-12-28 | The healing powers of wastewater | Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images) | [![The healing powers of wastewater](https://www.bing.com/th?id=OHR.BlueLagoon_EN-CA9961489115_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLagoon_EN-CA9961489115_UHD.jpg) |
+| 2022-12-08 | Rocky Mountain runoff | Tangle Creek Falls in Jasper National Park, Alberta (© Jeff Foott/Minden Pictures) | [![Rocky Mountain runoff](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-CA2031288501_320x240.jpg)](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-CA2031288501_UHD.jpg) |
+| 2022-06-15 | Locals know this place simply as ‘the Met’ | The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock) | [![Locals know this place simply as ‘the Met’](https://www.bing.com/th?id=OHR.MuseumMile_EN-CA3391754818_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumMile_EN-CA3391754818_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-21 | Creating a better world | Land art painting entitled World in Progress II by artist Saype at the Headquarters of the United Nations in New York City, USA (© Valentin Flauraud/Shutterstock) | [![Creating a better world](https://www.bing.com/th?id=OHR.LandartPainting_EN-GB0913015556_320x240.jpg)](https://www.bing.com/th?id=OHR.LandartPainting_EN-GB0913015556_UHD.jpg) |
-| 2022-11-25 | Alpine grandeur | View from Kampenwand mountain, Aschau im Chiemgau, Bavaria, Germany (© Toni Anzenberger/plainpicture) | [![Alpine grandeur](https://www.bing.com/th?id=OHR.AschauChiemgau_EN-GB2159713937_320x240.jpg)](https://www.bing.com/th?id=OHR.AschauChiemgau_EN-GB2159713937_UHD.jpg) |
-| 2022-05-14 | Holding back the tide | Windmills, Kinderdijk, Netherlands (© Achim Thomae/Getty Images) | [![Holding back the tide](https://www.bing.com/th?id=OHR.WindmillDay_EN-GB0601293050_320x240.jpg)](https://www.bing.com/th?id=OHR.WindmillDay_EN-GB0601293050_UHD.jpg) |
+| 2022-09-29 | Is it art? | Infini-D, modelled during the 2019 World of WearableArt Awards in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt) | [![Is it art?](https://www.bing.com/th?id=OHR.InfiniD_EN-GB5291445773_320x240.jpg)](https://www.bing.com/th?id=OHR.InfiniD_EN-GB5291445773_UHD.jpg) |
+| 2022-12-15 | On the edge | Back Tor on a foggy morning, Great Ridge, Derbyshire. (© John Finney Photography/Getty Images) | [![On the edge](https://www.bing.com/th?id=OHR.BackTor_EN-GB0185383475_320x240.jpg)](https://www.bing.com/th?id=OHR.BackTor_EN-GB0185383475_UHD.jpg) |
+| 2022-06-05 | A right royal tradition | Street party for the coronation of Queen Elizabeth II in 1953 (© KGPA Ltd/Alamy) | [![A right royal tradition](https://www.bing.com/th?id=OHR.JubileeParty_EN-GB9608177289_320x240.jpg)](https://www.bing.com/th?id=OHR.JubileeParty_EN-GB9608177289_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-07-03 | Meet an expert on the dog days of summer | Red fox (© Yossi Eshbol/Minden Pictures) | [![Meet an expert on the dog days of summer](https://www.bing.com/th?id=OHR.SummerDogs_EN-IN1477116261_320x240.jpg)](https://www.bing.com/th?id=OHR.SummerDogs_EN-IN1477116261_UHD.jpg) |
-| 2022-11-12 | A convocation of eagles assembles | Group of bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures) | [![A convocation of eagles assembles](https://www.bing.com/th?id=OHR.HainesEagle_EN-IN9562184202_320x240.jpg)](https://www.bing.com/th?id=OHR.HainesEagle_EN-IN9562184202_UHD.jpg) |
-| 2022-06-26 | An architectural wonder in Rajasthan | Amer Fort in Rajasthan, India (© Luigi Vaccarella/Sime/eStock Photo) | [![An architectural wonder in Rajasthan](https://www.bing.com/th?id=OHR.AmberFortJaipur_EN-IN5320407763_320x240.jpg)](https://www.bing.com/th?id=OHR.AmberFortJaipur_EN-IN5320407763_UHD.jpg) |
+| 2022-12-28 | A life-sized snow globe | Maloja, Switzerland (© Roberto Moiola/Getty) | [![A life-sized snow globe](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-IN7871621684_320x240.jpg)](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-IN7871621684_UHD.jpg) |
+| 2022-11-21 | Kickoff in Qatar | Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images) | [![Kickoff in Qatar](https://www.bing.com/th?id=OHR.FIFA2022_EN-IN0747471587_320x240.jpg)](https://www.bing.com/th?id=OHR.FIFA2022_EN-IN0747471587_UHD.jpg) |
+| 2022-11-25 | A symbol of peace | An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock) | [![A symbol of peace](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-IN2858135320_320x240.jpg)](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-IN2858135320_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-06-12 | An underwater paradise to explore | Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images) | [![An underwater paradise to explore](https://www.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_320x240.jpg)](https://www.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg) |
-| 2022-12-07 | Stretching out in the Everglades | A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images) | [![Stretching out in the Everglades](https://www.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg) |
-| 2022-10-27 | A ghost on the mountain | Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images) | [![A ghost on the mountain](https://www.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_320x240.jpg)](https://www.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg) |
+| 2022-05-15 | Trusty water-shifters | Windmills, Kinderdijk, Netherlands (© Achim Thomae/Getty Images) | [![Trusty water-shifters](https://www.bing.com/th?id=OHR.WindmillDay_EN-US5180406924_320x240.jpg)](https://www.bing.com/th?id=OHR.WindmillDay_EN-US5180406924_UHD.jpg) |
+| 2022-07-03 | We've made it to Halfway Day! | Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images) | [![We've made it to Halfway Day!](https://www.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_320x240.jpg)](https://www.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_UHD.jpg) |
+| 2022-11-12 | Honoring those who served | The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock) | [![Honoring those who served](https://www.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_320x240.jpg)](https://www.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-12-19 | La Venise des Alpes | Annecy pendant les fêtes (© Sabine Klein/Alamy Stock Photo) | [![La Venise des Alpes](https://www.bing.com/th?id=OHR.AnnecyXmas_FR-FR7613538506_320x240.jpg)](https://www.bing.com/th?id=OHR.AnnecyXmas_FR-FR7613538506_UHD.jpg) |
-| 2022-05-12 | Le sourire malgré tout | Infirmières de la Croix Rouge à Paris en mai 1919 (© Universal History Archive/Universal Images Group via Getty Images) | [![Le sourire malgré tout](https://www.bing.com/th?id=OHR.RedCross_FR-FR1123829831_320x240.jpg)](https://www.bing.com/th?id=OHR.RedCross_FR-FR1123829831_UHD.jpg) |
-| 2022-05-11 | Vue sur le grand bleu | Le village d’Oia sur l’île de Santorin, Grèce (© Zebra-Studio/Shutterstock) | [![Vue sur le grand bleu](https://www.bing.com/th?id=OHR.OiaVillage_FR-FR0741345231_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaVillage_FR-FR0741345231_UHD.jpg) |
+| 2022-06-26 | Des ours heureux | Maman ours brun et son ourson dans le parc national et réserve de Katmai, Alaska (© Suzi Eszterhas/Minden Pictures) | [![Des ours heureux](https://www.bing.com/th?id=OHR.BBMomCub_FR-FR4105345505_320x240.jpg)](https://www.bing.com/th?id=OHR.BBMomCub_FR-FR4105345505_UHD.jpg) |
+| 2022-06-12 | Seuls au monde | Les falaises Sierra Ponce et le Rio Grande, parc national de Big Bend, Texas (© Tim Fitzharris/Minden Pictures) | [![Seuls au monde](https://www.bing.com/th?id=OHR.SierraPonce_FR-FR2942722604_320x240.jpg)](https://www.bing.com/th?id=OHR.SierraPonce_FR-FR2942722604_UHD.jpg) |
+| 2022-12-07 | Cascade canadienne | Chutes de Tangle Creek dans le parc national de Jasper, Alberta, Canada (© Jeff Foott/Minden Pictures) | [![Cascade canadienne](https://www.bing.com/th?id=OHR.TangleCreekFalls_FR-FR3925649750_320x240.jpg)](https://www.bing.com/th?id=OHR.TangleCreekFalls_FR-FR3925649750_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-06-09 | Una pubblica dimostrazione d’amore | Abbazia di Sweetheart, Dumfries e Galloway, Scozia (© Westend61/Getty Images) | [![Una pubblica dimostrazione d’amore](https://www.bing.com/th?id=OHR.SweetheartAbbey_IT-IT8207713227_320x240.jpg)](https://www.bing.com/th?id=OHR.SweetheartAbbey_IT-IT8207713227_UHD.jpg) |
-| 2022-05-10 | Una foresta con 6mila anni di storia | Cascate di Panther Creek nella Foresta Nazionale di Gifford Pinchot, Washington (© Stephen Matera/Tandem Stills + Motion) | [![Una foresta con 6mila anni di storia](https://www.bing.com/th?id=OHR.GiffordPinchot_IT-IT5020682820_320x240.jpg)](https://www.bing.com/th?id=OHR.GiffordPinchot_IT-IT5020682820_UHD.jpg) |
-| 2022-11-21 | Calcio d'inizio in Qatar | Stadio Ahmad Bin Ali a Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images) | [![Calcio d'inizio in Qatar](https://www.bing.com/th?id=OHR.FIFA2022_IT-IT5594380664_320x240.jpg)](https://www.bing.com/th?id=OHR.FIFA2022_IT-IT5594380664_UHD.jpg) |
+| 2022-10-27 | Un bacio e un sospiro | Ponte dei Sospiri a Venezia (© Doug Pearson/Alamy) | [![Un bacio e un sospiro](https://www.bing.com/th?id=OHR.BridgeofSighs_IT-IT8041393229_320x240.jpg)](https://www.bing.com/th?id=OHR.BridgeofSighs_IT-IT8041393229_UHD.jpg) |
+| 2022-12-19 | Un cardinale poco religioso | Un cardinale rosso appollaiato su un cespuglio di bacche invernali nella contea di Marion, Illinois, USA (© Richard and Susan Day/Danita Delimont) | [![Un cardinale poco religioso](https://www.bing.com/th?id=OHR.WinterberryBush_IT-IT0716746142_320x240.jpg)](https://www.bing.com/th?id=OHR.WinterberryBush_IT-IT0716746142_UHD.jpg) |
+| 2022-05-12 | Pionieri della Croce Rossa Americana | Infermiere della Croce Rossa Americana a Parigi, nel maggio 1919 (© Universal History Archive/Universal Images Group via Getty Images) | [![Pionieri della Croce Rossa Americana](https://www.bing.com/th?id=OHR.RedCross_IT-IT6231651988_320x240.jpg)](https://www.bing.com/th?id=OHR.RedCross_IT-IT6231651988_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-11-22 | 今日は「小雪」 | 兼六園, 金沢 (© Darby Sawchuk/Alamy Stock Photo) | [![今日は「小雪」](https://www.bing.com/th?id=OHR.Shousetsu_kenrokuen_2022_JA-JP1329174286_320x240.jpg)](https://www.bing.com/th?id=OHR.Shousetsu_kenrokuen_2022_JA-JP1329174286_UHD.jpg) |
-| 2022-08-29 | エストニアの静かな海 | バルト海, エストニア (© fotoman-kharkov/Getty Images) | [![エストニアの静かな海](https://www.bing.com/th?id=OHR.EstoniaBaltic_JA-JP2738058235_320x240.jpg)](https://www.bing.com/th?id=OHR.EstoniaBaltic_JA-JP2738058235_UHD.jpg) |
-| 2022-11-19 | 米国 ザイオン国立公園 | ザイオン国立公園のバージン川, 米国 ユタ州 (© Jonathan Ross/Getty Images) | [![米国 ザイオン国立公園](https://www.bing.com/th?id=OHR.ZNPVR_JA-JP4870770425_320x240.jpg)](https://www.bing.com/th?id=OHR.ZNPVR_JA-JP4870770425_UHD.jpg) |
+| 2022-05-11 | エーゲ海の白い集落 | イア村, ギリシャ サントリーニ島 (© Zebra-Studio/Shutterstock) | [![エーゲ海の白い集落](https://www.bing.com/th?id=OHR.OiaVillage_JA-JP7599187139_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaVillage_JA-JP7599187139_UHD.jpg) |
+| 2022-06-09 | ダンフリーズ・アンド・ガロウェイの修道院 | スウィートハート修道院, イギリス スコットランド (© Westend61/Getty Images) | [![ダンフリーズ・アンド・ガロウェイの修道院](https://www.bing.com/th?id=OHR.SweetheartAbbey_JA-JP7796911981_320x240.jpg)](https://www.bing.com/th?id=OHR.SweetheartAbbey_JA-JP7796911981_UHD.jpg) |
+| 2022-05-10 | ギフォード・ピンショー国有林の滝 | パンサークリーク滝, 米国 ワシントン州 (© Stephen Matera/Tandem Stills + Motion) | [![ギフォード・ピンショー国有林の滝](https://www.bing.com/th?id=OHR.GiffordPinchot_JA-JP7486440023_320x240.jpg)](https://www.bing.com/th?id=OHR.GiffordPinchot_JA-JP7486440023_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-06-13 | 世界上最美好的绿洲？ | 行走在奥卡万戈河中的大象，博茨瓦纳，非洲南部 (© Markus Pavlowsky/Getty Images) | [![世界上最美好的绿洲？](https://www.bing.com/th?id=OHR.OkavangoElephant_ZH-CN0058670579_320x240.jpg)](https://www.bing.com/th?id=OHR.OkavangoElephant_ZH-CN0058670579_UHD.jpg) |
-| 2022-11-28 | 太阳系的第四颗行星 | 火星（© NASA/Alamy） | [![太阳系的第四颗行星](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_320x240.jpg)](https://www.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg) |
-| 2022-11-15 | 北美水獭 | 北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures) | [![北美水獭](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_320x240.jpg)](https://www.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_UHD.jpg) |
+| 2022-11-21 | 令人陶醉的海岛花园 | 伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock) | [![令人陶醉的海岛花园](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_320x240.jpg)](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg) |
+| 2022-11-22 | 赤狐 | 阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures) | [![赤狐](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_320x240.jpg)](https://www.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg) |
+| 2022-08-29 | 像湖一样的大海 | 爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images) | [![像湖一样的大海](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_320x240.jpg)](https://www.bing.com/th?id=OHR.EstoniaBaltic_ZH-CN0314555299_UHD.jpg) |
 

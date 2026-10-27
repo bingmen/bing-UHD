@@ -1,6 +1,6 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2025
 
-> Zuletzt aktualisiert：2026-10-26 06:23:42 UTC
+> Zuletzt aktualisiert：2026-10-27 03:46:21 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2025-12-09 | Im Blick des Guanako | Guanako, Punta Norte, Halbinsel Valdés, Argentinien (© Sylvain Cordier/naturepl.com) | [![Im Blick des Guanako](https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_320x240.jpg)](https://www.bing.com/th?id=OHR.LlamaDay_DE-DE8597548065_UHD.jpg) |
-| 2025-01-14 | Andalusische Idylle | Zahara de la Sierra, Cádiz, Spanien (© SEN LI/Getty Images) | [![Andalusische Idylle](https://www.bing.com/th?id=OHR.CadizSpain_DE-DE6446198457_320x240.jpg)](https://www.bing.com/th?id=OHR.CadizSpain_DE-DE6446198457_UHD.jpg) |
-| 2025-07-23 | Ein Staat innerhalb einer Stadt | Vatikanstadt mit dem Petersdom, Rom, Italien (© RudyBalasko/Getty Images) | [![Ein Staat innerhalb einer Stadt](https://www.bing.com/th?id=OHR.VaticanCity_DE-DE5887283665_320x240.jpg)](https://www.bing.com/th?id=OHR.VaticanCity_DE-DE5887283665_UHD.jpg) |
+| 2025-05-04 | Willkommen auf dem Planeten Naboo! | Plaza de España, Sevilla, Spanien (© Horia Merla/Getty Images) | [![Willkommen auf dem Planeten Naboo!](https://www.bing.com/th?id=OHR.SevilleNaboo_DE-DE9420581107_320x240.jpg)](https://www.bing.com/th?id=OHR.SevilleNaboo_DE-DE9420581107_UHD.jpg) |
+| 2025-09-16 | Ein stratosphärischer Erfolg | Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde (© Stocktrek Images/Getty Images) | [![Ein stratosphärischer Erfolg](https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_320x240.jpg)](https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_UHD.jpg) |
+| 2025-09-05 | Kalifornischer Abendzauber | Pacific Park, Santa Monica State Beach, Kalifornien, USA (© EXTREME-PHOTOGRAPHER/Getty Images) | [![Kalifornischer Abendzauber](https://www.bing.com/th?id=OHR.SunsetPier_DE-DE1211328081_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPier_DE-DE1211328081_UHD.jpg) |
 
 ## 🍁 [Englisch (Kanada)](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-03-27 | Cherry blossom season! | Cherry blossoms in Queen Elizabeth Park, Vancouver, Canada (© Kim Rogerson/Getty Images) | [![Cherry blossom season!](https://www.bing.com/th?id=OHR.Cherry25Blossom_EN-CA1808645687_320x240.jpg)](https://www.bing.com/th?id=OHR.Cherry25Blossom_EN-CA1808645687_UHD.jpg) |
-| 2025-08-13 | Wild, wise and wonderful | African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures) | [![Wild, wise and wonderful](https://www.bing.com/th?id=OHR.KenyaElephants_EN-CA6960133643_320x240.jpg)](https://www.bing.com/th?id=OHR.KenyaElephants_EN-CA6960133643_UHD.jpg) |
-| 2025-04-13 | 108 minutes that changed the world | View from the cupola of the International Space Station above the South Pacific Ocean (© NASA) | [![108 minutes that changed the world](https://www.bing.com/th?id=OHR.SpaceFlight_EN-CA9375956608_320x240.jpg)](https://www.bing.com/th?id=OHR.SpaceFlight_EN-CA9375956608_UHD.jpg) |
+| 2025-11-01 | Under the Halloween spell | Different kinds of pumpkins and gourds (© davidfillion/Getty Images) | [![Under the Halloween spell](https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_320x240.jpg)](https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg) |
+| 2025-12-09 | All is calm, all is bright | Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images) | [![All is calm, all is bright](https://www.bing.com/th?id=OHR.ComoChristmas_EN-CA3615556860_320x240.jpg)](https://www.bing.com/th?id=OHR.ComoChristmas_EN-CA3615556860_UHD.jpg) |
+| 2025-01-14 | 'Welsh' you a Happy Hen Galan! | Cottage and Tŵr Mawr lighthouse, Ynys Llanddwyn, Wales, United Kingdom (© Westend61 on Offset/Shutterstock) | [!['Welsh' you a Happy Hen Galan!](https://www.bing.com/th?id=OHR.CoastalWales_EN-CA1350466031_320x240.jpg)](https://www.bing.com/th?id=OHR.CoastalWales_EN-CA1350466031_UHD.jpg) |
 
 ## 🌹 [Englisch (Vereinigtes Königreich)](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-05-09 | Blending in and standing out | Common chameleon (© Photostock-Israel/SPL/Getty Images) | [![Blending in and standing out](https://www.bing.com/th?id=OHR.CuteChameleon_EN-GB9532983166_320x240.jpg)](https://www.bing.com/th?id=OHR.CuteChameleon_EN-GB9532983166_UHD.jpg) |
-| 2025-10-24 | From 'Grey Ghost' to ghost stories | Night view of the RMS Queen Mary, Long Beach, California, United States (© Kit Leong/Shutterstock) | [![From 'Grey Ghost' to ghost stories](https://www.bing.com/th?id=OHR.QueenMary_EN-GB3607133063_320x240.jpg)](https://www.bing.com/th?id=OHR.QueenMary_EN-GB3607133063_UHD.jpg) |
-| 2025-04-21 | Under the spell of the Milky Way | Joshua trees under the Milky Way, California, United States (© Chao Zhang/Getty Images) | [![Under the spell of the Milky Way](https://www.bing.com/th?id=OHR.JoshuaStars_EN-GB6081437558_320x240.jpg)](https://www.bing.com/th?id=OHR.JoshuaStars_EN-GB6081437558_UHD.jpg) |
+| 2025-07-22 | Epic sunsets and ancient secrets | Sunset over Badlands National Park, South Dakota, United States (© Petr Bednarik/Danita Delimont/Alamy Stock Photo) | [![Epic sunsets and ancient secrets](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-GB0865631210_320x240.jpg)](https://www.bing.com/th?id=OHR.BadlandsSunset_EN-GB0865631210_UHD.jpg) |
+| 2025-03-25 | Harbouring nice views | Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images) | [![Harbouring nice views](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-GB4487505878_320x240.jpg)](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-GB4487505878_UHD.jpg) |
+| 2025-08-12 | Wild, wise and wonderful | African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures) | [![Wild, wise and wonderful](https://www.bing.com/th?id=OHR.KenyaElephants_EN-GB9514305999_320x240.jpg)](https://www.bing.com/th?id=OHR.KenyaElephants_EN-GB9514305999_UHD.jpg) |
 
 ## 🦁 [Englisch (Indien)](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-05-28 | Otterly important | Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures) | [![Otterly important](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN8622946515_320x240.jpg)](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN8622946515_UHD.jpg) |
-| 2025-01-14 | Stringing traditions in the sky | Sky full of kites (© anand purohit/Getty Images) | [![Stringing traditions in the sky](https://www.bing.com/th?id=OHR.SkyKites_EN-IN7504370489_320x240.jpg)](https://www.bing.com/th?id=OHR.SkyKites_EN-IN7504370489_UHD.jpg) |
-| 2025-08-28 | This egret has no regrets | Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library) | [![This egret has no regrets](https://www.bing.com/th?id=OHR.WhiteEgret_EN-IN3331960000_320x240.jpg)](https://www.bing.com/th?id=OHR.WhiteEgret_EN-IN3331960000_UHD.jpg) |
+| 2025-04-13 | Let's celebrate Songkran! | Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images) | [![Let's celebrate Songkran!](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-IN4796043507_320x240.jpg)](https://www.bing.com/th?id=OHR.ThailandPagodas_EN-IN4796043507_UHD.jpg) |
+| 2025-05-10 | Gilded glory | Minnesota State Capitol, St. Paul, Minnesota, United States (© lavin photography/Getty Images) | [![Gilded glory](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-IN5291862812_320x240.jpg)](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-IN5291862812_UHD.jpg) |
+| 2025-10-25 | Finland's living peatland | Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock) | [![Finland's living peatland](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-IN6497772710_320x240.jpg)](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-IN6497772710_UHD.jpg) |
 
 ## 🗽 [Englisch (Vereinigte Staaten)](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-07-25 | Sticking together | Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images) | [![Sticking together](https://www.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_320x240.jpg)](https://www.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg) |
-| 2025-02-05 | A walk among the clouds | Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock) | [![A walk among the clouds](https://www.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg) |
-| 2025-09-17 | A stratospheric success | Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images) | [![A stratospheric success](https://www.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_320x240.jpg)](https://www.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg) |
+| 2025-04-22 | Under the spell of the Milky Way | Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images) | [![Under the spell of the Milky Way](https://www.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_320x240.jpg)](https://www.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg) |
+| 2025-05-28 | A shore thing | Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images) | [![A shore thing](https://www.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_320x240.jpg)](https://www.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg) |
+| 2025-01-14 | 'Welsh' you a Happy Hen Galan! | Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock) | [!['Welsh' you a Happy Hen Galan!](https://www.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_320x240.jpg)](https://www.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg) |
 
 ## 🐓 [Französisch (Frankreich)](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2025-01-25 | L'heure dorée à Porto | Porto, Portugal (© Starcevic/Getty Images) | [![L'heure dorée à Porto](https://www.bing.com/th?id=OHR.PortoSunset_FR-FR7243507947_320x240.jpg)](https://www.bing.com/th?id=OHR.PortoSunset_FR-FR7243507947_UHD.jpg) |
-| 2025-11-17 | Un dernier élan de couleur avant l’hiver | Forêt de mélèzes dorés, Alpes (© Jose Manuel Perez/Getty Images) | [![Un dernier élan de couleur avant l’hiver](https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_UHD.jpg) |
-| 2025-03-02 | Une vue eucalyp-tique | Eucalyptus, vallée de Megalong, parc national des Blue Mountains, Australie (© Andrew Peacock/TANDEM Stills + Motion) | [![Une vue eucalyp-tique](https://www.bing.com/th?id=OHR.EucalyptusForest_FR-FR3221720443_320x240.jpg)](https://www.bing.com/th?id=OHR.EucalyptusForest_FR-FR3221720443_UHD.jpg) |
+| 2025-08-28 | Ça vit d’air pur et d’eau fraîche, une aigrette | Grande Aigrette, Hongrie (© Markus Varesvuo/Nature Picture Library) | [![Ça vit d’air pur et d’eau fraîche, une aigrette](https://www.bing.com/th?id=OHR.WhiteEgret_FR-FR1372532221_320x240.jpg)](https://www.bing.com/th?id=OHR.WhiteEgret_FR-FR1372532221_UHD.jpg) |
+| 2025-07-25 | Plus d’appétit qu’un barracuda | Banc de barracudas chevrons, Shark Reef, parc national de Ras Mohammed, péninsule du Sinaï, Égypte (© Alex Mustard/Nature Picture Library) | [![Plus d’appétit qu’un barracuda](https://www.bing.com/th?id=OHR.BlackfinBarracuda_FR-FR4425436788_320x240.jpg)](https://www.bing.com/th?id=OHR.BlackfinBarracuda_FR-FR4425436788_UHD.jpg) |
+| 2025-02-05 | Des bêêh-liers pas comme les autres | Moutons Scottish Blackface, Écosse (© Mike Powles/Getty Images) | [![Des bêêh-liers pas comme les autres](https://www.bing.com/th?id=OHR.ScottishSheep_FR-FR6098426442_320x240.jpg)](https://www.bing.com/th?id=OHR.ScottishSheep_FR-FR6098426442_UHD.jpg) |
 
 ## ⭐ [Italienisch (Italien)](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2025-02-06 | Passato e tradizione per un futuro di unione | Isole Archway, Spiaggia di Wharariki, Isola del Sud, Nuova Zelanda (© Francesco Vaninetti/AWL/plainpicture) | [![Passato e tradizione per un futuro di unione](https://www.bing.com/th?id=OHR.WhararikiBeach_IT-IT3025215693_320x240.jpg)](https://www.bing.com/th?id=OHR.WhararikiBeach_IT-IT3025215693_UHD.jpg) |
-| 2025-12-31 | Fuochi di Speranza | Capodanno, Venezia (© Marco Secchi/Collaboratore/Getty Images News) | [![Fuochi di Speranza](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_320x240.jpg)](https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg) |
-| 2025-05-30 | Dolce canta la corrente | Fiume Little Pigeon, Parco Nazionale delle Great Smoky Mountains, Tennessee, USA (© GreenStock/Getty Images) | [![Dolce canta la corrente](https://www.bing.com/th?id=OHR.LittlePigeonRiver_IT-IT1807202812_320x240.jpg)](https://www.bing.com/th?id=OHR.LittlePigeonRiver_IT-IT1807202812_UHD.jpg) |
+| 2025-09-17 | Ho visto un re? | Giovane alce maschio nel Parco Nazionale di Denali, Alaska, USA (© Grant Ordelheide/TANDEM Stills + Motion) | [![Ho visto un re?](https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_320x240.jpg)](https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_UHD.jpg) |
+| 2025-01-25 | Dolce scorre il fiume... | Porto, Portogallo (© Starcevic/Getty Images) | [![Dolce scorre il fiume...](https://www.bing.com/th?id=OHR.PortoSunset_IT-IT1632622830_320x240.jpg)](https://www.bing.com/th?id=OHR.PortoSunset_IT-IT1632622830_UHD.jpg) |
+| 2025-11-17 | Puri parchi? | Parco Nazionale Shenandoah, Virginia, USA (© Michael Ver Sprill/Getty Images) | [![Puri parchi?](https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_320x240.jpg)](https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_UHD.jpg) |
 
 ## 🌸 [Japanisch (Japan)](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2025-05-25 | 色とりどりの花が咲く庭園 | ブッチャート・ガーデン,  カナダ ブリティッシュコロンビア州 (© 2009fotofriends/Shutterstock) | [![色とりどりの花が咲く庭園](https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_320x240.jpg)](https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_UHD.jpg) |
-| 2025-09-03 | 今日は米国原生自然法制定の記念日 | バウンダリー・ウォーターズ・カヌー・エリア・ウィルダネス, 米国 ミネソタ州 (© s.tomas/Shutterstock) | [![今日は米国原生自然法制定の記念日](https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_320x240.jpg)](https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_UHD.jpg) |
-| 2025-09-02 | デッドフレイにあるキャメルソーン | ナミブ＝ナウクルフト国立公園, ナミビア (© Inge Johnsson/Alamy) | [![デッドフレイにあるキャメルソーン](https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989_320x240.jpg)](https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989_UHD.jpg) |
+| 2025-03-02 | 明日は世界野生生物の日 | ミナミキバシコサイチョウ, 南アフリカ (© Richard Du Toit/Minden Pictures) | [![明日は世界野生生物の日](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_320x240.jpg)](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_UHD.jpg) |
+| 2025-02-06 | 今日はワイタンギ・デー | アーチウェイ諸島, ニュージーランド (© Francesco Vaninetti/AWL/plainpicture) | [![今日はワイタンギ・デー](https://www.bing.com/th?id=OHR.WhararikiBeach_JA-JP9113396067_320x240.jpg)](https://www.bing.com/th?id=OHR.WhararikiBeach_JA-JP9113396067_UHD.jpg) |
+| 2025-12-31 | 今日は大晦日 | 輪王寺の梵鐘, 宮城県 仙台市 (© Grandbrothers/Alamy) | [![今日は大晦日](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_320x240.jpg)](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_UHD.jpg) |
 
 ## 🐉 [Vereinfachtes Chinesisch (China)](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2025-07-19 | 化石、瀑布与林间小径 | 幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images) | [![化石、瀑布与林间小径](https://www.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_320x240.jpg)](https://www.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg) |
-| 2025-02-04 | 云端漫步 | 金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock) | [![云端漫步](https://www.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg) |
-| 2025-05-20 | 小翅膀，大作用 | 薰衣草上的蜜蜂 (© Anthony Brown/Alamy Stock Photo) | [![小翅膀，大作用](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_320x240.jpg)](https://www.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg) |
+| 2025-05-30 | 流经烟雾弥漫之地 | 小鸽子河，大雾山国家公园，田纳西州, 美国 (© GreenStock/Getty Images) | [![流经烟雾弥漫之地](https://www.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_320x240.jpg)](https://www.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg) |
+| 2025-05-25 | 绽放于你所在之地 | 布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大 (© 2009fotofriends/Shutterstock) | [![绽放于你所在之地](https://www.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_320x240.jpg)](https://www.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg) |
+| 2025-09-03 | 享受宁静 | 边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock) | [![享受宁静](https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_320x240.jpg)](https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg) |
 

@@ -1,6 +1,6 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2022
 
-> 最后更新：2026-10-26 06:23:42 UTC
+> 最后更新：2026-10-27 03:46:21 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-12-18 | Die Heilkraft des Abwassers | Thermalfreibad Blaue Lagune (Bláa Lónið), Grindavík, Island (© Westend61/Getty Images) | [![Die Heilkraft des Abwassers](https://www.bing.com/th?id=OHR.BlueLagoon_DE-DE3379100071_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLagoon_DE-DE3379100071_UHD.jpg) |
-| 2022-10-18 | Nachts außerhalb des Museums | Guggenheim-Museum Bilbao, Spanien (© Jeremy Horner/Getty Images) | [![Nachts außerhalb des Museums](https://www.bing.com/th?id=OHR.GB25Anni_DE-DE7299315520_320x240.jpg)](https://www.bing.com/th?id=OHR.GB25Anni_DE-DE7299315520_UHD.jpg) |
-| 2022-10-22 | Im Land der Karstberge | Karstberge im Nationalpark Guilin und Lijiang, Volksrepublik China (© Sean Pavone/Alamy) | [![Im Land der Karstberge](https://www.bing.com/th?id=OHR.KarstMountains_DE-DE3252732573_320x240.jpg)](https://www.bing.com/th?id=OHR.KarstMountains_DE-DE3252732573_UHD.jpg) |
+| 2022-06-07 | Beliebt bei Jung und Alt | Haaga-Rhododendron-Park, Helsinki, Finnland (© Samuli Vainionpää/Getty Images) | [![Beliebt bei Jung und Alt](https://www.bing.com/th?id=OHR.HaagaRhododendron_DE-DE0023275997_320x240.jpg)](https://www.bing.com/th?id=OHR.HaagaRhododendron_DE-DE0023275997_UHD.jpg) |
+| 2022-11-08 | Hoffnungen und Gebete steigen in den Himmel | Abhebende Himmelslaternen während des Yi-Peng-Festivals in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images) | [![Hoffnungen und Gebete steigen in den Himmel](https://www.bing.com/th?id=OHR.YiPeng_DE-DE5545632427_320x240.jpg)](https://www.bing.com/th?id=OHR.YiPeng_DE-DE5545632427_UHD.jpg) |
+| 2022-10-14 | Herbst auf der Schwäbischen Alb | Blick auf die Burg Hohenzollern in der Nähe von Hechingen, Schwäbische Alb, Baden-Württemberg (© Cornelia Dorr/eStock Photo) | [![Herbst auf der Schwäbischen Alb](https://www.bing.com/th?id=OHR.HohenzollernHechingen_DE-DE6506429965_320x240.jpg)](https://www.bing.com/th?id=OHR.HohenzollernHechingen_DE-DE6506429965_UHD.jpg) |
 
 ## 🍁 [英语（加拿大）](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-05-05 | The sun sets on the Valley of the Moon | Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images) | [![The sun sets on the Valley of the Moon](https://www.bing.com/th?id=OHR.WadiRum_EN-CA0158371017_320x240.jpg)](https://www.bing.com/th?id=OHR.WadiRum_EN-CA0158371017_UHD.jpg) |
-| 2022-12-28 | The healing powers of wastewater | Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images) | [![The healing powers of wastewater](https://www.bing.com/th?id=OHR.BlueLagoon_EN-CA9961489115_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLagoon_EN-CA9961489115_UHD.jpg) |
-| 2022-10-22 | Leaf-peeping Southern style | Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion) | [![Leaf-peeping Southern style](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-CA8092143388_320x240.jpg)](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-CA8092143388_UHD.jpg) |
+| 2022-08-05 | Pastel perfection | Farmers collecting the water lilies in the Satla marshland near Bagdha, Barishal, Bangladesh (© Mustasinur Rahman Alvi/Future Publishing via Getty Images) | [![Pastel perfection](https://www.bing.com/th?id=OHR.BangladeshWaterLilies_EN-CA4461842343_320x240.jpg)](https://www.bing.com/th?id=OHR.BangladeshWaterLilies_EN-CA4461842343_UHD.jpg) |
+| 2022-12-18 | As curious about you as you are about them | Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures) | [![As curious about you as you are about them](https://www.bing.com/th?id=OHR.GlacierGoats_EN-CA7684310227_320x240.jpg)](https://www.bing.com/th?id=OHR.GlacierGoats_EN-CA7684310227_UHD.jpg) |
+| 2022-10-18 | Widespread and long-eared | Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy) | [![Widespread and long-eared](https://www.bing.com/th?id=OHR.SwedenOwl_EN-CA5369836544_320x240.jpg)](https://www.bing.com/th?id=OHR.SwedenOwl_EN-CA5369836544_UHD.jpg) |
 
 ## 🌹 [英语（英国）](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-12-19 | Shining city on the hill | Village of Castelmezzano, Potenza, Basilicata, Italy (© Roberto Moiola/Getty Images) | [![Shining city on the hill](https://www.bing.com/th?id=OHR.SanMartinoVillage_EN-GB5026758515_320x240.jpg)](https://www.bing.com/th?id=OHR.SanMartinoVillage_EN-GB5026758515_UHD.jpg) |
-| 2022-07-31 | ‘Night shining’ clouds | Noctilucent clouds in Lithuania (© ljphoto7/Getty Images) | [![‘Night shining’ clouds](https://www.bing.com/th?id=OHR.NoctilucentClouds_EN-GB0768251349_320x240.jpg)](https://www.bing.com/th?id=OHR.NoctilucentClouds_EN-GB0768251349_UHD.jpg) |
-| 2022-10-29 | Angel of the sea | Sea angel (© Alexander Semenov Images/Shutterstock) | [![Angel of the sea](https://www.bing.com/th?id=OHR.SeaAngel_EN-GB7917935603_320x240.jpg)](https://www.bing.com/th?id=OHR.SeaAngel_EN-GB7917935603_UHD.jpg) |
+| 2022-10-21 | Autumn in Georgia | Cypress trees in autumn, Georgia, USA (© Chris Moore/Tandem Stills + Motion) | [![Autumn in Georgia](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-GB9504869167_320x240.jpg)](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-GB9504869167_UHD.jpg) |
+| 2022-05-04 | Sunset on the Valley of the Moon | Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images) | [![Sunset on the Valley of the Moon](https://www.bing.com/th?id=OHR.WadiRum_EN-GB6085895254_320x240.jpg)](https://www.bing.com/th?id=OHR.WadiRum_EN-GB6085895254_UHD.jpg) |
+| 2022-12-28 | In hot water | Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images) | [![In hot water](https://www.bing.com/th?id=OHR.BlueLagoon_EN-GB2939660477_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLagoon_EN-GB2939660477_UHD.jpg) |
 
 ## 🦁 [英语（印度）](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-09-12 | A different kind of toucan | Chestnut-eared aracari in the Pantanal region of Brazil (© Ana Gram/Shutterstock) | [![A different kind of toucan](https://www.bing.com/th?id=OHR.Aracari_EN-IN1457900474_320x240.jpg)](https://www.bing.com/th?id=OHR.Aracari_EN-IN1457900474_UHD.jpg) |
-| 2022-10-13 | When being in a rut is OK | Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![When being in a rut is OK](https://www.bing.com/th?id=OHR.AlaskaMoose_EN-IN6174173002_320x240.jpg)](https://www.bing.com/th?id=OHR.AlaskaMoose_EN-IN6174173002_UHD.jpg) |
-| 2022-12-22 | Season of light in the City of Light | Christmas tree of the Galeries Lafayette in Paris, France (© Geoffroy Van der Hasselt/AFP via Getty Images) | [![Season of light in the City of Light](https://www.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-IN7621301328_320x240.jpg)](https://www.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-IN7621301328_UHD.jpg) |
+| 2022-10-22 | Misty mountain hop | Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy) | [![Misty mountain hop](https://www.bing.com/th?id=OHR.KarstMountains_EN-IN4213912109_320x240.jpg)](https://www.bing.com/th?id=OHR.KarstMountains_EN-IN4213912109_UHD.jpg) |
+| 2022-12-19 | Heaven meets Earth! | Dudhsagar Falls, Goa, India (© Lucky-photographer/Getty Images) | [![Heaven meets Earth!](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_EN-IN2838572674_320x240.jpg)](https://www.bing.com/th?id=OHR.DudhsagarFallsGoa_EN-IN2838572674_UHD.jpg) |
+| 2022-08-01 | 'Switzerland of India' | The hill station of Kausani in Uttarakhand, India (© Amit kg/Shutterstock) | [!['Switzerland of India'](https://www.bing.com/th?id=OHR.KausaniIndia_EN-IN8742428501_320x240.jpg)](https://www.bing.com/th?id=OHR.KausaniIndia_EN-IN8742428501_UHD.jpg) |
 
 ## 🗽 [英语（美国）](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-06-14 | The world's greatest oasis? | Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images) | [![The world's greatest oasis?](https://www.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_320x240.jpg)](https://www.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg) |
-| 2022-09-13 | A different kind of toucan | Chestnut-eared aracari in the Pantanal region of Brazil (© Ana Gram/Shutterstock) | [![A different kind of toucan](https://www.bing.com/th?id=OHR.Aracari_EN-US6920359857_320x240.jpg)](https://www.bing.com/th?id=OHR.Aracari_EN-US6920359857_UHD.jpg) |
-| 2022-07-28 | The lonely castle | Nabataean tomb in Mada'in Saleh (aka Hegra), Saudi Arabia (© Tuul & Bruno Morandi/Getty Images) | [![The lonely castle](https://www.bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_320x240.jpg)](https://www.bing.com/th?id=OHR.NabateanTomb_EN-US4126304993_UHD.jpg) |
+| 2022-10-30 | Angel of the sea | Sea angel (© Alexander Semenov Images/Shutterstock) | [![Angel of the sea](https://www.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_320x240.jpg)](https://www.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg) |
+| 2022-09-12 | America remembers | Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock) | [![America remembers](https://www.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_320x240.jpg)](https://www.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg) |
+| 2022-10-13 | Stepping back in time | Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont) | [![Stepping back in time](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_320x240.jpg)](https://www.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg) |
 
 ## 🐓 [法语（法国）](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-12-26 | Le lendemain de Noël | Parc près de Beverly, Yorkshire, Angleterre (© Les Gibbon/Alamy) | [![Le lendemain de Noël](https://www.bing.com/th?id=OHR.BeverleyWestwood_FR-FR9155658622_320x240.jpg)](https://www.bing.com/th?id=OHR.BeverleyWestwood_FR-FR9155658622_UHD.jpg) |
-| 2022-09-20 | La meilleure sieste | Radeau de loutres de mer en Alaska, USA (© Robert Harding/Offset/Shutterstock) | [![La meilleure sieste](https://www.bing.com/th?id=OHR.SitkaOtters_FR-FR3538056726_320x240.jpg)](https://www.bing.com/th?id=OHR.SitkaOtters_FR-FR3538056726_UHD.jpg) |
-| 2022-12-03 | De l’art à la plage | Ocean Drive, Miami Beach, Floride, États-Unis (© Matteo Colombo/Getty Images) | [![De l’art à la plage](https://www.bing.com/th?id=OHR.MiamiDT_FR-FR3331667702_320x240.jpg)](https://www.bing.com/th?id=OHR.MiamiDT_FR-FR3331667702_UHD.jpg) |
+| 2022-12-22 | Le temple du shopping | Le sapin des Galeries Lafayette à Paris (© Geoffroy Van der Hasselt/AFP via Getty Images) | [![Le temple du shopping](https://www.bing.com/th?id=OHR.TreeGaleriesLafayette_FR-FR8397010360_320x240.jpg)](https://www.bing.com/th?id=OHR.TreeGaleriesLafayette_FR-FR8397010360_UHD.jpg) |
+| 2022-06-14 | Le Met | Le Metropolitan Museum of Art, New York (© Susanne Pommer/Shutterstock) | [![Le Met](https://www.bing.com/th?id=OHR.MuseumMile_FR-FR3219192937_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumMile_FR-FR3219192937_UHD.jpg) |
+| 2022-09-13 | Mer de sable | Parc national et réserve des Great Sand Dunes, Colorado, USA (© Y Paudel/Getty Images) | [![Mer de sable](https://www.bing.com/th?id=OHR.GSDNPest_FR-FR1263781052_320x240.jpg)](https://www.bing.com/th?id=OHR.GSDNPest_FR-FR1263781052_UHD.jpg) |
 
 ## ⭐ [意大利语（意大利）](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-11-06 | Di corsa lungo il ponte | Maratoneti sul ponte Verrazano-Narrows, New York City, Stati Uniti (© David Madison/Getty Images) | [![Di corsa lungo il ponte](https://www.bing.com/th?id=OHR.MarathonSunday_IT-IT7207610885_320x240.jpg)](https://www.bing.com/th?id=OHR.MarathonSunday_IT-IT7207610885_UHD.jpg) |
-| 2022-05-05 | Questa flora blu vale più dell’oro | Albero in un campo di agave blu vicino a Atotonilco el Alto, Jalisco, Messico (© Brian Overcast/Alamy) | [![Questa flora blu vale più dell’oro](https://www.bing.com/th?id=OHR.JaliscoAgave_IT-IT5750651181_320x240.jpg)](https://www.bing.com/th?id=OHR.JaliscoAgave_IT-IT5750651181_UHD.jpg) |
-| 2022-10-15 | Giornata Internazionale dell'Archeologia | Sito archeologico di Naqsh-e Rostam vicino a Persepoli, Iran (© mshirani/Shutterstock) | [![Giornata Internazionale dell'Archeologia](https://www.bing.com/th?id=OHR.NaqsheRustam_IT-IT1805838500_320x240.jpg)](https://www.bing.com/th?id=OHR.NaqsheRustam_IT-IT1805838500_UHD.jpg) |
+| 2022-07-28 | Le montagne viola | Longs Peak nel Parco Nazionale delle Montagne Rocciose, Colorado, USA (© Andrew R. Slaton/Tandem Stills + Motion) | [![Le montagne viola](https://www.bing.com/th?id=OHR.LongsPeak_IT-IT7923638021_320x240.jpg)](https://www.bing.com/th?id=OHR.LongsPeak_IT-IT7923638021_UHD.jpg) |
+| 2022-12-26 | Divertimento in famiglia | Beverley Westwood, Yorkshire, Inghilterra (© Les Gibbon/Alamy) | [![Divertimento in famiglia](https://www.bing.com/th?id=OHR.BeverleyWestwood_IT-IT0679247623_320x240.jpg)](https://www.bing.com/th?id=OHR.BeverleyWestwood_IT-IT0679247623_UHD.jpg) |
+| 2022-09-20 | L’orsacchiotto del mare | Un gruppo di lontre marine che galleggia nel Sitka Sound, vicino a Sitka, Alaska, USA (© Robert Harding/Offset/Shutterstock) | [![L’orsacchiotto del mare](https://www.bing.com/th?id=OHR.SitkaOtters_IT-IT9847358142_320x240.jpg)](https://www.bing.com/th?id=OHR.SitkaOtters_IT-IT9847358142_UHD.jpg) |
 
 ## 🌸 [日语（日本）](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-07-09 | 今日はジェットコースターの日 | シャンバラ・ジェットコースター, スペイン, コスタ・ドラダ (© Joaquim F. P./Getty Images) | [![今日はジェットコースターの日](https://www.bing.com/th?id=OHR.PortAventura_JA-JP0720127309_320x240.jpg)](https://www.bing.com/th?id=OHR.PortAventura_JA-JP0720127309_UHD.jpg) |
-| 2022-10-28 | フランケンシュタイン・フライデー | レマン湖上空の嵐, スイス ジュネーブ (© Suradech Singhanat/Shutterstock) | [![フランケンシュタイン・フライデー](https://www.bing.com/th?id=OHR.FrankensteinFriday_JA-JP8113582111_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankensteinFriday_JA-JP8113582111_UHD.jpg) |
-| 2022-10-24 | 今日は「ディワリ」 | ディワリを祝うランゴリ, インド グワーハーティー (© Biju Boro/Getty Images) | [![今日は「ディワリ」](https://www.bing.com/th?id=OHR.GuwahatiDiwali_JA-JP0301518111_320x240.jpg)](https://www.bing.com/th?id=OHR.GuwahatiDiwali_JA-JP0301518111_UHD.jpg) |
+| 2022-12-03 | アート・バーゼル・マイアミビーチ | マイアミビーチ, 米国 フロリダ州 (© Matteo Colombo/Getty Images) | [![アート・バーゼル・マイアミビーチ](https://www.bing.com/th?id=OHR.MiamiDT_JA-JP5319718687_320x240.jpg)](https://www.bing.com/th?id=OHR.MiamiDT_JA-JP5319718687_UHD.jpg) |
+| 2022-11-06 | ニューヨークシティマラソン開催 | ヴェラザノ＝ナローズ橋, 米国 ニューヨーク (© David Madison/Getty Images) | [![ニューヨークシティマラソン開催](https://www.bing.com/th?id=OHR.MarathonSunday_JA-JP2868800230_320x240.jpg)](https://www.bing.com/th?id=OHR.MarathonSunday_JA-JP2868800230_UHD.jpg) |
+| 2022-05-05 | 今日は「こどもの日」 | 大正浪漫夢通りの鯉のぼり, 埼玉 川越市 (© Toa55/iStock/Getty Images Plusc) | [![今日は「こどもの日」](https://www.bing.com/th?id=OHR.ChildrenDay2022_JA-JP1806280876_320x240.jpg)](https://www.bing.com/th?id=OHR.ChildrenDay2022_JA-JP1806280876_UHD.jpg) |
 
 ## 🐉 [简体中文（中国）](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-05-31 | 一只伶俐可爱的小鸟掠过 | 展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images) | [![一只伶俐可爱的小鸟掠过](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_320x240.jpg)](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg) |
-| 2022-10-20 | 到哪都挂着 | 塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures) | [![到哪都挂着](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_320x240.jpg)](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg) |
-| 2022-09-24 | 繁星闪烁的夜晚 | 阿卡迪亚国家公园上空的银河系，美国缅因州 (© Harry Collins/Getty Images) | [![繁星闪烁的夜晚](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_320x240.jpg)](https://www.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg) |
+| 2022-10-15 | 国际考古日 | 纳克什鲁斯塔姆遗址，伊朗波斯波利斯 (© mshirani/Shutterstock) | [![国际考古日](https://www.bing.com/th?id=OHR.NaqsheRustam_ZH-CN9695151436_320x240.jpg)](https://www.bing.com/th?id=OHR.NaqsheRustam_ZH-CN9695151436_UHD.jpg) |
+| 2022-07-09 | 彩虹桥 | 多洛米蒂山上空的银河，意大利 (© Carlos Fernandez/Getty Images) | [![彩虹桥](https://www.bing.com/th?id=OHR.DolomitesMW_ZH-CN3307894335_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesMW_ZH-CN3307894335_UHD.jpg) |
+| 2022-10-28 | 一个黑暗的暴风雨之夜 | 洛桑日内瓦湖上空的暴风雨，瑞典 (© Suradech Singhanat/Shutterstock) | [![一个黑暗的暴风雨之夜](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg) |
 

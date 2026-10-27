@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2023
 
-> Last updated：2026-10-26 06:23:42 UTC
+> Last updated：2026-10-27 03:46:21 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2023-10-16 | Einfach zauberhaft | Goldene Lärchen und Prusik Peak, Enchantments, Washington, USA (© Jim Patterson/Tandem Stills + Motion) | [![Einfach zauberhaft](https://www.bing.com/th?id=OHR.GoldenEnchantments_DE-DE4721952081_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenEnchantments_DE-DE4721952081_UHD.jpg) |
-| 2023-12-06 | Globus der Wissenschaft | Der Globe of Science and Innovation, Meyrin, Schweiz (© Deyan Baric/Alamy Stock Photo) | [![Globus der Wissenschaft](https://www.bing.com/th?id=OHR.CERNCenter_DE-DE6757496511_320x240.jpg)](https://www.bing.com/th?id=OHR.CERNCenter_DE-DE6757496511_UHD.jpg) |
-| 2023-02-09 | Was sind das für schöne Sandwellen? | Unterer Antelope Canyon in Arizona, USA (© AZCat/Getty Images) | [![Was sind das für schöne Sandwellen?](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_DE-DE2106180406_320x240.jpg)](https://www.bing.com/th?id=OHR.LowerAntelopeAZ_DE-DE2106180406_UHD.jpg) |
+| 2023-12-19 | Polnische Raststätte des Weihnachtsmanns | Weihnachtsbaum auf dem Schlossplatz, Altstadt, Warschau, Polen (© Panther Media GmbH/Alamy Stock Photo) | [![Polnische Raststätte des Weihnachtsmanns](https://www.bing.com/th?id=OHR.WarsawChristmas_DE-DE0154947188_320x240.jpg)](https://www.bing.com/th?id=OHR.WarsawChristmas_DE-DE0154947188_UHD.jpg) |
+| 2023-03-11 | Wie Farbe auf Leinwand | Sumpfgebiet, Gloucester, Massachusetts, USA (© Thomas H. Mitchell/Getty Images) | [![Wie Farbe auf Leinwand](https://www.bing.com/th?id=OHR.LongWharf_DE-DE5216800013_320x240.jpg)](https://www.bing.com/th?id=OHR.LongWharf_DE-DE5216800013_UHD.jpg) |
+| 2023-01-08 | Winter in Colorado | Breckenridge, Colorado, USA (© Sean Pavone/Shutterstock) | [![Winter in Colorado](https://www.bing.com/th?id=OHR.Breckenridge_DE-DE5751584348_320x240.jpg)](https://www.bing.com/th?id=OHR.Breckenridge_DE-DE5751584348_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-04-17 | Go fly a kite! | Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy) | [![Go fly a kite!](https://www.bing.com/th?id=OHR.KiteDay_EN-CA8350748247_320x240.jpg)](https://www.bing.com/th?id=OHR.KiteDay_EN-CA8350748247_UHD.jpg) |
-| 2023-06-29 | Pride and Joy | Rainbow flags and confetti (© Arctic-Images/Getty Images) | [![Pride and Joy](https://www.bing.com/th?id=OHR.PrideIceland_EN-CA3805551224_320x240.jpg)](https://www.bing.com/th?id=OHR.PrideIceland_EN-CA3805551224_UHD.jpg) |
-| 2023-07-29 | A blue-tiful island | San Blas Islands, Panama (© bgremler/Shutterstock) | [![A blue-tiful island](https://www.bing.com/th?id=OHR.SanBlasIslands_EN-CA7027911933_320x240.jpg)](https://www.bing.com/th?id=OHR.SanBlasIslands_EN-CA7027911933_UHD.jpg) |
+| 2023-01-15 | A delightful day for donkeys | Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy) | [![A delightful day for donkeys](https://www.bing.com/th?id=OHR.DonkeyFeast_EN-CA2038728743_320x240.jpg)](https://www.bing.com/th?id=OHR.DonkeyFeast_EN-CA2038728743_UHD.jpg) |
+| 2023-10-16 | This spot's taken | European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures) | [![This spot's taken](https://www.bing.com/th?id=OHR.AutumnHedgehog_EN-CA1617213457_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnHedgehog_EN-CA1617213457_UHD.jpg) |
+| 2023-12-06 | Straight out of a fairytale | Neuschwanstein and Hohenschwangau Castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images) | [![Straight out of a fairytale](https://www.bing.com/th?id=OHR.AlpsCastles_EN-CA3984381282_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpsCastles_EN-CA3984381282_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-02-11 | Masterpiece of acoustic engineering | Ancient theater of Epidaurus in Argolis province, Greece (© George Pachantouris/Getty Images) | [![Masterpiece of acoustic engineering](https://www.bing.com/th?id=OHR.EpidaurusGreece_EN-GB6133832851_320x240.jpg)](https://www.bing.com/th?id=OHR.EpidaurusGreece_EN-GB6133832851_UHD.jpg) |
-| 2023-01-14 | Sequoias of the sea | Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock) | [![Sequoias of the sea](https://www.bing.com/th?id=OHR.Pneumatocysts_EN-GB9676187936_320x240.jpg)](https://www.bing.com/th?id=OHR.Pneumatocysts_EN-GB9676187936_UHD.jpg) |
-| 2023-09-06 | Ready to drop anchor? | Rethymno, Crete Island, Greece (© Gatsi/Getty Images) | [![Ready to drop anchor?](https://www.bing.com/th?id=OHR.CreteHarbor_EN-GB2096168331_320x240.jpg)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-GB2096168331_UHD.jpg) |
+| 2023-02-07 | When landscape met wilderness | Fiordland National Park in South Island, New Zealand (© WitR/Adobe Stock) | [![When landscape met wilderness](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-GB5123956704_320x240.jpg)](https://www.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-GB5123956704_UHD.jpg) |
+| 2023-04-16 | Go fly a kite! | Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy) | [![Go fly a kite!](https://www.bing.com/th?id=OHR.KiteDay_EN-GB6715857463_320x240.jpg)](https://www.bing.com/th?id=OHR.KiteDay_EN-GB6715857463_UHD.jpg) |
+| 2023-06-28 | A vibrant, sun-drenched island | Procida, Italy (© Sean Pavone/Shutterstock) | [![A vibrant, sun-drenched island](https://www.bing.com/th?id=OHR.ProcidaItaly_EN-GB9713968263_320x240.jpg)](https://www.bing.com/th?id=OHR.ProcidaItaly_EN-GB9713968263_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-05-18 | Sunlight turning silver to gold | Museo Soumaya, Plaza Carso building, Mexico City, Mexico (© Juan Romero/Alamy) | [![Sunlight turning silver to gold](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-IN1926951073_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-IN1926951073_UHD.jpg) |
-| 2023-08-20 | Sentinel of the sea | Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures) | [![Sentinel of the sea](https://www.bing.com/th?id=OHR.StartPointLight_EN-IN1058064247_320x240.jpg)](https://www.bing.com/th?id=OHR.StartPointLight_EN-IN1058064247_UHD.jpg) |
-| 2023-03-30 | Regal Radiance | Peacock feathers (© Sarayut Thaneerat/Getty Images) | [![Regal Radiance](https://www.bing.com/th?id=OHR.PeacockFeathers_EN-IN8331887553_320x240.jpg)](https://www.bing.com/th?id=OHR.PeacockFeathers_EN-IN8331887553_UHD.jpg) |
+| 2023-07-29 | Stripes in sight | Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures) | [![Stripes in sight](https://www.bing.com/th?id=OHR.TigerIndia_EN-IN2198312831_320x240.jpg)](https://www.bing.com/th?id=OHR.TigerIndia_EN-IN2198312831_UHD.jpg) |
+| 2023-02-13 | Fly me to the moon | Achaches lookout, Valley of the Moon, Chile (© Ignacio Palacios/Getty Images) | [![Fly me to the moon](https://www.bing.com/th?id=OHR.MoonValley_EN-IN8236419836_320x240.jpg)](https://www.bing.com/th?id=OHR.MoonValley_EN-IN8236419836_UHD.jpg) |
+| 2023-01-16 | Scenic Mount Michener | Mount Michener and a frozen Abraham Lake in Alberta, Canada (© Tom Mackie/plainpicture) | [![Scenic Mount Michener](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_EN-IN7514803517_320x240.jpg)](https://www.bing.com/th?id=OHR.FrozenBubblesAlberta_EN-IN7514803517_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-10-16 | This spot's taken | European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures) | [![This spot's taken](https://www.bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg) |
-| 2023-09-18 | Can you answer the call? | Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures) | [![Can you answer the call?](https://www.bing.com/th?id=OHR.CubanTody_EN-US3083797062_320x240.jpg)](https://www.bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg) |
-| 2023-09-02 | Wanna hang with a fungi? | Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy) | [![Wanna hang with a fungi?](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_320x240.jpg)](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg) |
+| 2023-09-07 | Ready to drop anchor? | Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images) | [![Ready to drop anchor?](https://www.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_320x240.jpg)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg) |
+| 2023-05-18 | Getting a bird's-eye view | Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion) | [![Getting a bird's-eye view](https://www.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_320x240.jpg)](https://www.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg) |
+| 2023-08-20 | Ready for my close-up | Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images) | [![Ready for my close-up](https://www.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_320x240.jpg)](https://www.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2023-05-23 | Dites bonjour à notre invitée du jour ! | Tortue à boîte ornée (© Tim Fitzharris/Minden Pictures) | [![Dites bonjour à notre invitée du jour !](https://www.bing.com/th?id=OHR.WesternBoxTurtle_FR-FR2003044235_320x240.jpg)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_FR-FR2003044235_UHD.jpg) |
-| 2023-02-22 | Une cloche pour la paix | Cloche de la paix, sommet de Fichtelberg, Saxe, Allemagne (© Jan Drahokoupil/Getty Images) | [![Une cloche pour la paix](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_FR-FR6689553051_320x240.jpg)](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_FR-FR6689553051_UHD.jpg) |
-| 2023-07-18 | L'animal légendaire au casque d’or | Calao bicorne, parc national de Khao Yai, Thaïlande (© kajornyot wildlife photography/Shutterstock) | [![L'animal légendaire au casque d’or](https://www.bing.com/th?id=OHR.BucerosBicornis_FR-FR2890975203_320x240.jpg)](https://www.bing.com/th?id=OHR.BucerosBicornis_FR-FR2890975203_UHD.jpg) |
+| 2023-03-30 | Éclat royal | Plumes de paon (© Sarayut Thaneerat/Getty Images) | [![Éclat royal](https://www.bing.com/th?id=OHR.PeacockFeathers_FR-FR0185487408_320x240.jpg)](https://www.bing.com/th?id=OHR.PeacockFeathers_FR-FR0185487408_UHD.jpg) |
+| 2023-10-16 | Un véritable enchantement ! | Mélèzes aux couleurs de l’automne et le Mont Prusik, région Lacs Enchantés, Washington, États-Unis (© Jim Patterson/Tandem Stills + Motion) | [![Un véritable enchantement !](https://www.bing.com/th?id=OHR.GoldenEnchantments_FR-FR3216426805_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenEnchantments_FR-FR3216426805_UHD.jpg) |
+| 2023-09-18 | Un arc-en-ciel dans la nuit | Voie lactée au-dessus du parc naturel du sud-ouest de l'Alentejo et de la côte vicentine, Portugal (© Daniel Garrido/Getty Images) | [![Un arc-en-ciel dans la nuit](https://www.bing.com/th?id=OHR.MilkyWayPortugal_FR-FR9919070514_320x240.jpg)](https://www.bing.com/th?id=OHR.MilkyWayPortugal_FR-FR9919070514_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2023-06-10 | Tinte blu e scene in ceramica | La Cattedrale di Porto, Portogallo (© Reinhard Schmid/Huber/eStock Photo) | [![Tinte blu e scene in ceramica](https://www.bing.com/th?id=OHR.PortugalDay_IT-IT6704188860_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugalDay_IT-IT6704188860_UHD.jpg) |
-| 2023-12-18 | Che grandi corna congelate! | Stambecco sotto una forte nevicata, Alpi, Italia (© Paolino Massimiliano Manuel/Getty Images) | [![Che grandi corna congelate!](https://www.bing.com/th?id=OHR.KingAlps_IT-IT9812724645_320x240.jpg)](https://www.bing.com/th?id=OHR.KingAlps_IT-IT9812724645_UHD.jpg) |
-| 2023-08-08 | Verso l'infinito e ritorno | Autostrade a Taipei, Taiwan (© Tavarius/Shutterstock) | [![Verso l'infinito e ritorno](https://www.bing.com/th?id=OHR.InfinityTaipei_IT-IT6968967057_320x240.jpg)](https://www.bing.com/th?id=OHR.InfinityTaipei_IT-IT6968967057_UHD.jpg) |
+| 2023-09-02 | Pausa per un goccetto al fiore! | Colibrì di Allen, Santa Cruz, California, USA (© mallardg500/Getty Images) | [![Pausa per un goccetto al fiore!](https://www.bing.com/th?id=OHR.TinyHummer_IT-IT0334846745_320x240.jpg)](https://www.bing.com/th?id=OHR.TinyHummer_IT-IT0334846745_UHD.jpg) |
+| 2023-05-23 | Proteggiamo le nostre tartarughe! | La tartaruga scatola occidentale  (© Tim Fitzharris/Minden Pictures) | [![Proteggiamo le nostre tartarughe!](https://www.bing.com/th?id=OHR.WesternBoxTurtle_IT-IT1413333123_320x240.jpg)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_IT-IT1413333123_UHD.jpg) |
+| 2023-02-22 | Una campana per la pace | Campana della pace sulla cima del Fichtelberg, Sassonia, Germania (© Jan Drahokoupil/Getty Images) | [![Una campana per la pace](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_IT-IT2432299937_320x240.jpg)](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_IT-IT2432299937_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2023-06-24 | 金色の光が降り注ぐ海岸 | ニャフー湾, ベトナム ニャチャン (© Thang Tat Nguyen/Getty Images) | [![金色の光が降り注ぐ海岸](https://www.bing.com/th?id=OHR.NhaTrang_JA-JP4366541911_320x240.jpg)](https://www.bing.com/th?id=OHR.NhaTrang_JA-JP4366541911_UHD.jpg) |
-| 2023-08-10 | 今日は世界ライオンの日 | マサイマラ国立保護区のライオン, ケニア (© Scott Davis/Tandem Stills + Motion) | [![今日は世界ライオンの日](https://www.bing.com/th?id=OHR.WorldLionDay_JA-JP2089324096_320x240.jpg)](https://www.bing.com/th?id=OHR.WorldLionDay_JA-JP2089324096_UHD.jpg) |
-| 2023-05-02 | 今日は八十八夜 | 円形茶畑, 京都府 相楽郡 (© Tuul and Bruno Morandi/Alamy Stock Photo) | [![今日は八十八夜](https://www.bing.com/th?id=OHR.Hachijyuhachi2023_JA-JP1581523255_320x240.jpg)](https://www.bing.com/th?id=OHR.Hachijyuhachi2023_JA-JP1581523255_UHD.jpg) |
+| 2023-02-22 | 素晴らしいパリの風景 | パリ, フランス (© somchaij/Shutterstock) | [![素晴らしいパリの風景](https://www.bing.com/th?id=OHR.ParisWinter_JA-JP7691412226_320x240.jpg)](https://www.bing.com/th?id=OHR.ParisWinter_JA-JP7691412226_UHD.jpg) |
+| 2023-07-18 | 空を舞う鮮やかなオオサイチョウ | カオヤイ国立公園, タイ (© kajornyot wildlife photography/Shutterstock) | [![空を舞う鮮やかなオオサイチョウ](https://www.bing.com/th?id=OHR.BucerosBicornis_JA-JP4956922577_320x240.jpg)](https://www.bing.com/th?id=OHR.BucerosBicornis_JA-JP4956922577_UHD.jpg) |
+| 2023-06-10 | 美しいタイルで装飾された回廊 | ポルト大聖堂, ポルトガル (© Reinhard Schmid/Huber/eStock Photo) | [![美しいタイルで装飾された回廊](https://www.bing.com/th?id=OHR.PortugalDay_JA-JP0015831815_320x240.jpg)](https://www.bing.com/th?id=OHR.PortugalDay_JA-JP0015831815_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2023-07-02 | 一年已过半 | 费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock) | [![一年已过半](https://www.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_320x240.jpg)](https://www.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_UHD.jpg) |
-| 2023-02-21 | 带上国王饼 | 新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images) | [![带上国王饼](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_320x240.jpg)](https://www.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_UHD.jpg) |
-| 2023-02-12 | 平稳着陆，双脚先行 | 一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures) | [![平稳着陆，双脚先行](https://www.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_320x240.jpg)](https://www.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg) |
+| 2023-12-18 | 山峦积雪 | 圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion) | [![山峦积雪](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_320x240.jpg)](https://www.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_UHD.jpg) |
+| 2023-08-08 | 恍若童话世界，胜似人间仙境 | 五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images) | [![恍若童话世界，胜似人间仙境](https://www.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_320x240.jpg)](https://www.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_UHD.jpg) |
+| 2023-06-24 | 海湾之美 | 芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images) | [![海湾之美](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_320x240.jpg)](https://www.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_UHD.jpg) |
 

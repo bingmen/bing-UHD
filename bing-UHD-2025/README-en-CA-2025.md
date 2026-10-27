@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2025
 
-> Last updated：2026-10-26 06:23:42 UTC
+> Last updated：2026-10-27 03:46:21 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2025-11-11 | Imposante Denkmäler | Ansicht der Felsen gegen den Himmel während des Sonnenuntergangs, Externsteine, Teutoburger Wald, Nordrhein-Westfalen (© Michael Sroka/Getty Images) | [![Imposante Denkmäler](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_320x240.jpg)](https://www.bing.com/th?id=OHR.ExternsteineSunset_DE-DE9223604176_UHD.jpg) |
-| 2025-06-15 | Vom funktionalen Bauwerk zum Wahrzeichen | Wasserturm, Mannheim, Baden-Württemberg (© no_limit_pictures/Getty Images) | [![Vom funktionalen Bauwerk zum Wahrzeichen](https://www.bing.com/th?id=OHR.WatertowerMannheim_DE-DE8334179684_320x240.jpg)](https://www.bing.com/th?id=OHR.WatertowerMannheim_DE-DE8334179684_UHD.jpg) |
-| 2025-11-04 | Mehr als nur Verbindung | Tower Bridge, London, England (© Nick Brundle Photography/Getty Images) | [![Mehr als nur Verbindung](https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_320x240.jpg)](https://www.bing.com/th?id=OHR.TowerBridgeUK_DE-DE5591169923_UHD.jpg) |
+| 2025-09-02 | Stumme Zeugen der Vergangenheit | Kameldornbäume, Deadvlei, Namib-Naukluft-Park, Namibia (© Inge Johnsson/Alamy) | [![Stumme Zeugen der Vergangenheit](https://www.bing.com/th?id=OHR.DeadvleiTrees_DE-DE6613331232_320x240.jpg)](https://www.bing.com/th?id=OHR.DeadvleiTrees_DE-DE6613331232_UHD.jpg) |
+| 2025-07-19 | Ein Leben im Schatten | Luna-Motte auf einer Zedern-Ulme ruhend, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library) | [![Ein Leben im Schatten](https://www.bing.com/th?id=OHR.MothWeek_DE-DE7350997027_320x240.jpg)](https://www.bing.com/th?id=OHR.MothWeek_DE-DE7350997027_UHD.jpg) |
+| 2025-02-04 | Auf Händen getragen | Goldene Brücke, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock) | [![Auf Händen getragen](https://www.bing.com/th?id=OHR.GoldenBridge_DE-DE8445682123_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenBridge_DE-DE8445682123_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-01-18 | A pizza margherita è Napule | Looking over the Gulf of Naples towards Mount Vesuvius, Italy (© ezypix/Getty Images) | [![A pizza margherita è Napule](https://www.bing.com/th?id=OHR.NapoliPizza_EN-CA6013158057_320x240.jpg)](https://www.bing.com/th?id=OHR.NapoliPizza_EN-CA6013158057_UHD.jpg) |
-| 2025-10-01 | Clinging to what matters | Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images) | [![Clinging to what matters](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-CA8939050680_320x240.jpg)](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-CA8939050680_UHD.jpg) |
-| 2025-06-30 | Where history gets spicy | Blue lagoon of Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy Stock Photo) | [![Where history gets spicy](https://www.bing.com/th?id=OHR.BandaIsland_EN-CA1920506603_320x240.jpg)](https://www.bing.com/th?id=OHR.BandaIsland_EN-CA1920506603_UHD.jpg) |
+| 2025-05-20 | 'May Two-Four' | British Columbia Parliament Buildings (© bluejayphoto/Getty Images) | [!['May Two-Four'](https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879_320x240.jpg)](https://www.bing.com/th?id=OHR.Victoria25Day_EN-CA7366662879_UHD.jpg) |
+| 2025-11-11 | Life hidden beneath the prairie | Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States (© Greg Vaughn/Getty Images) | [![Life hidden beneath the prairie](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_320x240.jpg)](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-CA8014660733_UHD.jpg) |
+| 2025-06-15 | The sounds of silence | Cinque Torri, Dolomites, Italy (© usabin/Getty Images) | [![The sounds of silence](https://www.bing.com/th?id=OHR.DolomitiEstate_EN-CA4112246625_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitiEstate_EN-CA4112246625_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-06-18 | Let the pollinating games begin! | Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images) | [![Let the pollinating games begin!](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-GB8497991107_320x240.jpg)](https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-GB8497991107_UHD.jpg) |
-| 2025-03-20 | Umbrella manoeuvre | Black heron canopy hunting, Chobe National Park, Botswana (© Paul Souders/Minden PIctures) | [![Umbrella manoeuvre](https://www.bing.com/th?id=OHR.BlackHeron_EN-GB3002716071_320x240.jpg)](https://www.bing.com/th?id=OHR.BlackHeron_EN-GB3002716071_UHD.jpg) |
-| 2025-02-02 | Snow and stone | Königstein Fortress, Saxon Switzerland, Germany (© Bildagentur-online/Exss/Alamy) | [![Snow and stone](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_EN-GB4405687940_320x240.jpg)](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_EN-GB4405687940_UHD.jpg) |
+| 2025-11-04 | Just jellin' | Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion) | [![Just jellin'](https://www.bing.com/th?id=OHR.MexicoJelly_EN-GB3540800984_320x240.jpg)](https://www.bing.com/th?id=OHR.MexicoJelly_EN-GB3540800984_UHD.jpg) |
+| 2025-01-16 | Where the past is always present | The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock) | [![Where the past is always present](https://www.bing.com/th?id=OHR.MuseumCourt_EN-GB7712861262_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumCourt_EN-GB7712861262_UHD.jpg) |
+| 2025-09-30 | Clinging to what matters | Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images) | [![Clinging to what matters](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_320x240.jpg)](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-03-26 | Life below the surface | Manatee in Crystal River, Florida, United States (© Stephen Frink/Getty Images) | [![Life below the surface](https://www.bing.com/th?id=OHR.CrystalManatee_EN-IN9367417729_320x240.jpg)](https://www.bing.com/th?id=OHR.CrystalManatee_EN-IN9367417729_UHD.jpg) |
-| 2025-01-10 | Bubbles, bubbles everywhere | Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images) | [![Bubbles, bubbles everywhere](https://www.bing.com/th?id=OHR.BubbleLake_EN-IN4983583688_320x240.jpg)](https://www.bing.com/th?id=OHR.BubbleLake_EN-IN4983583688_UHD.jpg) |
-| 2025-12-27 | Shards of winter | Plate ice along Lake Superior, Grand Marais, Minnesota, United States (© wanderluster/Getty Images) | [![Shards of winter](https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-IN9103108275_320x240.jpg)](https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-IN9103108275_UHD.jpg) |
+| 2025-06-30 | Rock-solid defence | Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images) | [![Rock-solid defence](https://www.bing.com/th?id=OHR.WolfeCrater_EN-IN2493314424_320x240.jpg)](https://www.bing.com/th?id=OHR.WolfeCrater_EN-IN2493314424_UHD.jpg) |
+| 2025-06-19 | Spot the spots | Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images) | [![Spot the spots](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_320x240.jpg)](https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-IN6391269206_UHD.jpg) |
+| 2025-03-22 | Legends of Nalanda | Nalanda mahavihara, Bihar (© bambam kumar jha/Getty Images) | [![Legends of Nalanda](https://www.bing.com/th?id=OHR.NalandaRuins_EN-IN5140897796_320x240.jpg)](https://www.bing.com/th?id=OHR.NalandaRuins_EN-IN5140897796_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-09-28 | Weeding and wishing | Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion) | [![Weeding and wishing](https://www.bing.com/th?id=OHR.TankLakes_EN-US9278332978_320x240.jpg)](https://www.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg) |
-| 2025-10-17 | The phantom cat | Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock) | [![The phantom cat](https://www.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_320x240.jpg)](https://www.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg) |
-| 2025-05-16 | London o'clock | Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images) | [![London o'clock](https://www.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_320x240.jpg)](https://www.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg) |
+| 2025-02-04 | Bridging history, one arch at a time | Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com) | [![Bridging history, one arch at a time](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_320x240.jpg)](https://www.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg) |
+| 2025-03-26 | In a hole, there was a story | Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy) | [![In a hole, there was a story](https://www.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_320x240.jpg)](https://www.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg) |
+| 2025-01-10 | Honoring Jimmy Carter | The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images) | [![Honoring Jimmy Carter](https://www.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_320x240.jpg)](https://www.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2025-05-22 | La force tranquille de la biodiversité | Baobabs au coucher du soleil, allée des Baobabs, Madagascar (© Framalicious/Shutterstock) | [![La force tranquille de la biodiversité](https://www.bing.com/th?id=OHR.BaobabAvenue_FR-FR7374715565_320x240.jpg)](https://www.bing.com/th?id=OHR.BaobabAvenue_FR-FR7374715565_UHD.jpg) |
-| 2025-01-15 | Là où le passé est toujours présent | Grande Cour Élisabeth II, British Museum, Londres, Angleterre (© Cavan Images/Offset/Shutterstock) | [![Là où le passé est toujours présent](https://www.bing.com/th?id=OHR.MuseumCourt_FR-FR4239916080_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumCourt_FR-FR4239916080_UHD.jpg) |
-| 2025-07-15 | Sous les étoiles, le silence du temps | Étoiles filantes des Perséides et pin Bristlecone, parc national du Grand Bassin, États-Unis (© Wirestock Creators/Shutterstock) | [![Sous les étoiles, le silence du temps](https://www.bing.com/th?id=OHR.PerseidsPine_FR-FR2065918536_320x240.jpg)](https://www.bing.com/th?id=OHR.PerseidsPine_FR-FR2065918536_UHD.jpg) |
+| 2025-12-27 | Une immensité argentée sans pareille | Plaques de glace sur le lac Supérieur, Minnesota, États-Unis (© wanderluster/Getty Images) | [![Une immensité argentée sans pareille](https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003_320x240.jpg)](https://www.bing.com/th?id=OHR.SuperiorIceMN_FR-FR4676327003_UHD.jpg) |
+| 2025-09-28 | Pienza et son pecorino, c’est fort de fromage ! | Ville de Pienza, Toscane, Italie (© zpagistock/Getty Images) | [![Pienza et son pecorino, c’est fort de fromage !](https://www.bing.com/th?id=OHR.PienzaItaly_FR-FR1953145437_320x240.jpg)](https://www.bing.com/th?id=OHR.PienzaItaly_FR-FR1953145437_UHD.jpg) |
+| 2025-10-17 | Quand le soir embrasse la montagne corse | Lumière du soir sur le village de Speloncato, Corse (© joningall/Getty Images) | [![Quand le soir embrasse la montagne corse](https://www.bing.com/th?id=OHR.CorsicaSunshine_FR-FR8649215960_320x240.jpg)](https://www.bing.com/th?id=OHR.CorsicaSunshine_FR-FR8649215960_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2025-01-09 | Rossi orizzonti, sabbia e tramonti | Dune di sabbia di Sossusvlei, deserto del Namib, Namibia (© Airpano/Amazing Aerial Agency) | [![Rossi orizzonti, sabbia e tramonti](https://www.bing.com/th?id=OHR.NamibiaDunes_IT-IT8256486695_320x240.jpg)](https://www.bing.com/th?id=OHR.NamibiaDunes_IT-IT8256486695_UHD.jpg) |
-| 2025-10-14 | Sogni Biancoblu | Villaggio di Oia, Santorini, Grecia (© f9photos/Getty Images) | [![Sogni Biancoblu](https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaSantorini_IT-IT9704470316_UHD.jpg) |
-| 2025-12-24 | Tradizioni che emozioni | Cappella innevata con albero di Natale nelle Alpi bavaresi, Germania (© mauritius images GmbH/Alamy) | [![Tradizioni che emozioni](https://www.bing.com/th?id=OHR.ElmauChapel_IT-IT0705069498_320x240.jpg)](https://www.bing.com/th?id=OHR.ElmauChapel_IT-IT0705069498_UHD.jpg) |
+| 2025-05-16 | "Sì, viaggiare..." | Un treno che corre lungo il fiume Hozugawa ad Arashiyama, Kyoto, Giappone (© Alvin Huang/Getty Images) | [!["Sì, viaggiare..."](https://www.bing.com/th?id=OHR.Arashiyama2025_IT-IT8185963195_320x240.jpg)](https://www.bing.com/th?id=OHR.Arashiyama2025_IT-IT8185963195_UHD.jpg) |
+| 2025-05-22 | Viale Baobab | Alberi di baobab al tramonto, Viale dei Baobab, Madagascar (© Framalicious/Shutterstock) | [![Viale Baobab](https://www.bing.com/th?id=OHR.BaobabAvenue_IT-IT7755407638_320x240.jpg)](https://www.bing.com/th?id=OHR.BaobabAvenue_IT-IT7755407638_UHD.jpg) |
+| 2025-01-15 | Dove il passato è sempre presente | La Grande Corte del British Museum, Londra, Inghilterra (© Cavan Images/Offset/Shutterstock) | [![Dove il passato è sempre presente](https://www.bing.com/th?id=OHR.MuseumCourt_IT-IT0217909528_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumCourt_IT-IT0217909528_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2025-02-04 | 今日からさっぽろ雪まつり | 犬山城の大雪像, 北海道 札幌市 (© Randy Green/Alamy Stock Photo) | [![今日からさっぽろ雪まつり](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_320x240.jpg)](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_UHD.jpg) |
-| 2025-06-11 | 今日は入梅 | あじさいの丘, 静岡県 賀茂郡 (© Tommy Tsutsui/Getty Images) | [![今日は入梅](https://www.bing.com/th?id=OHR.Hydrangea2025_JA-JP6293958044_320x240.jpg)](https://www.bing.com/th?id=OHR.Hydrangea2025_JA-JP6293958044_UHD.jpg) |
-| 2025-03-13 | 今日はホーリー祭 | カラフルな色粉を投げ合う祭り, インド (© powerofforever/Getty Images) | [![今日はホーリー祭](https://www.bing.com/th?id=OHR.HoliColors_JA-JP6070846521_320x240.jpg)](https://www.bing.com/th?id=OHR.HoliColors_JA-JP6070846521_UHD.jpg) |
+| 2025-07-15 | 幻想的なペルセウス座流星群 | グレートベースン国立公園, 米国 ネバダ州 (© Wirestock Creators/Shutterstock) | [![幻想的なペルセウス座流星群](https://www.bing.com/th?id=OHR.PerseidsPine_JA-JP0980673364_320x240.jpg)](https://www.bing.com/th?id=OHR.PerseidsPine_JA-JP0980673364_UHD.jpg) |
+| 2025-01-09 | 赤く染まる砂丘 | ナミブ砂漠, ナミビア (© Airpano/Amazing Aerial Agency) | [![赤く染まる砂丘](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_320x240.jpg)](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_UHD.jpg) |
+| 2025-10-14 | 今日は鉄道の日 | 第一只見川橋梁, 福島県 大沼郡 (© Doctor Egg/Getty Images) | [![今日は鉄道の日](https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_320x240.jpg)](https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2025-09-14 | 苔藓与薄雾 | 奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion) | [![苔藓与薄雾](https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_320x240.jpg)](https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg) |
-| 2025-07-25 | 生活的画卷 | 大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙 (© Marco Bottigelli/Getty Images) | [![生活的画卷](https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_320x240.jpg)](https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg) |
-| 2025-08-07 | 海岸的密码 | 加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images) | [![海岸的密码](https://www.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_320x240.jpg)](https://www.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg) |
+| 2025-12-24 | 流动的传统 | 巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国 (© mauritius images GmbH/Alamy) | [![流动的传统](https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_320x240.jpg)](https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg) |
+| 2025-02-04 | 云端漫步 | 金桥，巴拿山，岘港，越南 (© Hien Phung Thu/Shutterstock) | [![云端漫步](https://www.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg) |
+| 2025-06-11 | 潮汐间的芭蕾 | 大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion) | [![潮汐间的芭蕾](https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_320x240.jpg)](https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg) |
 
