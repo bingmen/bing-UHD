@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2024
 
-> Ultimo aggiornamento：2026-10-27 06:24:19 UTC
+> Ultimo aggiornamento：2026-10-28 04:02:41 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2024-02-11 | Paradies auf Griechisch | Chora, Insel Folegandros, Kykladen, Griechenland (© Francesco Riccardo Iacomino/Getty Images) | [![Paradies auf Griechisch](https://www.bing.com/th?id=OHR.FolegandrosGreece_DE-DE3993128464_320x240.jpg)](https://www.bing.com/th?id=OHR.FolegandrosGreece_DE-DE3993128464_UHD.jpg) |
-| 2024-03-01 | Schweben wie ein Schmetterling | Schmetterlinge auf einer Wiese, Deutschland (© Albert Fertl/Getty Images) | [![Schweben wie ein Schmetterling](https://www.bing.com/th?id=OHR.Schmetterlingswiese_DE-DE0613438088_320x240.jpg)](https://www.bing.com/th?id=OHR.Schmetterlingswiese_DE-DE0613438088_UHD.jpg) |
-| 2024-10-22 | Groteske Gesichter | Palazzo Zuccari, Rom, Italien (© Photon-Photos/Getty Images) | [![Groteske Gesichter](https://www.bing.com/th?id=OHR.MonsterDoor_DE-DE5408236104_320x240.jpg)](https://www.bing.com/th?id=OHR.MonsterDoor_DE-DE5408236104_UHD.jpg) |
+| 2024-11-30 | Spiegelbild des schottischen Erbes | Kilchurn Castle spiegelt sich im Loch Awe, Argyll und Bute, Schottland (© Tom Mackie/plainpicture) | [![Spiegelbild des schottischen Erbes](https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_320x240.jpg)](https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_UHD.jpg) |
+| 2024-09-27 | Götter über den Kanälen | Luftaufnahme des Canale Grande und der Basilica di Santa Maria della Salute, Venedig, Italien (© Bachir Moukarzel/Amazing Aerial Agency) | [![Götter über den Kanälen](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_UHD.jpg) |
+| 2024-08-05 | Ein violettes Blütenmeer | Lavendelfeld, Hertfordshire, England, Großbritannien (© George W Johnson/Getty Images) | [![Ein violettes Blütenmeer](https://www.bing.com/th?id=OHR.HertfordshireLavender_DE-DE9702415169_320x240.jpg)](https://www.bing.com/th?id=OHR.HertfordshireLavender_DE-DE9702415169_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-04-13 | A work of arch | Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock) | [![A work of arch](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-CA3137398130_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-CA3137398130_UHD.jpg) |
-| 2024-09-11 | From skyline to water | Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images) | [![From skyline to water](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-CA9816290154_320x240.jpg)](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-CA9816290154_UHD.jpg) |
-| 2024-03-31 | Hello from the upside-down! | Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images) | [![Hello from the upside-down!](https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_UHD.jpg) |
+| 2024-02-11 | Welcome to the Year of the Dragon! | Chinese New Year Parade, Vancouver, British Columbia, Canada (© Michael Wheatley/Alamy Stock Photo) | [![Welcome to the Year of the Dragon!](https://www.bing.com/th?id=OHR.ChineseNYParade_EN-CA8193422091_320x240.jpg)](https://www.bing.com/th?id=OHR.ChineseNYParade_EN-CA8193422091_UHD.jpg) |
+| 2024-03-01 | Leaping through an extra day | Eurasian red squirrel (© Westend61/Getty Images) | [![Leaping through an extra day](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_320x240.jpg)](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_UHD.jpg) |
+| 2024-10-22 | Standing tall in fall | Cypress trees in George L. Smith State Park, Georgia, USA (© Chris Moore/TANDEM Stills + Motion) | [![Standing tall in fall](https://www.bing.com/th?id=OHR.AutumnCypress_EN-CA3476365850_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCypress_EN-CA3476365850_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-03-09 | Right to shine | Tate Modern lit up on International Women's Day, London (© Stephen Chung/Alamy Stock Photo) | [![Right to shine](https://www.bing.com/th?id=OHR.TateLightUp_EN-GB9793906084_320x240.jpg)](https://www.bing.com/th?id=OHR.TateLightUp_EN-GB9793906084_UHD.jpg) |
-| 2024-10-29 | It's carving time | Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy Stock Photo) | [![It's carving time](https://www.bing.com/th?id=OHR.PumpkinMist_EN-GB3442164474_320x240.jpg)](https://www.bing.com/th?id=OHR.PumpkinMist_EN-GB3442164474_UHD.jpg) |
-| 2024-03-21 | Hop into spring! | Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture) | [![Hop into spring!](https://www.bing.com/th?id=OHR.SpringFrog_EN-GB9074192994_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringFrog_EN-GB9074192994_UHD.jpg) |
+| 2024-04-12 | A work of arch | North Window with Turret Arch in the distance, Arches National Park, Utah, USA (© Anthony Heflin/Shutterstock) | [![A work of arch](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-GB5962271625_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetArchesNP_EN-GB5962271625_UHD.jpg) |
+| 2024-09-10 | From skyline to water | Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images) | [![From skyline to water](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-GB4169546026_320x240.jpg)](https://www.bing.com/th?id=OHR.BridgeLisbon_EN-GB4169546026_UHD.jpg) |
+| 2024-03-29 | A path through the petals | Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images) | [![A path through the petals](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-GB3832708958_320x240.jpg)](https://www.bing.com/th?id=OHR.ShanghaiBlossoms_EN-GB3832708958_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-03-22 | 'Water' we celebrating? | Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy) | [!['Water' we celebrating?](https://www.bing.com/th?id=OHR.WaikatoWater_EN-IN0496434558_320x240.jpg)](https://www.bing.com/th?id=OHR.WaikatoWater_EN-IN0496434558_UHD.jpg) |
-| 2024-11-16 | Mud, sea and sky | Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures) | [![Mud, sea and sky](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-IN5299828357_320x240.jpg)](https://www.bing.com/th?id=OHR.FrieslandNetherlands_EN-IN5299828357_UHD.jpg) |
-| 2024-05-31 | A green and pleasant land | Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy) | [![A green and pleasant land](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN4566883981_320x240.jpg)](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN4566883981_UHD.jpg) |
+| 2024-03-11 | Sweet dreams are made of leaves | A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images) | [![Sweet dreams are made of leaves](https://www.bing.com/th?id=OHR.SleepyKoala_EN-IN1567307093_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepyKoala_EN-IN1567307093_UHD.jpg) |
+| 2024-10-29 | Hoots and haunts | Great horned owl (© Mark Newman/Getty Images) | [![Hoots and haunts](https://www.bing.com/th?id=OHR.GreatOwl_EN-IN1904350496_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatOwl_EN-IN1904350496_UHD.jpg) |
+| 2024-03-23 | Making a fog-cast | Large anvil clouds above the Amazon in Brazil (© NASA) | [![Making a fog-cast](https://www.bing.com/th?id=OHR.AmazonClouds_EN-IN0715787319_320x240.jpg)](https://www.bing.com/th?id=OHR.AmazonClouds_EN-IN0715787319_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-09-20 | Avast, landlubbers! | Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images) | [![Avast, landlubbers!](https://www.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_320x240.jpg)](https://www.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg) |
-| 2024-02-12 | Elysium on the edge | Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images) | [![Elysium on the edge](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_320x240.jpg)](https://www.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg) |
-| 2024-12-16 | A lake of tears | Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images) | [![A lake of tears](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_320x240.jpg)](https://www.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg) |
+| 2024-03-22 | Celebrating forests | Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com) | [![Celebrating forests](https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_320x240.jpg)](https://www.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg) |
+| 2024-11-16 | Hope takes flight | Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images) | [![Hope takes flight](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_320x240.jpg)](https://www.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg) |
+| 2024-05-31 | 'Everglad' to be here | A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion) | [!['Everglad' to be here](https://www.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_320x240.jpg)](https://www.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2024-06-18 | Des lupins sans Arsène ! | Champs de lupins et église au lever du soleil, péninsule de Snæfellsnes, Islande (© Matteo Colombo/Getty Images) | [![Des lupins sans Arsène !](https://www.bing.com/th?id=OHR.LupinIceland_FR-FR4349851245_320x240.jpg)](https://www.bing.com/th?id=OHR.LupinIceland_FR-FR4349851245_UHD.jpg) |
-| 2024-01-06 | Que la fête commence ! | Antilles françaises, Guadeloupe, brume sur le volcan de la Soufrière (© Walter Bibikow/Getty Images) | [![Que la fête commence !](https://www.bing.com/th?id=OHR.GuadeloupeCarnival_FR-FR1231104335_320x240.jpg)](https://www.bing.com/th?id=OHR.GuadeloupeCarnival_FR-FR1231104335_UHD.jpg) |
-| 2024-09-14 | De bon moaï-tin | Lever de soleil à Ahu Tongariki, parc national de Rapa Nui, île de Pâques, Chili (© Piriya Photography/Getty Images) | [![De bon moaï-tin](https://www.bing.com/th?id=OHR.RapaNuiSunrise_FR-FR0534822135_320x240.jpg)](https://www.bing.com/th?id=OHR.RapaNuiSunrise_FR-FR0534822135_UHD.jpg) |
+| 2024-09-20 | L'ultime refuge des flibustiers | Phare de l’île d'Ocracoke, Caroline du Nord, États-Unis (© Chansak Joe/Getty Images) | [![L'ultime refuge des flibustiers](https://www.bing.com/th?id=OHR.OcracokeLight_FR-FR4610560475_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_FR-FR4610560475_UHD.jpg) |
+| 2024-02-12 | L’île préférée de Darwin | Tortues géantes, Volcan Alcedo, île d'Isabela, Galápagos, Équateur (© Tui De Roy/Minden Pictures) | [![L’île préférée de Darwin](https://www.bing.com/th?id=OHR.GiantTortoise_FR-FR1778987386_320x240.jpg)](https://www.bing.com/th?id=OHR.GiantTortoise_FR-FR1778987386_UHD.jpg) |
+| 2024-12-16 | La perle des Alpes | Salzbourg, Autriche (© bluejayphoto/Getty Images) | [![La perle des Alpes](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-FR2498324626_320x240.jpg)](https://www.bing.com/th?id=OHR.SalzburgSnow_FR-FR2498324626_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2024-03-14 | Il Pi Greco in natura! | Wat Phra Ngam, Parco storico di Ayutthaya, Thailandia (© boonchai wedmakawand/Alamy) | [![Il Pi Greco in natura!](https://www.bing.com/th?id=OHR.AyutthayaTree_IT-IT4581996265_320x240.jpg)](https://www.bing.com/th?id=OHR.AyutthayaTree_IT-IT4581996265_UHD.jpg) |
-| 2024-05-13 | Una visione a 180° | Canyon del fiume Fish, Namibia (© R. M. Nunes/Getty Images) | [![Una visione a 180°](https://www.bing.com/th?id=OHR.NamibiaCanyon_IT-IT9781699785_320x240.jpg)](https://www.bing.com/th?id=OHR.NamibiaCanyon_IT-IT9781699785_UHD.jpg) |
-| 2024-07-26 | Che i Giochi abbiano inizio | Ponte Neuf sulla Senna, Parigi, Francia (© f11photo/Getty Images) | [![Che i Giochi abbiano inizio](https://www.bing.com/th?id=OHR.PontNeuf_IT-IT7027678488_320x240.jpg)](https://www.bing.com/th?id=OHR.PontNeuf_IT-IT7027678488_UHD.jpg) |
+| 2024-06-18 | Strade scandinave | Campi di lupini e una chiesa all'alba, penisola di Snæfellsnes, Islanda (© Matteo Colombo/Getty Images) | [![Strade scandinave](https://www.bing.com/th?id=OHR.LupinIceland_IT-IT2902162777_320x240.jpg)](https://www.bing.com/th?id=OHR.LupinIceland_IT-IT2902162777_UHD.jpg) |
+| 2024-01-06 | L'Epifania, tutte le feste porta via! | Artigianato natalizio a Piazza Navona, Roma (© piola666/Getty Images) | [![L'Epifania, tutte le feste porta via!](https://www.bing.com/th?id=OHR.BefanaPiazzaNavona_459973167_IT-IT4250570937_320x240.jpg)](https://www.bing.com/th?id=OHR.BefanaPiazzaNavona_459973167_IT-IT4250570937_UHD.jpg) |
+| 2024-09-14 | Inno al Sole | Alba ad Ahu Tongariki, Parco Nazionale Rapa Nui, Isola di Pasqua, Cile (© Piriya Photography/Getty Images) | [![Inno al Sole](https://www.bing.com/th?id=OHR.RapaNuiSunrise_IT-IT0245342035_320x240.jpg)](https://www.bing.com/th?id=OHR.RapaNuiSunrise_IT-IT0245342035_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2024-06-30 | 獅子のような姿をした聖獣「バロン」 | バリ島のウブド村, インドネシア (© R. Schönebaum/plainpicture) | [![獅子のような姿をした聖獣「バロン」](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_320x240.jpg)](https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_UHD.jpg) |
-| 2024-10-09 | 黄葉に輝く森 | マーブル近郊に自生するアスペン, 米国 コロラド州 (© Jason Hatfield/Tandem Stills + Motion) | [![黄葉に輝く森](https://www.bing.com/th?id=OHR.AspensColorado_JA-JP6244858068_320x240.jpg)](https://www.bing.com/th?id=OHR.AspensColorado_JA-JP6244858068_UHD.jpg) |
-| 2024-04-14 | 真ん丸な岩が並ぶ海岸 | ボーリングボール・ビーチ, 米国 カリフォルニア州 (© Melo Qiao/Getty Images) | [![真ん丸な岩が並ぶ海岸](https://www.bing.com/th?id=OHR.BowlingBallCali_JA-JP1174732417_320x240.jpg)](https://www.bing.com/th?id=OHR.BowlingBallCali_JA-JP1174732417_UHD.jpg) |
+| 2024-03-14 | 今日は円周率の日 | アユタヤ歴史公園にある菩提樹, タイ (© boonchai wedmakawand/Alamy) | [![今日は円周率の日](https://www.bing.com/th?id=OHR.AyutthayaTree_JA-JP4047642741_320x240.jpg)](https://www.bing.com/th?id=OHR.AyutthayaTree_JA-JP4047642741_UHD.jpg) |
+| 2024-05-13 | アフリカ最大の渓谷 | フィッシュリバー・キャニオン, ナミビア (© R. M. Nunes/Getty Images) | [![アフリカ最大の渓谷](https://www.bing.com/th?id=OHR.NamibiaCanyon_JA-JP0410618255_320x240.jpg)](https://www.bing.com/th?id=OHR.NamibiaCanyon_JA-JP0410618255_UHD.jpg) |
+| 2024-07-26 | 今日はパリ夏季五輪の開幕日 | セーヌ川に架かるポンヌフ橋, フランス パリ市 (© f11photo/Getty Images) | [![今日はパリ夏季五輪の開幕日](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_320x240.jpg)](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_UHD.jpg) |
 
 ## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2024-11-08 | 来自冰与火之国 | 冰岛冰川河流鸟瞰图 (© rybarmarekk/Shutterstock) | [![来自冰与火之国](https://www.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_320x240.jpg)](https://www.bing.com/th?id=OHR.GlacialRivers_ZH-CN0260507556_UHD.jpg) |
-| 2024-04-19 | 历史的轮回 | 布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images) | [![历史的轮回](https://www.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_320x240.jpg)](https://www.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg) |
-| 2024-05-24 | 一路到顶峰 | 阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙 (© Marisa Estivill/Shutterstock) | [![一路到顶峰](https://www.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_320x240.jpg)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg) |
+| 2024-06-30 | 你不会忘记它的！ | 乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture) | [![你不会忘记它的！](https://www.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_320x240.jpg)](https://www.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg) |
+| 2024-10-09 | 色彩斑斓的秋天 | 马布尔附近的白杨树，科罗拉多州，美国 (© Jason Hatfield/TANDEM Stills + Motion) | [![色彩斑斓的秋天](https://www.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_320x240.jpg)](https://www.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg) |
+| 2024-04-14 | 岩石保龄球 | 保龄球海滩的日落，门多西诺县，加利福尼亚，美国 (© Melo Qiao/Getty Images) | [![岩石保龄球](https://www.bing.com/th?id=OHR.BowlingBallCali_ZH-CN0434558966_320x240.jpg)](https://www.bing.com/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg) |
 

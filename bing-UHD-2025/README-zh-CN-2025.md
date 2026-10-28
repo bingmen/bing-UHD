@@ -1,6 +1,6 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2025
 
-> 最后更新：2026-10-27 06:24:19 UTC
+> 最后更新：2026-10-28 04:02:41 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2025-10-12 | Herbstidylle am See | Saranac Lake, Adirondack Mountains, New York, USA (© DenisTangneyJr/Getty Images) | [![Herbstidylle am See](https://www.bing.com/th?id=OHR.SaranacLake_DE-DE3608042378_320x240.jpg)](https://www.bing.com/th?id=OHR.SaranacLake_DE-DE3608042378_UHD.jpg) |
+| 2025-11-15 | Kurvenkunst in Nikkō | Irohazaka-Straße im Herbst, Nikkō, Tochigi, Japan (© oneinchpunch/Shutterstock) | [![Kurvenkunst in Nikkō](https://www.bing.com/th?id=OHR.IrohazakaAutumn_DE-DE0981983291_320x240.jpg)](https://www.bing.com/th?id=OHR.IrohazakaAutumn_DE-DE0981983291_UHD.jpg) |
 | 2025-06-23 | Juwel an der Elbe | Elbe in Dresden, Sachsen (© Sean Pavone/Getty Images) | [![Juwel an der Elbe](https://www.bing.com/th?id=OHR.DresdenElbe_DE-DE5406785601_320x240.jpg)](https://www.bing.com/th?id=OHR.DresdenElbe_DE-DE5406785601_UHD.jpg) |
-| 2025-08-19 | Wunder der Geologie | Flysch-Felsformationen in Zumaia, Baskenland, Spanien (© Eloi_Omella/Getty Images) | [![Wunder der Geologie](https://www.bing.com/th?id=OHR.GipuzcoaSummer_DE-DE5130461802_320x240.jpg)](https://www.bing.com/th?id=OHR.GipuzcoaSummer_DE-DE5130461802_UHD.jpg) |
-| 2025-05-11 | Tierische Mutterliebe | Leopardin leckt ihr Junges, Jao Reservat, Botswana (© Suzi Eszterhas/Minden Pictures) | [![Tierische Mutterliebe](https://www.bing.com/th?id=OHR.LeopardMother_DE-DE4781516786_320x240.jpg)](https://www.bing.com/th?id=OHR.LeopardMother_DE-DE4781516786_UHD.jpg) |
 
 ## 🍁 [英语（加拿大）](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-08-19 | Stream a little dream | Avalanche Lake Trail at Adirondack High Peaks, New York, United States (© Posnov/Getty Images) | [![Stream a little dream](https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_320x240.jpg)](https://www.bing.com/th?id=OHR.AvalancheLake_EN-CA8229303307_UHD.jpg) |
+| 2025-05-11 | Gilded glory | Minnesota State Capitol, St. Paul, Minnesota, United States (© lavin photography/Getty Images) | [![Gilded glory](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_320x240.jpg)](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-CA2092943439_UHD.jpg) |
 | 2025-08-06 | Tide and seek | Tide pools in La Jolla, California, United States (© Andrew Shoemaker/DanitaDelimont.com) | [![Tide and seek](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-CA5246785571_320x240.jpg)](https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-CA5246785571_UHD.jpg) |
-| 2025-09-04 | Bear with us | Grizzly bears wrestling, Katmai National Park and Preserve, Alaska, United States (© Cavan Images/Adobe Stock) | [![Bear with us](https://www.bing.com/th?id=OHR.WrestlingBears_EN-CA6711958224_320x240.jpg)](https://www.bing.com/th?id=OHR.WrestlingBears_EN-CA6711958224_UHD.jpg) |
-| 2025-12-09 | All is calm, all is bright | Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images) | [![All is calm, all is bright](https://www.bing.com/th?id=OHR.ComoChristmas_EN-CA3615556860_320x240.jpg)](https://www.bing.com/th?id=OHR.ComoChristmas_EN-CA3615556860_UHD.jpg) |
 
 ## 🌹 [英语（英国）](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-09-03 | Gothic majesty | St Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images) | [![Gothic majesty](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-GB0842695883_320x240.jpg)](https://www.bing.com/th?id=OHR.SaintBarbaras_EN-GB0842695883_UHD.jpg) |
+| 2025-12-09 | All is calm, all is bright | Christmas lights on buildings of Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images) | [![All is calm, all is bright](https://www.bing.com/th?id=OHR.ComoChristmas_EN-GB6672805340_320x240.jpg)](https://www.bing.com/th?id=OHR.ComoChristmas_EN-GB6672805340_UHD.jpg) |
 | 2025-07-12 | Following mom's lead | Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com) | [![Following mom's lead](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-GB4953743424_320x240.jpg)](https://www.bing.com/th?id=OHR.ThomsonGazelle_EN-GB4953743424_UHD.jpg) |
-| 2025-09-11 | Pastel dreams and still waters | Gdańsk on the banks of the Motława river, Poland (© Oscar Dominguez/TANDEM Stills + Motion) | [![Pastel dreams and still waters](https://www.bing.com/th?id=OHR.BlueGdansk_EN-GB1148120483_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueGdansk_EN-GB1148120483_UHD.jpg) |
-| 2025-05-10 | Gilded glory | Minnesota State Capitol, St Paul, Minnesota, United States (© lavin photography/Getty Images) | [![Gilded glory](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-GB8105337991_320x240.jpg)](https://www.bing.com/th?id=OHR.MinnesotaRotunda_EN-GB8105337991_UHD.jpg) |
 
 ## 🦁 [英语（印度）](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-09-12 | Swim wild, swim free | Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library) | [![Swim wild, swim free](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-IN0873508505_320x240.jpg)](https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-IN0873508505_UHD.jpg) |
+| 2025-05-11 | Celebrating motherhood—feline style! | Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures) | [![Celebrating motherhood—feline style!](https://www.bing.com/th?id=OHR.LeopardMother_EN-IN5457215640_320x240.jpg)](https://www.bing.com/th?id=OHR.LeopardMother_EN-IN5457215640_UHD.jpg) |
 | 2025-01-11 | Arches of a bygone era | Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock) | [![Arches of a bygone era](https://www.bing.com/th?id=OHR.MeknesMorocco_EN-IN5856859042_320x240.jpg)](https://www.bing.com/th?id=OHR.MeknesMorocco_EN-IN5856859042_UHD.jpg) |
-| 2025-09-26 | The fast and the furriest | Least chipmunk, Kootenai National Forest, Montana, United States (© Donald M. Jones/Minden Pictures) | [![The fast and the furriest](https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-IN2843120599_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-IN2843120599_UHD.jpg) |
-| 2025-09-02 | Ghosts of Deadvlei | Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy Stock Photo) | [![Ghosts of Deadvlei](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-IN4217239314_320x240.jpg)](https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-IN4217239314_UHD.jpg) |
 
 ## 🗽 [英语（美国）](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-09-26 | Carved stones of courage | Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock) | [![Carved stones of courage](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_320x240.jpg)](https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg) |
+| 2025-09-02 | Stitched into history | Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images) | [![Stitched into history](https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_320x240.jpg)](https://www.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg) |
 | 2025-12-20 | High mountains, deep history | Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images) | [![High mountains, deep history](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_320x240.jpg)](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg) |
-| 2025-07-17 | Illuminated by Isis | Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images) | [![Illuminated by Isis](https://www.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_320x240.jpg)](https://www.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg) |
-| 2025-09-28 | Weeding and wishing | Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion) | [![Weeding and wishing](https://www.bing.com/th?id=OHR.TankLakes_EN-US9278332978_320x240.jpg)](https://www.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg) |
 
 ## 🐓 [法语（法国）](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2025-07-17 | Fermez les yeux… et respirez | Champs de lavande sur le plateau de Valensole, Provence (© zpagistock/Getty Images) | [![Fermez les yeux… et respirez](https://www.bing.com/th?id=OHR.FranceLavender_FR-FR3750510454_320x240.jpg)](https://www.bing.com/th?id=OHR.FranceLavender_FR-FR3750510454_UHD.jpg) |
+| 2025-09-28 | Pienza et son pecorino, c’est fort de fromage ! | Ville de Pienza, Toscane, Italie (© zpagistock/Getty Images) | [![Pienza et son pecorino, c’est fort de fromage !](https://www.bing.com/th?id=OHR.PienzaItaly_FR-FR1953145437_320x240.jpg)](https://www.bing.com/th?id=OHR.PienzaItaly_FR-FR1953145437_UHD.jpg) |
 | 2025-09-05 | Là où la mer se donne en spectacle | Pacific Park, plage d'État de Santa Monica, Californie, États-Unis (© EXTREME-PHOTOGRAPHER/Getty Images) | [![Là où la mer se donne en spectacle](https://www.bing.com/th?id=OHR.SunsetPier_FR-FR5498949983_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPier_FR-FR5498949983_UHD.jpg) |
-| 2025-08-19 | Voyage au cœur des âges | Couches de flysch à Zumaia, Pays basque, Espagne (© Eloi_Omella/Getty Images) | [![Voyage au cœur des âges](https://www.bing.com/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_320x240.jpg)](https://www.bing.com/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_UHD.jpg) |
-| 2025-11-28 | Un paysage de glace à l’italienne | Val Brandet, Brescia, Lombardie, Italie (© ClickAlps/Alamy) | [![Un paysage de glace à l’italienne](https://www.bing.com/th?id=OHR.InvernoItalia_FR-FR6593189563_320x240.jpg)](https://www.bing.com/th?id=OHR.InvernoItalia_FR-FR6593189563_UHD.jpg) |
 
 ## ⭐ [意大利语（意大利）](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2025-08-19 | Emozioni stratificate | Strati di flysch a Zumaia, Paesi Baschi, Spagna (© Eloi_Omella/Getty Images) | [![Emozioni stratificate](https://www.bing.com/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_320x240.jpg)](https://www.bing.com/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_UHD.jpg) |
+| 2025-11-28 | Pace che scorre | Val Brandet, Córteno Golgi, Brescia, Lombardia (© ClickAlps/Alamy) | [![Pace che scorre](https://www.bing.com/th?id=OHR.InvernoItalia_IT-IT2625376488_320x240.jpg)](https://www.bing.com/th?id=OHR.InvernoItalia_IT-IT2625376488_UHD.jpg) |
 | 2025-10-06 | Sfumature commestibili | Funghi agarici ametistini, Seabeck, Washington, USA (© Danita Delimont/Shutterstock) | [![Sfumature commestibili](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_320x240.jpg)](https://www.bing.com/th?id=OHR.AmethystLaccaria_IT-IT7329865927_UHD.jpg) |
-| 2025-02-28 | Roccheforti Spirituali? | Monastero di Taktsang Palphug, Bhutan (© Baron Reznik/Getty Images) | [![Roccheforti Spirituali?](https://www.bing.com/th?id=OHR.BhutanMonastery_IT-IT9860257157_320x240.jpg)](https://www.bing.com/th?id=OHR.BhutanMonastery_IT-IT9860257157_UHD.jpg) |
-| 2025-02-02 | Pronti, partenza, via! | Portofino, Liguria, Italia (© Haveseen/Shutterstock) | [![Pronti, partenza, via!](https://www.bing.com/th?id=OHR.PortofinoMarathon_IT-IT1822275112_320x240.jpg)](https://www.bing.com/th?id=OHR.PortofinoMarathon_IT-IT1822275112_UHD.jpg) |
 
 ## 🌸 [日语（日本）](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2025-02-28 | 今日はチベットの正月「ロサル」 | タクツァン僧院, ブータン (© Baron Reznik/Getty Images) | [![今日はチベットの正月「ロサル」](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_320x240.jpg)](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_UHD.jpg) |
+| 2025-02-02 | 今日はグラウンドホッグデー | アルプスマーモット, 米国 ペンシルバニア州 (© Jonas Fichtner-Pflaum/Getty Images) | [![今日はグラウンドホッグデー](https://www.bing.com/th?id=OHR.AustriaMarmot_JA-JP6210470300_320x240.jpg)](https://www.bing.com/th?id=OHR.AustriaMarmot_JA-JP6210470300_UHD.jpg) |
 | 2025-02-15 | ライトアップされた幻想的な氷柱 | 三十槌の氷柱, 埼玉県 秩父市 (© watayu0821/Shutterstock) | [![ライトアップされた幻想的な氷柱](https://www.bing.com/th?id=OHR.Misotsuchi2025_JA-JP3931043311_320x240.jpg)](https://www.bing.com/th?id=OHR.Misotsuchi2025_JA-JP3931043311_UHD.jpg) |
-| 2025-11-09 | 今日はカール・セーガン・デー | ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA) | [![今日はカール・セーガン・デー](https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_320x240.jpg)](https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg) |
-| 2025-10-22 | 今日は平安遷都の日 | 平安神宮の泰平閣, 京都府 京都市 (© Trevor Chriss/Alamy) | [![今日は平安遷都の日](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_320x240.jpg)](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_UHD.jpg) |
 
 ## 🐉 [简体中文（中国）](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2025-11-09 | 从前有一颗星星 | 礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA) | [![从前有一颗星星](https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_320x240.jpg)](https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg) |
+| 2025-10-22 | 刻在石头上 | 贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock) | [![刻在石头上](https://www.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_320x240.jpg)](https://www.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg) |
 | 2025-06-26 | 海岸线附近的“马戏” | 马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images) | [![海岸线附近的“马戏”](https://www.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_320x240.jpg)](https://www.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg) |
-| 2025-07-15 | 永恒的光芒 | 英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock) | [![永恒的光芒](https://www.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_320x240.jpg)](https://www.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg) |
-| 2025-05-04 | 欢迎来到纳布星球！ | 西班牙广场，塞维利亚，西班牙 (© Horia Merla/Getty Images) | [![欢迎来到纳布星球！](https://www.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_320x240.jpg)](https://www.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg) |
 
