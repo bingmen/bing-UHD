@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-10-27 03:44:27 UTC
+> Dernière mise à jour: 2026-10-28 04:00:35 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-10-28 | Gardien de l’histoire | Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy) | [![Gardien de l’histoire](https://www.bing.com/th?id=OHR.KuneticeCastle_FR-FR0560907896_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_FR-FR0560907896_UHD.jpg) |
 | 2026-10-27 | Le reflet doré de la nature | Un bosquet de cyprès des étangs aux couleurs automnales, Géorgie, États-Unis (© Chris Moore/Getty Images) | [![Le reflet doré de la nature](https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg) |
 | 2026-10-26 | Le son de l’automne | Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie (© Nadya85/Getty Images) | [![Le son de l’automne](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_UHD.jpg) |
 | 2026-10-25 | Des étoiles plein les yeux | Lac Maligne, Parc national Jasper, Alberta, Canada (© Andrey Popov/Getty Images) | [![Des étoiles plein les yeux](https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_320x240.jpg)](https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg) |
