@@ -1,9 +1,11 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated: 2026-10-28 03:58:36 UTC
+> Last updated: 2026-10-29 04:22:44 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-30 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://www.bing.com/th?id=OHR.AveburyStones_EN-CA3104504656_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-CA3104504656_UHD.jpg) |
+| 2026-10-29 | Where history stands watch | Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy) | [![Where history stands watch](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-CA2792060952_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-CA2792060952_UHD.jpg) |
 | 2026-10-28 | Nature's golden mirror | A grove of pond cypress trees with fall foliage, Georgia, United States (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-CA4795569261_UHD.jpg) |
 | 2026-10-27 | Nature's fall soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's fall soundtrack](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-CA2117878012_UHD.jpg) |
 | 2026-10-26 | 'Peak' into Colorado | Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images) | [!['Peak' into Colorado](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_320x240.jpg)](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-CA1700205921_UHD.jpg) |
