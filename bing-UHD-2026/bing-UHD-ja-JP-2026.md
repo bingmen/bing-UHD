@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-10-28 04:01:45 UTC
+> 最終更新: 2026-10-29 04:25:28 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-10-29 | 草原に立ち並ぶ巨石群 | エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images) | [![草原に立ち並ぶ巨石群](https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_UHD.jpg) |
 | 2026-10-28 | 夕暮れに佇む古城 | クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy) | [![夕暮れに佇む古城](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg) |
 | 2026-10-27 | 水面に映る秋の森 | ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images) | [![水面に映る秋の森](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg) |
 | 2026-10-26 | 紅葉の中を流れ落ちる滝 | シトヴォ滝, ブルガリア (© Nadya85/Getty Images) | [![紅葉の中を流れ落ちる滝](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg) |
