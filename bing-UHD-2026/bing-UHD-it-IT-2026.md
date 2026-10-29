@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-10-28 04:01:09 UTC
+> Ultimo aggiornamento: 2026-10-29 04:25:00 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-10-29 | Una passeggiata nella preistoria | Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images) | [![Una passeggiata nella preistoria](https://www.bing.com/th?id=OHR.AveburyStones_IT-IT5634082753_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_IT-IT5634082753_UHD.jpg) |
 | 2026-10-28 | Secoli sopra la Boemia | Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy) | [![Secoli sopra la Boemia](https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032_UHD.jpg) |
 | 2026-10-27 | Riflessi dorati | Boschetto di cipressi delle paludi con colori autunnali, Georgia, USA (© Chris Moore/Getty Images) | [![Riflessi dorati](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_IT-IT6320902214_UHD.jpg) |
 | 2026-10-26 | Acqua, pietra e mistero | Cascate autunnali vicino a Sitovo, provincia di Plovdiv, Bulgaria (© Nadya85/Getty Images) | [![Acqua, pietra e mistero](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_IT-IT4859902057_UHD.jpg) |
