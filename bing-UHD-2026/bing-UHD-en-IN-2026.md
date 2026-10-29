@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-10-28 03:59:36 UTC
+> Last updated: 2026-10-29 04:23:39 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-10-29 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_UHD.jpg) |
 | 2026-10-28 | Where history stands watch | Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy) | [![Where history stands watch](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-IN9209042094_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-IN9209042094_UHD.jpg) |
 | 2026-10-27 | Nature's golden mirror | A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images) | [![Nature's golden mirror](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_EN-IN8944704657_UHD.jpg) |
 | 2026-10-26 | Nature's autumn soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's autumn soundtrack](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-IN8441319721_UHD.jpg) |
