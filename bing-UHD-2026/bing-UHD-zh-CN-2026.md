@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新: 2026-10-28 04:02:14 UTC
+> 最后更新: 2026-10-29 04:25:57 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-10-29 | 薄雾邂逅千年时光 | 立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images) | [![薄雾邂逅千年时光](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg) |
 | 2026-10-28 | 历史守望之地 | 库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy) | [![历史守望之地](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg) |
 | 2026-10-27 | 大自然的金色明镜 | 秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images) | [![大自然的金色明镜](https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg) |
 | 2026-10-26 | 大自然的秋日乐章 | 秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images) | [![大自然的秋日乐章](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg) |
