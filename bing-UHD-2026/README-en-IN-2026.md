@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-10-29 07:12:53 UTC
+> Last updated：2026-10-30 04:26:15 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-09-04 | Bögen zum Horizont | Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images) | [![Bögen zum Horizont](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_320x240.jpg)](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg) |
-| 2026-06-23 | Ikone am Horizont | Berg Fuji auf der Insel Honshū, Japan (© phutthiseth thongtae/Getty Images) | [![Ikone am Horizont](https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275_320x240.jpg)](https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275_UHD.jpg) |
-| 2026-09-09 | Leben an Indiens Westküste | Gabit-Keni-Strand bei Ankola, Karnataka, Indien (© Amith Nag Photography/Getty Images) | [![Leben an Indiens Westküste](https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_320x240.jpg)](https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_UHD.jpg) |
+| 2026-09-05 | Kleine Vögel, große Wirkung | Grünstirn-Brillantkolibris an Helikonienblüten, Costa Rica (© Paul Hobson/Nature Picture Library) | [![Kleine Vögel, große Wirkung](https://www.bing.com/th?id=OHR.GreenCrowned_DE-DE8742495391_320x240.jpg)](https://www.bing.com/th?id=OHR.GreenCrowned_DE-DE8742495391_UHD.jpg) |
+| 2026-06-24 | Kleine Flügel, große Wirkung | Schmetterling beim Bestäuben einer gelben Blüte (© lzh/Getty Images) | [![Kleine Flügel, große Wirkung](https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_320x240.jpg)](https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_UHD.jpg) |
+| 2026-09-10 | Ein buntes Mosaik aus der Luft | Luftaufnahme von Olvera, Andalusien, Spanien (© Marco Bottigelli/Getty Images) | [![Ein buntes Mosaik aus der Luft](https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_320x240.jpg)](https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-09-20 | The Alpine sound of Oktoberfest | Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock) | [![The Alpine sound of Oktoberfest](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-CA4386550572_320x240.jpg)](https://www.bing.com/th?id=OHR.AlphornBavaria_EN-CA4386550572_UHD.jpg) |
-| 2026-06-18 | Twist your way up | Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images) | [![Twist your way up](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_320x240.jpg)](https://www.bing.com/th?id=OHR.TremolaRoad_EN-CA6025249827_UHD.jpg) |
-| 2026-06-28 | Many voices, one country | Dramatic sky over Montreal, Quebec (© d3sign/Getty Images) | [![Many voices, one country](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_320x240.jpg)](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg) |
+| 2026-09-21 | The tower that won Paris over | Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images) | [![The tower that won Paris over](https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686_320x240.jpg)](https://www.bing.com/th?id=OHR.ParisSunset_EN-CA5063473686_UHD.jpg) |
+| 2026-06-19 | A rock-solid marvel | Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus) | [![A rock-solid marvel](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_320x240.jpg)](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-CA6349309682_UHD.jpg) |
+| 2026-06-29 | Looking sharp | Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images) | [![Looking sharp](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_320x240.jpg)](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-17 | A Greek escape | Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images) | [![A Greek escape](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-GB3361752741_320x240.jpg)](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-GB3361752741_UHD.jpg) |
-| 2026-08-30 | The fish that outgrew its name | Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library) | [![The fish that outgrew its name](https://www.bing.com/th?id=OHR.YellowShark_EN-GB1905405727_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowShark_EN-GB1905405727_UHD.jpg) |
-| 2026-08-20 | Voices of the pod | An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy) | [![Voices of the pod](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_320x240.jpg)](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_UHD.jpg) |
+| 2026-07-18 | Going full circle | Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images) | [![Going full circle](https://www.bing.com/th?id=OHR.DevilsBridge_EN-GB3657419694_320x240.jpg)](https://www.bing.com/th?id=OHR.DevilsBridge_EN-GB3657419694_UHD.jpg) |
+| 2026-08-31 | A master class in pattern | Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images) | [![A master class in pattern](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405_320x240.jpg)](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405_UHD.jpg) |
+| 2026-08-21 | The climb is calling | Winding road of Julier Pass, Switzerland (© Westend61/Getty Images) | [![The climb is calling](https://www.bing.com/th?id=OHR.JulierPass_EN-GB1060938084_320x240.jpg)](https://www.bing.com/th?id=OHR.JulierPass_EN-GB1060938084_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-01-22 | A Bohemian spa story | Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images) | [![A Bohemian spa story](https://www.bing.com/th?id=OHR.KarlovyVary_EN-IN1090343665_320x240.jpg)](https://www.bing.com/th?id=OHR.KarlovyVary_EN-IN1090343665_UHD.jpg) |
-| 2026-07-15 | The reward after the climb | Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images) | [![The reward after the climb](https://www.bing.com/th?id=OHR.MarieLake_EN-IN7488025421_320x240.jpg)](https://www.bing.com/th?id=OHR.MarieLake_EN-IN7488025421_UHD.jpg) |
-| 2026-01-09 | Where time grows tall | Giant redwood trees in Muir Woods National Monument, California, United States (© photo by canderson/Getty Images) | [![Where time grows tall](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-IN2517667625_320x240.jpg)](https://www.bing.com/th?id=OHR.MuirWoodsMonument_EN-IN2517667625_UHD.jpg) |
+| 2026-01-23 | Feasting through frost | Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images) | [![Feasting through frost](https://www.bing.com/th?id=OHR.IcelandSheep_EN-IN4953481142_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSheep_EN-IN4953481142_UHD.jpg) |
+| 2026-07-16 | The wheels of tradition | The Stone Chariot, Hampi, Karnataka (© Alan_Lagadu/iStock/Getty Images) | [![The wheels of tradition](https://www.bing.com/th?id=OHR.RathYatra2026_EN-IN7824400350_320x240.jpg)](https://www.bing.com/th?id=OHR.RathYatra2026_EN-IN7824400350_UHD.jpg) |
+| 2026-01-10 | Pure Swiss magic | The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com) | [![Pure Swiss magic](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-IN8628292064_320x240.jpg)](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-IN8628292064_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-05-10 | The architect of Krka | Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock) | [![The architect of Krka](https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_320x240.jpg)](https://www.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg) |
-| 2026-02-14 | Built to bring closer | Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images) | [![Built to bring closer](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_320x240.jpg)](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg) |
-| 2026-08-22 | The climb is calling | Winding road of Julier Pass, Switzerland (© Westend61/Getty Images) | [![The climb is calling](https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_320x240.jpg)](https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg) |
+| 2026-05-11 | A bond that endures | Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images) | [![A bond that endures](https://www.bing.com/th?id=OHR.MotherCub_EN-US0916425414_320x240.jpg)](https://www.bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg) |
+| 2026-02-15 | Love in bloom | Bleeding hearts (© Dorene Hookey/Cavan Images) | [![Love in bloom](https://www.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_320x240.jpg)](https://www.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg) |
+| 2026-08-23 | Sky tinted wings | Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library) | [![Sky tinted wings](https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_320x240.jpg)](https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-05-19 | La pointe nord de Majorque | Phare de Formentor, Majorque, Îles Baléares, Espagne (© Allard Schager/Getty Images) | [![La pointe nord de Majorque](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_320x240.jpg)](https://www.bing.com/th?id=OHR.SpainLighthouse_FR-FR9037625281_UHD.jpg) |
-| 2026-01-01 | Étirez-vous doucement dans la nouvelle année | Un renard polaire endormi (© Chansak Joe/Getty Images) | [![Étirez-vous doucement dans la nouvelle année](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_320x240.jpg)](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg) |
-| 2026-01-03 | Quand la Suisse inspira la magie de Tolkien | Chute de Staubbach à Lauterbrunnen, canton de Berne, Suisse (© pongnathee kluaythong/Getty Images) | [![Quand la Suisse inspira la magie de Tolkien](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_320x240.jpg)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_UHD.jpg) |
+| 2026-05-20 | D’indispensables petites bêtes | Bourdon, Worcester, Angleterre (© SimonEastwood87/Shutterstock) | [![D’indispensables petites bêtes](https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_320x240.jpg)](https://www.bing.com/th?id=OHR.BumbleBee_FR-FR9421197553_UHD.jpg) |
+| 2026-01-02 | L’âme de Venise | Vue aérienne de Venise, Italie (© Clement Leonard/Getty Images) | [![L’âme de Venise](https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_UHD.jpg) |
+| 2026-01-04 | Une vue royale ! | Mont Kings, montagnes Chugach, Alaska, États-Unis (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) | [![Une vue royale !](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_320x240.jpg)](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-01-20 | Danza tra i ghiacchi | Pinguino Gentoo, Isola Petermann, Antartide (© Paul Souders/DanitaDelimont.com/Alamy) | [![Danza tra i ghiacchi](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4498026851_320x240.jpg)](https://www.bing.com/th?id=OHR.IciclePenguin_IT-IT4498026851_UHD.jpg) |
-| 2026-02-04 | Vola, spavaldo vola | Nibbio reale nella neve (© Carl Mckie/500px/Getty Images) | [![Vola, spavaldo vola](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_IT-IT4671101896_320x240.jpg)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_IT-IT4671101896_UHD.jpg) |
-| 2026-02-01 | Calore e Colore | Casa colorata, Olinda, Pernambuco, Brasile (© Robert Pekar/Alamy) | [![Calore e Colore](https://www.bing.com/th?id=OHR.Olinda_IT-IT4333912850_320x240.jpg)](https://www.bing.com/th?id=OHR.Olinda_IT-IT4333912850_UHD.jpg) |
+| 2026-01-21 | Radici, semi e futuro | Scoiattolo rosso eurasiatico (© Galina Jacyna/Getty Images) | [![Radici, semi e futuro](https://www.bing.com/th?id=OHR.BerrySquirrel_IT-IT4115553283_320x240.jpg)](https://www.bing.com/th?id=OHR.BerrySquirrel_IT-IT4115553283_UHD.jpg) |
+| 2026-02-05 | Sole, Sale, Sole | Bacini di evaporazione del sale sull'isola di Gozo, Malta (© Marius Roman/Getty Images) | [![Sole, Sale, Sole](https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_320x240.jpg)](https://www.bing.com/th?id=OHR.MaltaSalt_IT-IT4724990773_UHD.jpg) |
+| 2026-02-02 | Sentinelle d’alta quota | Marmotte alpine, Parco Nazionale degli Alti Tauri, Austria (© Raimund Linke/Getty Images) | [![Sentinelle d’alta quota](https://www.bing.com/th?id=OHR.AlpineMarmots_IT-IT4461801484_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineMarmots_IT-IT4461801484_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-08-08 | 今日は無限大の日 | インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock) | [![今日は無限大の日](https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_320x240.jpg)](https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_UHD.jpg) |
-| 2026-03-03 | 今日はひな祭り | 竹筒から顔をのぞかせる可愛いひな人形 (© Bong Grit/Getty Images) | [![今日はひな祭り](https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_320x240.jpg)](https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_UHD.jpg) |
-| 2026-05-02 | 今日は八十八夜 | 和束の茶畑, 京都府 和束町 (© Tuul and Bruno Morandi/Alamy) | [![今日は八十八夜](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_320x240.jpg)](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg) |
+| 2026-08-09 | 今日は世界の先住民の国際デー | チバウ文化センター, ニューカレドニア (© Fabien Astre/Alamy) | [![今日は世界の先住民の国際デー](https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_UHD.jpg) |
+| 2026-03-04 | 残雪の山に咲く紫の小さな花 | 紫クロッカス, ブルガリア (© Maya Karkalicheva/Getty Images) | [![残雪の山に咲く紫の小さな花](https://www.bing.com/th?id=OHR.RilaCrocuses_JA-JP8929761168_320x240.jpg)](https://www.bing.com/th?id=OHR.RilaCrocuses_JA-JP8929761168_UHD.jpg) |
+| 2026-05-03 | 今日は国際ヒョウの日 | 樹上で眠るヒョウ, ケニア (© Klein & Hubert/Nature Picture Library) | [![今日は国際ヒョウの日](https://www.bing.com/th?id=OHR.MasaiLeopard_JA-JP2209890088_320x240.jpg)](https://www.bing.com/th?id=OHR.MasaiLeopard_JA-JP2209890088_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-01-03 | 传奇故事前的篇章 | 劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images) | [![传奇故事前的篇章](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_320x240.jpg)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg) |
-| 2026-01-31 | 一见钟情 | 平原斑马, 埃托沙国家公园, 纳米比亚 (© Mogens Trolle/Shutterstock) | [![一见钟情](https://www.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_320x240.jpg)](https://www.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_UHD.jpg) |
-| 2026-08-25 | 守护美国瑰宝 | 红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images) | [![守护美国瑰宝](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_320x240.jpg)](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg) |
+| 2026-01-04 | 王者视野 | 国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) | [![王者视野](https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_320x240.jpg)](https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg) |
+| 2026-02-01 | 奇迹之墙 | 奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy) | [![奇迹之墙](https://www.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_320x240.jpg)](https://www.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg) |
+| 2026-08-26 | 流光溢彩的天空 | 基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy) | [![流光溢彩的天空](https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_320x240.jpg)](https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg) |
 

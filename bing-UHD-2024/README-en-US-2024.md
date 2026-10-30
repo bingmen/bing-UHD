@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2024
 
-> Last updated：2026-10-29 07:12:53 UTC
+> Last updated：2026-10-30 04:26:16 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2024-02-20 | Ein Park mit Geschichte | Kinder Scout bei Sonnenaufgang, Peak-District-Nationalpark, UK (© john finney photography/Getty Images) | [![Ein Park mit Geschichte](https://www.bing.com/th?id=OHR.PeakDistrictNP_DE-DE4372136028_320x240.jpg)](https://www.bing.com/th?id=OHR.PeakDistrictNP_DE-DE4372136028_UHD.jpg) |
 | 2024-10-18 | Herbstliche Vibes | Herbst im Central Park, Manhattan, New York City, USA (© mapman/Shutterstock) | [![Herbstliche Vibes](https://www.bing.com/th?id=OHR.CentralParkAutumn_DE-DE9416328448_320x240.jpg)](https://www.bing.com/th?id=OHR.CentralParkAutumn_DE-DE9416328448_UHD.jpg) |
 | 2024-02-24 | Märchen oder Wirklichkeit? | Hänsel und Gretel Haus in Oberammergau, Bayern (© Tim Graham/Getty Images) | [![Märchen oder Wirklichkeit?](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_320x240.jpg)](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_UHD.jpg) |
-| 2024-01-06 | Auf Wolke sieben schweben | Golden Gate Bridge, San Francisco, Kalifornien, USA (© Jim Patterson/Tandem Stills + Motion) | [![Auf Wolke sieben schweben](https://www.bing.com/th?id=OHR.GoldenGateLight_DE-DE1352725160_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenGateLight_DE-DE1352725160_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2024.md)
 
