@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-10-29 04:22:20 UTC
+> Zuletzt aktualisiert: 2026-10-30 04:22:08 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-10-30 | Zeit für Höhenflüge | Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Zeit für Höhenflüge](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg) |
 | 2026-10-29 | Wo Nebel auf Jahrtausende trifft | Stehende Steine in Avebury, Wiltshire, England (© George W Johnson/Getty Images) | [![Wo Nebel auf Jahrtausende trifft](https://www.bing.com/th?id=OHR.AveburyStones_DE-DE3052154737_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_DE-DE3052154737_UHD.jpg) |
 | 2026-10-28 | Wo Geschichte Wache hält | Burg Kunětická hora, Böhmen, Tschechien (© Marek Saroch/Alamy) | [![Wo Geschichte Wache hält](https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067_UHD.jpg) |
 | 2026-10-27 | Goldener Spiegel der Natur | Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images) | [![Goldener Spiegel der Natur](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg) |
