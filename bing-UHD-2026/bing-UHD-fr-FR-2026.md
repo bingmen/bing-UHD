@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-10-30 04:24:26 UTC
+> Dernière mise à jour: 2026-10-31 04:04:18 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-10-31 | Visiteurs d'un autre monde | Cathédrale Saint-Barthélemy à Francfort, Allemagne (© AlxeyPnferov/Getty Images) | [![Visiteurs d'un autre monde](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_UHD.jpg) |
 | 2026-10-30 | L'heure de prendre de la hauteur | Grues du Canada, réserve de Bosque del Apache, Nouveau-Mexique, États-Unis (© Terry St.Louis/Getty Images) | [![L'heure de prendre de la hauteur](https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg) |
 | 2026-10-29 | Des millénaires caressés par la brume | Pierres dressées à Avebury dans le Wiltshire, Angleterre (© George W Johnson/Getty Images) | [![Des millénaires caressés par la brume](https://www.bing.com/th?id=OHR.AveburyStones_FR-FR0792308002_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_FR-FR0792308002_UHD.jpg) |
 | 2026-10-28 | Gardien de l’histoire | Château de Kunětická hora, Bohême, Tchéquie (© Marek Saroch/Alamy) | [![Gardien de l’histoire](https://www.bing.com/th?id=OHR.KuneticeCastle_FR-FR0560907896_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_FR-FR0560907896_UHD.jpg) |
