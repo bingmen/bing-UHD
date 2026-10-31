@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated：2026-10-30 07:15:48 UTC
+> Last updated：2026-10-31 04:06:06 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-01-27 | Eleganz über stillem Wasser | Krauskopfpelikane, Kerkini-See, Griechenland (© Guy Edwardes/naturepl.com) | [![Eleganz über stillem Wasser](https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_320x240.jpg)](https://www.bing.com/th?id=OHR.DalmationPelicans_DE-DE9659953215_UHD.jpg) |
-| 2026-05-30 | Zwischen den Streifen lesen | Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia (© Sharon Heald/Nature Picture Library) | [![Zwischen den Streifen lesen](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_320x240.jpg)](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_UHD.jpg) |
-| 2026-04-23 | Ein Cottage voller Geschichten | Anne Hathaway’s Cottage, Stratford‑upon‑Avon, England (© David Steele/Shutterstock) | [![Ein Cottage voller Geschichten](https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_320x240.jpg)](https://www.bing.com/th?id=OHR.HathawayCottage_DE-DE1846813831_UHD.jpg) |
+| 2026-01-28 | Einfach treiben lassen | Whanganui-Nationalpark, Retaruke, Neuseeland (© Matthew Micah Wright/Getty Images) | [![Einfach treiben lassen](https://www.bing.com/th?id=OHR.WhanganuiPark_DE-DE0122183899_320x240.jpg)](https://www.bing.com/th?id=OHR.WhanganuiPark_DE-DE0122183899_UHD.jpg) |
+| 2026-05-31 | Gelb, soweit das Auge reicht | Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen (© Frank Bienewald/Getty Images) | [![Gelb, soweit das Auge reicht](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_320x240.jpg)](https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg) |
+| 2026-04-24 | Wenn Pinguine aus der Reihe tanzen | Galápagos‑Pinguine beim Schwimmen, Galapagosinseln, Ecuador (© Henley Spiers/Nature Picture Library) | [![Wenn Pinguine aus der Reihe tanzen](https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852_320x240.jpg)](https://www.bing.com/th?id=OHR.GalapagosPenguins_DE-DE2195733852_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-06-28 | Many voices, one country | Dramatic sky over Montreal, Quebec (© d3sign/Getty Images) | [![Many voices, one country](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_320x240.jpg)](https://www.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg) |
-| 2026-03-06 | Ancient rocks, modern lights | Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images) | [![Ancient rocks, modern lights](https://www.bing.com/th?id=OHR.GoremeTwilight_EN-CA8343514373_320x240.jpg)](https://www.bing.com/th?id=OHR.GoremeTwilight_EN-CA8343514373_UHD.jpg) |
-| 2026-02-17 | When Banff slows down | Scenic view of lake by snowcapped mountains in Banff, Alberta (© Herbert Rong/Getty Images) | [![When Banff slows down](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_320x240.jpg)](https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg) |
+| 2026-06-29 | Looking sharp | Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images) | [![Looking sharp](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_320x240.jpg)](https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_UHD.jpg) |
+| 2026-03-07 | Waves cast in concrete | The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy) | [![Waves cast in concrete](https://www.bing.com/th?id=OHR.WaveDenmark_EN-CA6114936639_320x240.jpg)](https://www.bing.com/th?id=OHR.WaveDenmark_EN-CA6114936639_UHD.jpg) |
+| 2026-02-18 | Fifteen days of light | Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images) | [![Fifteen days of light](https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722_320x240.jpg)](https://www.bing.com/th?id=OHR.NewYearLantern_EN-CA1106555722_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-10-05 | Taking the plunge, one lesson at a time | Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures) | [![Taking the plunge, one lesson at a time](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-GB2790518533_320x240.jpg)](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-GB2790518533_UHD.jpg) |
-| 2026-09-16 | The Arctic's new explorers | Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library) | [![The Arctic's new explorers](https://www.bing.com/th?id=OHR.IcyCubs_EN-GB8373772893_320x240.jpg)](https://www.bing.com/th?id=OHR.IcyCubs_EN-GB8373772893_UHD.jpg) |
-| 2026-05-28 | Design meets discipline | Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images) | [![Design meets discipline](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_320x240.jpg)](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-GB7039150905_UHD.jpg) |
+| 2026-10-06 | Earth's story in stripes | Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images) | [![Earth's story in stripes](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_320x240.jpg)](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_UHD.jpg) |
+| 2026-09-17 | A toast to the harvest | Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images) | [![A toast to the harvest](https://www.bing.com/th?id=OHR.Santenay_EN-GB8477225756_320x240.jpg)](https://www.bing.com/th?id=OHR.Santenay_EN-GB8477225756_UHD.jpg) |
+| 2026-05-29 | A 'peak' into history | Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images) | [![A 'peak' into history](https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_320x240.jpg)](https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-23 | A symphony of petals | Pink dahlia flower (© Harald Biebel/Getty Images) | [![A symphony of petals](https://www.bing.com/th?id=OHR.PinkDahlia_EN-IN0092108824_320x240.jpg)](https://www.bing.com/th?id=OHR.PinkDahlia_EN-IN0092108824_UHD.jpg) |
-| 2026-07-01 | The art of taking the plunge | Jog Falls on the Sharavathi River, Shivamogga district, Karnataka (© Amith Nag Photography/Moment/Getty Images) | [![The art of taking the plunge](https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_320x240.jpg)](https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_UHD.jpg) |
-| 2026-02-14 | Love in bloom | Bleeding hearts (© Dorene Hookey/Cavan Images) | [![Love in bloom](https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_320x240.jpg)](https://www.bing.com/th?id=OHR.ValentineHearts_EN-IN9333874983_UHD.jpg) |
+| 2026-07-24 | Family, in full colour | Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library) | [![Family, in full colour](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_320x240.jpg)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_UHD.jpg) |
+| 2026-07-02 | Inside Esna's sacred universe | Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images) | [![Inside Esna's sacred universe](https://www.bing.com/th?id=OHR.TempleEsna_EN-IN3356286000_320x240.jpg)](https://www.bing.com/th?id=OHR.TempleEsna_EN-IN3356286000_UHD.jpg) |
+| 2026-02-15 | Under Shiva's gaze | Statue of Shiva at Murudeshwara Temple, Uttara Kannada, Karnataka (© Amith Nag Photography/Moment/Getty Image) | [![Under Shiva's gaze](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_320x240.jpg)](https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-04-12 | Volcanic veneer | Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images) | [![Volcanic veneer](https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_320x240.jpg)](https://www.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg) |
-| 2026-03-29 | The untamed spirit | African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images) | [![The untamed spirit](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_320x240.jpg)](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg) |
-| 2026-05-26 | Where silence bears names | Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images) | [![Where silence bears names](https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_320x240.jpg)](https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg) |
+| 2026-04-13 | The first step off Earth | City lights streak below, taken from the International Space Station (© NASA) | [![The first step off Earth](https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_320x240.jpg)](https://www.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg) |
+| 2026-03-30 | Serenity by the sea | Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock) | [![Serenity by the sea](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_320x240.jpg)](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg) |
+| 2026-05-27 | A season written in lupine | Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion) | [![A season written in lupine](https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_320x240.jpg)](https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-08-26 | Comme un mirage céleste | Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy) | [![Comme un mirage céleste](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_320x240.jpg)](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg) |
-| 2026-01-03 | Quand la Suisse inspira la magie de Tolkien | Chute de Staubbach à Lauterbrunnen, canton de Berne, Suisse (© pongnathee kluaythong/Getty Images) | [![Quand la Suisse inspira la magie de Tolkien](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_320x240.jpg)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_FR-FR3708152476_UHD.jpg) |
-| 2026-10-21 | Vol au-dessus de la rivière | Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam (© VU PHAM VAN/Getty Images) | [![Vol au-dessus de la rivière](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_320x240.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg) |
+| 2026-08-27 | Des trésors à protéger | Volée de flamants nains à l’aube, Lac Magadi, Kenya (© Denis-Huot/Nature Picture Library) | [![Des trésors à protéger](https://www.bing.com/th?id=OHR.LakeMagadi_FR-FR8316800874_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeMagadi_FR-FR8316800874_UHD.jpg) |
+| 2026-01-04 | Une vue royale ! | Mont Kings, montagnes Chugach, Alaska, États-Unis (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) | [![Une vue royale !](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_320x240.jpg)](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg) |
+| 2026-10-22 | Eaux paisibles, teintes flamboyantes | Le parc national de Naejangsan en automne, Corée du Sud (© Twenty47studio/Getty Images) | [![Eaux paisibles, teintes flamboyantes](https://www.bing.com/th?id=OHR.NaejangsanNP_FR-FR8219456677_320x240.jpg)](https://www.bing.com/th?id=OHR.NaejangsanNP_FR-FR8219456677_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-06-03 | Oltre i confini | Ciclista nel parco naturale e riserva della biosfera delle Bardenas Reales, Navarra, Spagna (© Artur Debat/Getty Images) | [![Oltre i confini](https://www.bing.com/th?id=OHR.BardenasReales_IT-IT5937080217_320x240.jpg)](https://www.bing.com/th?id=OHR.BardenasReales_IT-IT5937080217_UHD.jpg) |
-| 2026-02-13 | Oltre i confini | Terzo ponte dell'amicizia tra Thailandia e Laos (© chaiyut samsuk/Getty Images) | [![Oltre i confini](https://www.bing.com/th?id=OHR.FriendshipBridge_IT-IT0003771526_320x240.jpg)](https://www.bing.com/th?id=OHR.FriendshipBridge_IT-IT0003771526_UHD.jpg) |
-| 2026-08-29 | Studiando le maree | Veduta aerea di surfisti a Santa Catarina, Brasile (© Wonderful Nature/Shutterstock) | [![Studiando le maree](https://www.bing.com/th?id=OHR.SantaCatarina_IT-IT1605956723_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaCatarina_IT-IT1605956723_UHD.jpg) |
+| 2026-06-04 | Confini liquidi? | Strada G315 che attraversa il lago Xitai Jinaier, Qinghai, Cina (© Kaicheng Xu/Getty Images) | [![Confini liquidi?](https://www.bing.com/th?id=OHR.Qinghai_IT-IT1366157196_320x240.jpg)](https://www.bing.com/th?id=OHR.Qinghai_IT-IT1366157196_UHD.jpg) |
+| 2026-02-14 | Dove nasce l'amore | Verona, Veneto (© Jan Hendrik/Shutterstock/Getty Images) | [![Dove nasce l'amore](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_320x240.jpg)](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_UHD.jpg) |
+| 2026-08-30 | Il pesce che ha superato la balena | Squalo balena e carango dorato, Baia di Cenderawasih, Papua Occidentale, Indonesia (© Pete Oxford/Nature Picture Library) | [![Il pesce che ha superato la balena](https://www.bing.com/th?id=OHR.YellowShark_IT-IT2405493473_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowShark_IT-IT2405493473_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-05-24 | 今日はヨーロッパの公園の日 | トレ・チーメ自然公園, イタリア (© Adisorn Fineday Chutikunakorn/Getty Images) | [![今日はヨーロッパの公園の日](https://www.bing.com/th?id=OHR.DolomitesPark_JA-JP9299187350_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesPark_JA-JP9299187350_UHD.jpg) |
-| 2026-04-03 | 静かな運河に映る街並み | アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images) | [![静かな運河に映る街並み](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_320x240.jpg)](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_UHD.jpg) |
+| 2026-05-25 | 小道の先に佇む灯台 | トゥール・マウル灯台, ウェールズ (© Lukas Bischoff/Getty Images) | [![小道の先に佇む灯台](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_320x240.jpg)](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_JA-JP9539215085_UHD.jpg) |
 | 2026-04-04 | 今日は清明 | 首里城歓会門, 沖縄県 那覇市 (© Jui-Chi Chan/Getty images) | [![今日は清明](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_320x240.jpg)](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg) |
+| 2026-04-05 | 今日は復活祭 | カラフルな木製イースターエッグ, リトアニア (© maximkabb/Getty Images) | [![今日は復活祭](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-03-31 | 地下天堂 | 天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images) | [![地下天堂](https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_320x240.jpg)](https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg) |
-| 2026-01-23 | 霜雪中的盛宴 | 绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images) | [![霜雪中的盛宴](https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg) |
-| 2026-07-18 | 环影圆成 | 恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images) | [![环影圆成](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_320x240.jpg)](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg) |
+| 2026-04-01 | 跃入四月 | 粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images) | [![跃入四月](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_320x240.jpg)](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg) |
+| 2026-01-24 | 瑞士山间的短逃离 | 阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images) | [![瑞士山间的短逃离](https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_320x240.jpg)](https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg) |
+| 2026-07-19 | 敛羽栖时 | 不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion) | [![敛羽栖时](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_320x240.jpg)](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg) |
 

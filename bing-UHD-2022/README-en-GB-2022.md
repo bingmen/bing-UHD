@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2022
 
-> Last updated：2026-10-30 07:15:49 UTC
+> Last updated：2026-10-31 04:06:07 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-05-12 | Die alte Heimat der Minoer | Das Dorf Ia auf Santorin, Griechenland (© Zebra-Studio/Shutterstock) | [![Die alte Heimat der Minoer](https://www.bing.com/th?id=OHR.OiaVillage_DE-DE3659729921_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaVillage_DE-DE3659729921_UHD.jpg) |
-| 2022-11-18 | Schlüssellöcher zum Königreich | Tore des Königspalasts „Dar El Makhzen“ in Fès, Marokko (© Adam Smigielski/Getty Images) | [![Schlüssellöcher zum Königreich](https://www.bing.com/th?id=OHR.IslamicArt_DE-DE3832982768_320x240.jpg)](https://www.bing.com/th?id=OHR.IslamicArt_DE-DE3832982768_UHD.jpg) |
-| 2022-12-24 | Frohes Fest! | Weihnachtsbaum bei Berchtesgaden mit dem Watzmann im Hintergrund, Bayern (© Günter Gräfenhain/eStock Photo) | [![Frohes Fest!](https://www.bing.com/th?id=OHR.WeihnachtenWatzmann_DE-DE6323542164_320x240.jpg)](https://www.bing.com/th?id=OHR.WeihnachtenWatzmann_DE-DE6323542164_UHD.jpg) |
+| 2022-11-19 | Der Zion-Nationalpark wird 103! | Virgin River im Zion-Nationalpark, Utah, USA (© Jonathan Ross/Getty) | [![Der Zion-Nationalpark wird 103!](https://www.bing.com/th?id=OHR.ZNPVR_DE-DE4002735203_320x240.jpg)](https://www.bing.com/th?id=OHR.ZNPVR_DE-DE4002735203_UHD.jpg) |
+| 2022-07-23 | Flagge zeigen zum CSD Berlin Pride | Regenbogenflagge (© Matt Jeacock/Getty Images) | [![Flagge zeigen zum CSD Berlin Pride](https://www.bing.com/th?id=OHR.Pride2022_DE-DE6638080002_320x240.jpg)](https://www.bing.com/th?id=OHR.Pride2022_DE-DE6638080002_UHD.jpg) |
+| 2022-08-23 | „Die Perle Frankreichs“ | Menton, Frankreich (© Flavio Foglietta/Getty Images) | [![„Die Perle Frankreichs“](https://www.bing.com/th?id=OHR.MentonFrance_DE-DE5707526244_320x240.jpg)](https://www.bing.com/th?id=OHR.MentonFrance_DE-DE5707526244_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-12 | Lest we forget | An aerial picture of the Canadian National Vimy Memorial in Vimy Ridge, France (© Denis Charlet/AFP via Getty Images) | [![Lest we forget](https://www.bing.com/th?id=OHR.VimyRidge_EN-CA2093598153_320x240.jpg)](https://www.bing.com/th?id=OHR.VimyRidge_EN-CA2093598153_UHD.jpg) |
-| 2022-05-07 | Dare to tread through the fairy flower? | A path winding through a forest of bluebells in Hertfordshire, England (© JayKay57/Getty Images) | [![Dare to tread through the fairy flower?](https://www.bing.com/th?id=OHR.HertfordshireBluebells_EN-CA9966173952_320x240.jpg)](https://www.bing.com/th?id=OHR.HertfordshireBluebells_EN-CA9966173952_UHD.jpg) |
-| 2022-11-10 | Look, but don’t touch | European hedgehog in Sussex, England (© Jules Cox/Minden Pictures) | [![Look, but don’t touch](https://www.bing.com/th?id=OHR.HedgehogNest_EN-CA6777751359_320x240.jpg)](https://www.bing.com/th?id=OHR.HedgehogNest_EN-CA6777751359_UHD.jpg) |
+| 2022-04-30 | The sprout with amazing potential | A young giant sequoia sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images) | [![The sprout with amazing potential](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_320x240.jpg)](https://www.bing.com/th?id=OHR.RedwoodSprout_EN-CA9372164406_UHD.jpg) |
+| 2022-12-25 | All is calm | Amalga Harbor, Alaska (© Mark Kelley/Tandem Stills + Motion) | [![All is calm](https://www.bing.com/th?id=OHR.AmalgaTree_EN-CA9499665170_320x240.jpg)](https://www.bing.com/th?id=OHR.AmalgaTree_EN-CA9499665170_UHD.jpg) |
+| 2022-05-26 | Pearl among the emeralds | Alhambra in Granada, Andalucia, Spain (© Armand Tamboly/Getty Images) | [![Pearl among the emeralds](https://www.bing.com/th?id=OHR.Alhambra_EN-CA2527467089_320x240.jpg)](https://www.bing.com/th?id=OHR.Alhambra_EN-CA2527467089_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-06 | Remember, remember… | Bonfire Night at the Old Royal Naval College, London (© marcin_libera/Getty Images Plus) | [![Remember, remember…](https://www.bing.com/th?id=OHR.GreenwichFireworks_EN-GB8929464056_320x240.jpg)](https://www.bing.com/th?id=OHR.GreenwichFireworks_EN-GB8929464056_UHD.jpg) |
-| 2022-06-28 | Flying the flag for Pride | Rainbow flag (© Matt Jeacock/Getty Images) | [![Flying the flag for Pride](https://www.bing.com/th?id=OHR.Pride2022_EN-GB7412066859_320x240.jpg)](https://www.bing.com/th?id=OHR.Pride2022_EN-GB7412066859_UHD.jpg) |
-| 2022-10-14 | Gateway to Iberia | Waterfall on the Rio Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images) | [![Gateway to Iberia](https://www.bing.com/th?id=OHR.RioArazas_EN-GB0695758461_320x240.jpg)](https://www.bing.com/th?id=OHR.RioArazas_EN-GB0695758461_UHD.jpg) |
+| 2022-10-20 | Hangin' around | Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Hangin' around](https://www.bing.com/th?id=OHR.SlothDay_EN-GB1112193539_320x240.jpg)](https://www.bing.com/th?id=OHR.SlothDay_EN-GB1112193539_UHD.jpg) |
+| 2022-05-11 | Sunset on Santorini | The village of Oia on the island of Santorini, Greece (© Zebra-Studio/Shutterstock) | [![Sunset on Santorini](https://www.bing.com/th?id=OHR.OiaVillage_EN-GB8555086133_320x240.jpg)](https://www.bing.com/th?id=OHR.OiaVillage_EN-GB8555086133_UHD.jpg) |
+| 2022-11-18 | Night outside the museum | Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images) | [![Night outside the museum](https://www.bing.com/th?id=OHR.GB25Anni_EN-GB0345961428_320x240.jpg)](https://www.bing.com/th?id=OHR.GB25Anni_EN-GB0345961428_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-12-15 | Winter wonderland for your wallet | Borovets, Bulgaria (© Grigor Ivanov/Cavan Images) | [![Winter wonderland for your wallet](https://www.bing.com/th?id=OHR.Borovets_EN-IN7206985735_320x240.jpg)](https://www.bing.com/th?id=OHR.Borovets_EN-IN7206985735_UHD.jpg) |
-| 2022-05-20 | Something to ‘bee’ thankful for.. | Honeybee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images) | [![Something to ‘bee’ thankful for..](https://www.bing.com/th?id=OHR.ApisMellifera_EN-IN4376650859_320x240.jpg)](https://www.bing.com/th?id=OHR.ApisMellifera_EN-IN4376650859_UHD.jpg) |
-| 2022-07-18 | Alps of the sea | Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock) | [![Alps of the sea](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-IN9354399252_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_EN-IN9354399252_UHD.jpg) |
+| 2022-12-24 | All is calm | Amalga Harbor, Alaska (© Mark Kelley/Tandem Stills + Motion) | [![All is calm](https://www.bing.com/th?id=OHR.AmalgaTree_EN-IN0530683542_320x240.jpg)](https://www.bing.com/th?id=OHR.AmalgaTree_EN-IN0530683542_UHD.jpg) |
+| 2022-11-12 | A convocation of eagles assembles | Group of bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures) | [![A convocation of eagles assembles](https://www.bing.com/th?id=OHR.HainesEagle_EN-IN9562184202_320x240.jpg)](https://www.bing.com/th?id=OHR.HainesEagle_EN-IN9562184202_UHD.jpg) |
+| 2022-05-07 | Eyes on the skies | Swedish antenna at La Silla ESO Observatory, Chile (© Alberto Ghizzi Panizza/Getty Images) | [![Eyes on the skies](https://www.bing.com/th?id=OHR.SwedishAntenna_EN-IN4771356380_320x240.jpg)](https://www.bing.com/th?id=OHR.SwedishAntenna_EN-IN4771356380_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-07-23 | An island made from a vow | Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro (© Dmitrii Sakharov/Shutterstock) | [![An island made from a vow](https://www.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_320x240.jpg)](https://www.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg) |
-| 2022-11-22 | Kickoff in Qatar | Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images) | [![Kickoff in Qatar](https://www.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_320x240.jpg)](https://www.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg) |
-| 2022-06-08 | Part science experiment, part public park | Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images) | [![Part science experiment, part public park](https://www.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_320x240.jpg)](https://www.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg) |
+| 2022-11-10 | Look, but don't touch | European hedgehog in Sussex, England (© Jules Cox/Minden Pictures) | [![Look, but don't touch](https://www.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_320x240.jpg)](https://www.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg) |
+| 2022-11-06 | Reflecting its stylish past today | Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo) | [![Reflecting its stylish past today](https://www.bing.com/th?id=OHR.Trossachs_EN-US0183507678_320x240.jpg)](https://www.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg) |
+| 2022-06-29 | An oasis in a sea of sand | An old kasbah in the Tafilalet region, Morocco (© José Antonio Moreno/agefotostock) | [![An oasis in a sea of sand](https://www.bing.com/th?id=OHR.TafilaletOasis_EN-US7798050717_320x240.jpg)](https://www.bing.com/th?id=OHR.TafilaletOasis_EN-US7798050717_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-12-01 | Le port du Paradis | Le port du Paradis (Paradise Harbour), Antarctique (© SinghaphanAllB/Getty Images) | [![Le port du Paradis](https://www.bing.com/th?id=OHR.AntarcticaDay_FR-FR1000836814_320x240.jpg)](https://www.bing.com/th?id=OHR.AntarcticaDay_FR-FR1000836814_UHD.jpg) |
-| 2022-05-15 | Surprise nocturne | Vue panoramique du Piz Bernina avec la lune rousse, Alpes de l’Est, Suisse (© Bernd Zoller/Shutterstock) | [![Surprise nocturne](https://www.bing.com/th?id=OHR.BerninaBloodMoon_FR-FR2050404886_320x240.jpg)](https://www.bing.com/th?id=OHR.BerninaBloodMoon_FR-FR2050404886_UHD.jpg) |
-| 2022-10-23 | Le chant du cygne | Cygne muet dans la réserve naturelle Valkenhorst, près de Valkenswaard, Pays-Bas (© David Pattyn/Minden Pictures) | [![Le chant du cygne](https://www.bing.com/th?id=OHR.Knobbelzwaan_FR-FR0893259980_320x240.jpg)](https://www.bing.com/th?id=OHR.Knobbelzwaan_FR-FR0893259980_UHD.jpg) |
+| 2022-10-15 | L’histoire contée par la pierre | Le site archéologique de Naqsh-e Rustam près de Persépolis, Iran (© mshirani/Shutterstock) | [![L’histoire contée par la pierre](https://www.bing.com/th?id=OHR.NaqsheRustam_FR-FR7870768659_320x240.jpg)](https://www.bing.com/th?id=OHR.NaqsheRustam_FR-FR7870768659_UHD.jpg) |
+| 2022-12-15 | Du ski à petits prix | Borovets, Bulgarie (© Grigor Ivanov/Cavan Images) | [![Du ski à petits prix](https://www.bing.com/th?id=OHR.Borovets_FR-FR5469173399_320x240.jpg)](https://www.bing.com/th?id=OHR.Borovets_FR-FR5469173399_UHD.jpg) |
+| 2022-05-20 | Le roi de la pêche | Martin-pêcheur en chasse dans une rivière de Lorraine (© Michel Poinsignon/Minden) | [![Le roi de la pêche](https://www.bing.com/th?id=OHR.Martin_FR-FR7076602689_320x240.jpg)](https://www.bing.com/th?id=OHR.Martin_FR-FR7076602689_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-06-27 | Campi di lavanda in Provenza, Francia | Campi di lavanda sull'altopiano di Valensole in Provenza, Francia (© Shutterstock) | [![Campi di lavanda in Provenza, Francia](https://www.bing.com/th?id=OHR.ValensoleLavender_IT-IT3016471772_320x240.jpg)](https://www.bing.com/th?id=OHR.ValensoleLavender_IT-IT3016471772_UHD.jpg) |
-| 2022-10-13 | Il più grande cervide esistente | Alce maschio e alce femmina nel Parco Nazionale di Denali, Alaska, USA (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![Il più grande cervide esistente](https://www.bing.com/th?id=OHR.AlaskaMoose_IT-IT1238572311_320x240.jpg)](https://www.bing.com/th?id=OHR.AlaskaMoose_IT-IT1238572311_UHD.jpg) |
-| 2022-08-20 | Salvare e celebrare le api mellifere | Alveari nella Riserva Naturale di Muniellos nella provincia delle Asturie, Spagna (© ABB Photo/Shutterstock) | [![Salvare e celebrare le api mellifere](https://www.bing.com/th?id=OHR.BearProof_IT-IT6777341598_320x240.jpg)](https://www.bing.com/th?id=OHR.BearProof_IT-IT6777341598_UHD.jpg) |
+| 2022-07-18 | Le Alpi in mezzo al mare | Isola di Omijima nel Parco seminazionale Kita-Nagato Kaigan, Giappone (© Sean Pavone Photo/Adobe Stock) | [![Le Alpi in mezzo al mare](https://www.bing.com/th?id=OHR.OmijimaIsland_IT-IT8907721796_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_IT-IT8907721796_UHD.jpg) |
+| 2022-07-23 | Impollinatori alternativi | Falena elefante su un fiore di digitale purpurea (© David Chapman/Alamy) | [![Impollinatori alternativi](https://www.bing.com/th?id=OHR.FoxgloveHawkmoth_IT-IT4654185472_320x240.jpg)](https://www.bing.com/th?id=OHR.FoxgloveHawkmoth_IT-IT4654185472_UHD.jpg) |
+| 2022-11-22 | Una volpe tra le dune | Volpe rossa nella Riserva Naturale Amsterdamse Waterleidingduinen nei Paesi Bassi (© Edwin Giesbers/Minden Pictures) | [![Una volpe tra le dune](https://www.bing.com/th?id=OHR.Waterleidingduinen_IT-IT5819363203_320x240.jpg)](https://www.bing.com/th?id=OHR.Waterleidingduinen_IT-IT5819363203_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-06-17 | ワイオミングの野草 | グランド・ティトン山とバルサムルート, 米国 ワイオミング州 (© Mike Cavaroc/Tandem Stills + Motion) | [![ワイオミングの野草](https://www.bing.com/th?id=OHR.Balsamroot_JA-JP6961124906_320x240.jpg)](https://www.bing.com/th?id=OHR.Balsamroot_JA-JP6961124906_UHD.jpg) |
-| 2022-05-13 | マサイマラ国立保護区のキリン | マサイキリン, ケニア (© Andy Rouse/Minden Pictures) | [![マサイマラ国立保護区のキリン](https://www.bing.com/th?id=OHR.MaasaiGiraffe_JA-JP8535680289_320x240.jpg)](https://www.bing.com/th?id=OHR.MaasaiGiraffe_JA-JP8535680289_UHD.jpg) |
-| 2022-07-02 | カリフォルニア州の高山湖 | タホ湖のファンネット島, 米国 カリフォルニア州  (© Rachid Dahnoun/Tandem Stills + Motion) | [![カリフォルニア州の高山湖](https://www.bing.com/th?id=OHR.FannetteIsland_JA-JP8998192939_320x240.jpg)](https://www.bing.com/th?id=OHR.FannetteIsland_JA-JP8998192939_UHD.jpg) |
+| 2022-06-08 | 今日は世界海洋デー | マイルカとケープシロカツオドリ, 南アフリカ (© Pete Oxford/Minden Pictures) | [![今日は世界海洋デー](https://www.bing.com/th?id=OHR.CommonDolphin_JA-JP7729997499_320x240.jpg)](https://www.bing.com/th?id=OHR.CommonDolphin_JA-JP7729997499_UHD.jpg) |
+| 2022-12-01 | 今日は「世界南極の日」 | パラダイス湾, 南極 (© SinghaphanAllB/Getty Images) | [![今日は「世界南極の日」](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_320x240.jpg)](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg) |
+| 2022-05-15 | 今日は「沖縄本土復帰記念日」 | コンドイ浜, 沖縄 竹富島 (© Matjaz Corel/Alamy Stock  Photo) | [![今日は「沖縄本土復帰記念日」](https://www.bing.com/th?id=OHR.OkinawaDay22_JA-JP9292207096_320x240.jpg)](https://www.bing.com/th?id=OHR.OkinawaDay22_JA-JP9292207096_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-11-24 | 令人惊叹的山顶美景 | 坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture) | [![令人惊叹的山顶美景](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_320x240.jpg)](https://www.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg) |
-| 2022-08-17 | 如此清澈，如此洁净 | 大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures) | [![如此清澈，如此洁净](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_320x240.jpg)](https://www.bing.com/th?id=OHR.AquarioNatural_ZH-CN3886634374_UHD.jpg) |
-| 2022-12-06 | 白鹭亮羽 | 大沼泽国家公园里的一只大白鹭，美国佛罗里达州 (© Troy Harrison/Getty Images) | [![白鹭亮羽](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg) |
+| 2022-10-23 | 疣鼻天鹅 | 疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures) | [![疣鼻天鹅](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_320x240.jpg)](https://www.bing.com/th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg) |
+| 2022-06-27 | 一望无际的田野 | 普罗旺斯瓦朗索勒高原上的薰衣草田，法国 (© Shutterstock) | [![一望无际的田野](https://www.bing.com/th?id=OHR.ValensoleLavender_ZH-CN8778885260_320x240.jpg)](https://www.bing.com/th?id=OHR.ValensoleLavender_ZH-CN8778885260_UHD.jpg) |
+| 2022-10-13 | 驼鹿发情的季节 | 迪纳利国家公园里的两只驼鹿，美国阿拉斯加州 (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![驼鹿发情的季节](https://www.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_320x240.jpg)](https://www.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_UHD.jpg) |
 

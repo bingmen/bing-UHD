@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2024
 
-> Last updated：2026-10-30 07:15:48 UTC
+> Last updated：2026-10-31 04:06:06 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2024-10-06 | Berliner Lichtspiele | Festival of Lights, Berlin (© JOHN MACDOUGALL/Getty Images) | [![Berliner Lichtspiele](https://www.bing.com/th?id=OHR.BerlinConcertHallFestivalofLights_DE-DE1090691492_320x240.jpg)](https://www.bing.com/th?id=OHR.BerlinConcertHallFestivalofLights_DE-DE1090691492_UHD.jpg) |
+| 2024-09-27 | Götter über den Kanälen | Luftaufnahme des Canale Grande und der Basilica di Santa Maria della Salute, Venedig, Italien (© Bachir Moukarzel/Amazing Aerial Agency) | [![Götter über den Kanälen](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceAerial_DE-DE9588219063_UHD.jpg) |
 | 2024-02-20 | Ein Park mit Geschichte | Kinder Scout bei Sonnenaufgang, Peak-District-Nationalpark, UK (© john finney photography/Getty Images) | [![Ein Park mit Geschichte](https://www.bing.com/th?id=OHR.PeakDistrictNP_DE-DE4372136028_320x240.jpg)](https://www.bing.com/th?id=OHR.PeakDistrictNP_DE-DE4372136028_UHD.jpg) |
-| 2024-10-18 | Herbstliche Vibes | Herbst im Central Park, Manhattan, New York City, USA (© mapman/Shutterstock) | [![Herbstliche Vibes](https://www.bing.com/th?id=OHR.CentralParkAutumn_DE-DE9416328448_320x240.jpg)](https://www.bing.com/th?id=OHR.CentralParkAutumn_DE-DE9416328448_UHD.jpg) |
-| 2024-02-24 | Märchen oder Wirklichkeit? | Hänsel und Gretel Haus in Oberammergau, Bayern (© Tim Graham/Getty Images) | [![Märchen oder Wirklichkeit?](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_320x240.jpg)](https://www.bing.com/th?id=OHR.HanselGretelHouse_DE-DE6769523400_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-10-18 | Rolling into fall | Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images) | [![Rolling into fall](https://www.bing.com/th?id=OHR.KochiaJapan_EN-CA9025927952_320x240.jpg)](https://www.bing.com/th?id=OHR.KochiaJapan_EN-CA9025927952_UHD.jpg) |
+| 2024-02-24 | Where eagles dance | Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock) | [![Where eagles dance](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-CA4755376213_320x240.jpg)](https://www.bing.com/th?id=OHR.HaghartsinMonastery_EN-CA4755376213_UHD.jpg) |
 | 2024-01-06 | Chisels and chills | International Ice and Snow Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Chisels and chills](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_EN-CA4930649632_UHD.jpg) |
-| 2024-04-16 | Bouncing into creativity | The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images) | [![Bouncing into creativity](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-CA5507673869_320x240.jpg)](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-CA5507673869_UHD.jpg) |
-| 2024-02-17 | Make every bird count | Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images) | [![Make every bird count](https://www.bing.com/th?id=OHR.BackyardBird_EN-CA9775079263_320x240.jpg)](https://www.bing.com/th?id=OHR.BackyardBird_EN-CA9775079263_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-08-11 | The path less taken | Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock) | [![The path less taken](https://www.bing.com/th?id=OHR.TofinoVancouver_EN-GB3629180467_320x240.jpg)](https://www.bing.com/th?id=OHR.TofinoVancouver_EN-GB3629180467_UHD.jpg) |
-| 2024-07-03 | 'Wait! Who's there?' | Meerkat family (© anetapics/Shutterstock) | [!['Wait! Who's there?'](https://www.bing.com/th?id=OHR.MeerkatManor_EN-GB5476220606_320x240.jpg)](https://www.bing.com/th?id=OHR.MeerkatManor_EN-GB5476220606_UHD.jpg) |
-| 2024-05-30 | 'Everglad' to be here | A stand of slash pines and sawgrass prairie, Everglades National Park, Florida, USA (© Jonathan Gewirtz/Tandem Stills + Motion) | [!['Everglad' to be here](https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_320x240.jpg)](https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_UHD.jpg) |
+| 2024-01-04 | One library to rule them all | Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images) | [![One library to rule them all](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_320x240.jpg)](https://www.bing.com/th?id=OHR.BodleianCeiling_EN-GB7979385278_UHD.jpg) |
+| 2024-04-15 | Bouncing into creativity | The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images) | [![Bouncing into creativity](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-GB2394850317_320x240.jpg)](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-GB2394850317_UHD.jpg) |
+| 2024-02-15 | Better together | Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy) | [![Better together](https://www.bing.com/th?id=OHR.BowingCrane_EN-GB2663827319_320x240.jpg)](https://www.bing.com/th?id=OHR.BowingCrane_EN-GB2663827319_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-07-15 | Seas the day | Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock) | [![Seas the day](https://www.bing.com/th?id=OHR.TateishiPark_EN-IN9733056165_320x240.jpg)](https://www.bing.com/th?id=OHR.TateishiPark_EN-IN9733056165_UHD.jpg) |
-| 2024-09-02 | Bonding in the bush | Rhino mother and calf, Kaziranga National Park, Assam (© ePhotocorp/Getty Images) | [![Bonding in the bush](https://www.bing.com/th?id=OHR.RhinoMother_EN-IN4208210232_320x240.jpg)](https://www.bing.com/th?id=OHR.RhinoMother_EN-IN4208210232_UHD.jpg) |
-| 2024-12-09 | Attitude and altitude | Two Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures) | [![Attitude and altitude](https://www.bing.com/th?id=OHR.GuanacosChile_EN-IN2873025405_320x240.jpg)](https://www.bing.com/th?id=OHR.GuanacosChile_EN-IN2873025405_UHD.jpg) |
+| 2024-08-12 | Herd you loud and clear | African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images) | [![Herd you loud and clear](https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-IN6966931510_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantsAmboseli_EN-IN6966931510_UHD.jpg) |
+| 2024-07-04 | A coast above the rest | Dam, lake and mountains in Kerala (© Pranavan Shoots/Shutterstock) | [![A coast above the rest](https://www.bing.com/th?id=OHR.KeralaSummer_EN-IN8339171901_320x240.jpg)](https://www.bing.com/th?id=OHR.KeralaSummer_EN-IN8339171901_UHD.jpg) |
+| 2024-05-31 | A green and pleasant land | Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy) | [![A green and pleasant land](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN4566883981_320x240.jpg)](https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-IN4566883981_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-05-27 | The hills are alive | Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images) | [![The hills are alive](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_320x240.jpg)](https://www.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg) |
-| 2024-06-23 | Getting lost in the mist | Amazon rainforest, Brazil (© Claus Meyer/plainpicture) | [![Getting lost in the mist](https://www.bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_320x240.jpg)](https://www.bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg) |
-| 2024-03-30 | High tides and bright lights | South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images) | [![High tides and bright lights](https://www.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_320x240.jpg)](https://www.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg) |
+| 2024-07-15 | Sip, sip, hooray! | Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images) | [![Sip, sip, hooray!](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_320x240.jpg)](https://www.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg) |
+| 2024-09-02 | Row your boat gently down the Thames | River Thames, London, England (© Puthipong Worasaran/Getty Images) | [![Row your boat gently down the Thames](https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_320x240.jpg)](https://www.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg) |
+| 2024-12-09 | The comeback of Notre-Dame | Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images) | [![The comeback of Notre-Dame](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_320x240.jpg)](https://www.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2024-01-09 | Un paysage idyllique ! | Montgolfières au-dessus du Rio Grande, Albuquerque, Nouveau Mexique, États-Unis (© Jennifer MacCornack/Shutterstock) | [![Un paysage idyllique !](https://www.bing.com/th?id=OHR.BalloonDay_FR-FR1975351459_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonDay_FR-FR1975351459_UHD.jpg) |
-| 2024-03-17 | Attention au lutin ! | Finian's Bay, Comté de Kerry, Irlande (© Atlantide Phototravel/Getty Images) | [![Attention au lutin !](https://www.bing.com/th?id=OHR.StFiniansBay_FR-FR2860371204_320x240.jpg)](https://www.bing.com/th?id=OHR.StFiniansBay_FR-FR2860371204_UHD.jpg) |
-| 2024-04-30 | Le Speedy Gonzales de la savane | Guépard sous la pluie, plaines de Ndutu, zone de conservation du Ngorongoro, Tanzanie (© Paul Souders/Getty Images) | [![Le Speedy Gonzales de la savane](https://www.bing.com/th?id=OHR.CheetahRain_FR-FR0543352581_320x240.jpg)](https://www.bing.com/th?id=OHR.CheetahRain_FR-FR0543352581_UHD.jpg) |
+| 2024-05-27 | C’est le grand départ ! | Bébé tortue olivâtre quittant le nid pour rejoindre l'océan, plage de Remire-Montjoly, Cayenne, Guyanne (© Brusini Aurélien/hemis.fr) | [![C’est le grand départ !](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_320x240.jpg)](https://www.bing.com/th?id=OHR.Guiana_FR-FR0757423981_UHD.jpg) |
+| 2024-06-23 | Lumières de la ville | Vue aérienne d'un rond-point à Dacca, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency) | [![Lumières de la ville](https://www.bing.com/th?id=OHR.DhakaBangladesh_FR-FR5797372230_320x240.jpg)](https://www.bing.com/th?id=OHR.DhakaBangladesh_FR-FR5797372230_UHD.jpg) |
+| 2024-03-30 | La tête à l’envers ! | Paresseux à gorge brune dormant dans un arbre cécropia, Costa Rica (© Juan Carlos Vindas/Getty Images) | [![La tête à l’envers !](https://www.bing.com/th?id=OHR.SleepySloth_FR-FR0657179763_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepySloth_FR-FR0657179763_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2024-03-31 | Una lavorazione artigianale eccellente | Uova di Pasqua di Tünde Csuhaj, Szekszárd, Ungheria (© ATTILA KISBENEDEK/AFP/Getty Images) | [![Una lavorazione artigianale eccellente](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_320x240.jpg)](https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg) |
 | 2024-01-09 | Un panorama mozzafiato! | Mongolfiere sopra il Rio Grande, Albuquerque, Nuovo Messico, USA (© Jennifer MacCornack/Shutterstock) | [![Un panorama mozzafiato!](https://www.bing.com/th?id=OHR.BalloonDay_IT-IT9345867684_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonDay_IT-IT9345867684_UHD.jpg) |
-| 2024-01-17 | Un pisolino non guasta! | Lupo durante un pisolino nel Parco nazionale della foresta bavarese, Germania (© Raimund Linke/Getty Images) | [![Un pisolino non guasta!](https://www.bing.com/th?id=OHR.SleepyWolf_IT-IT5699370388_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepyWolf_IT-IT5699370388_UHD.jpg) |
+| 2024-03-17 | Celebriamo la Giornata dell'Unità Nazionale | Vista aerea dell'Altare della Patria, Roma, Italia (© Nico De Pasquale Photography/Getty Images) | [![Celebriamo la Giornata dell'Unità Nazionale](https://www.bing.com/th?id=OHR.AltaredellaPatria_IT-IT8301062240_320x240.jpg)](https://www.bing.com/th?id=OHR.AltaredellaPatria_IT-IT8301062240_UHD.jpg) |
+| 2024-04-30 | Velocità perfetta! | Ghepardo sotto la pioggia del mattino, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images) | [![Velocità perfetta!](https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_320x240.jpg)](https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2024-11-21 | 未来のサバンナの王者 | 寄り添う 2 頭の子ライオン, 南アフリカ (© Ruan Springorum/Getty Images) | [![未来のサバンナの王者](https://www.bing.com/th?id=OHR.LionCubs_JA-JP4693137175_320x240.jpg)](https://www.bing.com/th?id=OHR.LionCubs_JA-JP4693137175_UHD.jpg) |
-| 2024-01-27 | セントポール・ウィンターカーニバルが開催中 | 氷の宮殿, 米国 ミネソタ州 (© Joe Mamer Photography/Alamy) | [![セントポール・ウィンターカーニバルが開催中](https://www.bing.com/th?id=OHR.WinterCarnival_JA-JP8320595671_320x240.jpg)](https://www.bing.com/th?id=OHR.WinterCarnival_JA-JP8320595671_UHD.jpg) |
-| 2024-12-17 | 赤い木造の漁師小屋 | 美しい村レーヌ, ノルウェー (© Pilat666/Getty Images) | [![赤い木造の漁師小屋](https://www.bing.com/th?id=OHR.ReinefjordenNorway_JA-JP8145740016_320x240.jpg)](https://www.bing.com/th?id=OHR.ReinefjordenNorway_JA-JP8145740016_UHD.jpg) |
+| 2024-03-31 | 今日は復活祭 | カラフルにペイントされたイースターエッグ, ハンガリー (© ATTILA KISBENEDEK/AFP/Getty Images) | [![今日は復活祭](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_320x240.jpg)](https://www.bing.com/th?id=OHR.HungarianEggs_JA-JP9558688915_UHD.jpg) |
+| 2024-01-09 | 今日は米国の「気球上昇記念日」 | リオ・グランデ川上空に舞い上がる気球, 米国 コロラド州 (© Jennifer MacCornack/Shutterstock) | [![今日は米国の「気球上昇記念日」](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_UHD.jpg) |
+| 2024-01-17 | ぐっすり寝ているオオカミ | バイエルンの森国立公園, ドイツ (© Raimund Linke/Getty Images) | [![ぐっすり寝ているオオカミ](https://www.bing.com/th?id=OHR.SleepyWolf_JA-JP7170122030_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepyWolf_JA-JP7170122030_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2024-07-18 | 意义深远 | Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures) | [![意义深远](https://www.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_320x240.jpg)](https://www.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg) |
-| 2024-06-03 | 一起骑车去兜风吧 | 哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images) | [![一起骑车去兜风吧](https://www.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_320x240.jpg)](https://www.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg) |
-| 2024-01-23 | 印度洋之眼 | 印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock) | [![印度洋之眼](https://www.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_320x240.jpg)](https://www.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_UHD.jpg) |
+| 2024-11-21 | 在肩头远眺 | 日出时的两只小狮子，南非 (© Ruan Springorum/Getty Images) | [![在肩头远眺](https://www.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_320x240.jpg)](https://www.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg) |
+| 2024-01-27 | 巴西大自然中的异域之美 | 点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images) | [![巴西大自然中的异域之美](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_320x240.jpg)](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg) |
+| 2024-12-17 | 值得爱慕的海岸 | 传统红色渔民小屋，雷讷峡湾岸边，挪威 (© Pilat666/Getty Images) | [![值得爱慕的海岸](https://www.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_320x240.jpg)](https://www.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg) |
 

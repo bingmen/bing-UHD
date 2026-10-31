@@ -1,6 +1,6 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2023
 
-> Dernière mise à jour：2026-10-30 07:15:49 UTC
+> Dernière mise à jour：2026-10-31 04:06:06 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2023-10-02 | Kunst und Architektur, lang lebe die Kultur! | Fondation Louis Vuitton in Bois de Boulogne, Paris, Frankreich (© Atlantide Phototravel/Getty Images) | [![Kunst und Architektur, lang lebe die Kultur!](https://www.bing.com/th?id=OHR.VuittonFoundation_DE-DE1392865865_320x240.jpg)](https://www.bing.com/th?id=OHR.VuittonFoundation_DE-DE1392865865_UHD.jpg) |
-| 2023-10-18 | Sewards Juwel | Kodiak National Wildlife Refuge, Kodiak Island, Alaska, USA (© Ian Shive/Tandem Stills + Motion) | [![Sewards Juwel](https://www.bing.com/th?id=OHR.KodiakAlaska_DE-DE5300220997_320x240.jpg)](https://www.bing.com/th?id=OHR.KodiakAlaska_DE-DE5300220997_UHD.jpg) |
-| 2023-11-09 | Warme, melancholische Herbsttöne | Birken im Herbst, Drammen, Norwegen (© Baac3nes/Getty Images) | [![Warme, melancholische Herbsttöne](https://www.bing.com/th?id=OHR.NorwayBirch_DE-DE9947810365_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayBirch_DE-DE9947810365_UHD.jpg) |
+| 2023-11-22 | Weiße Berge in weiter Ferne! | Grand-Teton-Nationalpark, Wyoming, USA (© Westend61/Getty Images) | [![Weiße Berge in weiter Ferne!](https://www.bing.com/th?id=OHR.SnakeRiverTeton_DE-DE1126131831_320x240.jpg)](https://www.bing.com/th?id=OHR.SnakeRiverTeton_DE-DE1126131831_UHD.jpg) |
+| 2023-01-05 | Stadt aus Eis | Harbiner Internationales Eis- und Schneefest, Harbin, Volksrepublik China (© STR/AFP via Getty Images) | [![Stadt aus Eis](https://www.bing.com/th?id=OHR.HIISSF_DE-DE5417261955_320x240.jpg)](https://www.bing.com/th?id=OHR.HIISSF_DE-DE5417261955_UHD.jpg) |
+| 2023-08-04 | Ein Fenster zur Geschichte | Tintern Abbey, Wales (© matthibcn/Getty Images) | [![Ein Fenster zur Geschichte](https://www.bing.com/th?id=OHR.GothicRuins_DE-DE5741219714_320x240.jpg)](https://www.bing.com/th?id=OHR.GothicRuins_DE-DE5741219714_UHD.jpg) |
 
 ## 🍁 [Anglais (Canada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-10-19 | The untamed North | Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion) | [![The untamed North](https://www.bing.com/th?id=OHR.KodiakAlaska_EN-CA4966075486_320x240.jpg)](https://www.bing.com/th?id=OHR.KodiakAlaska_EN-CA4966075486_UHD.jpg) |
-| 2023-05-19 | Sunlight turning silver to gold | Museo Soumaya, Plaza Carso building, Mexico City, Mexico (© Juan Romero/Alamy) | [![Sunlight turning silver to gold](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-CA3964967339_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-CA3964967339_UHD.jpg) |
-| 2023-12-24 | They've got some things to say | Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures) | [![They've got some things to say](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-CA2075026889_320x240.jpg)](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-CA2075026889_UHD.jpg) |
+| 2023-10-02 | Whispers of winter | Mount Assiniboine Provincial Park, Canada (© matt macpherson/500px/Getty Images) | [![Whispers of winter](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_EN-CA8602465476_320x240.jpg)](https://www.bing.com/th?id=OHR.AssiniboineProvincialPark_EN-CA8602465476_UHD.jpg) |
+| 2023-10-18 | Life on the edge | Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images) | [![Life on the edge](https://www.bing.com/th?id=OHR.ViesteItaly_EN-CA4053574764_320x240.jpg)](https://www.bing.com/th?id=OHR.ViesteItaly_EN-CA4053574764_UHD.jpg) |
+| 2023-11-09 | Sirens or sea cows? | West Indian manatee mother and baby, Three Sisters Spring, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion) | [![Sirens or sea cows?](https://www.bing.com/th?id=OHR.ManateeMama_EN-CA6979465483_320x240.jpg)](https://www.bing.com/th?id=OHR.ManateeMama_EN-CA6979465483_UHD.jpg) |
 
 ## 🌹 [Anglais (Royaume-Uni)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-10-18 | The holy train-ity | Canary Wharf underground station, London (© AWL Images/DanitaDelimont.com) | [![The holy train-ity](https://www.bing.com/th?id=OHR.CanaryWharfStation_EN-GB4531967765_320x240.jpg)](https://www.bing.com/th?id=OHR.CanaryWharfStation_EN-GB4531967765_UHD.jpg) |
+| 2023-05-18 | Sunlight turning silver to gold | Museo Soumaya, Plaza Carso building, Mexico City, Mexico (© Juan Romero/Alamy) | [![Sunlight turning silver to gold](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-GB1309622714_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-GB1309622714_UHD.jpg) |
 | 2023-12-24 | They've got some things to say | Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures) | [![They've got some things to say](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-GB7349626614_320x240.jpg)](https://www.bing.com/th?id=OHR.FestivusPenguins_EN-GB7349626614_UHD.jpg) |
-| 2023-08-29 | Say hello to these halophytes! | Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock) | [![Say hello to these halophytes!](https://www.bing.com/th?id=OHR.MangrovePark_EN-GB9980790677_320x240.jpg)](https://www.bing.com/th?id=OHR.MangrovePark_EN-GB9980790677_UHD.jpg) |
-| 2023-07-09 | Staying in the loop | Moselle River loop near Kröv, Germany (© Jorg Greuel/Getty Images) | [![Staying in the loop](https://www.bing.com/th?id=OHR.MoselleRiver_EN-GB3282583215_320x240.jpg)](https://www.bing.com/th?id=OHR.MoselleRiver_EN-GB3282583215_UHD.jpg) |
 
 ## 🦁 [Anglais (Inde)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-06-18 | Dad on duty | Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images) | [![Dad on duty](https://www.bing.com/th?id=OHR.TernFather_EN-IN9272382806_320x240.jpg)](https://www.bing.com/th?id=OHR.TernFather_EN-IN9272382806_UHD.jpg) |
-| 2023-01-15 | Frosty Finland | Aura River in Turku, Finland (© Jarmo Piironen/Alamy) | [![Frosty Finland](https://www.bing.com/th?id=OHR.Turku_EN-IN9478951244_320x240.jpg)](https://www.bing.com/th?id=OHR.Turku_EN-IN9478951244_UHD.jpg) |
-| 2023-08-29 | Wanna hang with a fungi? | Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy) | [![Wanna hang with a fungi?](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-IN7925034915_320x240.jpg)](https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-IN7925034915_UHD.jpg) |
+| 2023-12-24 | How lovely are your branches | Town Hall Square, Tartu, Estonia (© Westend61/Getty Images) | [![How lovely are your branches](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-IN6293418304_320x240.jpg)](https://www.bing.com/th?id=OHR.EstoniaXmasEve_EN-IN6293418304_UHD.jpg) |
+| 2023-08-30 | Ties that never unravel | Rakhi or sacred thread of different types and colors (© Ritesh Shukla/Pacific Press/LightRocket via Getty Images) | [![Ties that never unravel](https://www.bing.com/th?id=OHR.FestivalofThreads_EN-IN8502750769_320x240.jpg)](https://www.bing.com/th?id=OHR.FestivalofThreads_EN-IN8502750769_UHD.jpg) |
+| 2023-07-10 | A scented sea of purple | Field of lavender, Somerset, England (© Doug Chinnery/Getty Images) | [![A scented sea of purple](https://www.bing.com/th?id=OHR.SomersetLavender_EN-IN9356918570_320x240.jpg)](https://www.bing.com/th?id=OHR.SomersetLavender_EN-IN9356918570_UHD.jpg) |
 
 ## 🗽 [Anglais (États-Unis)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-06-23 | A world within a world | Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images) | [![A world within a world](https://www.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_320x240.jpg)](https://www.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg) |
-| 2023-02-20 | Migrating giants | Humpback whales, Maui, Hawaii (© Flip Nicklin/Minden Pictures) | [![Migrating giants](https://www.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_320x240.jpg)](https://www.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg) |
-| 2023-01-20 | Clouds dance above Sundance | Park City, Utah (© Kruck20/Getty Images) | [![Clouds dance above Sundance](https://www.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_320x240.jpg)](https://www.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg) |
+| 2023-06-18 | Paddle power | 'Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images) | [![Paddle power](https://www.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_320x240.jpg)](https://www.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg) |
+| 2023-01-15 | A delightful day for donkeys | Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy) | [![A delightful day for donkeys](https://www.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_320x240.jpg)](https://www.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg) |
+| 2023-08-29 | Watch out for dragons! | Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock) | [![Watch out for dragons!](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_320x240.jpg)](https://www.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg) |
 
 ## 🐓 [Français (France)](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2023-08-17 | Un drôle de lézard ! | Petit gecko sur une feuille (© Darren Greenwood/Alamy) | [![Un drôle de lézard !](https://www.bing.com/th?id=OHR.GeckoLeaf_FR-FR6760407712_320x240.jpg)](https://www.bing.com/th?id=OHR.GeckoLeaf_FR-FR6760407712_UHD.jpg) |
-| 2023-08-16 | La clé des îles Keys | Pont Seven Mile à Key West, Floride, États-Unis (© Evgeny Vasenev/Cavan Images) | [![La clé des îles Keys](https://www.bing.com/th?id=OHR.KeyWestBridge_FR-FR4621663062_320x240.jpg)](https://www.bing.com/th?id=OHR.KeyWestBridge_FR-FR4621663062_UHD.jpg) |
-| 2023-08-12 | Si grands et pourtant si gentils ! | Famille d'éléphants dans le parc national d'Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images) | [![Si grands et pourtant si gentils !](https://www.bing.com/th?id=OHR.ThreeElephants_FR-FR3390909950_320x240.jpg)](https://www.bing.com/th?id=OHR.ThreeElephants_FR-FR3390909950_UHD.jpg) |
+| 2023-06-23 | Une merveille entre ciel et mer | Abbaye et baie du Mont Saint-Michel, Normandie (© Mathieu Rivrin/Getty Images) | [![Une merveille entre ciel et mer](https://www.bing.com/th?id=OHR.SaintMichel_FR-FR7818696393_320x240.jpg)](https://www.bing.com/th?id=OHR.SaintMichel_FR-FR7818696393_UHD.jpg) |
+| 2023-02-20 | Un ciel plein d'étoiles | Voie lactée au-dessus de Zabriskie Point, Vallée de la Mort, Californie (© Matt Anderson Photography/Getty Images) | [![Un ciel plein d'étoiles](https://www.bing.com/th?id=OHR.DarkSkiesDV_FR-FR1107349717_320x240.jpg)](https://www.bing.com/th?id=OHR.DarkSkiesDV_FR-FR1107349717_UHD.jpg) |
+| 2023-01-20 | Allez les gars, c’est notre journée ! | Les manchots royaux des îles Malouines (© Elmar Weiss/Getty Images) | [![Allez les gars, c’est notre journée !](https://www.bing.com/th?id=OHR.FalklandKings_FR-FR2884032341_320x240.jpg)](https://www.bing.com/th?id=OHR.FalklandKings_FR-FR2884032341_UHD.jpg) |
 
 ## ⭐ [Italien (Italie)](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2023-11-05 | Un posto davvero tranquillo | Formazione di quarzite, Playa del Silencio, Spagna (© Jean-Philippe Delobelle/Minden Pictures) | [![Un posto davvero tranquillo](https://www.bing.com/th?id=OHR.SilencioSpain_IT-IT5372993928_320x240.jpg)](https://www.bing.com/th?id=OHR.SilencioSpain_IT-IT5372993928_UHD.jpg) |
-| 2023-05-15 | Un'isola crocevia di culture | Morro Jable e Playa del Matorral, Fuerteventura, Isole Canarie (© Gavin Hellier/Getty Images) | [![Un'isola crocevia di culture](https://www.bing.com/th?id=OHR.MorroJable_IT-IT8361270560_320x240.jpg)](https://www.bing.com/th?id=OHR.MorroJable_IT-IT8361270560_UHD.jpg) |
-| 2023-09-19 | Vediamo chi mangia più cannoli! | Festa di San Gennaro a Mulberry Street, Little Italy, New York (© Philip Scalia/Alamy Stock Photo) | [![Vediamo chi mangia più cannoli!](https://www.bing.com/th?id=OHR.SanGennaroMulberry_IT-IT4580164437_320x240.jpg)](https://www.bing.com/th?id=OHR.SanGennaroMulberry_IT-IT4580164437_UHD.jpg) |
+| 2023-08-17 | Così alti da toccare il cielo | Vista aerea di Manhattan, New York City (© Wojtek Zagorski/Getty Images) | [![Così alti da toccare il cielo](https://www.bing.com/th?id=OHR.ManhattanAerial_IT-IT8257270083_320x240.jpg)](https://www.bing.com/th?id=OHR.ManhattanAerial_IT-IT8257270083_UHD.jpg) |
+| 2023-08-16 | Di isola in isola... | Seven Mile Bridge di Key West, Florida, Stati Uniti (© Evgeny Vasenev/Cavan Images) | [![Di isola in isola...](https://www.bing.com/th?id=OHR.KeyWestBridge_IT-IT1027953700_320x240.jpg)](https://www.bing.com/th?id=OHR.KeyWestBridge_IT-IT1027953700_UHD.jpg) |
+| 2023-08-12 | Proteggiamo i giganti buoni! | Una famiglia di elefanti presso il Parco nazionale di Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images) | [![Proteggiamo i giganti buoni!](https://www.bing.com/th?id=OHR.ThreeElephants_IT-IT7027027610_320x240.jpg)](https://www.bing.com/th?id=OHR.ThreeElephants_IT-IT7027027610_UHD.jpg) |
 
 ## 🌸 [Japonais (Japon)](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2023-12-16 | ライトアップされたギルドハウス | グラン・プラス, ベルギー ブリュッセル (© Richard Taylor/Sime/eStock Photo) | [![ライトアップされたギルドハウス](https://www.bing.com/th?id=OHR.GrandPlaceXmas_JA-JP8582950407_320x240.jpg)](https://www.bing.com/th?id=OHR.GrandPlaceXmas_JA-JP8582950407_UHD.jpg) |
-| 2023-07-07 | 今日は七夕 | 燕岳の星空, 長野県 (© Nuttapoom Amornpashara/Getty Images) | [![今日は七夕](https://www.bing.com/th?id=OHR.Tanabata2023_JA-JP8370002660_320x240.jpg)](https://www.bing.com/th?id=OHR.Tanabata2023_JA-JP8370002660_UHD.jpg) |
-| 2023-05-22 | 今日は国際生物多様性の日 | アレナル火山, コスタリカ (© Kevin Wells/Getty Images) | [![今日は国際生物多様性の日](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_JA-JP1077467676_320x240.jpg)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_JA-JP1077467676_UHD.jpg) |
+| 2023-11-05 | 不思議な岩を持つ海岸 | 静寂のビーチ, スペイン アストゥリアス州 (© Jean-Philippe Delobelle/Minden Pictures) | [![不思議な岩を持つ海岸](https://www.bing.com/th?id=OHR.SilencioSpain_JA-JP2937040234_320x240.jpg)](https://www.bing.com/th?id=OHR.SilencioSpain_JA-JP2937040234_UHD.jpg) |
+| 2023-05-15 | 今日は葵祭 | 葵祭, 京都 下鴨神社 (© The Asahi Shimbun/Getty Images) | [![今日は葵祭](https://www.bing.com/th?id=OHR.AoiMatsuri2023_JA-JP8770594775_320x240.jpg)](https://www.bing.com/th?id=OHR.AoiMatsuri2023_JA-JP8770594775_UHD.jpg) |
+| 2023-09-19 | 今日はオクトーバーフェストの開催日 | オクトーバーフェストのビールテント, ドイツ ミュンヘン (© Peter Kneffel/picture alliance via Getty Images) | [![今日はオクトーバーフェストの開催日](https://www.bing.com/th?id=OHR.OktoberfestWorkers_JA-JP1759437579_320x240.jpg)](https://www.bing.com/th?id=OHR.OktoberfestWorkers_JA-JP1759437579_UHD.jpg) |
 
 ## 🐉 [Chinois simplifié (Chine)](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2023-08-24 | 自然“鳍”观 | 鲨鱼鳍湾，达文波特，加利福尼亚州，美国 (© Jeff Lewis/Tandem Stills + Motion) | [![自然“鳍”观](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_320x240.jpg)](https://www.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_UHD.jpg) |
-| 2023-09-03 | 高耸入云 | 曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images) | [![高耸入云](https://www.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_320x240.jpg)](https://www.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_UHD.jpg) |
-| 2023-09-27 | 缓慢平稳地攀登悬崖 | 克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock) | [![缓慢平稳地攀登悬崖](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_320x240.jpg)](https://www.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg) |
+| 2023-12-16 | 令人愉悦的忧郁蓝 | 大广场，布鲁塞尔，比利时 (© Richard Taylor/Sime/eStock Photo) | [![令人愉悦的忧郁蓝](https://www.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_320x240.jpg)](https://www.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg) |
+| 2023-07-07 | 巧克力爱好者最爱的水果 | 安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images) | [![巧克力爱好者最爱的水果](https://www.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_320x240.jpg)](https://www.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_UHD.jpg) |
+| 2023-05-22 | 为了每个人，保护地球的生物多样性 | 阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images) | [![为了每个人，保护地球的生物多样性](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_320x240.jpg)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_UHD.jpg) |
 

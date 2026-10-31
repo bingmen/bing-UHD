@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2024
 
-> Last updated：2026-10-30 07:15:48 UTC
+> Last updated：2026-10-31 04:06:06 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2024-09-04 | Gleich und gleich gesellt sich gern | Koromandeluhus, Pakistan (© zahoor salmi/Getty Images) | [![Gleich und gleich gesellt sich gern](https://www.bing.com/th?id=OHR.DuskyOwls_DE-DE1251666767_320x240.jpg)](https://www.bing.com/th?id=OHR.DuskyOwls_DE-DE1251666767_UHD.jpg) |
+| 2024-12-11 | Die glorreichen Drei | Drei Zinnen, Italien (© Daniel Maran/Getty Images) | [![Die glorreichen Drei](https://www.bing.com/th?id=OHR.DolomitesSky_DE-DE3083933099_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesSky_DE-DE3083933099_UHD.jpg) |
 | 2024-02-15 | Der rote Teppich ist ausgerollt! | Berlinale, roter Teppich am Potsdamer Platz, Berlin (© Cineberg/Getty Images) | [![Der rote Teppich ist ausgerollt!](https://www.bing.com/th?id=OHR.BerlinalePalast_DE-DE2536739383_320x240.jpg)](https://www.bing.com/th?id=OHR.BerlinalePalast_DE-DE2536739383_UHD.jpg) |
-| 2024-05-15 | Deutsches Postkartenidyll | Blick über den Fluss Neckar auf das Stadtbild von Heidelberg, Baden-Württemberg (© Juergen Sack/Getty Images) | [![Deutsches Postkartenidyll](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_DE-DE0017451449_320x240.jpg)](https://www.bing.com/th?id=OHR.RiverNekarHeidelberg_DE-DE0017451449_UHD.jpg) |
-| 2024-11-22 | Echo der Mauern | Burg Zafra, Provinz Guadalajara, Spanien (© Eduard Gene/Getty Images) | [![Echo der Mauern](https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434_320x240.jpg)](https://www.bing.com/th?id=OHR.ZafraCastle_DE-DE3961546434_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-05-15 | Rocking in the deep | Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images) | [![Rocking in the deep](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-CA8275462629_320x240.jpg)](https://www.bing.com/th?id=OHR.CarlsbadNP_EN-CA8275462629_UHD.jpg) |
+| 2024-11-22 | Fall's flaming colours | Aspen trees in autumn, Stewart-Cassiar Highway, British Columbia, Canada (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![Fall's flaming colours](https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_320x240.jpg)](https://www.bing.com/th?id=OHR.AspenTrees_EN-CA3238986123_UHD.jpg) |
 | 2024-11-19 | Guiding the way since 1860 | Porthcawl lighthouse, South Wales, UK (© Leighton Collins/Alamy) | [![Guiding the way since 1860](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-CA7342147718_320x240.jpg)](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_EN-CA7342147718_UHD.jpg) |
-| 2024-12-29 | Shell-abrating a life | A green sea turtle swims in the Pacific Ocean near the French overseas territory of New Caledonia (© Damsea/Shutterstock) | [![Shell-abrating a life](https://www.bing.com/th?id=OHR.CoralTurtle_EN-CA4867100726_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralTurtle_EN-CA4867100726_UHD.jpg) |
-| 2024-10-31 | A haunting history | View of Edinburgh Castle from a churchyard in Scotland, United Kingdom (© Chris Dorney/Alamy Stock Photo) | [![A haunting history](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-CA6524249488_320x240.jpg)](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-CA6524249488_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-12-29 | Shell-abrating a life | A green sea turtle swims in the Pacific Ocean near the French overseas territory of New Caledonia (© Damsea/Shutterstock) | [![Shell-abrating a life](https://www.bing.com/th?id=OHR.CoralTurtle_EN-GB3087704851_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralTurtle_EN-GB3087704851_UHD.jpg) |
+| 2024-10-31 | A haunting history | View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy Stock Photo) | [![A haunting history](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-GB3981139829_320x240.jpg)](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-GB3981139829_UHD.jpg) |
 | 2024-12-21 | He's coming to town... | Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock) | [![He's coming to town...](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-GB5411562669_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaClausVillage_EN-GB5411562669_UHD.jpg) |
-| 2024-12-12 | The triumphant trio | Tre Cime di Lavaredo, Italy (© Daniel Maran/Getty Images) | [![The triumphant trio](https://www.bing.com/th?id=OHR.DolomitesSky_EN-GB4868872493_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesSky_EN-GB4868872493_UHD.jpg) |
-| 2024-09-18 | Castle in the clouds | Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images) | [![Castle in the clouds](https://www.bing.com/th?id=OHR.GujoHachiman_EN-GB4635188314_320x240.jpg)](https://www.bing.com/th?id=OHR.GujoHachiman_EN-GB4635188314_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-12-12 | 'Red-y' for the holidays | Poinsettia or Christmas flower (© David Hosking/NPL/Minden Pictures) | [!['Red-y' for the holidays](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-IN3091252841_320x240.jpg)](https://www.bing.com/th?id=OHR.WildPoinsettia_EN-IN3091252841_UHD.jpg) |
+| 2024-09-19 | Avast, landlubbers! | Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images) | [![Avast, landlubbers!](https://www.bing.com/th?id=OHR.PiratePlayground_EN-IN4927123173_320x240.jpg)](https://www.bing.com/th?id=OHR.PiratePlayground_EN-IN4927123173_UHD.jpg) |
 | 2024-05-24 | All the way to the top | Añisclo gorge, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock) | [![All the way to the top](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-IN4789684794_320x240.jpg)](https://www.bing.com/th?id=OHR.OrdesaNationalPark_EN-IN4789684794_UHD.jpg) |
-| 2024-11-03 | Where nature meets sustainability | Caribbean flamingo egg in nest, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures) | [![Where nature meets sustainability](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-IN2120875248_320x240.jpg)](https://www.bing.com/th?id=OHR.YucatanBiosphere_EN-IN2120875248_UHD.jpg) |
-| 2024-08-18 | A peerless pier | Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion) | [![A peerless pier](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-IN9332234048_320x240.jpg)](https://www.bing.com/th?id=OHR.HuntingtonBeach_EN-IN9332234048_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-11-03 | From near extinction to national icon | American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion) | [![From near extinction to national icon](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_320x240.jpg)](https://www.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg) |
+| 2024-08-18 | Light the way | Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images) | [![Light the way](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_320x240.jpg)](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg) |
 | 2024-09-27 | Flying colors | Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion) | [![Flying colors](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_320x240.jpg)](https://www.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg) |
-| 2024-12-28 | Icy reflections and snow-dusted peaks | Lake Bled, Slovenia (© Kesu01/Getty Images) | [![Icy reflections and snow-dusted peaks](https://www.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg) |
-| 2024-09-19 | Castle in the clouds | Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images) | [![Castle in the clouds](https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_320x240.jpg)](https://www.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2024-12-28 | La doyenne de nos océans | Tortue verte, océan Pacifique, Nouvelle-Calédonie (© Damsea/Shutterstock) | [![La doyenne de nos océans](https://www.bing.com/th?id=OHR.CoralTurtle_FR-FR9548465819_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralTurtle_FR-FR9548465819_UHD.jpg) |
+| 2024-09-19 | En avant, moussaillons ! | Aire de jeux du phare d'Obereversand à Dorum-Neufeld, Allemagne (© INGO WAGNER/DPA/AFP via Getty Images) | [![En avant, moussaillons !](https://www.bing.com/th?id=OHR.PiratePlayground_FR-FR1786944453_320x240.jpg)](https://www.bing.com/th?id=OHR.PiratePlayground_FR-FR1786944453_UHD.jpg) |
 | 2024-04-01 | Gare au poisson d’avril ! | L'œuvre « Vanishing Point » de l'artiste de rue français JR sur la façade du Palais Farnèse, Rome, Italie (© Fabrizio Troiani/Alamy) | [![Gare au poisson d’avril !](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_320x240.jpg)](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_UHD.jpg) |
-| 2024-06-08 | La rencontre de deux mondes | Confluence de Easter Creek et de la rivière Killik, Parc National des Gates of the Arctic, Alaska, États-Unis (© Patrick J. Endres/Getty Images) | [![La rencontre de deux mondes](https://www.bing.com/th?id=OHR.KillikRiverAlaska_FR-FR3251837973_320x240.jpg)](https://www.bing.com/th?id=OHR.KillikRiverAlaska_FR-FR3251837973_UHD.jpg) |
-| 2024-04-09 | Tulipe ou pas tulipe ? | Champs de tulipes au printemps, Skagit Valley, Washington, États-Unis (© Claudia Cooper/Getty Images) | [![Tulipe ou pas tulipe ?](https://www.bing.com/th?id=OHR.SkagitValleyTulips_FR-FR5605427883_320x240.jpg)](https://www.bing.com/th?id=OHR.SkagitValleyTulips_FR-FR5605427883_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2024-06-08 | Incontri acquatici | Confluenza dell'Easter Creek e del fiume Killik, Parco Nazionale e Riserva Gates of the Arctic, Alaska, USA (© Patrick J. Endres/Getty Images) | [![Incontri acquatici](https://www.bing.com/th?id=OHR.KillikRiverAlaska_IT-IT4840241449_320x240.jpg)](https://www.bing.com/th?id=OHR.KillikRiverAlaska_IT-IT4840241449_UHD.jpg) |
+| 2024-04-09 | Un luogo un po’ salato | Dune di sale nelle saline, Sardegna, Italia (© Stefano Oppo/Getty Images) | [![Un luogo un po’ salato](https://www.bing.com/th?id=OHR.SardiniaSalt_IT-IT3748947428_320x240.jpg)](https://www.bing.com/th?id=OHR.SardiniaSalt_IT-IT3748947428_UHD.jpg) |
 | 2024-09-20 | Rifugio di luce | Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA (© Chansak Joe/Getty Images) | [![Rifugio di luce](https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310_UHD.jpg) |
-| 2024-12-07 | Sogno di mezzo inverno? | Arraial do Cabo, Stato di Rio de Janeiro, Brasile (© Derson Santana/Shutterstock) | [![Sogno di mezzo inverno?](https://www.bing.com/th?id=OHR.ArraialdoCabo_IT-IT6186077330_320x240.jpg)](https://www.bing.com/th?id=OHR.ArraialdoCabo_IT-IT6186077330_UHD.jpg) |
-| 2024-07-28 | Costa cromatica | Capanne da bagno sulla spiaggia della contea di Scania, Svezia (© Martin Wahlborg/Getty Images) | [![Costa cromatica](https://www.bing.com/th?id=OHR.BeachHutsSweden_IT-IT4512974268_320x240.jpg)](https://www.bing.com/th?id=OHR.BeachHutsSweden_IT-IT4512974268_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2024-12-07 | 今日は大雪 | 雪化粧の五稜郭, 北海道 函館 (© Hiro1775/Getty Images) | [![今日は大雪](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_320x240.jpg)](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_UHD.jpg) |
+| 2024-07-28 | 砂浜に並ぶカラフルな小屋 | カノールス・ハヴスバッド, スウェーデン スコーネ県 (© Martin Wahlborg/Getty Images) | [![砂浜に並ぶカラフルな小屋](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_320x240.jpg)](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_UHD.jpg) |
 | 2024-07-21 | 青い海に点在する伝統的な木造船 | ザンジバル諸島のケンドワ村, タンザニア (© Lubos Paukeje/Alamy) | [![青い海に点在する伝統的な木造船](https://www.bing.com/th?id=OHR.ZanzibarBoats_JA-JP2984048559_320x240.jpg)](https://www.bing.com/th?id=OHR.ZanzibarBoats_JA-JP2984048559_UHD.jpg) |
-| 2024-12-22 | 今日は夫婦の日 | 釧路湿原のタンチョウ, 北海道 (© Wirestock, Inc./Alamy) | [![今日は夫婦の日](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_320x240.jpg)](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_UHD.jpg) |
-| 2024-02-08 | 雪に覆われた「オレゴン富士」 | フッド山, 米国 オレゴン州 (© Inigo Cia/Getty Images) | [![雪に覆われた「オレゴン富士」](https://www.bing.com/th?id=OHR.MtHoodOregon_JA-JP1952709545_320x240.jpg)](https://www.bing.com/th?id=OHR.MtHoodOregon_JA-JP1952709545_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2024-12-22 | 冲浪、沙滩和圣诞老人 | 水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国 (© SamAntonioPhotography/Getty Images) | [![冲浪、沙滩和圣诞老人](https://www.bing.com/th?id=OHR.CrystalPier_ZH-CN2256372880_320x240.jpg)](https://www.bing.com/th?id=OHR.CrystalPier_ZH-CN2256372880_UHD.jpg) |
+| 2024-02-08 | 沉睡的巨人 | 胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images) | [![沉睡的巨人](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_320x240.jpg)](https://www.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg) |
 | 2024-03-27 | 戏剧成为关注的焦点 | 布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo) | [![戏剧成为关注的焦点](https://www.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_320x240.jpg)](https://www.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg) |
-| 2024-04-11 | 把梦想变成现实！ | 丘伦梅鲁瀑布鸟瞰图，委内瑞拉 (© AirPano LLC/Amazing Aerial Agency) | [![把梦想变成现实！](https://www.bing.com/th?id=OHR.DragonWaterfall_ZH-CN9580105565_320x240.jpg)](https://www.bing.com/th?id=OHR.DragonWaterfall_ZH-CN9580105565_UHD.jpg) |
-| 2024-11-23 | 大自然的密码 | 多叶芦荟，袋鼠岛，澳大利亚 (© Michael Melford/Alamy) | [![大自然的密码](https://www.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg) |
 
