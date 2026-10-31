@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-10-30 04:25:24 UTC
+> 最終更新: 2026-10-31 04:05:15 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-10-31 | 帝国の面影 | 聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images) | [![帝国の面影](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_UHD.jpg) |
 | 2026-10-30 | 大空へ羽ばたく | カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images) | [![大空へ羽ばたく](https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_UHD.jpg) |
 | 2026-10-29 | 草原に立ち並ぶ巨石群 | エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images) | [![草原に立ち並ぶ巨石群](https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_UHD.jpg) |
 | 2026-10-28 | 夕暮れに佇む古城 | クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy) | [![夕暮れに佇む古城](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg) |
