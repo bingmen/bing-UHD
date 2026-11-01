@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2025
 
-> Ultimo aggiornamento：2026-10-31 07:04:39 UTC
+> Ultimo aggiornamento：2026-11-01 04:27:47 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,17 +8,17 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2025-02-26 | Schottische Postkarten | Castle Stalker am Loch Laich, Argyll, Schottland (© WLDavies/Getty Images) | [![Schottische Postkarten](https://www.bing.com/th?id=OHR.ArgyllStalker_DE-DE7352876454_320x240.jpg)](https://www.bing.com/th?id=OHR.ArgyllStalker_DE-DE7352876454_UHD.jpg) |
 | 2025-10-20 | Ein Leben in Zeitlupe | Hoffmann-Zweifingerfaultier, Ecuador (© Murray Cooper/Minden Pictures) | [![Ein Leben in Zeitlupe](https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665_320x240.jpg)](https://www.bing.com/th?id=OHR.HoffmansSloth_DE-DE8974751665_UHD.jpg) |
 | 2025-03-08 | Furchtlose Entschlossenheit | Fearless Girl-Statue vor der New Yorker Börse, New York City, USA (© JOHANNES EISELE/AFP via Getty Images) | [![Furchtlose Entschlossenheit](https://www.bing.com/th?id=OHR.FearlessWomen_DE-DE2789139190_320x240.jpg)](https://www.bing.com/th?id=OHR.FearlessWomen_DE-DE2789139190_UHD.jpg) |
-| 2025-09-06 | Geschichte trifft Moderne | Frankfurter Skyline im violetten Licht und Alte Brücke, Frankfurt am Main, Hessen (© diegograndi/iStock/Getty Images Plus) | [![Geschichte trifft Moderne](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_DE-DE0460546178_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2025-09-06 | A pier-fect evening | Pacific Park, Santa Monica State Beach, California, United States (© EXTREME-PHOTOGRAPHER/Getty Images) | [![A pier-fect evening](https://www.bing.com/th?id=OHR.SunsetPier_EN-CA4630719241_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetPier_EN-CA4630719241_UHD.jpg) |
 | 2025-03-15 | Pi in the sky | Dolmen of Sorginetxe, Basque Country, Alava, Spain (© David Herraez Calzada/plainpicture) | [![Pi in the sky](https://www.bing.com/th?id=OHR.BasqueDolmen_EN-CA3900622159_320x240.jpg)](https://www.bing.com/th?id=OHR.BasqueDolmen_EN-CA3900622159_UHD.jpg) |
 | 2025-05-07 | Not your average desert trip | An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy Stock Photo) | [![Not your average desert trip](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-CA6702004315_320x240.jpg)](https://www.bing.com/th?id=OHR.FlyoverNamibia_EN-CA6702004315_UHD.jpg) |
-| 2025-04-05 | Cliffside calm, spiritual charm | Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images) | [![Cliffside calm, spiritual charm](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-CA6496050057_320x240.jpg)](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-CA6496050057_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2025.md)
 
