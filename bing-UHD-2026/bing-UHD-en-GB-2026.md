@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-01 04:24:19 UTC
+> Last updated: 2026-11-02 04:25:54 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-03 | A future written in ice | Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![A future written in ice](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_UHD.jpg) |
 | 2026-11-02 | Mist among the trees | Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images) | [![Mist among the trees](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-GB3893624438_UHD.jpg) |
 | 2026-11-01 | Ghosts of empires past | St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images) | [![Ghosts of empires past](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_UHD.jpg) |
 | 2026-10-31 | Time to fly high | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Time to fly high](https://www.bing.com/th?id=OHR.AutumnCranes_EN-GB1528709848_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-GB1528709848_UHD.jpg) |
