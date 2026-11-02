@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-01 04:26:26 UTC
+> Ultimo aggiornamento: 2026-11-02 04:28:01 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-02 | Un futuro scolpito nel ghiaccio | Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![Un futuro scolpito nel ghiaccio](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg) |
 | 2026-11-01 | Alberi che svettano tra la foschia | Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images) | [![Alberi che svettano tra la foschia](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg) |
 | 2026-10-31 | Fantasmi di imperi passati | Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images) | [![Fantasmi di imperi passati](https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_UHD.jpg) |
 | 2026-10-30 | È ora di spiccare il volo | Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![È ora di spiccare il volo](https://www.bing.com/th?id=OHR.AutumnCranes_IT-IT0637151336_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_IT-IT0637151336_UHD.jpg) |
