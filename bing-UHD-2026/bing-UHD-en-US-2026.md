@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-11-01 04:25:26 UTC
+> Last updated: 2026-11-02 04:26:58 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-02 | Crafting continuity | Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images) | [![Crafting continuity](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_320x240.jpg)](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg) |
 | 2026-11-01 | Ghosts of empires past | St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images) | [![Ghosts of empires past](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg) |
 | 2026-10-31 | Time to fly high | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Time to fly high](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg) |
 | 2026-10-30 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg) |
