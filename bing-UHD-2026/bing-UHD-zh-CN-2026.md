@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新: 2026-11-01 04:27:23 UTC
+> 最后更新: 2026-11-02 04:28:58 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-11-02 | 写在冰上的未来 | 北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock) | [![写在冰上的未来](https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg) |
 | 2026-11-01 | 林间迷雾 | 黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images) | [![林间迷雾](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg) |
 | 2026-10-31 | 往昔帝国的幽影 | 圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images) | [![往昔帝国的幽影](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg) |
 | 2026-10-30 | 展翅高飞的时节 | 沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images) | [![展翅高飞的时节](https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg) |
