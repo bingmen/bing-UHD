@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated：2026-11-01 07:38:23 UTC
+> Last updated：2026-11-02 04:29:22 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-08-19 | Ein Weg zwischen den Wellen | Whytecliff Park in West Vancouver, British Columbia, Kanada (© Aolin Chen/Getty Images) | [![Ein Weg zwischen den Wellen](https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_320x240.jpg)](https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_UHD.jpg) |
-| 2026-05-29 | Ein Gipfelmoment der Geschichte | Gipfel des Mount Everest, Sagarmatha-Nationalpark, Nepal (© fotoVoyager/Getty Images) | [![Ein Gipfelmoment der Geschichte](https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_320x240.jpg)](https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_UHD.jpg) |
-| 2026-03-12 | Farbsignal im Wald | Junger Sonnenralle beim Flügelspreizen am Nest, Ecuador (© Andy Rouse/naturepl.com) | [![Farbsignal im Wald](https://www.bing.com/th?id=OHR.SunbitternEcuador_DE-DE7333956665_320x240.jpg)](https://www.bing.com/th?id=OHR.SunbitternEcuador_DE-DE7333956665_UHD.jpg) |
+| 2026-08-20 | Klänge der Schwertwale | Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy) | [![Klänge der Schwertwale](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_320x240.jpg)](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_UHD.jpg) |
+| 2026-05-30 | Zwischen den Streifen lesen | Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia (© Sharon Heald/Nature Picture Library) | [![Zwischen den Streifen lesen](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_320x240.jpg)](https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_UHD.jpg) |
+| 2026-03-13 | Ein stilles Meisterwerk aus Stein | Gewölbe der Kirche Notre‑Dame‑de‑Bon‑Port, Les Sables‑d’Olonne, Frankreich (© Helmut Meyer zur Capellen/Alamy) | [![Ein stilles Meisterwerk aus Stein](https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_320x240.jpg)](https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2026.md)
 
@@ -24,55 +24,55 @@
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-10-26 | The clock strikes back | The Eastgate Clock, Chester, England (© Alexey_Fedoren/iStock/Getty Images) | [![The clock strikes back](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_320x240.jpg)](https://www.bing.com/th?id=OHR.BSTEnds2026_EN-GB5502884225_UHD.jpg) |
-| 2026-03-03 | Floating legacies | Harbour and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock) | [![Floating legacies](https://www.bing.com/th?id=OHR.SamuiThailand_EN-GB6229613519_320x240.jpg)](https://www.bing.com/th?id=OHR.SamuiThailand_EN-GB6229613519_UHD.jpg) |
-| 2026-06-02 | Between the blues | Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images) | [![Between the blues](https://www.bing.com/th?id=OHR.Qinghai_EN-GB8807388585_320x240.jpg)](https://www.bing.com/th?id=OHR.Qinghai_EN-GB8807388585_UHD.jpg) |
+| 2026-10-27 | Nature's autumn soundtrack | Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images) | [![Nature's autumn soundtrack](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-GB5626792550_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-GB5626792550_UHD.jpg) |
+| 2026-03-04 | Guardians of the wild | African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com) | [![Guardians of the wild](https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_320x240.jpg)](https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_UHD.jpg) |
+| 2026-06-03 | Where the road stops, the ride begins | Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images) | [![Where the road stops, the ride begins](https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_320x240.jpg)](https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-30 | A landscape of living heritage | Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock) | [![A landscape of living heritage](https://www.bing.com/th?id=OHR.NavajoNation_EN-IN0765516783_320x240.jpg)](https://www.bing.com/th?id=OHR.NavajoNation_EN-IN0765516783_UHD.jpg) |
-| 2026-07-03 | The poetry of vanishing light | Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images) | [![The poetry of vanishing light](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-IN4315418814_320x240.jpg)](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-IN4315418814_UHD.jpg) |
-| 2026-10-29 | Where mist meets millennia | Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images) | [![Where mist meets millennia](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_EN-IN9660577333_UHD.jpg) |
+| 2026-07-31 | Trailing through time | Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images) | [![Trailing through time](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-IN1200650554_320x240.jpg)](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-IN1200650554_UHD.jpg) |
+| 2026-07-04 | This is your detour | Kaysersberg, Alsace, France (© Federica Gentile/Getty Images) | [![This is your detour](https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-IN4147544931_320x240.jpg)](https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-IN4147544931_UHD.jpg) |
+| 2026-10-30 | Time to fly high | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Time to fly high](https://www.bing.com/th?id=OHR.AutumnCranes_EN-IN9113460841_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-IN9113460841_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-17 | A waterfront chameleon | Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images) | [![A waterfront chameleon](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_320x240.jpg)](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg) |
-| 2026-07-13 | A wilder side of Maine | Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock) | [![A wilder side of Maine](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_320x240.jpg)](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg) |
-| 2026-07-20 | Wings at rest | Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion) | [![Wings at rest](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_320x240.jpg)](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg) |
+| 2026-07-18 | A Greek escape | Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images) | [![A Greek escape](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_320x240.jpg)](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg) |
+| 2026-07-14 | Born to rock | Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images) | [![Born to rock](https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_320x240.jpg)](https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg) |
+| 2026-07-21 | The lunar perspective | Moon and Earth captured by the Artemis II crew (© NASA) | [![The lunar perspective](https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_320x240.jpg)](https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-08-07 | Tracé pour la nature | Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images) | [![Tracé pour la nature](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013_320x240.jpg)](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013_UHD.jpg) |
-| 2026-04-07 | Une branche à la fois | Castor, Allemagne (© Andyworks/Getty Images) | [![Une branche à la fois](https://www.bing.com/th?id=OHR.BeaverPortrait_FR-FR0925060555_320x240.jpg)](https://www.bing.com/th?id=OHR.BeaverPortrait_FR-FR0925060555_UHD.jpg) |
-| 2026-05-12 | Place au tapis rouge ! | Des chaises attendent l'arrivée des célébrités et des cinéphiles au Festival de Cannes (© Christopher Furlong/Getty Images) | [![Place au tapis rouge !](https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_320x240.jpg)](https://www.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg) |
+| 2026-08-08 | L’art de prendre le temps | Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images) | [![L’art de prendre le temps](https://www.bing.com/th?id=OHR.ClothesBarjols_FR-FR4425384248_320x240.jpg)](https://www.bing.com/th?id=OHR.ClothesBarjols_FR-FR4425384248_UHD.jpg) |
+| 2026-04-08 | La Cité Émeraude | Seattle, Washington, États-Unis (© Jim Patterson/Tandem Stills + Motion) | [![La Cité Émeraude](https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_320x240.jpg)](https://www.bing.com/th?id=OHR.SeattleSunrise_FR-FR4246805259_UHD.jpg) |
+| 2026-05-13 | L’art de briller sans projecteurs | Voie lactée et arche naturelle, Alabama Hills, Sierra Nevada, Californie, États-Unis (© Tim Fitzharris/Minden Pictures) | [![L’art de briller sans projecteurs](https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_320x240.jpg)](https://www.bing.com/th?id=OHR.AlabamaHills_FR-FR7595844295_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-10-09 | Le sentinelle della Corsica | Veduta delle isole Sanguinarie dalla Corsica, Francia (© Francesco Riccardo Iacomino/Getty Images) | [![Le sentinelle della Corsica](https://www.bing.com/th?id=OHR.IlesSanguinaires_IT-IT9763114016_320x240.jpg)](https://www.bing.com/th?id=OHR.IlesSanguinaires_IT-IT9763114016_UHD.jpg) |
-| 2026-09-26 | Le storie scritte in tutta la terra | Cedar Mesa e Muley Point vicino al Monumento Nazionale Bears Ears, Utah, USA (© Jeff Clay/Tandem Stills + Motion) | [![Le storie scritte in tutta la terra](https://www.bing.com/th?id=OHR.BearsEars_IT-IT8450841263_320x240.jpg)](https://www.bing.com/th?id=OHR.BearsEars_IT-IT8450841263_UHD.jpg) |
-| 2026-06-14 | Real-mente elegante | Germano reale (© Philippe Paternolli/Getty Images) | [![Real-mente elegante](https://www.bing.com/th?id=OHR.DuckPond_IT-IT3562995004_320x240.jpg)](https://www.bing.com/th?id=OHR.DuckPond_IT-IT3562995004_UHD.jpg) |
+| 2026-10-10 | La vita lungo la rotta | Cormorani crestati americani sopra la baia di Monterey, California, Stati Uniti (© Hiroya Minakuchi/Minden Pictures) | [![La vita lungo la rotta](https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_320x240.jpg)](https://www.bing.com/th?id=OHR.CormorantsFlight_IT-IT0012209213_UHD.jpg) |
+| 2026-09-27 | Giardino notturno delle profondità | Granchio decoratore su penna marina, Parco Nazionale di Komodo, Indonesia (© Alex Mustard/Nature Picture Library) | [![Giardino notturno delle profondità](https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_320x240.jpg)](https://www.bing.com/th?id=OHR.DecoCrab_IT-IT5114188667_UHD.jpg) |
+| 2026-06-15 | Valli nella nebbia | Parco nazionale delle Great Smoky Mountains, Tennessee, USA (© Mint Images/Getty Images) | [![Valli nella nebbia](https://www.bing.com/th?id=OHR.ParkEstd_IT-IT3908775482_320x240.jpg)](https://www.bing.com/th?id=OHR.ParkEstd_IT-IT3908775482_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-07-11 | 港に停泊する観光船 | サン＝グスタン港, フランス (© Rolf E. Staerk/Shutterstock) | [![港に停泊する観光船](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_320x240.jpg)](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg) |
-| 2026-08-05 | 宮殿の門 | フェズ王宮, モロッコ (© cgst26/Shutterstock) | [![宮殿の門](https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_320x240.jpg)](https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_UHD.jpg) |
-| 2026-03-24 | 桜に包まれた五重塔 | 東湖桜花園, 中国 (© Zhang Qiao/VCG/Getty Images) | [![桜に包まれた五重塔](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_320x240.jpg)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_UHD.jpg) |
+| 2026-07-12 | 静かな池に映る鬱蒼とした森 | カタディン・ウッズ・アンド・ウォーターズ国定記念物, 米国 メイン州 (© Cavan Images/Offset/Shutterstock) | [![静かな池に映る鬱蒼とした森](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_320x240.jpg)](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg) |
+| 2026-08-06 | 今日は広島平和記念日 | 広島平和記念公園のとうろう流し, 広島県 広島市 (© Buddhika Weerasinghe/Stringer/Getty Images) | [![今日は広島平和記念日](https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_320x240.jpg)](https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_UHD.jpg) |
+| 2026-03-25 | 今日はマナティー感謝の日 | マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images) | [![今日はマナティー感謝の日](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_320x240.jpg)](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-10-25 | 群峰与宁静相遇之地 | 玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images) | [![群峰与宁静相遇之地](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_320x240.jpg)](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg) |
-| 2026-01-12 | 水獭之国爱沙尼亚 | 欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com) | [![水獭之国爱沙尼亚](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_320x240.jpg)](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg) |
-| 2026-06-10 | 一抹蓝色 | 赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images) | [![一抹蓝色](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_320x240.jpg)](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg) |
+| 2026-10-26 | 大自然的秋日乐章 | 秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images) | [![大自然的秋日乐章](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg) |
+| 2026-01-13 | 苹果韵，旧时光 | 克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images) | [![苹果韵，旧时光](https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_320x240.jpg)](https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg) |
+| 2026-06-11 | 沉静的力量 | 退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library) | [![沉静的力量](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_320x240.jpg)](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg) |
 

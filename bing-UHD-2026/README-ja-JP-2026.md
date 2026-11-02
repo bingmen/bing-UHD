@@ -1,6 +1,6 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新：2026-11-01 07:38:23 UTC
+> 最終更新：2026-11-02 04:29:22 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-08-09 | Architektur der Identität | Tjibaou-Kulturzentrum, Neukaledonien (© Fabien Astre/Alamy) | [![Architektur der Identität](https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_UHD.jpg) |
-| 2026-02-21 | Die Stille des Winters | Rotfuchs im Schneefall, Grand‑Teton‑Nationalpark, Wyoming, USA (© Radomir Jakubowski/naturepl.com) | [![Die Stille des Winters](https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_320x240.jpg)](https://www.bing.com/th?id=OHR.TetonFox_DE-DE7543648384_UHD.jpg) |
-| 2026-03-08 | Ein Platz mit Geschichte | Neues Schloss am Schlossplatz in Stuttgart, Baden‑Württemberg (© Jorg Greuel/Getty Images) | [![Ein Platz mit Geschichte](https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_320x240.jpg)](https://www.bing.com/th?id=OHR.StuttgartSchlossplatz_DE-DE6255862063_UHD.jpg) |
+| 2026-08-10 | Wo zwei Wüsten aufeinandertreffen | Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images) | [![Wo zwei Wüsten aufeinandertreffen](https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761_320x240.jpg)](https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761_UHD.jpg) |
+| 2026-02-22 | Die Mutter der Hügel | Mam Tor, Derbyshire, England (© john finney photography/Getty Images) | [![Die Mutter der Hügel](https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_320x240.jpg)](https://www.bing.com/th?id=OHR.MamTorSunrise_DE-DE1078293930_UHD.jpg) |
+| 2026-03-09 | Ein Moment der Ruhe | Schlafende Kegelrobbe am Strand, Orkneyinseln, Schottland (© Andrew Mason/Minden Pictures) | [![Ein Moment der Ruhe](https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_320x240.jpg)](https://www.bing.com/th?id=OHR.NappingSeal_DE-DE4413060426_UHD.jpg) |
 
 ## 🍁 [英語（カナダ）](bing-UHD-en-CA-2026.md)
 
@@ -24,55 +24,55 @@
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-11 | Just across the channel: Port de Saint-Goustan | Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock) | [![Just across the channel: Port de Saint-Goustan](https://www.bing.com/th?id=OHR.AurayBrittany_EN-GB4284557242_320x240.jpg)](https://www.bing.com/th?id=OHR.AurayBrittany_EN-GB4284557242_UHD.jpg) |
-| 2026-03-12 | A peachy keen spring | Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images) | [![A peachy keen spring](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_320x240.jpg)](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_UHD.jpg) |
-| 2026-03-27 | A step above the wild | Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock) | [![A step above the wild](https://www.bing.com/th?id=OHR.LoganCreek_EN-GB4805516529_320x240.jpg)](https://www.bing.com/th?id=OHR.LoganCreek_EN-GB4805516529_UHD.jpg) |
+| 2026-07-12 | A wilder side of Maine | Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock) | [![A wilder side of Maine](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993_320x240.jpg)](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993_UHD.jpg) |
+| 2026-03-13 | Wings in rehearsal | Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com) | [![Wings in rehearsal](https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_320x240.jpg)](https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_UHD.jpg) |
+| 2026-03-28 | Still burning bright | Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy) | [![Still burning bright](https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_320x240.jpg)](https://www.bing.com/th?id=OHR.RadioCityHall_EN-GB4964203098_UHD.jpg) |
 
 ## 🦁 [英語（インド）](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-17 | A prime 'reef' estate | Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library) | [![A prime 'reef' estate](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-IN1781663885_320x240.jpg)](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-IN1781663885_UHD.jpg) |
-| 2026-08-25 | Protecting America's treasures | Redwood National and State Parks, California, United States (© HadelProductions/Getty Images) | [![Protecting America's treasures](https://www.bing.com/th?id=OHR.RedwoodPark_EN-IN9796195264_320x240.jpg)](https://www.bing.com/th?id=OHR.RedwoodPark_EN-IN9796195264_UHD.jpg) |
-| 2026-01-27 | Feather forecast: pelicans ahead | Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com) | [![Feather forecast: pelicans ahead](https://www.bing.com/th?id=OHR.DalmationPelicans_EN-IN8609760555_320x240.jpg)](https://www.bing.com/th?id=OHR.DalmationPelicans_EN-IN8609760555_UHD.jpg) |
+| 2026-08-18 | Geometry of a star city | Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images) | [![Geometry of a star city](https://www.bing.com/th?id=OHR.Palmanova_EN-IN1888779790_320x240.jpg)](https://www.bing.com/th?id=OHR.Palmanova_EN-IN1888779790_UHD.jpg) |
+| 2026-08-26 | A sky alive with colour | Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy) | [![A sky alive with colour](https://www.bing.com/th?id=OHR.AurorasIceland_EN-IN9916681236_320x240.jpg)](https://www.bing.com/th?id=OHR.AurorasIceland_EN-IN9916681236_UHD.jpg) |
+| 2026-01-28 | Flow with it | Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images) | [![Flow with it](https://www.bing.com/th?id=OHR.WhanganuiPark_EN-IN0247027182_320x240.jpg)](https://www.bing.com/th?id=OHR.WhanganuiPark_EN-IN0247027182_UHD.jpg) |
 
 ## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-02-05 | The face of change | Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images) | [![The face of change](https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_320x240.jpg)](https://www.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg) |
-| 2026-07-06 | Sea of purple | Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock) | [![Sea of purple](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_320x240.jpg)](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg) |
-| 2026-01-23 | A Bohemian spa story | Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images) | [![A Bohemian spa story](https://www.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_320x240.jpg)](https://www.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg) |
+| 2026-02-06 | Stuck in a grid | Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images) | [![Stuck in a grid](https://www.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_320x240.jpg)](https://www.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg) |
+| 2026-07-07 | A city written in centuries | Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images) | [![A city written in centuries](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_320x240.jpg)](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg) |
+| 2026-01-24 | Feasting through frost | Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images) | [![Feasting through frost](https://www.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg) |
 
 ## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-08-10 | Un point de rencontre aride | Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images) | [![Un point de rencontre aride](https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_320x240.jpg)](https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_UHD.jpg) |
+| 2026-08-11 | Copenhague haute en couleur | Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images) | [![Copenhague haute en couleur](https://www.bing.com/th?id=OHR.ColorfulCop_FR-FR8595384019_320x240.jpg)](https://www.bing.com/th?id=OHR.ColorfulCop_FR-FR8595384019_UHD.jpg) |
+| 2026-03-12 | Une parade haute en couleurs | Caurale soleil faisant sa parade nuptiale, Équateur (© Andy Rouse/naturepl.com) | [![Une parade haute en couleurs](https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_320x240.jpg)](https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_UHD.jpg) |
 | 2026-03-11 | Un printemps de rose vêtu | Pêchers en fleur, Cieza, Murcie, Espagne (© Juan Maria Coy Vergara/Getty Images) | [![Un printemps de rose vêtu](https://www.bing.com/th?id=OHR.PeachBloom_FR-FR2231285417_320x240.jpg)](https://www.bing.com/th?id=OHR.PeachBloom_FR-FR2231285417_UHD.jpg) |
-| 2026-03-10 | Le feu sous la glace | Source chaude de Bláhver, Hveravellir, Islande (© Juan Maria Coy Vergara/Getty Images) | [![Le feu sous la glace](https://www.bing.com/th?id=OHR.SpringIceland_FR-FR7491549781_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringIceland_FR-FR7491549781_UHD.jpg) |
 
 ## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-09-10 | Un mosaico dall'alto | Vista aerea di Olvera, Cadice, Andalusia, Spagna (© Marco Bottigelli/Getty Images) | [![Un mosaico dall'alto](https://www.bing.com/th?id=OHR.Olvera_IT-IT3958001884_320x240.jpg)](https://www.bing.com/th?id=OHR.Olvera_IT-IT3958001884_UHD.jpg) |
-| 2026-07-18 | L'isola colorata di Venezia | Le case colorate di Burano, Venezia, Veneto, Italia (© Nick Brundle Photography/Getty Images) | [![L'isola colorata di Venezia](https://www.bing.com/th?id=OHR.FestaVenezia_IT-IT8709585056_320x240.jpg)](https://www.bing.com/th?id=OHR.FestaVenezia_IT-IT8709585056_UHD.jpg) |
-| 2026-04-07 | Natura su misura | Castoro, Germania (© Andyworks/Getty Images) | [![Natura su misura](https://www.bing.com/th?id=OHR.BeaverPortrait_IT-IT2053120485_320x240.jpg)](https://www.bing.com/th?id=OHR.BeaverPortrait_IT-IT2053120485_UHD.jpg) |
+| 2026-09-11 | La bellezza dei villaggi | Castelmezzano, provincia di Potenza in Basilicata, Italia (© Sean Pavone/Getty Images) | [![La bellezza dei villaggi](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_320x240.jpg)](https://www.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_UHD.jpg) |
+| 2026-07-19 | Ali a riposo | Rondini di diverse sottospecie che riposano insieme (© Oscar Dominguez/Tandem Stills + Motion) | [![Ali a riposo](https://www.bing.com/th?id=OHR.HirundoRustica_IT-IT8852691530_320x240.jpg)](https://www.bing.com/th?id=OHR.HirundoRustica_IT-IT8852691530_UHD.jpg) |
+| 2026-04-08 | La città della musica | Seattle, Washington, USA (© Jim Patterson/Tandem Stills + Motion) | [![La città della musica](https://www.bing.com/th?id=OHR.SeattleSunrise_IT-IT2054215926_320x240.jpg)](https://www.bing.com/th?id=OHR.SeattleSunrise_IT-IT2054215926_UHD.jpg) |
 
 ## 🌸 [日本語（日本）](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-09-25 | 今日は中秋の名月 | 中秋節用の中国提灯 (© LeeYiuTung/Getty Images) | [![今日は中秋の名月](https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_320x240.jpg)](https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_UHD.jpg) |
-| 2026-05-14 | 夕映えの断崖古都 | ピティリアーノ, イタリア (© bluejayphoto/Getty Images Plus) | [![夕映えの断崖古都](https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886_320x240.jpg)](https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886_UHD.jpg) |
-| 2026-10-17 | 秋の風に揺れる干し柿 | ずらりと並ぶ干し柿, 長野県 妻籠宿 (© wayfarer2020/Shutterstock) | [![秋の風に揺れる干し柿](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_320x240.jpg)](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg) |
+| 2026-09-26 | 標高約2,000mから見渡す大峡谷 | シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion) | [![標高約2,000mから見渡す大峡谷](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_320x240.jpg)](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg) |
+| 2026-05-15 | 今日は絶滅危惧種の日 | マッコウクジラ, インド洋 (© Tony Wu/Nature Picture Library) | [![今日は絶滅危惧種の日](https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_320x240.jpg)](https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_UHD.jpg) |
+| 2026-10-18 | 丘の上に佇む城跡 | ドルバダーン城, ウェールズ (© joe daniel price/Getty Images) | [![丘の上に佇む城跡](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_320x240.jpg)](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg) |
 
 ## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-09-25 | 当月亮也来赴会 | 庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images) | [![当月亮也来赴会](https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_320x240.jpg)](https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg) |
-| 2026-01-23 | 霜雪中的盛宴 | 绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images) | [![霜雪中的盛宴](https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg) |
-| 2026-02-07 | 在盐沼与天空之间，万物静谧 | 玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images) | [![在盐沼与天空之间，万物静谧](https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_320x240.jpg)](https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg) |
+| 2026-09-26 | 写在大地上的故事 | 熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion) | [![写在大地上的故事](https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_320x240.jpg)](https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg) |
+| 2026-01-24 | 瑞士山间的短逃离 | 阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images) | [![瑞士山间的短逃离](https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_320x240.jpg)](https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg) |
+| 2026-02-08 | 从宁静的夜晚到充满冒险的白天 | 科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images) | [![从宁静的夜晚到充满冒险的白天](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_320x240.jpg)](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg) |
 
