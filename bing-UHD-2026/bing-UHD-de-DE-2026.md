@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-11-01 04:23:28 UTC
+> Zuletzt aktualisiert: 2026-11-02 04:25:01 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-02 | Eine Zukunft, geprägt vom Eis | Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock) | [![Eine Zukunft, geprägt vom Eis](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg) |
 | 2026-11-01 | Wälder im Nebel | Schwarzwald, Baden-Württemberg (© Britus/Getty Images) | [![Wälder im Nebel](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg) |
 | 2026-10-31 | Der Geist vergangener Kaiserreiche | Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images) | [![Der Geist vergangener Kaiserreiche](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg) |
 | 2026-10-30 | Zeit für Höhenflüge | Kanadakraniche, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images) | [![Zeit für Höhenflüge](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg) |
