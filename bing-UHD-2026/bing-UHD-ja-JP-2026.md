@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-02 04:28:29 UTC
+> 最終更新: 2026-11-03 05:25:10 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-03 | 山々に抱かれた静けさ | ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images) | [![山々に抱かれた静けさ](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg) |
 | 2026-11-02 | 氷がつなぐ未来 | ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ (© Danita Delimont/Adobe Stock) | [![氷がつなぐ未来](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg) |
 | 2026-11-01 | 木々を包む霧 | シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images) | [![木々を包む霧](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg) |
 | 2026-10-31 | 帝国の面影 | 聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images) | [![帝国の面影](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_UHD.jpg) |
