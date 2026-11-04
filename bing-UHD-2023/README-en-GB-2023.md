@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2023
 
-> Last updated：2026-11-04 04:54:45 UTC
+> Last updated：2026-11-04 07:33:58 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
