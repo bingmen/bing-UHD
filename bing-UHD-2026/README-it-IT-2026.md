@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-03 07:59:16 UTC
+> Ultimo aggiornamento：2026-11-04 04:54:45 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-08-08 | Feuerzauber über dem Rhein | Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock) | [![Feuerzauber über dem Rhein](https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_320x240.jpg)](https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_UHD.jpg) |
-| 2026-03-15 | Idyllische Stille am Wasser | Königssee bei Schönau am Königssee, Bayern (© EyeEm Mobile GmbH/Getty Images) | [![Idyllische Stille am Wasser](https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_320x240.jpg)](https://www.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_UHD.jpg) |
-| 2026-08-19 | Ein Weg zwischen den Wellen | Whytecliff Park in West Vancouver, British Columbia, Kanada (© Aolin Chen/Getty Images) | [![Ein Weg zwischen den Wellen](https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_320x240.jpg)](https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_UHD.jpg) |
+| 2026-08-09 | Architektur der Identität | Tjibaou-Kulturzentrum, Neukaledonien (© Fabien Astre/Alamy) | [![Architektur der Identität](https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_UHD.jpg) |
+| 2026-03-16 | Ein Symbol des Naturschutzes | Großer Panda beim Bambusfressen, China (© Entwicklungsknecht/Getty Images) | [![Ein Symbol des Naturschutzes](https://www.bing.com/th?id=OHR.PandaForest_DE-DE0631054848_320x240.jpg)](https://www.bing.com/th?id=OHR.PandaForest_DE-DE0631054848_UHD.jpg) |
+| 2026-08-20 | Klänge der Schwertwale | Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy) | [![Klänge der Schwertwale](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_320x240.jpg)](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2026.md)
 
@@ -24,55 +24,55 @@
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-05 | Sea of purple | Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock) | [![Sea of purple](https://www.bing.com/th?id=OHR.LavenderRows_EN-GB8618053489_320x240.jpg)](https://www.bing.com/th?id=OHR.LavenderRows_EN-GB8618053489_UHD.jpg) |
-| 2026-09-01 | A world beneath your feet | Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library) | [![A world beneath your feet](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_320x240.jpg)](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_UHD.jpg) |
-| 2026-08-26 | A sky alive with colour | Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy) | [![A sky alive with colour](https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_320x240.jpg)](https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_UHD.jpg) |
+| 2026-07-06 | A city written in centuries | Syracuse, Sicily, Italy (© Balate Dorin/Getty Images) | [![A city written in centuries](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-GB9688094986_320x240.jpg)](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-GB9688094986_UHD.jpg) |
+| 2026-09-02 | Painted along the shore | Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images) | [![Painted along the shore](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_320x240.jpg)](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_UHD.jpg) |
+| 2026-08-27 | Water, wildlife and wonder | Lesser flamingo flock, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library) | [![Water, wildlife and wonder](https://www.bing.com/th?id=OHR.LakeMagadi_EN-GB1628809720_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeMagadi_EN-GB1628809720_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-06-26 | Current affairs | The River Thames, London, England (© Daniel Lange/Getty Images) | [![Current affairs](https://www.bing.com/th?id=OHR.ThamesSummer_EN-IN8289570374_320x240.jpg)](https://www.bing.com/th?id=OHR.ThamesSummer_EN-IN8289570374_UHD.jpg) |
-| 2026-08-30 | The fish that outgrew its name | Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library) | [![The fish that outgrew its name](https://www.bing.com/th?id=OHR.YellowShark_EN-IN0280820685_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowShark_EN-IN0280820685_UHD.jpg) |
-| 2026-08-07 | The great balancing act | Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images) | [![The great balancing act](https://www.bing.com/th?id=OHR.ValleyDreams_EN-IN0485781632_320x240.jpg)](https://www.bing.com/th?id=OHR.ValleyDreams_EN-IN0485781632_UHD.jpg) |
+| 2026-06-27 | The trees that lost ground | Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock) | [![The trees that lost ground](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_320x240.jpg)](https://www.bing.com/th?id=OHR.BoneyardBeach_EN-IN2656634065_UHD.jpg) |
+| 2026-08-31 | A master class in pattern | Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images) | [![A master class in pattern](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_320x240.jpg)](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg) |
+| 2026-08-08 | Crossing into infinity | Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock) | [![Crossing into infinity](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-IN0551257871_320x240.jpg)](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-IN0551257871_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-16 | Passing through, making waves | Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images) | [![Passing through, making waves](https://www.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_320x240.jpg)](https://www.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg) |
-| 2026-07-25 | Family, in full color | Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library) | [![Family, in full color](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_320x240.jpg)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg) |
-| 2026-03-10 | A perfectly timed nap | Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures) | [![A perfectly timed nap](https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_320x240.jpg)](https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg) |
+| 2026-03-17 | Into the Pandaverse | Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images) | [![Into the Pandaverse](https://www.bing.com/th?id=OHR.PandaForest_EN-US7436757535_320x240.jpg)](https://www.bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg) |
+| 2026-07-26 | Into Galicia's hidden arches | Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock) | [![Into Galicia's hidden arches](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_320x240.jpg)](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg) |
+| 2026-03-11 | Fire under frost | Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images) | [![Fire under frost](https://www.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-03-18 | Quand la ville éclot | Cerisiers en fleur à Tom McCall Waterfront Park, Portland, États-Unis (© Eric Vogt/Tandem Stills + Motion) | [![Quand la ville éclot](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_320x240.jpg)](https://www.bing.com/th?id=OHR.PortlandBlossoms_FR-FR9680778495_UHD.jpg) |
-| 2026-06-12 | Comme un éclair de couleurs | Guêpier d’Europe, Parc naturel de la Sierra de Grazalema, Cadix, Espagne (© Andres M. Dominguez/Nature Picture Library) | [![Comme un éclair de couleurs](https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_320x240.jpg)](https://www.bing.com/th?id=OHR.SpainBeeEater_FR-FR5420456430_UHD.jpg) |
-| 2026-02-04 | La grâce incarnée | Le milan royal sous la neige (© Carl Mckie/500px/Getty Images) | [![La grâce incarnée](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_320x240.jpg)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_FR-FR1936767123_UHD.jpg) |
+| 2026-03-19 | Piquez votre curiosité | L’échidné à nez court, Adelaide Hills, Australie (© Etienne Littlefair/naturepl.com) | [![Piquez votre curiosité](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_320x240.jpg)](https://www.bing.com/th?id=OHR.EchidnaAustralia_FR-FR9218839171_UHD.jpg) |
+| 2026-06-13 | Au fil du temps | Coucher de soleil au parc national des Badlands, Dakota du Sud, États-Unis (© Troy Harrison/Getty Images) | [![Au fil du temps](https://www.bing.com/th?id=OHR.BadSunset_FR-FR8337431465_320x240.jpg)](https://www.bing.com/th?id=OHR.BadSunset_FR-FR8337431465_UHD.jpg) |
+| 2026-02-05 | L’art sans égal des vagues | Les marais salants de Gozo, Malte (© Marius Roman/Getty Images) | [![L’art sans égal des vagues](https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_320x240.jpg)](https://www.bing.com/th?id=OHR.MaltaSalt_FR-FR2211478643_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-02-12 | Un cambio vitale? | Sula dai piedi azzurri, Isole Galápagos, Ecuador (© Karine Aigner/TANDEM Stills + Motion) | [![Un cambio vitale?](https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475_320x240.jpg)](https://www.bing.com/th?id=OHR.DarwinBooby_IT-IT4879885475_UHD.jpg) |
-| 2026-05-31 | Equilibrio naturale | Vista aerea del parco nazionale delle Everglades, Florida, USA (© Tetra Images/Getty Images) | [![Equilibrio naturale](https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_320x240.jpg)](https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_UHD.jpg) |
-| 2026-07-26 | Tra terra e mare, la vita inizia | Alba su una mangrovia rossa nei Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion) | [![Tra terra e mare, la vita inizia](https://www.bing.com/th?id=OHR.RedMangroveSunrise_IT-IT8134664377_320x240.jpg)](https://www.bing.com/th?id=OHR.RedMangroveSunrise_IT-IT8134664377_UHD.jpg) |
+| 2026-02-13 | Oltre i confini | Terzo ponte dell'amicizia tra Thailandia e Laos (© chaiyut samsuk/Getty Images) | [![Oltre i confini](https://www.bing.com/th?id=OHR.FriendshipBridge_IT-IT0003771526_320x240.jpg)](https://www.bing.com/th?id=OHR.FriendshipBridge_IT-IT0003771526_UHD.jpg) |
+| 2026-06-01 | Contro vento, onde e tempo | Castello di Dunseverick, contea di Antrim, Irlanda del Nord (© Krzysztof Rogalski/Getty Images) | [![Contro vento, onde e tempo](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_320x240.jpg)](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg) |
+| 2026-07-27 | Gli archi nascosti della Galizia | Spiaggia delle Cattedrali, Galizia, Spagna (© Tui De Roy/Amazing Aerial Agency/Abobe Stock) | [![Gli archi nascosti della Galizia](https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_320x240.jpg)](https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-04-05 | 今日は復活祭 | カラフルな木製イースターエッグ, リトアニア (© maximkabb/Getty Images) | [![今日は復活祭](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_UHD.jpg) |
-| 2026-04-29 | 今日は昭和の日 | 国会議事堂, 東京都 (© Hiroshi Watanabe/Getty images) | [![今日は昭和の日](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_320x240.jpg)](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_UHD.jpg) |
-| 2026-05-29 | 今日はエベレスト登頂記念日 | エベレスト, ネパール (© fotoVoyager/Getty Images) | [![今日はエベレスト登頂記念日](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_320x240.jpg)](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg) |
+| 2026-04-06 | 今日は城の日 | 弘前城, 青森県 弘前市 (© Glenn Waters/Getty Images) | [![今日は城の日](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_320x240.jpg)](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_UHD.jpg) |
+| 2026-04-30 | 色とりどりに咲き誇る花畑 | チューリップ, オランダ (© Martin Ruegner/Getty Images) | [![色とりどりに咲き誇る花畑](https://www.bing.com/th?id=OHR.DutchTulips_JA-JP3809671349_320x240.jpg)](https://www.bing.com/th?id=OHR.DutchTulips_JA-JP3809671349_UHD.jpg) |
+| 2026-05-30 | 夕焼けに佇む若いシマウマ | サバンナシマウマの子馬, ナミビア (© Sharon Heald/Nature Picture Library) | [![夕焼けに佇む若いシマウマ](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_320x240.jpg)](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg) |
 
 ## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-07-20 | 月瞰寰宇 | 月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA) | [![月瞰寰宇](https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_320x240.jpg)](https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg) |
-| 2026-08-19 | 浪潮间的通道 | 怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images) | [![浪潮间的通道](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_320x240.jpg)](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg) |
-| 2026-05-08 | 不仅仅是一声咿呀学语 | 撒丁岛母驴和幼崽, 法国 (© Klein & Hubert/Nature Picture Library) | [![不仅仅是一声咿呀学语](https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_320x240.jpg)](https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg) |
+| 2026-07-21 | 拱影寻踪 | 圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images) | [![拱影寻踪](https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg) |
+| 2026-08-20 | 鲸群之声 | 林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy) | [![鲸群之声](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_320x240.jpg)](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg) |
+| 2026-05-09 | 克尔卡的造物主 | 克尔卡国家公园的斯克拉丁斯基布克瀑布, 克罗地亚 (© Amazing Aerial Agency/Adobe Stock) | [![克尔卡的造物主](https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_320x240.jpg)](https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg) |
 
