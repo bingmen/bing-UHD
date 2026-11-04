@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-11-03 05:22:54 UTC
+> Last updated: 2026-11-04 04:51:49 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-04 | Paddling a painted forest | People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddling a painted forest](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_UHD.jpg) |
 | 2026-11-03 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_UHD.jpg) |
 | 2026-11-02 | A future written in ice | Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![A future written in ice](https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_EN-IN9299365522_UHD.jpg) |
 | 2026-11-01 | Mist among the trees | Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images) | [![Mist among the trees](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_UHD.jpg) |
