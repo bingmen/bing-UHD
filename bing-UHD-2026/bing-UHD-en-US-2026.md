@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-11-03 05:23:26 UTC
+> Last updated: 2026-11-04 04:52:19 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-04 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg) |
 | 2026-11-03 | A future written in ice | Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![A future written in ice](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg) |
 | 2026-11-02 | Crafting continuity | Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images) | [![Crafting continuity](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_320x240.jpg)](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg) |
 | 2026-11-01 | Ghosts of empires past | St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images) | [![Ghosts of empires past](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg) |
