@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-03 05:24:28 UTC
+> Ultimo aggiornamento: 2026-11-04 04:53:19 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-04 | In kayak tra i colori d’autunno | Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina (© Jackal Pan/Getty Images) | [![In kayak tra i colori d’autunno](https://www.bing.com/th?id=OHR.AutumnChina_IT-IT6649354105_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_IT-IT6649354105_UHD.jpg) |
 | 2026-11-03 | Pace in cima al mondo | Lago di Braies, Parco Naturale Fanes‑Sennes‑Braies, Dolomiti (© leonid_tit/Getty Images) | [![Pace in cima al mondo](https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_IT-IT4890299611_UHD.jpg) |
 | 2026-11-02 | Un futuro scolpito nel ghiaccio | Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![Un futuro scolpito nel ghiaccio](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg) |
 | 2026-11-01 | Alberi che svettano tra la foschia | Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images) | [![Alberi che svettano tra la foschia](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg) |
