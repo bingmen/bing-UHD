@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-04 04:51:23 UTC
+> Last updated: 2026-11-05 05:06:47 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-06 | Remember, remember | Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images) | [![Remember, remember](https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_320x240.jpg)](https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg) |
 | 2026-11-05 | Paddling a painted forest | People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddling a painted forest](https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080_UHD.jpg) |
 | 2026-11-04 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-GB4055015386_UHD.jpg) |
 | 2026-11-03 | A future written in ice | Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![A future written in ice](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_EN-GB3657065728_UHD.jpg) |
