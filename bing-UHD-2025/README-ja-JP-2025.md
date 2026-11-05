@@ -1,6 +1,6 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2025
 
-> 最終更新：2026-11-04 07:33:58 UTC
+> 最終更新：2026-11-05 05:10:13 UTC
 
 [de-DE](README-de-DE-2025.md) | [en-CA](README-en-CA-2025.md) | [en-GB](README-en-GB-2025.md) | [en-IN](README-en-IN-2025.md) | [en-US](README-en-US-2025.md) | [fr-FR](README-fr-FR-2025.md) | [it-IT](README-it-IT-2025.md) | [ja-JP](README-ja-JP-2025.md) | [zh-CN](README-zh-CN-2025.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2025-02-11 | Wächter unendlicher Weisheit | Yungang-Grotten, Datong, Provinz Shanxi, China (© Eric Yang/Getty Images) | [![Wächter unendlicher Weisheit](https://www.bing.com/th?id=OHR.YungangGrottoes_DE-DE7812500680_320x240.jpg)](https://www.bing.com/th?id=OHR.YungangGrottoes_DE-DE7812500680_UHD.jpg) |
-| 2025-04-12 | 108 Minuten, die die Welt veränderten | Blick aus der Kuppel der Internationalen Raumstation über den Südpazifik (© NASA) | [![108 Minuten, die die Welt veränderten](https://www.bing.com/th?id=OHR.SpaceFlight_DE-DE4206523074_320x240.jpg)](https://www.bing.com/th?id=OHR.SpaceFlight_DE-DE4206523074_UHD.jpg) |
-| 2025-06-21 | In goldenes Licht getaucht | Seljalandsfoss-Wasserfall bei Sonnenuntergang, Island (© Tom Mackie/AWL/plainpicture) | [![In goldenes Licht getaucht](https://www.bing.com/th?id=OHR.IcelandSolstice_DE-DE8326410119_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSolstice_DE-DE8326410119_UHD.jpg) |
+| 2025-11-24 | Stille Zeugen vergangener Macht | Gwalior-Fort, Madhya Pradesh, Indien (© ImagesofIndia/Shutterstock) | [![Stille Zeugen vergangener Macht](https://www.bing.com/th?id=OHR.GwailorFort_DE-DE8713840866_320x240.jpg)](https://www.bing.com/th?id=OHR.GwailorFort_DE-DE8713840866_UHD.jpg) |
+| 2025-09-22 | Zwischen Sommer und Winter | Espenbäume im Herbst, Fishlake National Forest, Utah, USA (© Danita Delimont/Getty Images) | [![Zwischen Sommer und Winter](https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231_320x240.jpg)](https://www.bing.com/th?id=OHR.AspenEquinox_DE-DE0417309231_UHD.jpg) |
+| 2025-08-09 | Ein sensationelles Feuerwerkspektakel | Feuerwerk Rhein in Flammen, Spay/Koblenz, Rheinland-Pfalz (© EKH-Pictures/Getty Images) | [![Ein sensationelles Feuerwerkspektakel](https://www.bing.com/th?id=OHR.RhineFirework_DE-DE3111105918_320x240.jpg)](https://www.bing.com/th?id=OHR.RhineFirework_DE-DE3111105918_UHD.jpg) |
 
 ## 🍁 [英語（カナダ）](bing-UHD-en-CA-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-03-17 | Back to black...and white | Baby giant panda in the snow, China (© Cheryl Schneider/Alamy Stock Photo) | [![Back to black...and white](https://www.bing.com/th?id=OHR.PandaSnow_EN-CA0601748068_320x240.jpg)](https://www.bing.com/th?id=OHR.PandaSnow_EN-CA0601748068_UHD.jpg) |
-| 2025-02-19 | Endless blue | Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock) | [![Endless blue](https://www.bing.com/th?id=OHR.BlueBelize_EN-CA2231756573_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueBelize_EN-CA2231756573_UHD.jpg) |
-| 2025-05-04 | Let's celebrate the cosmos | The Milky Way framed by Double Arch in Arches National Park, Utah, United States (© Adventure_Photo/Getty Images) | [![Let's celebrate the cosmos](https://www.bing.com/th?id=OHR.ArchesGalaxy_EN-CA8569224386_320x240.jpg)](https://www.bing.com/th?id=OHR.ArchesGalaxy_EN-CA8569224386_UHD.jpg) |
+| 2025-02-11 | Chill out in one of the coolest spots | Banff National Park in winter, Alberta, Canada (© Waitforlight/Moment/Getty Images) | [![Chill out in one of the coolest spots](https://www.bing.com/th?id=OHR.BanffSnow25_EN-CA9095652551_320x240.jpg)](https://www.bing.com/th?id=OHR.BanffSnow25_EN-CA9095652551_UHD.jpg) |
+| 2025-04-12 | A blooming good time | Tulips, Netherlands (© 1111IESPDJ/Getty Images) | [![A blooming good time](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-CA9221489477_320x240.jpg)](https://www.bing.com/th?id=OHR.TulipsWindmill_EN-CA9221489477_UHD.jpg) |
+| 2025-06-21 | All set for sunset | Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture) | [![All set for sunset](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-CA5496259238_320x240.jpg)](https://www.bing.com/th?id=OHR.IcelandSolstice_EN-CA5496259238_UHD.jpg) |
 
 ## 🌹 [英語（イギリス）](bing-UHD-en-GB-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-01-04 | Ring in the fun | Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock) | [![Ring in the fun](https://www.bing.com/th?id=OHR.TolkienOxford_EN-GB2804398313_320x240.jpg)](https://www.bing.com/th?id=OHR.TolkienOxford_EN-GB2804398313_UHD.jpg) |
-| 2025-03-04 | Wild about wildlife | Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures) | [![Wild about wildlife](https://www.bing.com/th?id=OHR.HornbillPair_EN-GB2589125332_320x240.jpg)](https://www.bing.com/th?id=OHR.HornbillPair_EN-GB2589125332_UHD.jpg) |
-| 2025-03-27 | Life below the surface | Manatee in Crystal River, Florida, United States (© Stephen Frink/Getty Images) | [![Life below the surface](https://www.bing.com/th?id=OHR.CrystalManatee_EN-GB4829470738_320x240.jpg)](https://www.bing.com/th?id=OHR.CrystalManatee_EN-GB4829470738_UHD.jpg) |
+| 2025-03-15 | Pi in the sky | Dolmen of Sorginetxe, Basque Country, Alava, Spain (© David Herraez Calzada/plainpicture) | [![Pi in the sky](https://www.bing.com/th?id=OHR.BasqueDolmen_EN-GB2189832080_320x240.jpg)](https://www.bing.com/th?id=OHR.BasqueDolmen_EN-GB2189832080_UHD.jpg) |
+| 2025-02-17 | Protecting the giants of the sea | Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures) | [![Protecting the giants of the sea](https://www.bing.com/th?id=OHR.HumpbackMother_EN-GB6474861873_320x240.jpg)](https://www.bing.com/th?id=OHR.HumpbackMother_EN-GB6474861873_UHD.jpg) |
+| 2025-05-03 | Let's celebrate the cosmos | The Milky Way framed by Double Arch in Arches National Park, Utah, United States (© Adventure_Photo/Getty Images) | [![Let's celebrate the cosmos](https://www.bing.com/th?id=OHR.ArchesGalaxy_EN-GB3402491515_320x240.jpg)](https://www.bing.com/th?id=OHR.ArchesGalaxy_EN-GB3402491515_UHD.jpg) |
 
 ## 🦁 [英語（インド）](bing-UHD-en-IN-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-01-30 | Once more unto the breach | Roland's Breach, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo) | [![Once more unto the breach](https://www.bing.com/th?id=OHR.OrdesaSpain_EN-IN2338334373_320x240.jpg)](https://www.bing.com/th?id=OHR.OrdesaSpain_EN-IN2338334373_UHD.jpg) |
-| 2025-06-27 | A splendid life | Splendid leaf frog (© Jan Stria/Shutterstock) | [![A splendid life](https://www.bing.com/th?id=OHR.SplendidFrog_EN-IN1765447694_320x240.jpg)](https://www.bing.com/th?id=OHR.SplendidFrog_EN-IN1765447694_UHD.jpg) |
-| 2025-11-20 | A slow reminder for a fast world | Mother manatee and calf, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images) | [![A slow reminder for a fast world](https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_320x240.jpg)](https://www.bing.com/th?id=OHR.ManateeBaby_EN-IN4061513303_UHD.jpg) |
+| 2025-01-06 | Divine depths | Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images) | [![Divine depths](https://www.bing.com/th?id=OHR.RavennaBasilica_EN-IN9380198974_320x240.jpg)](https://www.bing.com/th?id=OHR.RavennaBasilica_EN-IN9380198974_UHD.jpg) |
+| 2025-03-06 | Rocky relationship | Desert bighorn sheep in Valley of Fire State Park, Nevada, United States (© Rachid Dahnoun/Cavan Images) | [![Rocky relationship](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-IN7899953604_320x240.jpg)](https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-IN7899953604_UHD.jpg) |
+| 2025-03-29 | Burst of blooms | Superbloom in Carrizo Plain National Monument, California, United States (© Robb Hirsch/TANDEM Stills + Motion) | [![Burst of blooms](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-IN0314971879_320x240.jpg)](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-IN0314971879_UHD.jpg) |
 
 ## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2025.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2025-11-11 | Life hidden beneath the prairie | Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images) | [![Life hidden beneath the prairie](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_320x240.jpg)](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg) |
-| 2025-03-20 | Umbrella maneuver | A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures) | [![Umbrella maneuver](https://www.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_320x240.jpg)](https://www.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg) |
-| 2025-09-09 | Booked for the day | Library@orchard, Singapore (© Darwin Fan/Getty Images) | [![Booked for the day](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_320x240.jpg)](https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg) |
+| 2025-01-30 | Happy Chinese New Year! | Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images) | [![Happy Chinese New Year!](https://www.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_320x240.jpg)](https://www.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg) |
+| 2025-06-27 | Horsing around the coastline | The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images) | [![Horsing around the coastline](https://www.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_320x240.jpg)](https://www.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg) |
+| 2025-11-20 | Stone, symbol, and a nation's story | Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images) | [![Stone, symbol, and a nation's story](https://www.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_320x240.jpg)](https://www.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg) |
 
 ## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2025.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
 | 2025-11-11 | Un symbole plus que jamais d’actualité | Tombe du soldat inconnu sous l’Arc de Triomphe à Paris lors des commémorations du 11 novembre (© Ludovic Marin/Getty Images) | [![Un symbole plus que jamais d’actualité](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_320x240.jpg)](https://www.bing.com/th?id=OHR.Armistice_FR-FR5922039911_UHD.jpg) |
-| 2025-05-13 | Silence… Clap ! Cannes entre en scène | Baie de Cannes au crépuscule, Côte d'Azur (© Jean-Pierre Pieuchot/Getty Images) | [![Silence… Clap ! Cannes entre en scène](https://www.bing.com/th?id=OHR.CannesFilmFestival_FR-FR6520718255_320x240.jpg)](https://www.bing.com/th?id=OHR.CannesFilmFestival_FR-FR6520718255_UHD.jpg) |
-| 2025-10-02 | Grand Teton, grande émotion | Site naturel de Oxbow Bend, parc national du Grand Teton, Wyoming, États-Unis (© DanitaDelimont.com/AWL Images/SuperStock) | [![Grand Teton, grande émotion](https://www.bing.com/th?id=OHR.OxbowBend_FR-FR2570017898_320x240.jpg)](https://www.bing.com/th?id=OHR.OxbowBend_FR-FR2570017898_UHD.jpg) |
+| 2025-03-20 | Sous le signe d’Apollon, célébrons la francophonie ! | Bassin d'Apollon, château de Versailles (© Petr Kovalenkov/Shutterstock) | [![Sous le signe d’Apollon, célébrons la francophonie !](https://www.bing.com/th?id=OHR.FrancophonieDay_FR-FR0580579974_320x240.jpg)](https://www.bing.com/th?id=OHR.FrancophonieDay_FR-FR0580579974_UHD.jpg) |
+| 2025-09-09 | La forêt à hauteur d’écureuil | Femelle écureuil roux avec de la mousse, Suisse (© Jean-Luc and Francoise Ziegler/Minden Pictures) | [![La forêt à hauteur d’écureuil](https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_320x240.jpg)](https://www.bing.com/th?id=OHR.SwissSquirrel_FR-FR3805105470_UHD.jpg) |
 
 ## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2025.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2025-12-19 | Il Comune nella Roccia | Paesaggio innevato a Bormio, Sondrio, Lombardia (© Roberto Moiola/Getty Images) | [![Il Comune nella Roccia](https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_320x240.jpg)](https://www.bing.com/th?id=OHR.BormioItaly_IT-IT9940500837_UHD.jpg) |
-| 2025-02-01 | Trono di pietra? | Fortezza di Königstein, Svizzera sassone, Germania (© Bildagentur-online/Exss/Alamy) | [![Trono di pietra?](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_IT-IT3107556613_320x240.jpg)](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_IT-IT3107556613_UHD.jpg) |
-| 2025-10-08 | Tre cuori nel blu? | Polpo, Maui, Hawaii, USA (© Dave Fleetham/plainpicture) | [![Tre cuori nel blu?](https://www.bing.com/th?id=OHR.OctopusCyanea_IT-IT0571963002_320x240.jpg)](https://www.bing.com/th?id=OHR.OctopusCyanea_IT-IT0571963002_UHD.jpg) |
+| 2025-11-11 | Grattacieli millenari | Complesso megalitico Externsteine, Foresta di Teutoburgo, Germania (© Michael Sroka/Getty Images) | [![Grattacieli millenari](https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636_320x240.jpg)](https://www.bing.com/th?id=OHR.ExternsteineSunset_IT-IT5120455636_UHD.jpg) |
+| 2025-05-13 | Tracce Eterne | Parco Nazionale Torres del Paine, Patagonia, Cile (© Marco Bottigelli/Getty Images) | [![Tracce Eterne](https://www.bing.com/th?id=OHR.TorresChile_IT-IT3039649288_320x240.jpg)](https://www.bing.com/th?id=OHR.TorresChile_IT-IT3039649288_UHD.jpg) |
+| 2025-10-02 | Un Mare di Vino? | Bolgheri, frazione di Castagneto Carducci, Livorno, Maremma, Toscana (© ©StevanZZ/iStock) | [![Un Mare di Vino?](https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519_320x240.jpg)](https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519_UHD.jpg) |
 
 ## 🌸 [日本語（日本）](bing-UHD-ja-JP-2025.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2025-05-10 | 支柱なしの壮麗なドーム | ミネソタ州会議事堂, 米国ミネソタ州 (© lavin photography/Getty Images) | [![支柱なしの壮麗なドーム](https://www.bing.com/th?id=OHR.MinnesotaRotunda_JA-JP1387558437_320x240.jpg)](https://www.bing.com/th?id=OHR.MinnesotaRotunda_JA-JP1387558437_UHD.jpg) |
-| 2025-08-17 | 砂丘に立つ白亜の灯台 | リングヴィグ灯台, デンマーク (© Caroline Brundle Bugge/Getty Images) | [![砂丘に立つ白亜の灯台](https://www.bing.com/th?id=OHR.LyngvigLighthouse_JA-JP3502925142_320x240.jpg)](https://www.bing.com/th?id=OHR.LyngvigLighthouse_JA-JP3502925142_UHD.jpg) |
-| 2025-02-12 | 今日はダーウィンの日 | ホッキョクグマ  (© Ondrej Prosicky/Shutterstock) | [![今日はダーウィンの日](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_320x240.jpg)](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_UHD.jpg) |
+| 2025-12-19 | アルプスに抱かれた温泉の町 | ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images) | [![アルプスに抱かれた温泉の町](https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778_320x240.jpg)](https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778_UHD.jpg) |
+| 2025-02-01 | 「神の手」に支えられた橋 | ゴールデンブリッジ, ベトナム (© Hien Phung Thu/Shutterstock) | [![「神の手」に支えられた橋](https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_UHD.jpg) |
+| 2025-10-08 | 今日は寒露 | 竜頭の滝, 栃木県 日光市 (© kecl/Getty images) | [![今日は寒露](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_320x240.jpg)](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_UHD.jpg) |
 
 ## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2025.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2025-06-14 | 静谧之声 | 五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images) | [![静谧之声](https://www.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg) |
-| 2025-05-22 | 猴面包树大道 | 日落时分的猴面包树，猴面包树大道，马达加斯加 (© Framalicious/Shutterstock) | [![猴面包树大道](https://www.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_320x240.jpg)](https://www.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg) |
-| 2025-09-24 | 孤独的巨人 | 魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images) | [![孤独的巨人](https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_320x240.jpg)](https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg) |
+| 2025-05-10 | 童话烟囱！ | 巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images) | [![童话烟囱！](https://www.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_320x240.jpg)](https://www.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg) |
+| 2025-08-17 | 眺望大海的高塔 | 灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images) | [![眺望大海的高塔](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_320x240.jpg)](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg) |
+| 2025-02-12 | 喜气洋洋的元宵节 | 上海豫园的灯会，元宵节，上海市，中国 (© atiger/Shutterstock) | [![喜气洋洋的元宵节](https://www.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_320x240.jpg)](https://www.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg) |
 
