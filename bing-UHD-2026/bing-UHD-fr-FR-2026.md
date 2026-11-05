@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-11-04 04:52:49 UTC
+> Dernière mise à jour: 2026-11-05 05:08:16 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-05 | Un pas de plus vers le sommet | Échelle près d'un mur de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images) | [![Un pas de plus vers le sommet](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg) |
 | 2026-11-04 | Glisser à travers une peinture | Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images) | [![Glisser à travers une peinture](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg) |
 | 2026-11-03 | La paix parmi les sommets | Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images) | [![La paix parmi les sommets](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg) |
 | 2026-11-02 | Un avenir écrit dans la glace | Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock) | [![Un avenir écrit dans la glace](https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg) |
