@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-11-04 04:50:29 UTC
+> Zuletzt aktualisiert: 2026-11-05 05:05:54 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-05 | Ein Schritt näher am Gipfel | Holzsteg an einer Steinmauer, Black Crag, Lake District, England (© Alex Treadway/Getty Images) | [![Ein Schritt näher am Gipfel](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg) |
 | 2026-11-04 | Paddeln durch ein Gemälde | Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddeln durch ein Gemälde](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg) |
 | 2026-11-03 | Stille Gipfelwelten | Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien (© leonid_tit/Getty Images) | [![Stille Gipfelwelten](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg) |
 | 2026-11-02 | Eine Zukunft, geprägt vom Eis | Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada (© Danita Delimont/Adobe Stock) | [![Eine Zukunft, geprägt vom Eis](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg) |
