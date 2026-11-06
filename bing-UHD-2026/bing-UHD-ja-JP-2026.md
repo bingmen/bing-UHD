@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-05 05:09:15 UTC
+> 最終更新: 2026-11-06 05:08:46 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-06 | マウイ島を抜ける緑のトンネル | ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images) | [![マウイ島を抜ける緑のトンネル](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg) |
 | 2026-11-05 | 山頂へ、もう一歩 | 石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images) | [![山頂へ、もう一歩](https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg) |
 | 2026-11-04 | 秋色の森を水上散歩 | 色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images) | [![秋色の森を水上散歩](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg) |
 | 2026-11-03 | 山々に抱かれた静けさ | ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images) | [![山々に抱かれた静けさ](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg) |
