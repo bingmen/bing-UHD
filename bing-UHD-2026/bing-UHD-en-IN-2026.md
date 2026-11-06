@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-11-05 05:07:17 UTC
+> Last updated: 2026-11-06 05:06:48 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-06 | A green tunnel through Maui | Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images) | [![A green tunnel through Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-IN0566152296_UHD.jpg) |
 | 2026-11-05 | One step closer to the summit | Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images) | [![One step closer to the summit](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_EN-IN0635462552_UHD.jpg) |
 | 2026-11-04 | Paddling a painted forest | People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddling a painted forest](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_EN-IN9898936239_UHD.jpg) |
 | 2026-11-03 | Peace among the peaks | Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images) | [![Peace among the peaks](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_320x240.jpg)](https://www.bing.com/th?id=OHR.AlpineBraies_EN-IN9491975263_UHD.jpg) |
