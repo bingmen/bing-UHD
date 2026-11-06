@@ -1,6 +1,6 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento：2026-11-05 07:57:49 UTC
+> Ultimo aggiornamento：2026-11-06 05:09:44 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-01-07 | Fenster in die Vergangenheit | Turret Arch, eingerahmt vom North Window im Arches-Nationalpark, Utah, USA (© Jim Patterson/TANDEM Stills + Motion) | [![Fenster in die Vergangenheit](https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687_320x240.jpg)](https://www.bing.com/th?id=OHR.OldRockArch_DE-DE1434072687_UHD.jpg) |
-| 2026-08-10 | Wo zwei Wüsten aufeinandertreffen | Joshua-Tree-Nationalpark, Kalifornien, USA (© JJ Landscapes/Getty Images) | [![Wo zwei Wüsten aufeinandertreffen](https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761_320x240.jpg)](https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761_UHD.jpg) |
-| 2026-03-17 | Grün mit Geschichte | Ringfort Grianán von Aileach, County Donegal, Irland (© aluxum/Getty Images) | [![Grün mit Geschichte](https://www.bing.com/th?id=OHR.DonegalFort_DE-DE1298272044_320x240.jpg)](https://www.bing.com/th?id=OHR.DonegalFort_DE-DE1298272044_UHD.jpg) |
+| 2026-01-08 | Die Magie der Stare | Starenschwarm über den Ruinen des Westpiers in Brighton, England (© Philip Reeve/Photodisc/Getty Images) | [![Die Magie der Stare](https://www.bing.com/th?id=OHR.StarlingBrighton2025_DE-DE1125578660_320x240.jpg)](https://www.bing.com/th?id=OHR.StarlingBrighton2025_DE-DE1125578660_UHD.jpg) |
+| 2026-08-11 | Kopenhagen in voller Farbe | Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images) | [![Kopenhagen in voller Farbe](https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_320x240.jpg)](https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_UHD.jpg) |
+| 2026-03-18 | Frühling am Fluss | Kirschblüten im Tom McCall Waterfront Park, Portland, Oregon, USA (© Eric Vogt/Tandem Stills + Motion) | [![Frühling am Fluss](https://www.bing.com/th?id=OHR.PortlandBlossoms_DE-DE2538549747_320x240.jpg)](https://www.bing.com/th?id=OHR.PortlandBlossoms_DE-DE2538549747_UHD.jpg) |
 
 ## 🍁 [Inglese (Canada)](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-22 | One last summer spin | Aerial view of Canadian National Exhibition in Toronto (© Wirestock/Getty Images) | [![One last summer spin](https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_320x240.jpg)](https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_UHD.jpg) |
-| 2026-02-13 | Evolution in focus | Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion) | [![Evolution in focus](https://www.bing.com/th?id=OHR.DarwinBooby_EN-CA8905313156_320x240.jpg)](https://www.bing.com/th?id=OHR.DarwinBooby_EN-CA8905313156_UHD.jpg) |
-| 2026-03-18 | Ireland's spiritual crossroads | Grianan of Aileach ring fort, Donegal, Ireland (© Lukassek/Getty Images) | [![Ireland's spiritual crossroads](https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_320x240.jpg)](https://www.bing.com/th?id=OHR.DonegalFort_EN-CA9009549230_UHD.jpg) |
+| 2026-08-23 | Sky tinted wings | Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library) | [![Sky tinted wings](https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_320x240.jpg)](https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_UHD.jpg) |
+| 2026-02-14 | Built to bring closer | Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images) | [![Built to bring closer](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-CA9180302051_320x240.jpg)](https://www.bing.com/th?id=OHR.FriendshipBridge_EN-CA9180302051_UHD.jpg) |
+| 2026-03-19 | Urban blooms | Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States (© Eric Vogt/Tandem Stills + Motion) | [![Urban blooms](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-CA9305833993_320x240.jpg)](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-CA9305833993_UHD.jpg) |
 
 ## 🌹 [Inglese (Regno Unito)](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-03 | Bright boats, timeless traditions | Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images) | [![Bright boats, timeless traditions](https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671_320x240.jpg)](https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671_UHD.jpg) |
-| 2026-07-07 | Colour, craft and canopy life | Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures) | [![Colour, craft and canopy life](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_320x240.jpg)](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_UHD.jpg) |
-| 2026-09-03 | An act of wilderness | Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images) | [![An act of wilderness](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_320x240.jpg)](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg) |
+| 2026-08-04 | Hoot hoot hooray! | Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images) | [![Hoot hoot hooray!](https://www.bing.com/th?id=OHR.AdorableOwlet_EN-GB7610468145_320x240.jpg)](https://www.bing.com/th?id=OHR.AdorableOwlet_EN-GB7610468145_UHD.jpg) |
+| 2026-07-08 | Echoes of a volcanic past | Lake Atitlán, Guatemala (© shayes17/Getty Images) | [![Echoes of a volcanic past](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg) |
+| 2026-09-04 | Red and white on the horizon | Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images) | [![Red and white on the horizon](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_320x240.jpg)](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_UHD.jpg) |
 
 ## 🦁 [Inglese (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-28 | Where tides shape a legend | Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images) | [![Where tides shape a legend](https://www.bing.com/th?id=OHR.MichelSunset_EN-IN0118589173_320x240.jpg)](https://www.bing.com/th?id=OHR.MichelSunset_EN-IN0118589173_UHD.jpg) |
-| 2026-06-28 | Looking sharp | Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images) | [![Looking sharp](https://www.bing.com/th?id=OHR.SaguaroSun_EN-IN9141839272_320x240.jpg)](https://www.bing.com/th?id=OHR.SaguaroSun_EN-IN9141839272_UHD.jpg) |
-| 2026-09-01 | The tide that carries tales | The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images) | [![The tide that carries tales](https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_320x240.jpg)](https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg) |
+| 2026-08-29 | Reading between the waves | Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock) | [![Reading between the waves](https://www.bing.com/th?id=OHR.SantaCatarina_EN-IN0197195904_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaCatarina_EN-IN0197195904_UHD.jpg) |
+| 2026-06-29 | Born on fire, held by water | Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock) | [![Born on fire, held by water](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-IN9424063973_320x240.jpg)](https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-IN9424063973_UHD.jpg) |
+| 2026-09-02 | Painted along the shore | Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images) | [![Painted along the shore](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_320x240.jpg)](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-IN0536689027_UHD.jpg) |
 
 ## 🗽 [Inglese (Stati Uniti)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-09 | Crossing into infinity | Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock) | [![Crossing into infinity](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_320x240.jpg)](https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg) |
-| 2026-03-18 | Ireland's spiritual crossroads | Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images) | [![Ireland's spiritual crossroads](https://www.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_320x240.jpg)](https://www.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg) |
-| 2026-07-27 | Between land and sea, life begins | Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion) | [![Between land and sea, life begins](https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_320x240.jpg)](https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg) |
+| 2026-08-10 | Architecture of identity | Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy) | [![Architecture of identity](https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_320x240.jpg)](https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg) |
+| 2026-03-19 | Urban blooms | Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion) | [![Urban blooms](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_320x240.jpg)](https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg) |
+| 2026-07-28 | Chicago, look up! | Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock) | [![Chicago, look up!](https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_320x240.jpg)](https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg) |
 
 ## 🐓 [Francese (Francia)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-03-12 | Une parade haute en couleurs | Caurale soleil faisant sa parade nuptiale, Équateur (© Andy Rouse/naturepl.com) | [![Une parade haute en couleurs](https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_320x240.jpg)](https://www.bing.com/th?id=OHR.SunbitternEcuador_FR-FR2457278888_UHD.jpg) |
-| 2026-03-20 | La diversité à l’unisson | Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille (© RIEGER Bertrand/hemis.fr/Alamy) | [![La diversité à l’unisson](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_320x240.jpg)](https://www.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg) |
-| 2026-06-14 | C’est la danse des canards | Canard colvert (© Philippe Paternolli/Getty Images) | [![C’est la danse des canards](https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_320x240.jpg)](https://www.bing.com/th?id=OHR.DuckPond_FR-FR7676171535_UHD.jpg) |
+| 2026-03-13 | Une œuvre d’art en pierre | Voûtes de Notre-Dame de Bon-Port, Les Sables-d'Olonne (© Helmut Meyer zur Capellen/Alamy) | [![Une œuvre d’art en pierre](https://www.bing.com/th?id=OHR.VendeeVaults_FR-FR8462470705_320x240.jpg)](https://www.bing.com/th?id=OHR.VendeeVaults_FR-FR8462470705_UHD.jpg) |
+| 2026-03-21 | Les racines, nos piliers | Forêt de Letea, Delta du Danube, Roumanie (© Wild Wonders of Europe/Widstrand/Nature Picture Library) | [![Les racines, nos piliers](https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_320x240.jpg)](https://www.bing.com/th?id=OHR.LeteaForest_FR-FR7321636250_UHD.jpg) |
+| 2026-06-15 | Le silence des vallées | Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Mint Images/Getty Images) | [![Le silence des vallées](https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947_320x240.jpg)](https://www.bing.com/th?id=OHR.ParkEstd_FR-FR1451638947_UHD.jpg) |
 
 ## ⭐ [Italiano (Italia)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-03-20 | Fiori della transizione | Bucaneve in fiore (© klagyivik/Getty Images) | [![Fiori della transizione](https://www.bing.com/th?id=OHR.SpringSnowdrops_IT-IT6567861717_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringSnowdrops_IT-IT6567861717_UHD.jpg) |
-| 2026-02-06 | Vette, neve e medaglie | Cortina d’Ampezzo, Veneto (© Алексей Облов/Moment) | [![Vette, neve e medaglie](https://www.bing.com/th?id=OHR.CortinaOlimpiadi_IT-IT1161240762_320x240.jpg)](https://www.bing.com/th?id=OHR.CortinaOlimpiadi_IT-IT1161240762_UHD.jpg) |
-| 2026-02-14 | Dove nasce l'amore | Verona, Veneto (© Jan Hendrik/Shutterstock/Getty Images) | [![Dove nasce l'amore](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_320x240.jpg)](https://www.bing.com/th?id=OHR.SanValentino_IT-IT4953032598_UHD.jpg) |
+| 2026-03-21 | Cuore Verde | Foresta di Letea, Delta del Danubio, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library) | [![Cuore Verde](https://www.bing.com/th?id=OHR.LeteaForest_IT-IT3515792567_320x240.jpg)](https://www.bing.com/th?id=OHR.LeteaForest_IT-IT3515792567_UHD.jpg) |
+| 2026-02-07 | Il silenzio del sale | Salina del Salar de Uyuni, Bolivia (© Abstract Aerial Art/Getty Images) | [![Il silenzio del sale](https://www.bing.com/th?id=OHR.SalarUyuni_IT-IT0441176057_320x240.jpg)](https://www.bing.com/th?id=OHR.SalarUyuni_IT-IT0441176057_UHD.jpg) |
+| 2026-02-15 | Canti marini | Balene megattere, Baia di Monterey, California, USA (© Kiliii Fish/Cavan Images) | [![Canti marini](https://www.bing.com/th?id=OHR.MontereyHumpbacks_IT-IT5095312358_320x240.jpg)](https://www.bing.com/th?id=OHR.MontereyHumpbacks_IT-IT5095312358_UHD.jpg) |
 
 ## 🌸 [Giapponese (Giappone)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-06-02 | 今日は横浜開港記念日 | みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock) | [![今日は横浜開港記念日](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_320x240.jpg)](https://www.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg) |
-| 2026-07-28 | 渓谷に息づく美しい村 | ケゼルスベール, フランス (© Federica Gentile/Getty Images) | [![渓谷に息づく美しい村](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_320x240.jpg)](https://www.bing.com/th?id=OHR.KaysersbergVillage_JA-JP4774929635_UHD.jpg) |
-| 2026-04-07 | 今日は国際ビーバーデー | ビーバー, ドイツ (© Andyworks/Getty Images) | [![今日は国際ビーバーデー](https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_320x240.jpg)](https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_UHD.jpg) |
+| 2026-06-03 | 今日は世界自転車デー | バルデナス・レアレス自然公園, スペイン (© Artur Debat/Getty Images) | [![今日は世界自転車デー](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_320x240.jpg)](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_UHD.jpg) |
+| 2026-07-29 | 今日は世界トラの日 | ベンガルトラの家族, インド (© Archna Singh/Shutterstock) | [![今日は世界トラの日](https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_320x240.jpg)](https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_UHD.jpg) |
+| 2026-04-08 | 夕焼けに染まる港と街の景色 | シアトル市のウォーターフロント, 米国 ワシントン州 (© Jim Patterson/Tandem Stills + Motion) | [![夕焼けに染まる港と街の景色](https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_320x240.jpg)](https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_UHD.jpg) |
 
 ## 🐉 [Cinese semplificato (Cina)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-05-01 | 初夏·翠微长城 | 中国的长城 (© aphotostory/Getty Images) | [![初夏·翠微长城](https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_320x240.jpg)](https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg) |
-| 2026-05-31 | 顺流而行 | 大沼泽地国家公园航拍景观，佛罗里达州，美国 (© Tetra Images/Getty Images) | [![顺流而行](https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_320x240.jpg)](https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_UHD.jpg) |
-| 2026-07-22 | 细微之举，影响深远 | 珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock) | [![细微之举，影响深远](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg) |
+| 2026-05-02 | 贾斯珀的自然魅力 | 阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images) | [![贾斯珀的自然魅力](https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_320x240.jpg)](https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg) |
+| 2026-06-01 | 历史的况味 | 巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images) | [![历史的况味](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_320x240.jpg)](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg) |
+| 2026-07-23 | 瓣叠交响 | 粉红色大丽花 (© Harald Biebel/Getty Images) | [![瓣叠交响](https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_320x240.jpg)](https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg) |
 
