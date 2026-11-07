@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-06 05:08:15 UTC
+> Ultimo aggiornamento: 2026-11-07 04:41:47 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-07 | Il ritorno del gigante | Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock) | [![Il ritorno del gigante](https://www.bing.com/th?id=OHR.DakotaBison_IT-IT5607960276_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_IT-IT5607960276_UHD.jpg) |
 | 2026-11-06 | Un tunnel verde nel cuore di Maui | Foresta di Bambù, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images) | [![Un tunnel verde nel cuore di Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_UHD.jpg) |
 | 2026-11-05 | Un passo alla volta | Una scaletta appoggiata ad un muro di pietra, Black Crag, Lake District, Inghilterra (© Alex Treadway/Getty Images) | [![Un passo alla volta](https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_IT-IT7249235484_UHD.jpg) |
 | 2026-11-04 | In kayak tra i colori d’autunno | Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina (© Jackal Pan/Getty Images) | [![In kayak tra i colori d’autunno](https://www.bing.com/th?id=OHR.AutumnChina_IT-IT6649354105_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_IT-IT6649354105_UHD.jpg) |
