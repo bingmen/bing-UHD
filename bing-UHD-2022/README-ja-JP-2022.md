@@ -1,6 +1,6 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2022
 
-> 最終更新：2026-11-06 07:59:20 UTC
+> 最終更新：2026-11-07 04:43:16 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-06-26 | Sommerbären | Braunbärenmutter mit ihrem Jungen, Katmai-Nationalpark, Alaska, USA (© Suzi Eszterhas/Minden Pictures) | [![Sommerbären](https://www.bing.com/th?id=OHR.BBMomCub_DE-DE9961022833_320x240.jpg)](https://www.bing.com/th?id=OHR.BBMomCub_DE-DE9961022833_UHD.jpg) |
-| 2022-11-26 | Ein Symbol für den Frieden | Ein Olivenbaum vor dem Concordia-Tempel in Agrigent, Sizilien, Italien (© Alfio Finocchiaro/Shutterstock) | [![Ein Symbol für den Frieden](https://www.bing.com/th?id=OHR.OliveTreeDay_DE-DE6100270933_320x240.jpg)](https://www.bing.com/th?id=OHR.OliveTreeDay_DE-DE6100270933_UHD.jpg) |
-| 2022-05-26 | Schlossinsel mit Ausblick | Orangerie des Schweriner Schlosses am Schweriner See, Schwerin, Mecklenburg-Vorpommern (© Gunter Grafenhain/eStock Photo) | [![Schlossinsel mit Ausblick](https://www.bing.com/th?id=OHR.OrangerieSchwerin_DE-DE2078115256_320x240.jpg)](https://www.bing.com/th?id=OHR.OrangerieSchwerin_DE-DE2078115256_UHD.jpg) |
+| 2022-07-07 | Ein Licht an der dunklen Küste | Leuchtturm Heceta Head, Florence, Oregon, USA (© Tom Schwabel/Tandem Stills + Motion) | [![Ein Licht an der dunklen Küste](https://www.bing.com/th?id=OHR.HecetaHead_DE-DE7338213648_320x240.jpg)](https://www.bing.com/th?id=OHR.HecetaHead_DE-DE7338213648_UHD.jpg) |
+| 2022-07-11 | Stadtplanung hört nie auf | Barcelona, Spanien (© SW Photography/Getty Images) | [![Stadtplanung hört nie auf](https://www.bing.com/th?id=OHR.BarcelonaPop_DE-DE8335741945_320x240.jpg)](https://www.bing.com/th?id=OHR.BarcelonaPop_DE-DE8335741945_UHD.jpg) |
+| 2022-06-01 | Bezaubernde Unterwasserwelten | Korallenriff in der Marovo-Lagune, Salomonen (© WaterFrame/Alamy) | [![Bezaubernde Unterwasserwelten](https://www.bing.com/th?id=OHR.MarovoLagoon_DE-DE3544269489_320x240.jpg)](https://www.bing.com/th?id=OHR.MarovoLagoon_DE-DE3544269489_UHD.jpg) |
 
 ## 🍁 [英語（カナダ）](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-08-17 | Fresh finds in Fraser Valley | A stream of water flows through the Sasquatch Provincial Park, Fraser Valley, B.C. (© Jason Wilde/Tandem Stills + Motion) | [![Fresh finds in Fraser Valley](https://www.bing.com/th?id=OHR.SasquatchStream_EN-CA7411677535_320x240.jpg)](https://www.bing.com/th?id=OHR.SasquatchStream_EN-CA7411677535_UHD.jpg) |
-| 2022-05-20 | Standing on glass 275+ metres in the air | Glass bridge of Zhangjiajie, Hunan, China (© MediaProduction/Getty Images) | [![Standing on glass 275+ metres in the air](https://www.bing.com/th?id=OHR.GlassBridge_EN-CA2778800699_320x240.jpg)](https://www.bing.com/th?id=OHR.GlassBridge_EN-CA2778800699_UHD.jpg) |
-| 2022-11-10 | Look, but don’t touch | European hedgehog in Sussex, England (© Jules Cox/Minden Pictures) | [![Look, but don’t touch](https://www.bing.com/th?id=OHR.HedgehogNest_EN-CA6777751359_320x240.jpg)](https://www.bing.com/th?id=OHR.HedgehogNest_EN-CA6777751359_UHD.jpg) |
+| 2022-06-26 | A destination for all seasons | The Kellys beach boardwalk in Kouchibouguac National Park, New Brunswick (© All Canada Photos/Alamy Stock Photo) | [![A destination for all seasons](https://www.bing.com/th?id=OHR.KellysBeach_EN-CA0238104001_320x240.jpg)](https://www.bing.com/th?id=OHR.KellysBeach_EN-CA0238104001_UHD.jpg) |
+| 2022-11-26 | You can take a refreshing dip here any day of the year | Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images) | [![You can take a refreshing dip here any day of the year](https://www.bing.com/th?id=OHR.OcalaNF_EN-CA3353114094_320x240.jpg)](https://www.bing.com/th?id=OHR.OcalaNF_EN-CA3353114094_UHD.jpg) |
+| 2022-05-26 | Pearl among the emeralds | Alhambra in Granada, Andalucia, Spain (© Armand Tamboly/Getty Images) | [![Pearl among the emeralds](https://www.bing.com/th?id=OHR.Alhambra_EN-CA2527467089_320x240.jpg)](https://www.bing.com/th?id=OHR.Alhambra_EN-CA2527467089_UHD.jpg) |
 
 ## 🌹 [英語（イギリス）](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-20 | The cliffs and canyons of Zion National Park | Virgin River in Zion National Park, Utah, USA (© Jonathan Ross/Getty Images) | [![The cliffs and canyons of Zion National Park](https://www.bing.com/th?id=OHR.ZNPVR_EN-GB0656351274_320x240.jpg)](https://www.bing.com/th?id=OHR.ZNPVR_EN-GB0656351274_UHD.jpg) |
-| 2022-04-30 | Tune into International Jazz Day | The North Beach Jazz Mural by artist Bill Weber in San Francisco, USA (© Kosso/Getty Images) | [![Tune into International Jazz Day](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthBeachJazz_EN-GB5796324169_UHD.jpg) |
-| 2022-06-15 | Picture perfect | Great Smoky Mountains National Park, Tennessee, USA (© Tony Barber/Getty Images) | [![Picture perfect](https://www.bing.com/th?id=OHR.ClingmansDome_EN-GB1571138239_320x240.jpg)](https://www.bing.com/th?id=OHR.ClingmansDome_EN-GB1571138239_UHD.jpg) |
+| 2022-08-16 | Looking sharp | The Needles chalk pinnacles and lighthouse on the Isle of Wight. (© CBCK-Christine/iStock/Getty Images Plus) | [![Looking sharp](https://www.bing.com/th?id=OHR.TheNeedles_EN-GB9227622853_320x240.jpg)](https://www.bing.com/th?id=OHR.TheNeedles_EN-GB9227622853_UHD.jpg) |
+| 2022-05-19 | Reflecting the beauty of the Lakes | Misty sunrise on the River Brathay in the Lake District, Cumbria (© fstopphotography/Getty Images) | [![Reflecting the beauty of the Lakes](https://www.bing.com/th?id=OHR.RiverBrathay_EN-GB3389261433_320x240.jpg)](https://www.bing.com/th?id=OHR.RiverBrathay_EN-GB3389261433_UHD.jpg) |
+| 2022-11-10 | A prickly customer | Hedgehog (Erinaceus europaeus) sheltering in a pile of fallen leaves, Sussex (© Jules Cox/Minden Pictures) | [![A prickly customer](https://www.bing.com/th?id=OHR.HedgehogNest_EN-GB2384367951_320x240.jpg)](https://www.bing.com/th?id=OHR.HedgehogNest_EN-GB2384367951_UHD.jpg) |
 
 ## 🦁 [英語（インド）](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-10-21 | Leaf-peeping Southern style | Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion) | [![Leaf-peeping Southern style](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-IN7514884484_320x240.jpg)](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-IN7514884484_UHD.jpg) |
-| 2022-07-20 | One giant leap for mankind | Composite photo showing the phases of the moon (© Delpixart/Getty Images) | [![One giant leap for mankind](https://www.bing.com/th?id=OHR.MoonPhases_EN-IN0041434200_320x240.jpg)](https://www.bing.com/th?id=OHR.MoonPhases_EN-IN0041434200_UHD.jpg) |
-| 2022-07-12 | An engineering marvel | A train crossing the Sharavati Bridge in Karnataka, India (© Amith Nag Photography/Getty Images) | [![An engineering marvel](https://www.bing.com/th?id=OHR.SharavatiBridge_EN-IN9940079868_320x240.jpg)](https://www.bing.com/th?id=OHR.SharavatiBridge_EN-IN9940079868_UHD.jpg) |
+| 2022-11-20 | Creating a better world | Land art painting entitled 'World in Progress II' by artist Saype at the Headquarters of the United Nations in New York City (© Valentin Flauraud/Shutterstock) | [![Creating a better world](https://www.bing.com/th?id=OHR.LandartPainting_EN-IN7351909485_320x240.jpg)](https://www.bing.com/th?id=OHR.LandartPainting_EN-IN7351909485_UHD.jpg) |
+| 2022-05-01 | Keep practicing, little guy | Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock) | [![Keep practicing, little guy](https://www.bing.com/th?id=OHR.FoxSkills_EN-IN2855762577_320x240.jpg)](https://www.bing.com/th?id=OHR.FoxSkills_EN-IN2855762577_UHD.jpg) |
+| 2022-06-16 | Bridging past and present | Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images) | [![Bridging past and present](https://www.bing.com/th?id=OHR.SeonamTemple_EN-IN7858855882_320x240.jpg)](https://www.bing.com/th?id=OHR.SeonamTemple_EN-IN7858855882_UHD.jpg) |
 
 ## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-12-12 | Rocky Mountain runoff | Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures) | [![Rocky Mountain runoff](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_320x240.jpg)](https://www.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg) |
-| 2022-10-30 | Angel of the sea | Sea angel (© Alexander Semenov Images/Shutterstock) | [![Angel of the sea](https://www.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_320x240.jpg)](https://www.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg) |
-| 2022-11-08 | Blood moon | Lunar eclipse above Mount Crested Butte, Colorado (© Mengzhonghua Photography/Getty Images) | [![Blood moon](https://www.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_320x240.jpg)](https://www.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg) |
+| 2022-10-21 | Hangin' around | Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Hangin' around](https://www.bing.com/th?id=OHR.SlothDay_EN-US8418438094_320x240.jpg)](https://www.bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg) |
+| 2022-07-20 | Oh, give me a home | Male American bison in Yellowstone National Park, Wyoming (© Donyanedomam/Getty Images) | [![Oh, give me a home](https://www.bing.com/th?id=OHR.YellowstoneBison_EN-US2891320959_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowstoneBison_EN-US2891320959_UHD.jpg) |
+| 2022-07-12 | Urban planning never stops | Barcelona, Spain (© SW Photography/Getty Images) | [![Urban planning never stops](https://www.bing.com/th?id=OHR.BarcelonaPop_EN-US8033472712_320x240.jpg)](https://www.bing.com/th?id=OHR.BarcelonaPop_EN-US8033472712_UHD.jpg) |
 
 ## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-07-11 | Une vraie fourmilière | Barcelone, Espagne (© SW Photography/Getty Images) | [![Une vraie fourmilière](https://www.bing.com/th?id=OHR.BarcelonaPop_FR-FR3835377255_320x240.jpg)](https://www.bing.com/th?id=OHR.BarcelonaPop_FR-FR3835377255_UHD.jpg) |
-| 2022-10-14 | Nature pyrénéenne | Cascade dans le parc national d'Ordesa et du Mont-Perdu, Pyrénées, Espagne (© David Santiago Garcia/Cavan Images) | [![Nature pyrénéenne](https://www.bing.com/th?id=OHR.RioArazas_FR-FR7737403715_320x240.jpg)](https://www.bing.com/th?id=OHR.RioArazas_FR-FR7737403715_UHD.jpg) |
-| 2022-07-25 | Tournez manège ! | Le carrousel Golden Gallopers sur la plage de Brighton, East Sussex, Angleterre  (© Graham Prentice/Alamy) | [![Tournez manège !](https://www.bing.com/th?id=OHR.MGRBrighton_FR-FR4940041141_320x240.jpg)](https://www.bing.com/th?id=OHR.MGRBrighton_FR-FR4940041141_UHD.jpg) |
+| 2022-12-12 | Feuilles de Noël | Feuilles de poinsettia (© Elizabeth Fernandez/Getty Images) | [![Feuilles de Noël](https://www.bing.com/th?id=OHR.PoinsettiaDay_FR-FR5301769444_320x240.jpg)](https://www.bing.com/th?id=OHR.PoinsettiaDay_FR-FR5301769444_UHD.jpg) |
+| 2022-10-30 | C’est l’heure de la chasse | Ours polaire dans la baie d’Hudson, Manitoba, Canada (© Sean Crane/Minden Pictures) | [![C’est l’heure de la chasse](https://www.bing.com/th?id=OHR.SealRiver_FR-FR1987672591_320x240.jpg)](https://www.bing.com/th?id=OHR.SealRiver_FR-FR1987672591_UHD.jpg) |
+| 2022-11-08 | Les mille et une lanternes | Lanternes s’envolant lors du festival Yi Peng à Chiang Mai, Thaïlande (© Suttipong Sutiratanachai/Getty Images) | [![Les mille et une lanternes](https://www.bing.com/th?id=OHR.YiPeng_FR-FR6558099006_320x240.jpg)](https://www.bing.com/th?id=OHR.YiPeng_FR-FR6558099006_UHD.jpg) |
 
 ## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-10-30 | Torna l’ora solare | Orologio astronomico sulla Torre dell’Orologio a Piazza San Marco, Venezia (©  Songquan Deng/Alamy Stock Photo) | [![Torna l’ora solare](https://www.bing.com/th?id=OHR.VeniceClock_IT-IT0264860156_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceClock_IT-IT0264860156_UHD.jpg) |
-| 2022-08-08 | Un’isola tascabile | Vista aerea dell'isola El Pantaleu vicino a Sant Elm, Maiorca, Spagna (© Dimitri Weber/Amazing Aerial Agency) | [![Un’isola tascabile](https://www.bing.com/th?id=OHR.EsPantaleu_IT-IT3362297730_320x240.jpg)](https://www.bing.com/th?id=OHR.EsPantaleu_IT-IT3362297730_UHD.jpg) |
-| 2022-09-05 | Si torna a scuola | L'educatrice italiana Maria Montessori che gioca con i bambini nell’istituto scolatico Smithfield, Londra (© Popperfoto/Getty Images) | [![Si torna a scuola](https://www.bing.com/th?id=OHR.MMontessori_IT-IT7936361329_320x240.jpg)](https://www.bing.com/th?id=OHR.MMontessori_IT-IT7936361329_UHD.jpg) |
+| 2022-07-11 | L'urbanistica non si ferma mai | Barcellona, Spagna (© SW Photography/Getty Images) | [![L'urbanistica non si ferma mai](https://www.bing.com/th?id=OHR.BarcelonaPop_IT-IT6132878773_320x240.jpg)](https://www.bing.com/th?id=OHR.BarcelonaPop_IT-IT6132878773_UHD.jpg) |
+| 2022-10-14 | La porta d'ingresso della penisola iberica | Cascata sul Rio Arazas nel Parco Nazionale di Ordesa e Monte Perdido, Pirenei, Spagna (© David Santiago Garcia/Cavan Images) | [![La porta d'ingresso della penisola iberica](https://www.bing.com/th?id=OHR.RioArazas_IT-IT1511444344_320x240.jpg)](https://www.bing.com/th?id=OHR.RioArazas_IT-IT1511444344_UHD.jpg) |
+| 2022-07-25 | Piramidi di Renon, Alto Adige | Piramidi di terra di Longomoso, Renon, Alto Adige (© Ingo Arndt/mindenpictures) | [![Piramidi di Renon, Alto Adige](https://www.bing.com/th?id=OHR.PiramidiTerra_IT-IT9212729918_320x240.jpg)](https://www.bing.com/th?id=OHR.PiramidiTerra_IT-IT9212729918_UHD.jpg) |
 
 ## 🌸 [日本語（日本）](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-10-31 | 今日は「ハロウィン」 | 笑う 2 つのカボチャ (© sandsun/Getty Images) | [![今日は「ハロウィン」](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_320x240.jpg)](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg) |
-| 2022-11-02 | ムンナルの茶畑 | ムンナルの茶畑, インド ケララ州 (© Mazur Travel/Shutterstock) | [![ムンナルの茶畑](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_JA-JP8832260762_320x240.jpg)](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_JA-JP8832260762_UHD.jpg) |
-| 2022-08-21 | 大西洋を守るスペインの灯台 | プラヤ・ラゴ灯台, スペイン (© Carlos Fernandez/Getty Images) | [![大西洋を守るスペインの灯台](https://www.bing.com/th?id=OHR.CostadaMorte_JA-JP5589370451_320x240.jpg)](https://www.bing.com/th?id=OHR.CostadaMorte_JA-JP5589370451_UHD.jpg) |
+| 2022-10-30 | 今日から国際ホッキョクグマ週間 | ハドソン湾のホッキョクグマ, カナダ マニトバ州 (© Sean Crane/Minden Pictures) | [![今日から国際ホッキョクグマ週間](https://www.bing.com/th?id=OHR.SealRiver_JA-JP8299200123_320x240.jpg)](https://www.bing.com/th?id=OHR.SealRiver_JA-JP8299200123_UHD.jpg) |
+| 2022-08-08 | ニューイングランドの古い灯台 | スプリング・ポイント・レッジ灯台, 米国 メイン州 (© Haizhan Zheng/Getty Images) | [![ニューイングランドの古い灯台](https://www.bing.com/th?id=OHR.SpringPoint_JA-JP7839431903_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringPoint_JA-JP7839431903_UHD.jpg) |
+| 2022-09-05 | カナダのトランスタイガロード | トランスタイガロード, カナダ ケベック州 (© Posnov/Getty Images) | [![カナダのトランスタイガロード](https://www.bing.com/th?id=OHR.TaigaRoad_JA-JP2648039532_320x240.jpg)](https://www.bing.com/th?id=OHR.TaigaRoad_JA-JP2648039532_UHD.jpg) |
 
 ## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-12-05 | 绿意盎然 | 古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images) | [![绿意盎然](https://www.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_320x240.jpg)](https://www.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg) |
-| 2022-10-04 | 今天我们去爬山吧 | 黄山的日出，中国 (© zhouyousifang/Getty Images) | [![今天我们去爬山吧](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_320x240.jpg)](https://www.bing.com/th?id=OHR.ChongyangFestival_ZH-CN5260976551_UHD.jpg) |
-| 2022-12-03 | 在艺术天堂追逐夏天 | 迈阿密海滩海洋大道，美国佛罗里达州 (© Matteo Colombo/Getty Images) | [![在艺术天堂追逐夏天](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_320x240.jpg)](https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_UHD.jpg) |
+| 2022-10-31 | 是谁躲在这令人毛骨悚然的树林里？ | 牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images) | [![是谁躲在这令人毛骨悚然的树林里？](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_320x240.jpg)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg) |
+| 2022-11-02 | 您喝的茶可能来自这里 | 慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock) | [![您喝的茶可能来自这里](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_320x240.jpg)](https://www.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg) |
+| 2022-08-21 | 死亡海岸 | 加利西亚省科斯塔达莫尔特的灯塔，西班牙 (© Carlos Fernandez/Getty Images) | [![死亡海岸](https://www.bing.com/th?id=OHR.CostadaMorte_ZH-CN5219249535_320x240.jpg)](https://www.bing.com/th?id=OHR.CostadaMorte_ZH-CN5219249535_UHD.jpg) |
 

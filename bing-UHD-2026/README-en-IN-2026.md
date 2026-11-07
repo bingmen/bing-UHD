@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated：2026-11-06 07:59:20 UTC
+> Last updated：2026-11-07 04:43:15 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-09-12 | Meister der Brandung | Kalifornische Seelöwen bei der Jagd auf einen Sardinen-Köderball vor der Küste Mexikos im Pazifik (© Henley Spiers/Nature Picture Library) | [![Meister der Brandung](https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_320x240.jpg)](https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg) |
-| 2026-07-01 | Rebhänge im Abendlicht | Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images) | [![Rebhänge im Abendlicht](https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_320x240.jpg)](https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_UHD.jpg) |
-| 2026-09-17 | Ein Hoch auf die Ernte | Windmühle von Sorine und Weinberge in der Weinregion Santenay, Côte de Beaune, Burgund, Frankreich (© Marco Bottigelli/Getty Images) | [![Ein Hoch auf die Ernte](https://www.bing.com/th?id=OHR.Santenay_DE-DE7807006506_320x240.jpg)](https://www.bing.com/th?id=OHR.Santenay_DE-DE7807006506_UHD.jpg) |
+| 2026-09-13 | Verbindungen über Jahrhunderte | Altes Rathaus in Bamberg, Bayern (© SCStock/Getty Images) | [![Verbindungen über Jahrhunderte](https://www.bing.com/th?id=OHR.BambergTownhall_DE-DE7159832274_320x240.jpg)](https://www.bing.com/th?id=OHR.BambergTownhall_DE-DE7159832274_UHD.jpg) |
+| 2026-07-02 | Ein Blick in Esnas Universum | Decke des Tempels von Esna, Ägypten (© Nick Brundle Photography/Getty Images) | [![Ein Blick in Esnas Universum](https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_320x240.jpg)](https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_UHD.jpg) |
+| 2026-09-18 | Durch das Herz des Passes | Winnats Pass im Peak-District-Nationalpark, England (© Daniel_Kay/Getty Images) | [![Durch das Herz des Passes](https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_320x240.jpg)](https://www.bing.com/th?id=OHR.WinnatsPassPeak_DE-DE1067601127_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2026.md)
 
@@ -24,55 +24,55 @@
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-25 | Into Galicia's hidden arches | Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock) | [![Into Galicia's hidden arches](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_320x240.jpg)](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_UHD.jpg) |
-| 2026-09-07 | Where history flows along the canal | Old Town Hall, Bamberg, Germany (© SCStock/Getty Images) | [![Where history flows along the canal](https://www.bing.com/th?id=OHR.BambergTownhall_EN-GB6012686407_320x240.jpg)](https://www.bing.com/th?id=OHR.BambergTownhall_EN-GB6012686407_UHD.jpg) |
-| 2026-08-28 | Where tides shape a legend | Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images) | [![Where tides shape a legend](https://www.bing.com/th?id=OHR.MichelSunset_EN-GB1738815139_320x240.jpg)](https://www.bing.com/th?id=OHR.MichelSunset_EN-GB1738815139_UHD.jpg) |
+| 2026-07-26 | Between land and sea, life begins | Red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion) | [![Between land and sea, life begins](https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_320x240.jpg)](https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_UHD.jpg) |
+| 2026-09-08 | Fields of gold | Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures) | [![Fields of gold](https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_320x240.jpg)](https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_UHD.jpg) |
+| 2026-08-29 | A city painted in rhythm | Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News) | [![A city painted in rhythm](https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_320x240.jpg)](https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-01-30 | Where the sea makes way | St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images) | [![Where the sea makes way](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_320x240.jpg)](https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-IN0431194953_UHD.jpg) |
-| 2026-07-23 | A symphony of petals | Pink dahlia flower (© Harald Biebel/Getty Images) | [![A symphony of petals](https://www.bing.com/th?id=OHR.PinkDahlia_EN-IN0092108824_320x240.jpg)](https://www.bing.com/th?id=OHR.PinkDahlia_EN-IN0092108824_UHD.jpg) |
-| 2026-01-17 | The dome of Piazza del Plebiscito | Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images) | [![The dome of Piazza del Plebiscito](https://www.bing.com/th?id=OHR.NaplesBasilica_EN-IN0040202907_320x240.jpg)](https://www.bing.com/th?id=OHR.NaplesBasilica_EN-IN0040202907_UHD.jpg) |
+| 2026-01-31 | Love at first stripe | Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock) | [![Love at first stripe](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-IN0719032604_320x240.jpg)](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-IN0719032604_UHD.jpg) |
+| 2026-07-24 | Family, in full colour | Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library) | [![Family, in full colour](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_320x240.jpg)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-IN8421031392_UHD.jpg) |
+| 2026-01-18 | A desert in disguise | White Sands National Park, New Mexico, United States (© Francesco Carucci/Getty Images) | [![A desert in disguise](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-IN0223535829_320x240.jpg)](https://www.bing.com/th?id=OHR.WhiteSandsNM_EN-IN0223535829_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-05-18 | Quiet peak, loud view | Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images) | [![Quiet peak, loud view](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_320x240.jpg)](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg) |
-| 2026-02-22 | Whispers of winter | Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com) | [![Whispers of winter](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_320x240.jpg)](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg) |
-| 2026-08-30 | Reading between the waves | Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock) | [![Reading between the waves](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg) |
+| 2026-05-19 | Hope in the hall | Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion) | [![Hope in the hall](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg) |
+| 2026-02-23 | The mother of hills | The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images) | [![The mother of hills](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_320x240.jpg)](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg) |
+| 2026-08-31 | The fish that outgrew its name | Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library) | [![The fish that outgrew its name](https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_320x240.jpg)](https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-01-04 | Une vue royale ! | Mont Kings, montagnes Chugach, Alaska, États-Unis (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) | [![Une vue royale !](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_320x240.jpg)](https://www.bing.com/th?id=OHR.KingMountain_FR-FR4057948974_UHD.jpg) |
-| 2026-05-27 | Aussi attendrissante qu’essentielle | Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis (© roclwyr/Getty Images) | [![Aussi attendrissante qu’essentielle](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_320x240.jpg)](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_UHD.jpg) |
-| 2026-01-09 | Un détour par l’Île de Beauté | Coucher de soleil à Bonifacio, Corse, France (© Wirestock/Getty Images) | [![Un détour par l’Île de Beauté](https://www.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_320x240.jpg)](https://www.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_UHD.jpg) |
+| 2026-01-05 | L’histoire silencieuse des impalas | Troupeau d’impalas, réserve de Londolozi, Afrique du Sud (© Mint Images/Getty Images) | [![L’histoire silencieuse des impalas](https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-FR4421344601_320x240.jpg)](https://www.bing.com/th?id=OHR.ImpalaRooibok_FR-FR4421344601_UHD.jpg) |
+| 2026-05-28 | Quand architecture et discipline ne font qu’une | Forteresse de Hwaseong, Suwon, Corée du Sud (© aomam/Getty Images) | [![Quand architecture et discipline ne font qu’une](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_320x240.jpg)](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_UHD.jpg) |
+| 2026-01-10 | La magie des Alpes suisses | Le reflet du Cervin sur le lac Stellisee à l’aube, Zermatt, Suisse (© Andy Trowbridge/naturepl.com) | [![La magie des Alpes suisses](https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_320x240.jpg)](https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-01-11 | Resistenza & Resilienza? | Le mura blu di Chefchaouen, Marocco (© AnetteAndersen/Getty Images) | [![Resistenza & Resilienza?](https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_UHD.jpg) |
-| 2026-01-06 | Befana in vista | Città Alta di Bergamo avvolta dalla nebbia, Lombardia (© Gambarini Gianandrea/Shutterstock) | [![Befana in vista](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_320x240.jpg)](https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg) |
-| 2026-01-28 | L'acqua e il respiro | Parco Nazionale di Whanganui, Retaruke, Nuova Zelanda (© Matthew Micah Wright/Getty Images) | [![L'acqua e il respiro](https://www.bing.com/th?id=OHR.WhanganuiPark_IT-IT3958915407_320x240.jpg)](https://www.bing.com/th?id=OHR.WhanganuiPark_IT-IT3958915407_UHD.jpg) |
+| 2026-01-12 | La fucina degli dèi | Cratere nel Parco Nazionale dell'Etna, Catania, Sicilia (© PATMALUPHOTO/Adobe Stock) | [![La fucina degli dèi](https://www.bing.com/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_320x240.jpg)](https://www.bing.com/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_UHD.jpg) |
+| 2026-01-07 | Arco del Tempo | Arco Turret, North Window, Arches National Park, Utah, USA (© Jim Patterson/TANDEM Stills + Motion) | [![Arco del Tempo](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_320x240.jpg)](https://www.bing.com/th?id=OHR.OldRockArch_IT-IT3144069771_UHD.jpg) |
+| 2026-01-29 | La soglia del freddo | Merlo tra frutti di bosco (© Paolino Massimiliano Manuel/iStock/Getty Images) | [![La soglia del freddo](https://www.bing.com/th?id=OHR.ItalyBlackbird_IT-IT4018019243_320x240.jpg)](https://www.bing.com/th?id=OHR.ItalyBlackbird_IT-IT4018019243_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-02-12 | 鮮やかな色で飾られた家 | オリンダ歴史地区, ブラジル (© Robert Pekar/Alamy) | [![鮮やかな色で飾られた家](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_320x240.jpg)](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_UHD.jpg) |
-| 2026-02-09 | 冬の森を静かに歩む慎重なハンター | アムールヤマネコ, ロシア (© Valeriy Maleev/naturepl.com) | [![冬の森を静かに歩む慎重なハンター](https://www.bing.com/th?id=OHR.LeopardCat_JA-JP0545650228_320x240.jpg)](https://www.bing.com/th?id=OHR.LeopardCat_JA-JP0545650228_UHD.jpg) |
-| 2026-08-16 | 歴史を刻む石造りの修道院跡 | ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock) | [![歴史を刻む石造りの修道院跡](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_320x240.jpg)](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg) |
+| 2026-02-13 | 夕陽に染まる二国を結ぶ橋 | 第3タイ・ラオス友好橋 (© chaiyut samsuk/Getty Images) | [![夕陽に染まる二国を結ぶ橋](https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_320x240.jpg)](https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_UHD.jpg) |
+| 2026-02-10 | 穏やかな海に佇む神秘的な島 | エス・ヴェドラ島, スペイン (© L. Apolli/Getty Images) | [![穏やかな海に佇む神秘的な島](https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_320x240.jpg)](https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_UHD.jpg) |
+| 2026-08-17 | イソギンチャクにすむ小魚たち | カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library) | [![イソギンチャクにすむ小魚たち](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_320x240.jpg)](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-03-11 | 一个美好的春天 | 盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images) | [![一个美好的春天](https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_320x240.jpg)](https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg) |
-| 2026-05-10 | 一份经久不衰的羁绊 | 北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images) | [![一份经久不衰的羁绊](https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_320x240.jpg)](https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg) |
-| 2026-01-11 | 从抗拒到绽放 | 舍夫沙万的蓝色墙壁, 摩洛哥 (© AnetteAndersen/Getty Images) | [![从抗拒到绽放](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg) |
+| 2026-03-12 | 排练中的翅膀 | 幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com) | [![排练中的翅膀](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_320x240.jpg)](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg) |
+| 2026-05-11 | 水下建筑 | 从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images) | [![水下建筑](https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_320x240.jpg)](https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg) |
+| 2026-01-12 | 水獭之国爱沙尼亚 | 欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com) | [![水獭之国爱沙尼亚](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_320x240.jpg)](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg) |
 

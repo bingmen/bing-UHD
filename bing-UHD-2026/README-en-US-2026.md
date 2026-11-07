@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated：2026-11-06 07:59:20 UTC
+> Last updated：2026-11-07 04:43:15 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-02-08 | Zwischen Stille und Meer | Korfu bei Nacht, Griechenland (© whitewizzard/Getty Images) | [![Zwischen Stille und Meer](https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_320x240.jpg)](https://www.bing.com/th?id=OHR.CorfuGreece_DE-DE1940142224_UHD.jpg) |
-| 2026-09-02 | Farbenfroh an der Küste | Traditionelle Strandhütten, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images) | [![Farbenfroh an der Küste](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_320x240.jpg)](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg) |
-| 2026-02-03 | Winterlicht über Fannette Island | Emerald Bay und Fannette Island, Lake Tahoe, Kalifornien, USA (© Bill Stevenson/Cavan Images) | [![Winterlicht über Fannette Island](https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_320x240.jpg)](https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_UHD.jpg) |
+| 2026-02-09 | Muster in Bewegung | Amur‑Leopardkatze, Russland (© Valeriy Maleev/naturepl.com) | [![Muster in Bewegung](https://www.bing.com/th?id=OHR.LeopardCat_DE-DE2297035168_320x240.jpg)](https://www.bing.com/th?id=OHR.LeopardCat_DE-DE2297035168_UHD.jpg) |
+| 2026-09-03 | Frankfurts historische Mitte | Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images) | [![Frankfurts historische Mitte](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_320x240.jpg)](https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg) |
+| 2026-02-04 | Magie der Speicherstadt | Speicherstadt in der Dämmerung, Hamburg (© bluejayphoto/Getty Images) | [![Magie der Speicherstadt](https://www.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_320x240.jpg)](https://www.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2026.md)
 
@@ -24,55 +24,55 @@
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-11 | Fire under frost | Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images) | [![Fire under frost](https://www.bing.com/th?id=OHR.SpringIceland_EN-GB6911172002_320x240.jpg)](https://www.bing.com/th?id=OHR.SpringIceland_EN-GB6911172002_UHD.jpg) |
-| 2026-02-22 | Whispers of winter | Red fox, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com) | [![Whispers of winter](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_320x240.jpg)](https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg) |
-| 2026-10-12 | Pier-ing into the past | Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock) | [![Pier-ing into the past](https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-GB4411542970_320x240.jpg)](https://www.bing.com/th?id=OHR.MumblesSwansea2026_EN-GB4411542970_UHD.jpg) |
+| 2026-03-12 | A peachy keen spring | Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images) | [![A peachy keen spring](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_320x240.jpg)](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_UHD.jpg) |
+| 2026-02-23 | The mother of hills | The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images) | [![The mother of hills](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_320x240.jpg)](https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg) |
+| 2026-10-13 | A symphony in blue and green | Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy) | [![A symphony in blue and green](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-GB4470740504_320x240.jpg)](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-GB4470740504_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-09-23 | The golden season | Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock) | [![The golden season](https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_320x240.jpg)](https://www.bing.com/th?id=OHR.FallAspens_EN-IN8196194133_UHD.jpg) |
-| 2026-01-02 | The soul of Venice | Aerial view of Venice, Italy (© Clement Leonard/Getty Images) | [![The soul of Venice](https://www.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_UHD.jpg) |
-| 2026-06-04 | Fancy feathers | Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures) | [![Fancy feathers](https://www.bing.com/th?id=OHR.PreeningEgret_EN-IN3047678706_320x240.jpg)](https://www.bing.com/th?id=OHR.PreeningEgret_EN-IN3047678706_UHD.jpg) |
+| 2026-09-24 | Beyond the last page | Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock) | [![Beyond the last page](https://www.bing.com/th?id=OHR.TolkienWeek_EN-IN8323924749_320x240.jpg)](https://www.bing.com/th?id=OHR.TolkienWeek_EN-IN8323924749_UHD.jpg) |
+| 2026-01-03 | The steps before the saga | Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images) | [![The steps before the saga](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-IN1404704660_320x240.jpg)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-IN1404704660_UHD.jpg) |
+| 2026-06-05 | The quiet power of an unclaimed world | View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images) | [![The quiet power of an unclaimed world](https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_320x240.jpg)](https://www.bing.com/th?id=OHR.WedLapland_EN-IN6549880792_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-07-30 | A comeback with claws | A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock) | [![A comeback with claws](https://www.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_320x240.jpg)](https://www.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg) |
-| 2026-07-08 | Color, craft, and canopy life | Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures) | [![Color, craft, and canopy life](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_320x240.jpg)](https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg) |
-| 2026-02-21 | Where light falls | Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images) | [![Where light falls](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_320x240.jpg)](https://www.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg) |
+| 2026-07-31 | A landscape of living heritage | Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock) | [![A landscape of living heritage](https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_320x240.jpg)](https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg) |
+| 2026-07-09 | Echoes of a volcanic past | Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images) | [![Echoes of a volcanic past](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg) |
+| 2026-02-22 | Whispers of winter | Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com) | [![Whispers of winter](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_320x240.jpg)](https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-04-19 | Une aquarelle iodée | Plage du Miroir, Trancoso, Bahia, Brésil (© Marcelo Nacinovic/Getty Images) | [![Une aquarelle iodée](https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_320x240.jpg)](https://www.bing.com/th?id=OHR.TranBA_FR-FR8282585117_UHD.jpg) |
-| 2026-04-05 | Le murmure de la rivière | Pont d’Arc, Ardèche (© Gael Fontaine/Getty Images) | [![Le murmure de la rivière](https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_320x240.jpg)](https://www.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_UHD.jpg) |
-| 2026-06-02 | Nuances de bleu | Route nationale 315 traversant le lac Xitai Jinaier, Province du Qinghai, Chine (© Kaicheng Xu/Getty Images) | [![Nuances de bleu](https://www.bing.com/th?id=OHR.Qinghai_FR-FR8896155512_320x240.jpg)](https://www.bing.com/th?id=OHR.Qinghai_FR-FR8896155512_UHD.jpg) |
+| 2026-04-20 | Le spectacle continue au crépuscule | Coucher de soleil sur le parc national des Canyonlands, Moab, Utah, États-Unis (© Jason Hatfield/Tandem Stills + Motion) | [![Le spectacle continue au crépuscule](https://www.bing.com/th?id=OHR.SunsetKiva_FR-FR2289691113_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetKiva_FR-FR2289691113_UHD.jpg) |
+| 2026-04-06 | C’est parti pour la chasse aux œufs ! | Œufs de Pâques décorés à la main, Vilnius, Lituanie (© maximkabb/Getty Images) | [![C’est parti pour la chasse aux œufs !](https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuaniaEggs_FR-FR0098459124_UHD.jpg) |
+| 2026-06-03 | Quand on partait de bon matin... | Cycliste dans le parc naturel des Bardenas Reales, Navarre, Espagne (© Artur Debat/Getty Images) | [![Quand on partait de bon matin...](https://www.bing.com/th?id=OHR.BardenasReales_FR-FR5179078081_320x240.jpg)](https://www.bing.com/th?id=OHR.BardenasReales_FR-FR5179078081_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-09-02 | Dipinta lungo la riva | Capanne tradizionali sulla spiaggia, Southwold, Suffolk Heritage Coast, Inghilterra (© stevendocwra/Getty Images) | [![Dipinta lungo la riva](https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_320x240.jpg)](https://www.bing.com/th?id=OHR.SuffolkHuts_IT-IT2530615485_UHD.jpg) |
-| 2026-01-10 | S'illumina d'immenso? | Il Cervino riflesso nel lago Stellisee all'alba, Zermatt, Svizzera (© Andy Trowbridge/naturepl.com) | [![S'illumina d'immenso?](https://www.bing.com/th?id=OHR.MatterhornSunrise_IT-IT0909125260_320x240.jpg)](https://www.bing.com/th?id=OHR.MatterhornSunrise_IT-IT0909125260_UHD.jpg) |
-| 2026-10-28 | Secoli sopra la Boemia | Castello di Kunětická hora, Boemia, Cechia (© Marek Saroch/Alamy) | [![Secoli sopra la Boemia](https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032_320x240.jpg)](https://www.bing.com/th?id=OHR.KuneticeCastle_IT-IT9181989032_UHD.jpg) |
+| 2026-09-03 | Onde statiche | Coyote Buttes, Monumento Nazionale Vermilion Cliffs, Arizona, USA (© James Hager/Getty Images) | [![Onde statiche](https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424_320x240.jpg)](https://www.bing.com/th?id=OHR.AZWilderness_IT-IT2616845424_UHD.jpg) |
+| 2026-01-11 | Resistenza & Resilienza? | Le mura blu di Chefchaouen, Marocco (© AnetteAndersen/Getty Images) | [![Resistenza & Resilienza?](https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueMorocco_IT-IT0979277662_UHD.jpg) |
+| 2026-10-29 | Una passeggiata nella preistoria | Menhir di Avebury, Wiltshire, Inghilterra (© George W Johnson/Getty Images) | [![Una passeggiata nella preistoria](https://www.bing.com/th?id=OHR.AveburyStones_IT-IT5634082753_320x240.jpg)](https://www.bing.com/th?id=OHR.AveburyStones_IT-IT5634082753_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-06-10 | 大地に走る一筋の青 | フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images) | [![大地に走る一筋の青](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_320x240.jpg)](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg) |
-| 2026-02-20 | 炎の滝が一瞬だけ現れる夕刻 | ホーステール滝, 米国 カリフォルニア州 (© Jorge Villalba/Getty Images) | [![炎の滝が一瞬だけ現れる夕刻](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_320x240.jpg)](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg) |
-| 2026-09-05 | 今日は米国のハチドリの日 | ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library) | [![今日は米国のハチドリの日](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_320x240.jpg)](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg) |
+| 2026-06-11 | 初夏の渓流に舞う光 | 蛍の光がきらめく森, 日本 (© tdub303/Getty Images) | [![初夏の渓流に舞う光](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_320x240.jpg)](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg) |
+| 2026-02-21 | 降り積もる雪の中に生きる凛とした気配 | アカギツネ, 米国 ワイオミング州 (© Radomir Jakubowski/naturepl.com) | [![降り積もる雪の中に生きる凛とした気配](https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_320x240.jpg)](https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_UHD.jpg) |
+| 2026-09-06 | 空を映す静かな人工貯水池 | ファイアンズ湖, オーストラリア (© tracielouise/Getty Images) | [![空を映す静かな人工貯水池](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-05-31 | 顺流而行 | 大沼泽地国家公园航拍景观，佛罗里达州，美国 (© Tetra Images/Getty Images) | [![顺流而行](https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_320x240.jpg)](https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_UHD.jpg) |
-| 2026-04-10 | 算计的小爪子 | 卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚 (© Sven Zacek/Nature Picture Library) | [![算计的小爪子](https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_320x240.jpg)](https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg) |
+| 2026-06-01 | 历史的况味 | 巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images) | [![历史的况味](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_320x240.jpg)](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg) |
 | 2026-04-11 | 火山外衣 | 帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images) | [![火山外衣](https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_320x240.jpg)](https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg) |
+| 2026-04-12 | 离开地球的第一步 | 城市灯光在下方划过, 拍摄于国际空间站 (© NASA) | [![离开地球的第一步](https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_320x240.jpg)](https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg) |
 

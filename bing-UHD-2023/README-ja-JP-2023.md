@@ -1,6 +1,6 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2023
 
-> 最終更新：2026-11-06 07:59:20 UTC
+> 最終更新：2026-11-07 04:43:15 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2023-04-11 | Halb Brücke - Halb Tatzelwurm | Tatzelwurm Holzbrücke, Essing, (© Rüdiger Hess/geo-select FotoArt) | [![Halb Brücke - Halb Tatzelwurm](https://www.bing.com/th?id=OHR.Tatzlwurmbruecke_DE-DE0668402761_320x240.jpg)](https://www.bing.com/th?id=OHR.Tatzlwurmbruecke_DE-DE0668402761_UHD.jpg) |
-| 2023-08-11 | Ein Schwimmbad voller Kunst | Schwimmbad „Gateway“ im Jupiter Artland Skulpturenpark, Edinburgh, Schottland (© Owen Humphreys/PA Images/Alamy) | [![Ein Schwimmbad voller Kunst](https://www.bing.com/th?id=OHR.JupiterArtland_DE-DE5348039414_320x240.jpg)](https://www.bing.com/th?id=OHR.JupiterArtland_DE-DE5348039414_UHD.jpg) |
-| 2023-11-25 | Lichterspektakel in Toledo | Toledo, Spanien (© Carlos Fernandez/Getty Images) | [![Lichterspektakel in Toledo](https://www.bing.com/th?id=OHR.TajoRiver_DE-DE3120502310_320x240.jpg)](https://www.bing.com/th?id=OHR.TajoRiver_DE-DE3120502310_UHD.jpg) |
+| 2023-02-21 | Fasching in New Orleans | Französisches Viertel, New Orleans, USA (© f11photo/Getty Images) | [![Fasching in New Orleans](https://www.bing.com/th?id=OHR.MardiGrasNOLA_DE-DE2512685536_320x240.jpg)](https://www.bing.com/th?id=OHR.MardiGrasNOLA_DE-DE2512685536_UHD.jpg) |
+| 2023-03-16 | Genießen Pandas den Winter? | Panda-Station Chengdu, China (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont) | [![Genießen Pandas den Winter?](https://www.bing.com/th?id=OHR.ChengduPanda_DE-DE4684703199_320x240.jpg)](https://www.bing.com/th?id=OHR.ChengduPanda_DE-DE4684703199_UHD.jpg) |
+| 2023-05-01 | Arbeiten Bienen am 1. Mai? | Biene im Sonnenblumenfeld bei Fresdorf (© Ralf Hirschberger/dpa-Zentralbild/dpa/Alamy Live News) | [![Arbeiten Bienen am 1. Mai?](https://www.bing.com/th?id=OHR.SunflowerBee_DE-DE9415817741_320x240.jpg)](https://www.bing.com/th?id=OHR.SunflowerBee_DE-DE9415817741_UHD.jpg) |
 
 ## 🍁 [英語（カナダ）](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-01-21 | 'Come on, guys, this way!' | King penguins in the Falkland Islands (© Elmar Weiss/Getty Images) | [!['Come on, guys, this way!'](https://www.bing.com/th?id=OHR.FalklandKings_EN-CA9792558972_320x240.jpg)](https://www.bing.com/th?id=OHR.FalklandKings_EN-CA9792558972_UHD.jpg) |
-| 2023-09-07 | Ready to drop anchor? | Old Venetian harbour, Rethymno, Crete Island, Greece (© Gatsi/Getty Images) | [![Ready to drop anchor?](https://www.bing.com/th?id=OHR.CreteHarbor_EN-CA1720286368_320x240.jpg)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-CA1720286368_UHD.jpg) |
-| 2023-01-04 | Who’s snoozing? | Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico (© Jay Goodrich/Tandem Stills + Motion) | [![Who’s snoozing?](https://www.bing.com/th?id=OHR.SandhillSleeping_EN-CA3142311326_320x240.jpg)](https://www.bing.com/th?id=OHR.SandhillSleeping_EN-CA3142311326_UHD.jpg) |
+| 2023-04-11 | Strong sibling bonds | Elephant family in Amboseli National Park, Kenya (© Diana Robinson/Getty Images) | [![Strong sibling bonds](https://www.bing.com/th?id=OHR.ElephantTwins_EN-CA6312430461_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantTwins_EN-CA6312430461_UHD.jpg) |
+| 2023-08-11 | 'King of the jungle'? Nope | A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion) | [!['King of the jungle'? Nope](https://www.bing.com/th?id=OHR.WorldLionDay_EN-CA5879776068_320x240.jpg)](https://www.bing.com/th?id=OHR.WorldLionDay_EN-CA5879776068_UHD.jpg) |
+| 2023-11-25 | A different kind of rainforest | Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images) | [![A different kind of rainforest](https://www.bing.com/th?id=OHR.HallofMosses_EN-CA2734980649_320x240.jpg)](https://www.bing.com/th?id=OHR.HallofMosses_EN-CA2734980649_UHD.jpg) |
 
 ## 🌹 [英語（イギリス）](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-01-28 | All hail the mighty mangrove! | Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures) | [![All hail the mighty mangrove!](https://www.bing.com/th?id=OHR.RedMangrove_EN-GB9709939121_320x240.jpg)](https://www.bing.com/th?id=OHR.RedMangrove_EN-GB9709939121_UHD.jpg) |
-| 2023-12-02 | Celebrating the coolest place! | Iceberg, Ross Sea, Antarctica (© Michel Roggo/Minden Pictures) | [![Celebrating the coolest place!](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-GB4409581826_320x240.jpg)](https://www.bing.com/th?id=OHR.IcebergAntarctica_EN-GB4409581826_UHD.jpg) |
-| 2023-11-24 | Summits in the sea | Teide National Park, Tenerife, Canary Islands, Spain (© Javier Martínez Morán/Alamy) | [![Summits in the sea](https://www.bing.com/th?id=OHR.TeideNational_EN-GB3659708002_320x240.jpg)](https://www.bing.com/th?id=OHR.TeideNational_EN-GB3659708002_UHD.jpg) |
+| 2023-01-19 | The largest gypsum dune field | White Sands National Park, New Mexico (© Andrea Harrell/Tandem Stills + Motion) | [![The largest gypsum dune field](https://www.bing.com/th?id=OHR.WhiteSands_EN-GB9091743710_320x240.jpg)](https://www.bing.com/th?id=OHR.WhiteSands_EN-GB9091743710_UHD.jpg) |
+| 2023-09-06 | Ready to drop anchor? | Rethymno, Crete Island, Greece (© Gatsi/Getty Images) | [![Ready to drop anchor?](https://www.bing.com/th?id=OHR.CreteHarbor_EN-GB2096168331_320x240.jpg)](https://www.bing.com/th?id=OHR.CreteHarbor_EN-GB2096168331_UHD.jpg) |
+| 2023-01-02 | Taking a New Year nap | Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images) | [![Taking a New Year nap](https://www.bing.com/th?id=OHR.NorwayNYD_EN-GB8782500376_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayNYD_EN-GB8782500376_UHD.jpg) |
 
 ## 🦁 [英語（インド）](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-09-25 | Kick back, snack and relax | Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion) | [![Kick back, snack and relax](https://www.bing.com/th?id=OHR.GlacierBayOtter_EN-IN9154221521_320x240.jpg)](https://www.bing.com/th?id=OHR.GlacierBayOtter_EN-IN9154221521_UHD.jpg) |
-| 2023-02-08 | A public restroom or a tourist spot? | Ureddplassen rest area on the Helgelandskysten Norwegian Scenic Route, Norway (© Eyesite/Alamy) | [![A public restroom or a tourist spot?](https://www.bing.com/th?id=OHR.NorwayRestArea_EN-IN8211082251_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayRestArea_EN-IN8211082251_UHD.jpg) |
-| 2023-03-28 | Where are these spectacular peaks? | Milky Way above Tre Cime di Lavaredo, South Tyrol, Italy (© Juan Romero/Cavan Images) | [![Where are these spectacular peaks?](https://www.bing.com/th?id=OHR.MWDolomites_EN-IN8169691025_320x240.jpg)](https://www.bing.com/th?id=OHR.MWDolomites_EN-IN8169691025_UHD.jpg) |
+| 2023-01-30 | Wind powered ice racing | Ice and snow sailing European Championship on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo) | [![Wind powered ice racing](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-IN8180074749_320x240.jpg)](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-IN8180074749_UHD.jpg) |
+| 2023-12-02 | A city within a city | North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock) | [![A city within a city](https://www.bing.com/th?id=OHR.AngkorPark_EN-IN1399731059_320x240.jpg)](https://www.bing.com/th?id=OHR.AngkorPark_EN-IN1399731059_UHD.jpg) |
+| 2023-11-24 | A different kind of rainforest | Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images) | [![A different kind of rainforest](https://www.bing.com/th?id=OHR.HallofMosses_EN-IN9360638768_320x240.jpg)](https://www.bing.com/th?id=OHR.HallofMosses_EN-IN9360638768_UHD.jpg) |
 
 ## 🗽 [英語（アメリカ合衆国）](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2023-05-23 | Life in the clouds | Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images) | [![Life in the clouds](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_320x240.jpg)](https://www.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg) |
-| 2023-06-10 | Rising with the sun | Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images) | [![Rising with the sun](https://www.bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg) |
-| 2023-04-09 | In the footsteps of giants | The Giant's Causeway, County Antrim, Northern Ireland (© Dieter Meyrl/Getty Images) | [![In the footsteps of giants](https://www.bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_320x240.jpg)](https://www.bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg) |
+| 2023-09-25 | Trickle, babble, or roar | The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images) | [![Trickle, babble, or roar](https://www.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_320x240.jpg)](https://www.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg) |
+| 2023-02-08 | History on the hill | Village of Labro, Rieti Province, Italy (© Marco Ilari/Shutterstock) | [![History on the hill](https://www.bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_320x240.jpg)](https://www.bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg) |
+| 2023-03-28 | Cloud City | New York City skyline in fog (© Orbon Alija/Getty Images) | [![Cloud City](https://www.bing.com/th?id=OHR.NYCClouds_EN-US7251713390_320x240.jpg)](https://www.bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg) |
 
 ## 🐓 [フランス語（フランス）](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2023-03-18 | Semaine de la Francophonie | Mur peint des écrivains, Lyon, France (© Russ Bishop/Alamy Stock Photo) | [![Semaine de la Francophonie](https://www.bing.com/th?id=OHR.Francophonie_FR-FR5733667216_320x240.jpg)](https://www.bing.com/th?id=OHR.Francophonie_FR-FR5733667216_UHD.jpg) |
-| 2023-11-18 | Un câlin du Grand Nord ! | Mère et oursons polaires, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images) | [![Un câlin du Grand Nord !](https://www.bing.com/th?id=OHR.MilsePolarBear_FR-FR1430987110_320x240.jpg)](https://www.bing.com/th?id=OHR.MilsePolarBear_FR-FR1430987110_UHD.jpg) |
-| 2023-10-31 | Un sort ou un bonbon ? | Lanternes citrouilles d'Halloween sous un porche (© Bing Image Creator) | [![Un sort ou un bonbon ?](https://www.bing.com/th?id=OHR.HalloweenPorchAI_FR-FR8550408492_320x240.jpg)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_FR-FR8550408492_UHD.jpg) |
+| 2023-05-23 | Dites bonjour à notre invitée du jour ! | Tortue à boîte ornée (© Tim Fitzharris/Minden Pictures) | [![Dites bonjour à notre invitée du jour !](https://www.bing.com/th?id=OHR.WesternBoxTurtle_FR-FR2003044235_320x240.jpg)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_FR-FR2003044235_UHD.jpg) |
+| 2023-06-10 | Devinez où nous sommes, une petite idée ? | Vue aérienne du circuit Bugatti, Le Mans (© Lou Benoist/AFP via Getty Images) | [![Devinez où nous sommes, une petite idée ?](https://www.bing.com/th?id=OHR.LeMansCentenary_FR-FR2969423081_320x240.jpg)](https://www.bing.com/th?id=OHR.LeMansCentenary_FR-FR2969423081_UHD.jpg) |
+| 2023-04-09 | Pourquoi ces œufs sont-ils décorés ? | Œufs de Pâques décorés (© fotomem/Getty Images) | [![Pourquoi ces œufs sont-ils décorés ?](https://www.bing.com/th?id=OHR.LithuanianEggs_FR-FR2514564063_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuanianEggs_FR-FR2514564063_UHD.jpg) |
 
 ## ⭐ [イタリア語（イタリア）](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2023-10-08 | Issate l’albero di mezzana! | La Barcolana, Golfo di Trieste, Italia (© Zakaz86/Getty Images) | [![Issate l’albero di mezzana!](https://www.bing.com/th?id=OHR.ItalyTriesteBarcolana_IT-IT2686315925_320x240.jpg)](https://www.bing.com/th?id=OHR.ItalyTriesteBarcolana_IT-IT2686315925_UHD.jpg) |
-| 2023-06-23 | Farfalla, vola via | Le farfalle monarca si nutrono di fiori selvatici (© bookguy/Getty Images) | [![Farfalla, vola via](https://www.bing.com/th?id=OHR.PollinatorMonarch_IT-IT6949124466_320x240.jpg)](https://www.bing.com/th?id=OHR.PollinatorMonarch_IT-IT6949124466_UHD.jpg) |
-| 2023-04-26 | Cosa sono queste creature? | Gufi della Virginia (© Michael Morse/Getty Images) | [![Cosa sono queste creature?](https://www.bing.com/th?id=OHR.GHOAudubonDay_IT-IT7709502144_320x240.jpg)](https://www.bing.com/th?id=OHR.GHOAudubonDay_IT-IT7709502144_UHD.jpg) |
+| 2023-03-18 | Al di fuori del mondo | Cratere Gamboa, Marte (© NASA/JPL-Caltech/University of Arizona) | [![Al di fuori del mondo](https://www.bing.com/th?id=OHR.MarsTars_IT-IT0079292622_320x240.jpg)](https://www.bing.com/th?id=OHR.MarsTars_IT-IT0079292622_UHD.jpg) |
+| 2023-11-18 | Un caldo abbraccio in un freddo... polare! | Madre e cuccioli di orso polare, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images) | [![Un caldo abbraccio in un freddo... polare!](https://www.bing.com/th?id=OHR.MilsePolarBear_IT-IT6547276065_320x240.jpg)](https://www.bing.com/th?id=OHR.MilsePolarBear_IT-IT6547276065_UHD.jpg) |
+| 2023-10-31 | Un'esperienza fantasmagorica | Le lanterne di Halloween in veranda (© Bing Image Creator) | [![Un'esperienza fantasmagorica](https://www.bing.com/th?id=OHR.HalloweenPorchAI_IT-IT0209206965_320x240.jpg)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_IT-IT0209206965_UHD.jpg) |
 
 ## 🌸 [日本語（日本）](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2023-03-03 | 今日はひな祭り | ひな人形 (© Masayoshi Hirose/Shutterstock) | [![今日はひな祭り](https://www.bing.com/th?id=OHR.DollsFestival2023_JA-JP1535577982_320x240.jpg)](https://www.bing.com/th?id=OHR.DollsFestival2023_JA-JP1535577982_UHD.jpg) |
-| 2023-03-24 | 白い花を咲かせる野生ニンニク | ハイニッヒ国立公園, ドイツ テューリンゲン (© Frank Sommariva/Getty Images) | [![白い花を咲かせる野生ニンニク](https://www.bing.com/th?id=OHR.WildGarlic_JA-JP5100980963_320x240.jpg)](https://www.bing.com/th?id=OHR.WildGarlic_JA-JP5100980963_UHD.jpg) |
-| 2023-05-24 | 夕日に染まる旧要塞 | コルフ島の旧要塞, ギリシャ (© Netfalls Remy Musser/Shutterstock) | [![夕日に染まる旧要塞](https://www.bing.com/th?id=OHR.OldFortress_JA-JP1697393031_320x240.jpg)](https://www.bing.com/th?id=OHR.OldFortress_JA-JP1697393031_UHD.jpg) |
+| 2023-10-08 | 今日は寒露 | 志賀高原の澗満滝, 長野県 (© Twenty47studio/Getty Images) | [![今日は寒露](https://www.bing.com/th?id=OHR.Hanlu2023_JA-JP9061398422_320x240.jpg)](https://www.bing.com/th?id=OHR.Hanlu2023_JA-JP9061398422_UHD.jpg) |
+| 2023-06-23 | 今週は米国の花粉媒介者週間 | リアトリスにとまるオオカバマダラ (© bookguy/Getty Images) | [![今週は米国の花粉媒介者週間](https://www.bing.com/th?id=OHR.PollinatorMonarch_JA-JP4171117800_320x240.jpg)](https://www.bing.com/th?id=OHR.PollinatorMonarch_JA-JP4171117800_UHD.jpg) |
+| 2023-04-26 | 木の枝にとまるフクロウたち | アメリカワシミミズク  (© Michael Morse/Getty Images) | [![木の枝にとまるフクロウたち](https://www.bing.com/th?id=OHR.GHOAudubonDay_JA-JP8134912758_320x240.jpg)](https://www.bing.com/th?id=OHR.GHOAudubonDay_JA-JP8134912758_UHD.jpg) |
 
 ## 🐉 [簡体字中国語（中国）](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2023-10-24 | 这片迷雾密布的树林里潜藏着什么? | 桑佩伦山上的菲泽尔城堡，匈牙利 (© ZGPhotography/Alamy) | [![这片迷雾密布的树林里潜藏着什么?](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_320x240.jpg)](https://www.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_UHD.jpg) |
-| 2023-08-09 | 壮观的自然古迹 | 马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images) | [![壮观的自然古迹](https://www.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_320x240.jpg)](https://www.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_UHD.jpg) |
-| 2023-12-03 | 时光雕琢 | 砂岩岩层，红悬崖国家保护区，亚利桑那州，美国 (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![时光雕琢](https://www.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_320x240.jpg)](https://www.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg) |
+| 2023-03-03 | 这些捕食者在做什么？ | 斯皮尔德拉的虎鲸，挪威 (© Alex Mustard/Minden Pictures) | [![这些捕食者在做什么？](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_320x240.jpg)](https://www.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg) |
+| 2023-03-24 | 你见过大蒜开花吗？ | 盛开的野蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images) | [![你见过大蒜开花吗？](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_320x240.jpg)](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg) |
+| 2023-05-24 | 历史在这里复活 | 科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock) | [![历史在这里复活](https://www.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_320x240.jpg)](https://www.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_UHD.jpg) |
 
