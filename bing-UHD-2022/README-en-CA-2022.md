@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2022
 
-> Last updated：2026-11-08 04:30:43 UTC
+> Last updated：2026-11-08 07:28:42 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
