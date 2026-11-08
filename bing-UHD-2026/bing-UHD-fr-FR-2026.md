@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-11-07 04:41:17 UTC
+> Dernière mise à jour: 2026-11-08 04:28:58 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-08 | Célébration qui scintille | Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images) | [![Célébration qui scintille](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-FR3288508792_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-FR3288508792_UHD.jpg) |
 | 2026-11-07 | Un géant de retour | Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock) | [![Un géant de retour](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg) |
 | 2026-11-06 | Toit de verdure à travers Maui | Forêt de bambous, Pīpīwai Trail, Hawaii, États-Unis (© MNStudio/Getty Images) | [![Toit de verdure à travers Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg) |
 | 2026-11-05 | Un pas de plus vers le sommet | Échelle près d'un mur de pierre, Black Crag, Lake District, Angleterre (© Alex Treadway/Getty Images) | [![Un pas de plus vers le sommet](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg) |
