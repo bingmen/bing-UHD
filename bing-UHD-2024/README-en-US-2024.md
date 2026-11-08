@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2024
 
-> Last updated：2026-11-07 07:16:38 UTC
+> Last updated：2026-11-08 04:30:43 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2024-12-14 | Wachsame Augen | Sperbereule, Kanada (© pchoui/Getty Images) | [![Wachsame Augen](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_UHD.jpg) |
+| 2024-01-05 | Skulpturen aus Eis | Harbiner Internationales Eis- und Schneefest, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Skulpturen aus Eis](https://www.bing.com/th?id=OHR.HarbinFestival_DE-DE1103368312_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_DE-DE1103368312_UHD.jpg) |
 | 2024-09-24 | Wasserfall im Herbstlicht | Wasserfall in Skaftafell, Vatnajökull-Nationalpark, Island (© Nopasorn Kowathanakul/Getty Images) | [![Wasserfall im Herbstlicht](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_320x240.jpg)](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_UHD.jpg) |
-| 2024-08-24 | Nachts im Museum | Museumsinsel auf der Spree und Fernsehturm, Berlin (© TomasSereda/Getty Images) | [![Nachts im Museum](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumsinselSpree_DE-DE8201453372_UHD.jpg) |
-| 2024-06-22 | Nebelzüge | Amazonas-Regenwald, Brasilien (© Claus Meyer/plainpicture) | [![Nebelzüge](https://www.bing.com/th?id=OHR.BrazilRainforest_DE-DE1305753130_320x240.jpg)](https://www.bing.com/th?id=OHR.BrazilRainforest_DE-DE1305753130_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-08-24 | Doorway to the past | Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images) | [![Doorway to the past](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_320x240.jpg)](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_UHD.jpg) |
+| 2024-06-22 | Happy Indigenous Day! | Interior exhibits of the Canadian Museum of History (© Inspired By Maps/Shutterstock) | [![Happy Indigenous Day!](https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_320x240.jpg)](https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_UHD.jpg) |
 | 2024-11-26 | Life in the wild | Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com) | [![Life in the wild](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_320x240.jpg)](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_UHD.jpg) |
-| 2024-10-06 | Follow the teacher! | African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures) | [![Follow the teacher!](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-CA7050305105_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-CA7050305105_UHD.jpg) |
-| 2024-09-27 | Calling all toucan fans | Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion) | [![Calling all toucan fans](https://www.bing.com/th?id=OHR.LittleToucanet_EN-CA1208126136_320x240.jpg)](https://www.bing.com/th?id=OHR.LittleToucanet_EN-CA1208126136_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-10-05 | Follow the teacher! | African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures) | [![Follow the teacher!](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_UHD.jpg) |
+| 2024-09-26 | Calling all toucan fans | Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion) | [![Calling all toucan fans](https://www.bing.com/th?id=OHR.LittleToucanet_EN-GB5921731705_320x240.jpg)](https://www.bing.com/th?id=OHR.LittleToucanet_EN-GB5921731705_UHD.jpg) |
 | 2024-02-18 | Where the past comes to life | Whitby Abbey, North Yorkshire, England (© Kev Hill/Moment/Getty Images) | [![Where the past comes to life](https://www.bing.com/th?id=OHR.WhitbyAbbeyJorvik_EN-GB4161898215_320x240.jpg)](https://www.bing.com/th?id=OHR.WhitbyAbbeyJorvik_EN-GB4161898215_UHD.jpg) |
-| 2024-10-17 | Rolling into autumn | Kochia, Ibaraki Prefecture, Japan (© DigiPub/Getty Images) | [![Rolling into autumn](https://www.bing.com/th?id=OHR.KochiaJapan_EN-GB2766046591_320x240.jpg)](https://www.bing.com/th?id=OHR.KochiaJapan_EN-GB2766046591_UHD.jpg) |
-| 2024-02-22 | A natural oxymoron | Firefall at Horsetail Fall, Yosemite National Park, California, USA (© Gregory B Cuvelier/Shutterstock) | [![A natural oxymoron](https://www.bing.com/th?id=OHR.YosemiteFirefall_EN-GB3012383425_320x240.jpg)](https://www.bing.com/th?id=OHR.YosemiteFirefall_EN-GB3012383425_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-10-18 | Fall in the Mall | Autumn in Central Park, Manhattan, New York, USA (© mapman/Shutterstock) | [![Fall in the Mall](https://www.bing.com/th?id=OHR.CentralParkAutumn_EN-IN5680267984_320x240.jpg)](https://www.bing.com/th?id=OHR.CentralParkAutumn_EN-IN5680267984_UHD.jpg) |
+| 2024-02-24 | Whispers of spring | Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion) | [![Whispers of spring](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_320x240.jpg)](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_UHD.jpg) |
 | 2024-01-06 | Crab an apple! | Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures) | [![Crab an apple!](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_320x240.jpg)](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_UHD.jpg) |
-| 2024-04-16 | Lights, camera, New York! | Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images) | [![Lights, camera, New York!](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-IN8922742719_320x240.jpg)](https://www.bing.com/th?id=OHR.UnionSquareNYC_EN-IN8922742719_UHD.jpg) |
-| 2024-02-17 | A megalithic wonder | Kailasa temple in Ellora caves complex in India (© mazzzur/Getty Images) | [![A megalithic wonder](https://www.bing.com/th?id=OHR.KailasTempleEllora_EN-IN9221534487_320x240.jpg)](https://www.bing.com/th?id=OHR.KailasTempleEllora_EN-IN9221534487_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-08-12 | The path less taken | Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock) | [![The path less taken](https://www.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_320x240.jpg)](https://www.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg) |
-| 2024-07-04 | Heads up! | Meerkat family (© anetapics/Shutterstock) | [![Heads up!](https://www.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_320x240.jpg)](https://www.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg) |
-| 2024-05-31 | 'Everglad' to be here | A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion) | [!['Everglad' to be here](https://www.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_320x240.jpg)](https://www.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg) |
+| 2024-01-06 | Chisels and chills | International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Chisels and chills](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg) |
+| 2024-04-16 | Bouncing into creativity | The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images) | [![Bouncing into creativity](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_320x240.jpg)](https://www.bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg) |
+| 2024-02-17 | Make every bird count | Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images) | [![Make every bird count](https://www.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_320x240.jpg)](https://www.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2024-07-15 | Le Japon a le vent en poupe ! | Parc de Tateishi, préfecture de Kanagawa, Japon (© blew_s/Shutterstock) | [![Le Japon a le vent en poupe !](https://www.bing.com/th?id=OHR.TateishiPark_FR-FR2256380829_320x240.jpg)](https://www.bing.com/th?id=OHR.TateishiPark_FR-FR2256380829_UHD.jpg) |
-| 2024-09-02 | Les Géants de la Haute-Provence | Les Pénitents des Mées, Alpes-de-Haute-Provence (© Cavalier Michel/Hemis/Alamy Stock Photo) | [![Les Géants de la Haute-Provence](https://www.bing.com/th?id=OHR.PenitentMees_FR-FR9818550884_320x240.jpg)](https://www.bing.com/th?id=OHR.PenitentMees_FR-FR9818550884_UHD.jpg) |
-| 2024-12-09 | Les gardiens des steppes andines | Guanacos, parc national Torres del Paine, Chili (© Floris van Breugel/NPL/Minden Pictures) | [![Les gardiens des steppes andines](https://www.bing.com/th?id=OHR.GuanacosChile_FR-FR0722338222_320x240.jpg)](https://www.bing.com/th?id=OHR.GuanacosChile_FR-FR0722338222_UHD.jpg) |
+| 2024-08-12 | Un engagement planétaire pour sauver ces géants | Éléphants d'Afrique, parc national d'Amboseli, Kenya (© Ruzdi Ekenheim/Getty Images) | [![Un engagement planétaire pour sauver ces géants](https://www.bing.com/th?id=OHR.ElephantsAmboseli_FR-FR7826915061_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantsAmboseli_FR-FR7826915061_UHD.jpg) |
+| 2024-07-04 | Entre Histoire, lavande et tradition | Abbaye Notre-Dame de Sénanque, Gordes, Provence (© Brzozowska/Getty Images) | [![Entre Histoire, lavande et tradition](https://www.bing.com/th?id=OHR.SenanqueAbbey_FR-FR3993123153_320x240.jpg)](https://www.bing.com/th?id=OHR.SenanqueAbbey_FR-FR3993123153_UHD.jpg) |
+| 2024-05-31 | Du vert à perte de vue | Gunnerside, Swaledale, Parc national des Yorkshire Dales, Angleterre (© Derek Croucher/Alamy) | [![Du vert à perte de vue](https://www.bing.com/th?id=OHR.YorkshireDalesNP_FR-FR1030266814_320x240.jpg)](https://www.bing.com/th?id=OHR.YorkshireDalesNP_FR-FR1030266814_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2024-05-27 | Partiamo per un giro in barca! | Baia del Silenzio in Sestri Levante, Liguria, Italia (© StevanZZ/Getty Images) | [![Partiamo per un giro in barca!](https://www.bing.com/th?id=OHR.SestriLevante_IT-IT7994211355_320x240.jpg)](https://www.bing.com/th?id=OHR.SestriLevante_IT-IT7994211355_UHD.jpg) |
-| 2024-06-23 | Incroci luminosi | Vista aerea di una rotatoria a Dacca, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency) | [![Incroci luminosi](https://www.bing.com/th?id=OHR.DhakaBangladesh_IT-IT6657097189_320x240.jpg)](https://www.bing.com/th?id=OHR.DhakaBangladesh_IT-IT6657097189_UHD.jpg) |
-| 2024-03-30 | Ciao a tutti, dal mondo a testa in giù! | Bradipo tridattilo dal collo marrone che dorme su un albero di cecropia, Costa Rica (© Juan Carlos Vindas/Getty Images) | [![Ciao a tutti, dal mondo a testa in giù!](https://www.bing.com/th?id=OHR.SleepySloth_IT-IT7892909153_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepySloth_IT-IT7892909153_UHD.jpg) |
+| 2024-07-15 | L’albero e il mare | Parco Tateishi, Prefettura di Kanagawa, Giappone (© blew_s/Shutterstock) | [![L’albero e il mare](https://www.bing.com/th?id=OHR.TateishiPark_IT-IT9039159342_320x240.jpg)](https://www.bing.com/th?id=OHR.TateishiPark_IT-IT9039159342_UHD.jpg) |
+| 2024-09-02 | Danze tra le nuvole | Ara, Mato Grosso do Sul, Brasile (© Ellen Goff/Danita Delimont) | [![Danze tra le nuvole](https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227_320x240.jpg)](https://www.bing.com/th?id=OHR.BuracodasAraras_IT-IT6602971227_UHD.jpg) |
+| 2024-12-09 | Tocco divino, tra cime e cielo | Due guanachi, Parco Nazionale Torres del Paine, Cile (© Floris van Breugel/NPL/Minden Pictures) | [![Tocco divino, tra cime e cielo](https://www.bing.com/th?id=OHR.GuanacosChile_IT-IT7114739436_320x240.jpg)](https://www.bing.com/th?id=OHR.GuanacosChile_IT-IT7114739436_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2024-01-09 | 今日は米国の「気球上昇記念日」 | リオ・グランデ川上空に舞い上がる気球, 米国 コロラド州 (© Jennifer MacCornack/Shutterstock) | [![今日は米国の「気球上昇記念日」](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonDay_JA-JP2573832501_UHD.jpg) |
-| 2024-03-17 | 今日は聖パトリックの祝日 | ケリー県, アイルランド (© Atlantide Phototravel/Getty Images) | [![今日は聖パトリックの祝日](https://www.bing.com/th?id=OHR.StFiniansBay_JA-JP4552826629_320x240.jpg)](https://www.bing.com/th?id=OHR.StFiniansBay_JA-JP4552826629_UHD.jpg) |
-| 2024-04-30 | 雨の中のチーター | ンゴロンゴロ保全地域, タンザニア  (© Paul Souders/Getty Images) | [![雨の中のチーター](https://www.bing.com/th?id=OHR.CheetahRain_JA-JP5165159755_320x240.jpg)](https://www.bing.com/th?id=OHR.CheetahRain_JA-JP5165159755_UHD.jpg) |
+| 2024-05-27 | 庭の小さな番人 | ナミハリネズミ, ドイツ ノルトライン＝ヴェストファーレン州 (© Oksana Schmidt/Getty Images) | [![庭の小さな番人](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_320x240.jpg)](https://www.bing.com/th?id=OHR.HedgehogMeadow_JA-JP0023153078_UHD.jpg) |
+| 2024-06-23 | ラベンダーのシーズン | 湖畔に咲き誇るラベンダーと富士山, 河口湖 (© DoctorEgg/Getty Images) | [![ラベンダーのシーズン](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_320x240.jpg)](https://www.bing.com/th?id=OHR.Lavender2024_JA-JP2620797533_UHD.jpg) |
+| 2024-03-30 | ゆったりのんびり暮らす動物 | セクロピアの木で眠るナマケモノ, コスタリカ (© Juan Carlos Vindas/Getty Images) | [![ゆったりのんびり暮らす動物](https://www.bing.com/th?id=OHR.SleepySloth_JA-JP5634281010_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepySloth_JA-JP5634281010_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2024-03-31 | 纯洁与优雅的象征 | 潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images) | [![纯洁与优雅的象征](https://www.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_320x240.jpg)](https://www.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg) |
 | 2024-01-09 | 乘着热气球向上飞 | 格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国 (© Jennifer MacCornack/Shutterstock) | [![乘着热气球向上飞](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_UHD.jpg) |
-| 2024-01-17 | 天气暖和了再叫醒我 | 巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images) | [![天气暖和了再叫醒我](https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_UHD.jpg) |
+| 2024-03-17 | 今天，让我们穿绿衣裳吧！ | 圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images) | [![今天，让我们穿绿衣裳吧！](https://www.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_320x240.jpg)](https://www.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_UHD.jpg) |
+| 2024-04-30 | “草原大喵”的完美速度 | 清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚 (© Paul Souders/Getty Images) | [![“草原大喵”的完美速度](https://www.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_320x240.jpg)](https://www.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg) |
 

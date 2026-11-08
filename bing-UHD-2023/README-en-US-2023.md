@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2023
 
-> Last updated：2026-11-07 07:16:38 UTC
+> Last updated：2026-11-08 04:30:43 UTC
 
 [de-DE](README-de-DE-2023.md) | [en-CA](README-en-CA-2023.md) | [en-GB](README-en-GB-2023.md) | [en-IN](README-en-IN-2023.md) | [en-US](README-en-US-2023.md) | [fr-FR](README-fr-FR-2023.md) | [it-IT](README-it-IT-2023.md) | [ja-JP](README-ja-JP-2023.md) | [zh-CN](README-zh-CN-2023.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2023-11-09 | Warme, melancholische Herbsttöne | Birken im Herbst, Drammen, Norwegen (© Baac3nes/Getty Images) | [![Warme, melancholische Herbsttöne](https://www.bing.com/th?id=OHR.NorwayBirch_DE-DE9947810365_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayBirch_DE-DE9947810365_UHD.jpg) |
+| 2023-08-10 | Könige der Savanne | Ein Löwe in der Masai Mara, Kenia (© Scott Davis/Tandem Stills + Motion) | [![Könige der Savanne](https://www.bing.com/th?id=OHR.WorldLionDay_DE-DE3554846602_320x240.jpg)](https://www.bing.com/th?id=OHR.WorldLionDay_DE-DE3554846602_UHD.jpg) |
 | 2023-11-08 | Was sind das für sanfte Tiere? | Seekuh-Mutter mit Baby, Crystal River, Three Sisters Spring, Florida, USA (© Karine Aigner/Tandem Stills + Motion) | [![Was sind das für sanfte Tiere?](https://www.bing.com/th?id=OHR.ManateeMama_DE-DE9487097081_320x240.jpg)](https://www.bing.com/th?id=OHR.ManateeMama_DE-DE9487097081_UHD.jpg) |
-| 2023-07-11 | Menschenmeer | Hongkong SAR (© leungchopan/Getty Images) | [![Menschenmeer](https://www.bing.com/th?id=OHR.WorldPopDay_DE-DE5116367774_320x240.jpg)](https://www.bing.com/th?id=OHR.WorldPopDay_DE-DE5116367774_UHD.jpg) |
-| 2023-01-09 | Teil eines Welterbes | Teufelsbrücke im Bergpark Wilhelmshöhe, UNESCO-Welterbestätte, Kassel, Hessen (© Wilfried Martin/Alamy) | [![Teil eines Welterbes](https://www.bing.com/th?id=OHR.TeufelsbrueckeWilhelmshoehe_DE-DE5843541762_320x240.jpg)](https://www.bing.com/th?id=OHR.TeufelsbrueckeWilhelmshoehe_DE-DE5843541762_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-07-11 | A scented sea of purple | Field of lavender, Somerset, England (© Doug Chinnery/Getty Images) | [![A scented sea of purple](https://www.bing.com/th?id=OHR.SomersetLavender_EN-CA8462640493_320x240.jpg)](https://www.bing.com/th?id=OHR.SomersetLavender_EN-CA8462640493_UHD.jpg) |
+| 2023-01-09 | Where we go to play | Breckenridge, Colorado (© Sean Pavone/Shutterstock) | [![Where we go to play](https://www.bing.com/th?id=OHR.Breckenridge_EN-CA5923831450_320x240.jpg)](https://www.bing.com/th?id=OHR.Breckenridge_EN-CA5923831450_UHD.jpg) |
 | 2023-08-03 | A painter's palette of nature's hues | Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock) | [![A painter's palette of nature's hues](https://www.bing.com/th?id=OHR.CapitolButte_EN-CA0894601659_320x240.jpg)](https://www.bing.com/th?id=OHR.CapitolButte_EN-CA0894601659_UHD.jpg) |
-| 2023-04-10 | A delightfully ornate Easter display | Lithuanian Easter eggs (© fotomem/Getty Images) | [![A delightfully ornate Easter display](https://www.bing.com/th?id=OHR.LithuanianEggs_EN-CA6217533771_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuanianEggs_EN-CA6217533771_UHD.jpg) |
-| 2023-08-24 | Making a splash | Skógafoss waterfall, Iceland (© Maridav/Shutterstock) | [![Making a splash](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-CA7806747245_320x240.jpg)](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-CA7806747245_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-04-09 | A delightfully ornate Easter display | Lithuanian Easter eggs (© fotomem/Getty Images) | [![A delightfully ornate Easter display](https://www.bing.com/th?id=OHR.LithuanianEggs_EN-GB6167717017_320x240.jpg)](https://www.bing.com/th?id=OHR.LithuanianEggs_EN-GB6167717017_UHD.jpg) |
+| 2023-08-23 | Making a splash | Skógafoss waterfall, Iceland (© Maridav/Shutterstock) | [![Making a splash](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-GB8609831067_320x240.jpg)](https://www.bing.com/th?id=OHR.SkogafossWaterfall_EN-GB8609831067_UHD.jpg) |
 | 2023-01-16 | Frosty Finland | Aura River in Turku, Finland (© Jarmo Piironen/Alamy) | [![Frosty Finland](https://www.bing.com/th?id=OHR.Turku_EN-GB9433162761_320x240.jpg)](https://www.bing.com/th?id=OHR.Turku_EN-GB9433162761_UHD.jpg) |
-| 2023-06-01 | Blue as far as the eye can see | Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency) | [![Blue as far as the eye can see](https://www.bing.com/th?id=OHR.ReefAwareness_EN-GB8413195988_320x240.jpg)](https://www.bing.com/th?id=OHR.ReefAwareness_EN-GB8413195988_UHD.jpg) |
-| 2023-05-18 | Sunlight turning silver to gold | Museo Soumaya, Plaza Carso building, Mexico City, Mexico (© Juan Romero/Alamy) | [![Sunlight turning silver to gold](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-GB1309622714_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseoSoumaya_EN-GB1309622714_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-06-02 | A proud symbol of the City of Nizams | Charminar during Eid celebrations, Hyderabad, India (© Prudhvi Chowdary/iStock/Getty Images Plus) | [![A proud symbol of the City of Nizams](https://www.bing.com/th?id=OHR.TelenganaDay_EN-IN9741280835_320x240.jpg)](https://www.bing.com/th?id=OHR.TelenganaDay_EN-IN9741280835_UHD.jpg) |
+| 2023-05-19 | How can we help at-risk animals? | Sumatran rhinoceros, Way Kambas National Park, Indonesia (© Cyril Ruoso/Minden Pictures) | [![How can we help at-risk animals?](https://www.bing.com/th?id=OHR.SumatranRhino_EN-IN5930187437_320x240.jpg)](https://www.bing.com/th?id=OHR.SumatranRhino_EN-IN5930187437_UHD.jpg) |
 | 2023-07-08 | Sanctuary among the trees | Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas, USA (© Eddie Brady/Getty Images) | [![Sanctuary among the trees](https://www.bing.com/th?id=OHR.CooperChapel_EN-IN8582362149_320x240.jpg)](https://www.bing.com/th?id=OHR.CooperChapel_EN-IN8582362149_UHD.jpg) |
-| 2023-10-07 | Time for self-serve salmon | Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock) | [![Time for self-serve salmon](https://www.bing.com/th?id=OHR.GrizzlyFalls_EN-IN2755577856_320x240.jpg)](https://www.bing.com/th?id=OHR.GrizzlyFalls_EN-IN2755577856_UHD.jpg) |
-| 2023-07-30 | Perfect, pastoral Palouse | Farmland in the Palouse, Washington, USA (© EJ-J/Getty Images) | [![Perfect, pastoral Palouse](https://www.bing.com/th?id=OHR.PalouseHills_EN-IN2524496030_320x240.jpg)](https://www.bing.com/th?id=OHR.PalouseHills_EN-IN2524496030_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2023.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2023-10-07 | Nature's majesty awaits! | Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images) | [![Nature's majesty awaits!](https://www.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_320x240.jpg)](https://www.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg) |
+| 2023-07-30 | Eyes of the tiger | Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures) | [![Eyes of the tiger](https://www.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_320x240.jpg)](https://www.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg) |
 | 2023-01-03 | Fit for a fairy tale | Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock) | [![Fit for a fairy tale](https://www.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_320x240.jpg)](https://www.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg) |
-| 2023-10-17 | The magic of the Enchantments | Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion) | [![The magic of the Enchantments](https://www.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_320x240.jpg)](https://www.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg) |
-| 2023-11-29 | A day to lend a hand | Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images) | [![A day to lend a hand](https://www.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_320x240.jpg)](https://www.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2023.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2023-10-17 | Des écritures venues d’un ancien monde | Textes anciens gravés originaires de Persépolis, Iran (© George Hall/Alamy) | [![Des écritures venues d’un ancien monde](https://www.bing.com/th?id=OHR.SpreadsheetDay_FR-FR3416887785_320x240.jpg)](https://www.bing.com/th?id=OHR.SpreadsheetDay_FR-FR3416887785_UHD.jpg) |
+| 2023-11-29 | La plus belle période de l’année est arrivée ! | Arbre de Noël du Rockefeller Center, New York, États-Unis (© Jonathan Orenstein/Getty Images) | [![La plus belle période de l’année est arrivée !](https://www.bing.com/th?id=OHR.TreeLighting_FR-FR6609307471_320x240.jpg)](https://www.bing.com/th?id=OHR.TreeLighting_FR-FR6609307471_UHD.jpg) |
 | 2023-05-23 | Dites bonjour à notre invitée du jour ! | Tortue à boîte ornée (© Tim Fitzharris/Minden Pictures) | [![Dites bonjour à notre invitée du jour !](https://www.bing.com/th?id=OHR.WesternBoxTurtle_FR-FR2003044235_320x240.jpg)](https://www.bing.com/th?id=OHR.WesternBoxTurtle_FR-FR2003044235_UHD.jpg) |
-| 2023-11-24 | Connaissez-vous le « Green Friday » ? | Sentier "Hall of Mosses" dans la forêt pluviale de Hoh, Parc national olympique, Washington, États-Unis (© James Randklev/Getty Images) | [![Connaissez-vous le « Green Friday » ?](https://www.bing.com/th?id=OHR.HallofMosses_FR-FR8097338401_320x240.jpg)](https://www.bing.com/th?id=OHR.HallofMosses_FR-FR8097338401_UHD.jpg) |
-| 2023-01-01 | C’est reparti pour un tour | Le Grand-Bornand, Massif des Aravis, Haute-Savoie (© Lansard Gilles/Hémis.fr/Alamy Photo Stock) | [![C’est reparti pour un tour](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_320x240.jpg)](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2023.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2023-11-24 | Un diverso modello di foresta pluviale | Sentiero Hall of Mosses nella foresta pluviale di Hoh, Parco Nazionale Olimpico, Washington (© James Randklev/Getty Images) | [![Un diverso modello di foresta pluviale](https://www.bing.com/th?id=OHR.HallofMosses_IT-IT8394280522_320x240.jpg)](https://www.bing.com/th?id=OHR.HallofMosses_IT-IT8394280522_UHD.jpg) |
+| 2023-01-01 | Un pisolino al Polo Nord | Orso polare alle Svalbard, Norvegia (© Dennis Stogsdill/Getty Images) | [![Un pisolino al Polo Nord](https://www.bing.com/th?id=OHR.NorwayNYD_IT-IT5778701679_320x240.jpg)](https://www.bing.com/th?id=OHR.NorwayNYD_IT-IT5778701679_UHD.jpg) |
 | 2023-12-28 | Una specie in pericolo di estinzione | Balena megattera, Baia di Disko, Groenlandia (© Paul Souders/DanitaDelimont.com) | [![Una specie in pericolo di estinzione](https://www.bing.com/th?id=OHR.GreenlandHumpback_IT-IT6047849263_320x240.jpg)](https://www.bing.com/th?id=OHR.GreenlandHumpback_IT-IT6047849263_UHD.jpg) |
-| 2023-05-09 | Che è successo a questa città? | Rovine di Pompei, Campania (© Massimo Ripani/Sime/eStock Photo) | [![Che è successo a questa città?](https://www.bing.com/th?id=OHR.Pompei_IT-IT4615926702_320x240.jpg)](https://www.bing.com/th?id=OHR.Pompei_IT-IT4615926702_UHD.jpg) |
-| 2023-02-26 | Ondeggia sul ponte nella foresta | Avventura sul ponte sospeso nell'Amazzonia peruviana, Riserva Naturale di Tambopata, Perù (© Pere Rubi/Getty Images) | [![Ondeggia sul ponte nella foresta](https://www.bing.com/th?id=OHR.CanopyPeru_IT-IT2359138558_320x240.jpg)](https://www.bing.com/th?id=OHR.CanopyPeru_IT-IT2359138558_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2023.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2023-05-09 | 海辺の町の美しい夜景 | フエルテベントゥラ島, スペイン (© Gavin Hellier/Getty Images) | [![海辺の町の美しい夜景](https://www.bing.com/th?id=OHR.MorroJable_JA-JP6883832271_320x240.jpg)](https://www.bing.com/th?id=OHR.MorroJable_JA-JP6883832271_UHD.jpg) |
+| 2023-02-26 | アマゾンの樹冠にかかる吊り橋 | タンボパタ自然保護区, ペルー (© Pere Rubi/Getty Images) | [![アマゾンの樹冠にかかる吊り橋](https://www.bing.com/th?id=OHR.CanopyPeru_JA-JP5592928967_320x240.jpg)](https://www.bing.com/th?id=OHR.CanopyPeru_JA-JP5592928967_UHD.jpg) |
 | 2023-10-19 | 睡蓮を収穫している人たち | ロンアンの河川, ベトナム メコンデルタ (© Khanh Phan/Solent News/Shutterstock) | [![睡蓮を収穫している人たち](https://www.bing.com/th?id=OHR.WaterLilyVietnam_JA-JP8591177657_320x240.jpg)](https://www.bing.com/th?id=OHR.WaterLilyVietnam_JA-JP8591177657_UHD.jpg) |
-| 2023-07-06 | 今日は国際キスの日 | 優しいキスをするイワトビペンギン, イギリス (© Tony Beck/Getty Images) | [![今日は国際キスの日](https://www.bing.com/th?id=OHR.KissingPenguins_JA-JP2236836465_320x240.jpg)](https://www.bing.com/th?id=OHR.KissingPenguins_JA-JP2236836465_UHD.jpg) |
-| 2023-05-08 | 夕日に染まるデリケート・アーチ | アーチーズ国立公園, 米国 ユタ州 (© Mark Brodkin Photography/Getty Images) | [![夕日に染まるデリケート・アーチ](https://www.bing.com/th?id=OHR.TheChaps_JA-JP6283869336_320x240.jpg)](https://www.bing.com/th?id=OHR.TheChaps_JA-JP6283869336_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2023.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2023-07-06 | 接吻的企鹅 | 南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images) | [![接吻的企鹅](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_320x240.jpg)](https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg) |
+| 2023-05-08 | 藏在精致拱门里的百年时光 | 精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images) | [![藏在精致拱门里的百年时光](https://www.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_320x240.jpg)](https://www.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_UHD.jpg) |
 | 2023-06-20 | 这只顶级掠食者是什么? | 秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock) | [![这只顶级掠食者是什么?](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_320x240.jpg)](https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_UHD.jpg) |
-| 2023-10-13 | 住在悬崖边的日子 | 加尔加诺半岛上的维埃斯特，阿普利亚，意大利 (© Pilat666/Getty Images) | [![住在悬崖边的日子](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_320x240.jpg)](https://www.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg) |
-| 2023-10-02 | 普罗旺斯大峡谷 | 韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images) | [![普罗旺斯大峡谷](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_320x240.jpg)](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg) |
 

@@ -1,6 +1,6 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2024
 
-> Dernière mise à jour：2026-11-07 07:16:38 UTC
+> Dernière mise à jour：2026-11-08 04:30:43 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2024-11-21 | Gemeinsam stark | Zwei Löwenjunge bei Sonnenaufgang, Südafrika (© Ruan Springorum/Getty Images) | [![Gemeinsam stark](https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_320x240.jpg)](https://www.bing.com/th?id=OHR.LionCubs_DE-DE4457487465_UHD.jpg) |
-| 2024-01-27 | Eine ziemlich coole Skyline | Eisskulpturen auf dem Saint Paul Winterkarneval, Minnesota, USA (© Joe Mamer Photography/Alamy Stock Photo) | [![Eine ziemlich coole Skyline](https://www.bing.com/th?id=OHR.WinterCarnival_DE-DE2266431187_320x240.jpg)](https://www.bing.com/th?id=OHR.WinterCarnival_DE-DE2266431187_UHD.jpg) |
-| 2024-12-17 | Ein Hauch von Rot im Winterparadies | Traditionelle rote Fischerhütten am Ufer des Reinefjords, Norwegen (© Pilat666/Getty Images) | [![Ein Hauch von Rot im Winterparadies](https://www.bing.com/th?id=OHR.ReinefjordenNorway_DE-DE5744534611_320x240.jpg)](https://www.bing.com/th?id=OHR.ReinefjordenNorway_DE-DE5744534611_UHD.jpg) |
+| 2024-03-31 | Hat der Osterhase diese Eier versteckt? | Ostereier von Tünde Csuhaj, Szekszárd, Ungarn (© ATTILA KISBENEDEK/AFP/Getty Images) | [![Hat der Osterhase diese Eier versteckt?](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_320x240.jpg)](https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg) |
+| 2024-01-09 | Zählen Sie auch 99 Heißluftballons? | Heißluftballons über dem Rio Grande, Albuquerque, New Mexico, USA (© Jennifer MacCornack/Shutterstock) | [![Zählen Sie auch 99 Heißluftballons?](https://www.bing.com/th?id=OHR.BalloonDay_DE-DE2164566346_320x240.jpg)](https://www.bing.com/th?id=OHR.BalloonDay_DE-DE2164566346_UHD.jpg) |
+| 2024-01-17 | Weckt mich, sobald es wärmer wird | Schlafender Wolf im Nationalpark Bayerischer Wald (© Raimund Linke/Getty Images) | [![Weckt mich, sobald es wärmer wird](https://www.bing.com/th?id=OHR.SleepyWolf_DE-DE6606781162_320x240.jpg)](https://www.bing.com/th?id=OHR.SleepyWolf_DE-DE6606781162_UHD.jpg) |
 
 ## 🍁 [Anglais (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-07-18 | Towering with history | Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images) | [![Towering with history](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-CA4728212344_320x240.jpg)](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-CA4728212344_UHD.jpg) |
-| 2024-06-03 | Small bird, big buzz! | Female Anna's hummingbird, Canada (© Devonyu/iStock/Getty Images) | [![Small bird, big buzz!](https://www.bing.com/th?id=OHR.Annahummingbird_EN-CA0660927808_320x240.jpg)](https://www.bing.com/th?id=OHR.Annahummingbird_EN-CA0660927808_UHD.jpg) |
-| 2024-01-23 | A magic hour indeed | Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion) | [![A magic hour indeed](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-CA9651520074_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaCruzSunrise_EN-CA9651520074_UHD.jpg) |
+| 2024-11-21 | Tiny hands, big dreams | Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock) | [![Tiny hands, big dreams](https://www.bing.com/th?id=OHR.BeyondSaype_EN-CA2766246320_320x240.jpg)](https://www.bing.com/th?id=OHR.BeyondSaype_EN-CA2766246320_UHD.jpg) |
+| 2024-01-27 | Not a night owl | Northern hawk-owl (© Remo Savisaar/Alamy) | [![Not a night owl](https://www.bing.com/th?id=OHR.HawkOwl_EN-CA9957367188_320x240.jpg)](https://www.bing.com/th?id=OHR.HawkOwl_EN-CA9957367188_UHD.jpg) |
+| 2024-12-17 | Twinkling streets and icy peaks | Salzburg, Austria (© bluejayphoto/Getty Images) | [![Twinkling streets and icy peaks](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-CA2222024592_320x240.jpg)](https://www.bing.com/th?id=OHR.SalzburgSnow_EN-CA2222024592_UHD.jpg) |
 
 ## 🌹 [Anglais (Royaume-Uni)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-11-23 | Castle on a crag | Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images) | [![Castle on a crag](https://www.bing.com/th?id=OHR.ZafraCastle_EN-GB7885196184_320x240.jpg)](https://www.bing.com/th?id=OHR.ZafraCastle_EN-GB7885196184_UHD.jpg) |
-| 2024-07-10 | A 'toucan' of appreciation | Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images) | [![A 'toucan' of appreciation](https://www.bing.com/th?id=OHR.CollaredAracari_EN-GB7730593943_320x240.jpg)](https://www.bing.com/th?id=OHR.CollaredAracari_EN-GB7730593943_UHD.jpg) |
-| 2024-08-08 | Big stare for a little owl | Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images) | [![Big stare for a little owl](https://www.bing.com/th?id=OHR.SpottedOwlet_EN-GB7230363465_320x240.jpg)](https://www.bing.com/th?id=OHR.SpottedOwlet_EN-GB7230363465_UHD.jpg) |
+| 2024-07-17 | Towering with history | Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images) | [![Towering with history](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-GB0016545589_320x240.jpg)](https://www.bing.com/th?id=OHR.MedievalRothenburg_EN-GB0016545589_UHD.jpg) |
+| 2024-06-02 | Let's go for a boat ride! | Baia del Silenzio in Sestri Levante, Liguria, Italy (© StevanZZ/Getty Images) | [![Let's go for a boat ride!](https://www.bing.com/th?id=OHR.SestriLevante_EN-GB3931672297_320x240.jpg)](https://www.bing.com/th?id=OHR.SestriLevante_EN-GB3931672297_UHD.jpg) |
+| 2024-01-21 | Macaroni and freeze | Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images) | [![Macaroni and freeze](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-GB2958332106_320x240.jpg)](https://www.bing.com/th?id=OHR.MacaroniPenguins_EN-GB2958332106_UHD.jpg) |
 
 ## 🦁 [Anglais (Inde)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-09-30 | Go with the floe | Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont) | [![Go with the floe](https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_320x240.jpg)](https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_UHD.jpg) |
-| 2024-08-21 | Waiting to 'Galápa-go' | Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures) | [![Waiting to 'Galápa-go'](https://www.bing.com/th?id=OHR.NazcaBooby_EN-IN0321873603_320x240.jpg)](https://www.bing.com/th?id=OHR.NazcaBooby_EN-IN0321873603_UHD.jpg) |
-| 2024-08-14 | Feeling sharp today | Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures) | [![Feeling sharp today](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622_320x240.jpg)](https://www.bing.com/th?id=OHR.WatarrkaLizard_EN-IN4528148622_UHD.jpg) |
+| 2024-11-23 | Nature's secret code | Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy) | [![Nature's secret code](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-IN9508407386_320x240.jpg)](https://www.bing.com/th?id=OHR.FibonacciAloe_EN-IN9508407386_UHD.jpg) |
+| 2024-07-11 | You are one in 8.1 billion | Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency) | [![You are one in 8.1 billion](https://www.bing.com/th?id=OHR.GangiSicily_EN-IN6038695994_320x240.jpg)](https://www.bing.com/th?id=OHR.GangiSicily_EN-IN6038695994_UHD.jpg) |
+| 2024-08-09 | A 'hole' new world | Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images) | [![A 'hole' new world](https://www.bing.com/th?id=OHR.HangCave_EN-IN5640527051_320x240.jpg)](https://www.bing.com/th?id=OHR.HangCave_EN-IN5640527051_UHD.jpg) |
 
 ## 🗽 [Anglais (États-Unis)](bing-UHD-en-US-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2024-11-08 | Wolves in the wild | Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy) | [![Wolves in the wild](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_320x240.jpg)](https://www.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg) |
-| 2024-02-13 | Giants of science | Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures) | [![Giants of science](https://www.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_320x240.jpg)](https://www.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg) |
-| 2024-04-12 | Don't just dream it, stream it! | Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency) | [![Don't just dream it, stream it!](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_320x240.jpg)](https://www.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg) |
+| 2024-09-30 | Connecting Connecticut | West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images) | [![Connecting Connecticut](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_320x240.jpg)](https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg) |
+| 2024-08-21 | A grand view | Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion) | [![A grand view](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_320x240.jpg)](https://www.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg) |
+| 2024-08-14 | Adriatic heights | Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock) | [![Adriatic heights](https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_320x240.jpg)](https://www.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg) |
 
 ## 🐓 [Français (France)](bing-UHD-fr-FR-2024.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2024-08-28 | Célébrons la résilience ! | Pont Neuf sur la Seine, Paris, France (© f11photo/Getty Images) | [![Célébrons la résilience !](https://www.bing.com/th?id=OHR.PontNeuf_FR-FR7590326569_320x240.jpg)](https://www.bing.com/th?id=OHR.PontNeuf_FR-FR7590326569_UHD.jpg) |
-| 2024-12-26 | Le souffle du diable et de la nature | Pointe du Diable, Saint Pierre, Parc national de la Réunion (© MONTICO Lionel/Hemis/Alamy Stock Photo) | [![Le souffle du diable et de la nature](https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809_320x240.jpg)](https://www.bing.com/th?id=OHR.PointeDiable_FR-FR3649413809_UHD.jpg) |
-| 2024-05-21 | Un paysage qui inspire la séréni-thé | Plantation de thé des Cameron Highlands, Malaisie (© alex cheong/Getty Images) | [![Un paysage qui inspire la séréni-thé](https://www.bing.com/th?id=OHR.MalaysiaTea_FR-FR7897047895_320x240.jpg)](https://www.bing.com/th?id=OHR.MalaysiaTea_FR-FR7897047895_UHD.jpg) |
+| 2024-11-08 | De la terre de feu et de glace | Vue aérienne de rivières glacières, Islande (© rybarmarekk/Shutterstock) | [![De la terre de feu et de glace](https://www.bing.com/th?id=OHR.GlacialRivers_FR-FR7112624449_320x240.jpg)](https://www.bing.com/th?id=OHR.GlacialRivers_FR-FR7112624449_UHD.jpg) |
+| 2024-02-13 | Que la fête commence ! | Perles de Mardi Gras dans le quartier de Marigny, Nouvelle-Orléans, États-Unis (© Erik Pronske Photography/Getty Images) | [![Que la fête commence !](https://www.bing.com/th?id=OHR.MarignyBeads_FR-FR2441069115_320x240.jpg)](https://www.bing.com/th?id=OHR.MarignyBeads_FR-FR2441069115_UHD.jpg) |
+| 2024-04-12 | Un parc « archi » bien ! | Lumière du soir sur la North Window avec l'arche Turret en fond, Parc national des Arches, Utah, États-Unis (© Anthony Heflin/Shutterstock) | [![Un parc « archi » bien !](https://www.bing.com/th?id=OHR.SunsetArchesNP_FR-FR6671864096_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetArchesNP_FR-FR6671864096_UHD.jpg) |
 
 ## ⭐ [Italien (Italie)](bing-UHD-it-IT-2024.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2024-07-11 | Complessi numerici | Gangi, Sicilia, Italia (© Andrea Caruso/Amazing Aerial Agency) | [![Complessi numerici](https://www.bing.com/th?id=OHR.GangiSicily_IT-IT7151002440_320x240.jpg)](https://www.bing.com/th?id=OHR.GangiSicily_IT-IT7151002440_UHD.jpg) |
-| 2024-03-26 | Quanta gente ci potrebbe stare? | Expo Business Center, Milano, Italia (© photovideostock/Getty Images) | [![Quanta gente ci potrebbe stare?](https://www.bing.com/th?id=OHR.Milanbusinesscenter_IT-IT6797515629_320x240.jpg)](https://www.bing.com/th?id=OHR.Milanbusinesscenter_IT-IT6797515629_UHD.jpg) |
-| 2024-09-20 | Rifugio di luce | Faro di Ocracoke sull'isola di Ocracoke, Carolina del Nord, USA (© Chansak Joe/Getty Images) | [![Rifugio di luce](https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_IT-IT0714167310_UHD.jpg) |
+| 2024-08-28 | Amore e Olimpiadi | Montmartre e Sacro Cuore, Parigi, Francia (© Tuul & Bruno Morandi/Getty Images) | [![Amore e Olimpiadi](https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_320x240.jpg)](https://www.bing.com/th?id=OHR.ParalympicsParis_IT-IT4851305254_UHD.jpg) |
+| 2024-12-26 | La vacanza continua | Albero di Natale, Portofino, Liguria (© Alberto Ialongo/Adobe Stock) | [![La vacanza continua](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_320x240.jpg)](https://www.bing.com/th?id=OHR.ChristmasSeason_IT-IT9715464696_UHD.jpg) |
+| 2024-05-21 | Una giornata all'insegna del tè | Piantagione di tè, Cameron Highlands, Malaysia (© alex cheong/Getty Images) | [![Una giornata all'insegna del tè](https://www.bing.com/th?id=OHR.MalaysiaTea_IT-IT5477437805_320x240.jpg)](https://www.bing.com/th?id=OHR.MalaysiaTea_IT-IT5477437805_UHD.jpg) |
 
 ## 🌸 [Japonais (Japon)](bing-UHD-ja-JP-2024.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2024-12-28 | 今日は米国絶滅危惧種保護法制定の日 | アオウミガメ, フランス (© Damsea/Shutterstock) | [![今日は米国絶滅危惧種保護法制定の日](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_UHD.jpg) |
-| 2024-02-17 | サメの歯のような岩 | ペガドゥン・ロック, インドネシア (© CK NG/500px/Getty Images) | [![サメの歯のような岩](https://www.bing.com/th?id=OHR.PegadungRocks_JA-JP7689168051_320x240.jpg)](https://www.bing.com/th?id=OHR.PegadungRocks_JA-JP7689168051_UHD.jpg) |
-| 2024-08-15 | 世界最大の洞窟 | ソンドン洞, ベトナム (© Geng Xu/Getty Images) | [![世界最大の洞窟](https://www.bing.com/th?id=OHR.HangCave_JA-JP0202736881_320x240.jpg)](https://www.bing.com/th?id=OHR.HangCave_JA-JP0202736881_UHD.jpg) |
+| 2024-07-11 | 今日は世界人口デー | シチリア島のガンジー, イタリア (© Andrea Caruso/Amazing Aerial Agency) | [![今日は世界人口デー](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_320x240.jpg)](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_UHD.jpg) |
+| 2024-03-26 | ライトアップされた桜 | 目黒川沿いの桜, 東京 (© twomeows/Getty Images) | [![ライトアップされた桜](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_320x240.jpg)](https://www.bing.com/th?id=OHR.CherryBlossom2024_JA-JP4820412066_UHD.jpg) |
+| 2024-09-20 | 白亜のオクラコーク灯台 | オクラコーク島,  米国 ノースカロライナ州 (© Chansak Joe/Getty Images) | [![白亜のオクラコーク灯台](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_320x240.jpg)](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_UHD.jpg) |
 
 ## 🐉 [Chinois simplifié (Chine)](bing-UHD-zh-CN-2024.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2024-01-27 | 巴西大自然中的异域之美 | 点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images) | [![巴西大自然中的异域之美](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_320x240.jpg)](https://www.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg) |
-| 2024-12-01 | 保护最后一片大荒野 | 南极洲的冰山 (© Art Wolfe/DanitaDelimont.com) | [![保护最后一片大荒野](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_320x240.jpg)](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg) |
-| 2024-11-11 | 旷野里的第一片雪花 | 班夫国家公园的日落，阿尔伯塔省，加拿大 (© fywPhoto 云卷云舒/Getty Images) | [![旷野里的第一片雪花](https://www.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_320x240.jpg)](https://www.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg) |
+| 2024-12-28 | 保护海洋生物——绿海龟 | 一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚 (© Damsea/Shutterstock) | [![保护海洋生物——绿海龟](https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg) |
+| 2024-02-17 | 自然奇景 | 多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images) | [![自然奇景](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_320x240.jpg)](https://www.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg) |
+| 2024-08-15 | “洞”之新世界 | 韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images) | [![“洞”之新世界](https://www.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_320x240.jpg)](https://www.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg) |
 
