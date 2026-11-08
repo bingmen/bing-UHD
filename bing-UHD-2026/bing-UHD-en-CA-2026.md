@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated: 2026-11-07 04:39:14 UTC
+> Last updated: 2026-11-08 04:26:57 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-08 | The giant that came back | A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock) | [![The giant that came back](https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732_UHD.jpg) |
 | 2026-11-07 | A green tunnel through Maui | Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images) | [![A green tunnel through Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg) |
 | 2026-11-06 | One step closer to the summit | Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images) | [![One step closer to the summit](https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_EN-CA6257654888_UHD.jpg) |
 | 2026-11-05 | Paddling a painted forest | People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images) | [![Paddling a painted forest](https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294_320x240.jpg)](https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294_UHD.jpg) |
