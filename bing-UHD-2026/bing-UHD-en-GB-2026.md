@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-08 04:27:30 UTC
+> Last updated: 2026-11-09 04:40:11 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-10 | Where art finds its rhythm | Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images) | [![Where art finds its rhythm](https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_UHD.jpg) |
 | 2026-11-09 | A celebration that shines | Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![A celebration that shines](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-GB4404345220_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-GB4404345220_UHD.jpg) |
 | 2026-11-08 | Roaming the grasslands | A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock) | [![Roaming the grasslands](https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_UHD.jpg) |
 | 2026-11-07 | A green tunnel through Maui | Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images) | [![A green tunnel through Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-GB4651327269_UHD.jpg) |
