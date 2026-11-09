@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-08 04:29:51 UTC
+> 最終更新: 2026-11-09 04:42:36 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-09 | 芸術がリズムを刻む街 | セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images) | [![芸術がリズムを刻む街](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg) |
 | 2026-11-08 | 光に包まれる祝祭 | ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images) | [![光に包まれる祝祭](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg) |
 | 2026-11-07 | よみがえった草原の巨人 | セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ (© Tandem Stock/Adobe Stock) | [![よみがえった草原の巨人](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg) |
 | 2026-11-06 | マウイ島を抜ける緑のトンネル | ピピワイ・トレイルの竹林、ハレアカラ国立公園、マウイ島、ハワイ、アメリカ (© MNStudio/Getty Images) | [![マウイ島を抜ける緑のトンネル](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg) |
