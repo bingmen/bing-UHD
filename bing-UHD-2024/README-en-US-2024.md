@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-US - 2024
 
-> Last updated：2026-11-08 07:28:42 UTC
+> Last updated：2026-11-09 04:43:27 UTC
 
 [de-DE](README-de-DE-2024.md) | [en-CA](README-en-CA-2024.md) | [en-GB](README-en-GB-2024.md) | [en-IN](README-en-IN-2024.md) | [en-US](README-en-US-2024.md) | [fr-FR](README-fr-FR-2024.md) | [it-IT](README-it-IT-2024.md) | [ja-JP](README-ja-JP-2024.md) | [zh-CN](README-zh-CN-2024.md)
 
@@ -8,33 +8,33 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2024-08-03 | Beeindruckende Brücken | Die drei natürlichen Brücken, Wulong Nationalpark, China (© Pav-Pro Photography Ltd/Shutterstock) | [![Beeindruckende Brücken](https://www.bing.com/th?id=OHR.WulongKarst_DE-DE9180126373_320x240.jpg)](https://www.bing.com/th?id=OHR.WulongKarst_DE-DE9180126373_UHD.jpg) |
 | 2024-12-14 | Wachsame Augen | Sperbereule, Kanada (© pchoui/Getty Images) | [![Wachsame Augen](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthernHawkOwl_DE-DE0106015482_UHD.jpg) |
 | 2024-01-05 | Skulpturen aus Eis | Harbiner Internationales Eis- und Schneefest, Harbin, China (© WANG ZHAO/AFP/Getty Images) | [![Skulpturen aus Eis](https://www.bing.com/th?id=OHR.HarbinFestival_DE-DE1103368312_320x240.jpg)](https://www.bing.com/th?id=OHR.HarbinFestival_DE-DE1103368312_UHD.jpg) |
-| 2024-09-24 | Wasserfall im Herbstlicht | Wasserfall in Skaftafell, Vatnajökull-Nationalpark, Island (© Nopasorn Kowathanakul/Getty Images) | [![Wasserfall im Herbstlicht](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_320x240.jpg)](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_DE-DE5014328523_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-09-24 | Otter-ly amazing | Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images) | [![Otter-ly amazing](https://www.bing.com/th?id=OHR.IcebergOtter_EN-CA0060532970_320x240.jpg)](https://www.bing.com/th?id=OHR.IcebergOtter_EN-CA0060532970_UHD.jpg) |
 | 2024-08-24 | Doorway to the past | Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images) | [![Doorway to the past](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_320x240.jpg)](https://www.bing.com/th?id=OHR.PrasatPhanom_EN-CA2112837442_UHD.jpg) |
 | 2024-06-22 | Happy Indigenous Day! | Interior exhibits of the Canadian Museum of History (© Inspired By Maps/Shutterstock) | [![Happy Indigenous Day!](https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_320x240.jpg)](https://www.bing.com/th?id=OHR.IndPeopleDay_EN-CA8734922275_UHD.jpg) |
-| 2024-11-26 | Life in the wild | Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com) | [![Life in the wild](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_320x240.jpg)](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-CA6129428319_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-11-26 | Life in the wild | Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com) | [![Life in the wild](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-GB4842022174_320x240.jpg)](https://www.bing.com/th?id=OHR.AmboseliGiraffes_EN-GB4842022174_UHD.jpg) |
 | 2024-10-05 | Follow the teacher! | African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures) | [![Follow the teacher!](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_320x240.jpg)](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-GB5187585413_UHD.jpg) |
 | 2024-09-26 | Calling all toucan fans | Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion) | [![Calling all toucan fans](https://www.bing.com/th?id=OHR.LittleToucanet_EN-GB5921731705_320x240.jpg)](https://www.bing.com/th?id=OHR.LittleToucanet_EN-GB5921731705_UHD.jpg) |
-| 2024-02-18 | Where the past comes to life | Whitby Abbey, North Yorkshire, England (© Kev Hill/Moment/Getty Images) | [![Where the past comes to life](https://www.bing.com/th?id=OHR.WhitbyAbbeyJorvik_EN-GB4161898215_320x240.jpg)](https://www.bing.com/th?id=OHR.WhitbyAbbeyJorvik_EN-GB4161898215_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2024.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2024-02-20 | A park for the people | Kinder Scout at sunrise, Peak District National Park, England (© john finney photography/Getty Images) | [![A park for the people](https://www.bing.com/th?id=OHR.PeakDistrictNP_EN-IN1834158436_320x240.jpg)](https://www.bing.com/th?id=OHR.PeakDistrictNP_EN-IN1834158436_UHD.jpg) |
 | 2024-10-18 | Fall in the Mall | Autumn in Central Park, Manhattan, New York, USA (© mapman/Shutterstock) | [![Fall in the Mall](https://www.bing.com/th?id=OHR.CentralParkAutumn_EN-IN5680267984_320x240.jpg)](https://www.bing.com/th?id=OHR.CentralParkAutumn_EN-IN5680267984_UHD.jpg) |
 | 2024-02-24 | Whispers of spring | Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion) | [![Whispers of spring](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_320x240.jpg)](https://www.bing.com/th?id=OHR.AlmondBloom_EN-IN2943431834_UHD.jpg) |
-| 2024-01-06 | Crab an apple! | Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures) | [![Crab an apple!](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_320x240.jpg)](https://www.bing.com/th?id=OHR.CrabappleChaffinch_EN-IN8958634852_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2024.md)
 

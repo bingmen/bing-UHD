@@ -1,6 +1,6 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新：2026-11-08 07:28:42 UTC
+> 最后更新：2026-11-09 04:43:27 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-10-02 | Kolosse des Nordens | Braunbär am Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, USA (© Danny Green/Nature Picture Library) | [![Kolosse des Nordens](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_320x240.jpg)](https://www.bing.com/th?id=OHR.GrizzlySwim_DE-DE4187515695_UHD.jpg) |
-| 2026-01-30 | Wo das Meer den Weg freigibt | St. Michael’s Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images) | [![Wo das Meer den Weg freigibt](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_320x240.jpg)](https://www.bing.com/th?id=OHR.StMichaelsCornwall_DE-DE4570450459_UHD.jpg) |
-| 2026-02-14 | Liebe in voller Blüte | Tränendes Herz (© Dorene Hookey/Cavan Images) | [![Liebe in voller Blüte](https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_320x240.jpg)](https://www.bing.com/th?id=OHR.ValentineHearts_DE-DE3786630140_UHD.jpg) |
+| 2026-05-22 | Strukturen der Vielfalt | Kauehi‑Atoll, Tuamotu‑Archipel, Französisch‑Polynesien (© WaterFrame_dpr/Alamy) | [![Strukturen der Vielfalt](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_320x240.jpg)](https://www.bing.com/th?id=OHR.KauehiAtollLagoon_DE-DE7537602324_UHD.jpg) |
+| 2026-10-25 | Wo Gipfel auf Stille treffen | Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images) | [![Wo Gipfel auf Stille treffen](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_320x240.jpg)](https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg) |
+| 2026-10-03 | Ein Zeichen der Einheit | Brandenburger Tor, Berlin (© almir1968/Getty Images) | [![Ein Zeichen der Einheit](https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_320x240.jpg)](https://www.bing.com/th?id=OHR.BrandenburgGateFireworks_DE-DE4410403528_UHD.jpg) |
 
 ## 🍁 [英语（加拿大）](bing-UHD-en-CA-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-09-13 | Masters of the surf and shore | California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library) | [![Masters of the surf and shore](https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_320x240.jpg)](https://www.bing.com/th?id=OHR.SardineBait_EN-CA8301633998_UHD.jpg) |
-| 2026-03-12 | A peachy keen spring | Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images) | [![A peachy keen spring](https://www.bing.com/th?id=OHR.PeachBloom_EN-CA5288839040_320x240.jpg)](https://www.bing.com/th?id=OHR.PeachBloom_EN-CA5288839040_UHD.jpg) |
-| 2026-03-02 | Feather you like it or not | Snowy owl near the Canadian Rockies (© www.harshadventure.com/Moment/Getty Images) | [![Feather you like it or not](https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_320x240.jpg)](https://www.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_UHD.jpg) |
+| 2026-01-31 | Carved for the cold | 'Kimono' sculpted by Hiroaki Kimura and Masaki Takahashi of Japan, Winterlude 2010 (© PensiveDragon/Shutterstock) | [![Carved for the cold](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_320x240.jpg)](https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg) |
+| 2026-02-15 | Love in bloom | Bleeding hearts (© Dorene Hookey/Cavan Images) | [![Love in bloom](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_320x240.jpg)](https://www.bing.com/th?id=OHR.ValentineHearts_EN-CA0194351855_UHD.jpg) |
+| 2026-09-14 | A reef above its station | Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images) | [![A reef above its station](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-CA8816219114_320x240.jpg)](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-CA8816219114_UHD.jpg) |
 
 ## 🌹 [英语（英国）](bing-UHD-en-GB-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-10-17 | The past, unearthed | Life-size replica of Chauvet cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy) | [![The past, unearthed](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874_320x240.jpg)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-GB4836767874_UHD.jpg) |
-| 2026-03-25 | The shape of spring | Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images) | [![The shape of spring](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_320x240.jpg)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg) |
-| 2026-06-01 | Flavours of history | Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images) | [![Flavours of history](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-GB8668911302_320x240.jpg)](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-GB8668911302_UHD.jpg) |
+| 2026-03-12 | A peachy keen spring | Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images) | [![A peachy keen spring](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_320x240.jpg)](https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_UHD.jpg) |
+| 2026-03-02 | A day of leeks and legends | St Davids Cathedral, Pembrokeshire, Wales (© Terence Waeland/Alamy) | [![A day of leeks and legends](https://www.bing.com/th?id=OHR.StDavidsDay2026_EN-GB5978747461_320x240.jpg)](https://www.bing.com/th?id=OHR.StDavidsDay2026_EN-GB5978747461_UHD.jpg) |
+| 2026-10-18 | 75 and thriving | Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images) | [![75 and thriving](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-GB4918405829_320x240.jpg)](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-GB4918405829_UHD.jpg) |
 
 ## 🦁 [英语（印度）](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-29 | Serenity by the sea | Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock) | [![Serenity by the sea](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_320x240.jpg)](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg) |
-| 2026-08-05 | Gates of a hidden kingdom | Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock) | [![Gates of a hidden kingdom](https://www.bing.com/th?id=OHR.FezMorocco_EN-IN3277799020_320x240.jpg)](https://www.bing.com/th?id=OHR.FezMorocco_EN-IN3277799020_UHD.jpg) |
-| 2026-04-18 | The silence of unfinished giants | Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy) | [![The silence of unfinished giants](https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_320x240.jpg)](https://www.bing.com/th?id=OHR.MaoiStatues_EN-IN8684829616_UHD.jpg) |
+| 2026-03-27 | Still burning bright | Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy) | [![Still burning bright](https://www.bing.com/th?id=OHR.RadioCityHall_EN-IN3942844565_320x240.jpg)](https://www.bing.com/th?id=OHR.RadioCityHall_EN-IN3942844565_UHD.jpg) |
+| 2026-06-02 | Making a state-ment | Minarets of Charminar, Hyderabad, Telangana (© RAJARSHI SENGUPTA/iStock/Getty Images) | [![Making a state-ment](https://www.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_320x240.jpg)](https://www.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_UHD.jpg) |
+| 2026-03-30 | Elegance in motion | Demoiselle cranes, India (© Axel Gomille/Nature Picture Library) | [![Elegance in motion](https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639_320x240.jpg)](https://www.bing.com/th?id=OHR.IndiaCranes_EN-IN2980482639_UHD.jpg) |
 
 ## 🗽 [英语（美国）](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-05-18 | Quiet peak, loud view | Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images) | [![Quiet peak, loud view](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_320x240.jpg)](https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg) |
-| 2026-08-18 | A prime 'reef' estate | Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library) | [![A prime 'reef' estate](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_320x240.jpg)](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg) |
-| 2026-01-09 | Rust meets rush | Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images) | [![Rust meets rush](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_320x240.jpg)](https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg) |
+| 2026-08-06 | Gates of a hidden kingdom | Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock) | [![Gates of a hidden kingdom](https://www.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_320x240.jpg)](https://www.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg) |
+| 2026-04-19 | The silence of unfinished giants | Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy) | [![The silence of unfinished giants](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_320x240.jpg)](https://www.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg) |
+| 2026-05-19 | Hope in the hall | Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion) | [![Hope in the hall](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_320x240.jpg)](https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg) |
 
 ## 🐓 [法语（法国）](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-02-16 | Parfait pour un grand bol d’air | Le Grand-Bornand, Haute-Savoie (© JACQUES Pierre/hemis.fr/Alamy) | [![Parfait pour un grand bol d’air](https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_320x240.jpg)](https://www.bing.com/th?id=OHR.Bornand_FR-FR4225399243_UHD.jpg) |
-| 2026-05-29 | Le summum de l’histoire de l’alpinisme | Mont Everest, Parc national de Sagarmatha, Népal (© fotoVoyager/Getty Images) | [![Le summum de l’histoire de l’alpinisme](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_320x240.jpg)](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_UHD.jpg) |
-| 2026-08-23 | Que la pêche commence ! | Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library) | [![Que la pêche commence !](https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_320x240.jpg)](https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_UHD.jpg) |
+| 2026-08-19 | Un chemin entre les vagues | Whytecliff Park, West Vancouver, Colombie-Britannique, Canada (© Aolin Chen/Getty Images) | [![Un chemin entre les vagues](https://www.bing.com/th?id=OHR.WhyteCliffP_FR-FR1858775924_320x240.jpg)](https://www.bing.com/th?id=OHR.WhyteCliffP_FR-FR1858775924_UHD.jpg) |
+| 2026-01-10 | La magie des Alpes suisses | Le reflet du Cervin sur le lac Stellisee à l’aube, Zermatt, Suisse (© Andy Trowbridge/naturepl.com) | [![La magie des Alpes suisses](https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_320x240.jpg)](https://www.bing.com/th?id=OHR.MatterhornSunrise_FR-FR4667476850_UHD.jpg) |
+| 2026-02-17 | Quinze jours de lumière | Des lanternes rouges pour fêter le Nouvel An chinois (© Gins Wang/Getty Images) | [![Quinze jours de lumière](https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_320x240.jpg)](https://www.bing.com/th?id=OHR.NewYearLantern_FR-FR2946545684_UHD.jpg) |
 
 ## ⭐ [意大利语（意大利）](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-07-21 | Senza entrare in strada | L'Arco di Santa Catalina, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images) | [![Senza entrare in strada](https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_320x240.jpg)](https://www.bing.com/th?id=OHR.SantaCatalina_IT-IT4012109567_UHD.jpg) |
-| 2026-06-11 | Resistenza silenziosa | Patelle, costa di Praia da Ursa, Portogallo (© Theo Bosboom/Nature Picture Library) | [![Resistenza silenziosa](https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465_320x240.jpg)](https://www.bing.com/th?id=OHR.Limpets_IT-IT0440243465_UHD.jpg) |
-| 2026-09-25 | Quando la luna si unisce alla festa | Lanterne cinesi per la celebrazione della Festa di metà autunno (© LeeYiuTung/Getty Images) | [![Quando la luna si unisce alla festa](https://www.bing.com/th?id=OHR.MidAutumn2026_IT-IT8365698421_320x240.jpg)](https://www.bing.com/th?id=OHR.MidAutumn2026_IT-IT8365698421_UHD.jpg) |
+| 2026-05-30 | Leggiamo tra le righe | Puledro di zebra della pianura, parco nazionale di Etosha, Namibia (© Sharon Heald/Nature Picture Library) | [![Leggiamo tra le righe](https://www.bing.com/th?id=OHR.EquusQuagga_IT-IT4668961444_320x240.jpg)](https://www.bing.com/th?id=OHR.EquusQuagga_IT-IT4668961444_UHD.jpg) |
+| 2026-08-24 | Attraversare la storia | Ponte di Brooklyn, New York City, USA (© shayes17/Getty Images) | [![Attraversare la storia](https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_320x240.jpg)](https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_UHD.jpg) |
+| 2026-07-22 | Piccola impronta, grande impatto | Barriera corallina e spiaggia a Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock) | [![Piccola impronta, grande impatto](https://www.bing.com/th?id=OHR.CoralAwareness_IT-IT9276048724_320x240.jpg)](https://www.bing.com/th?id=OHR.CoralAwareness_IT-IT9276048724_UHD.jpg) |
 
 ## 🌸 [日语（日本）](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-03-28 | 口ひげのように見える角を持つ動物 | アフリカスイギュウ, タンザニア (© jesuss8/500px/Getty Images) | [![口ひげのように見える角を持つ動物](https://www.bing.com/th?id=OHR.CapeBuffalo_JA-JP4477954927_320x240.jpg)](https://www.bing.com/th?id=OHR.CapeBuffalo_JA-JP4477954927_UHD.jpg) |
-| 2026-01-02 | アドリア海に抱かれた歴史都市 | ヴェネツィア, イタリア (© Clement Leonard/Getty Images) | [![アドリア海に抱かれた歴史都市](https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_UHD.jpg) |
-| 2026-03-05 | 奇岩の谷に広がる幻想的な夜景 | ギョレメ国立公園, トルコ (© ONNAJA/Getty Images) | [![奇岩の谷に広がる幻想的な夜景](https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_320x240.jpg)](https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_UHD.jpg) |
+| 2026-06-12 | 野の花をかすめる色鮮やかな鳥 | ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library) | [![野の花をかすめる色鮮やかな鳥](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_320x240.jpg)](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg) |
+| 2026-09-26 | 標高約2,000mから見渡す大峡谷 | シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion) | [![標高約2,000mから見渡す大峡谷](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_320x240.jpg)](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg) |
+| 2026-03-29 | 夕焼けの空と海に佇む灯台 | ペギーズ・ポイント灯台, カナダ (© Prashanth Bala/Shutterstock) | [![夕焼けの空と海に佇む灯台](https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_320x240.jpg)](https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_UHD.jpg) |
 
 ## 🐉 [简体中文（中国）](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-09-07 | 历史沿运河流淌之地 | 老市政厅，班贝格，德国 (© SCStock/Getty Images) | [![历史沿运河流淌之地](https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_320x240.jpg)](https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg) |
-| 2026-03-12 | 排练中的翅膀 | 幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com) | [![排练中的翅膀](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_320x240.jpg)](https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg) |
-| 2026-05-04 | 科幻源于现实 | 乌莱德·索尔坦克萨尔，塔塔温区，突尼斯南部 (© Dark_Eni/Getty Images Plus) | [![科幻源于现实](https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_320x240.jpg)](https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg) |
+| 2026-01-03 | 传奇故事前的篇章 | 劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士 (© pongnathee kluaythong/Getty Images) | [![传奇故事前的篇章](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_320x240.jpg)](https://www.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg) |
+| 2026-03-06 | 混凝土中铸造的波浪 | 波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy) | [![混凝土中铸造的波浪](https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_320x240.jpg)](https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg) |
+| 2026-09-08 | 金色田野 | 东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures) | [![金色田野](https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_320x240.jpg)](https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg) |
 
