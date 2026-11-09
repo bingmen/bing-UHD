@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-11-08 04:28:28 UTC
+> Last updated: 2026-11-09 04:41:07 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-09 | A celebration that shines | Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![A celebration that shines](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg) |
 | 2026-11-08 | The giant that came back | A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock) | [![The giant that came back](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg) |
 | 2026-11-07 | A green tunnel through Maui | Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images) | [![A green tunnel through Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg) |
 | 2026-11-06 | One step closer to the summit | Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images) | [![One step closer to the summit](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_320x240.jpg)](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg) |
