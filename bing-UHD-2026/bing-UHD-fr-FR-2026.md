@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-11-09 04:41:37 UTC
+> Dernière mise à jour: 2026-11-10 05:58:10 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-10 | Permis de se relaxer | Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Permis de se relaxer](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg) |
 | 2026-11-09 | Ici, l’art trouve son rythme | Quartier historique de Triana, Séville, Espagne (© Andrzej Rostek/Getty Images) | [![Ici, l’art trouve son rythme](https://www.bing.com/th?id=OHR.TrianaSpain_FR-FR5872801405_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_FR-FR5872801405_UHD.jpg) |
 | 2026-11-08 | Célébration qui scintille | Lanternes pour Diwali, Mumbai, Maharashtra, Inde (© Dinodia Photo/Getty Images) | [![Célébration qui scintille](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-FR3288508792_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_FR-FR3288508792_UHD.jpg) |
 | 2026-11-07 | Un géant de retour | Bison dans le parc national Theodore Roosevelt, Dakota du Nord, États-Unis (© Tandem Stock/Adobe Stock) | [![Un géant de retour](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg) |
