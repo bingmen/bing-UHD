@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-09 04:40:11 UTC
+> Last updated: 2026-11-10 05:56:44 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-11 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://www.bing.com/th?id=OHR.RoseIsland_EN-GB4222638797_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-GB4222638797_UHD.jpg) |
 | 2026-11-10 | Where art finds its rhythm | Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images) | [![Where art finds its rhythm](https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-GB4312074959_UHD.jpg) |
 | 2026-11-09 | A celebration that shines | Lanterns for Diwali in Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![A celebration that shines](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-GB4404345220_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-GB4404345220_UHD.jpg) |
 | 2026-11-08 | Roaming the grasslands | A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock) | [![Roaming the grasslands](https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_EN-GB4535875354_UHD.jpg) |
