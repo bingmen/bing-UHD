@@ -1,9 +1,11 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2026
 
-> Last updated: 2026-11-09 04:39:42 UTC
+> Last updated: 2026-11-10 05:56:16 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-11 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-CA5604124548_UHD.jpg) |
+| 2026-11-10 | Where art finds its rhythm | Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images) | [![Where art finds its rhythm](https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-CA5715664258_UHD.jpg) |
 | 2026-11-09 | A celebration that shines | Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![A celebration that shines](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_EN-CA5815375040_UHD.jpg) |
 | 2026-11-08 | The giant that came back | A bison in the grasslands of Theodore Roosevelt National Park, North Dakota, USA (© Tandem Stock/Adobe Stock) | [![The giant that came back](https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_EN-CA6055061732_UHD.jpg) |
 | 2026-11-07 | A green tunnel through Maui | Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images) | [![A green tunnel through Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_320x240.jpg)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-CA6167003961_UHD.jpg) |
