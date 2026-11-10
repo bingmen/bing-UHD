@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-09 04:42:08 UTC
+> Ultimo aggiornamento: 2026-11-10 05:58:40 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-10 | Missione: relax | Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Missione: relax](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg) |
 | 2026-11-09 | Dove l’arte trova il suo ritmo | Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images) | [![Dove l’arte trova il suo ritmo](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_UHD.jpg) |
 | 2026-11-08 | Una festa che illumina | Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![Una festa che illumina](https://www.bing.com/th?id=OHR.DiwaliLamps_IT-IT6072370244_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_IT-IT6072370244_UHD.jpg) |
 | 2026-11-07 | Il ritorno del gigante | Un bisonte nelle praterie del Parco Nazionale Theodore Roosevelt, North Dakota, USA (© Tandem Stock/Adobe Stock) | [![Il ritorno del gigante](https://www.bing.com/th?id=OHR.DakotaBison_IT-IT5607960276_320x240.jpg)](https://www.bing.com/th?id=OHR.DakotaBison_IT-IT5607960276_UHD.jpg) |
