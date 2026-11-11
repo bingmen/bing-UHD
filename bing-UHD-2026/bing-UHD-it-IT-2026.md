@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-10 05:58:40 UTC
+> Ultimo aggiornamento: 2026-11-11 04:45:33 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-11 | Una foresta piena di meraviglie | Foresta Atlantica, Brasile (© FG Trade/Getty Images) | [![Una foresta piena di meraviglie](https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg) |
 | 2026-11-10 | Missione: relax | Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Missione: relax](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg) |
 | 2026-11-09 | Dove l’arte trova il suo ritmo | Quartiere storico di Triana, Siviglia, Spagna (© Andrzej Rostek/Getty Images) | [![Dove l’arte trova il suo ritmo](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_UHD.jpg) |
 | 2026-11-08 | Una festa che illumina | Lanterne per il Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images) | [![Una festa che illumina](https://www.bing.com/th?id=OHR.DiwaliLamps_IT-IT6072370244_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_IT-IT6072370244_UHD.jpg) |
