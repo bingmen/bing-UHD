@@ -1,6 +1,6 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新：2026-11-10 08:29:13 UTC
+> 最后更新：2026-11-11 04:46:58 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-05-23 | Harte Schale, starkes Leben | Schildkröten mit Schmetterlingen (© Patrick Gallet/Getty Images) | [![Harte Schale, starkes Leben](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_320x240.jpg)](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_DE-DE2682966963_UHD.jpg) |
-| 2026-10-26 | Der Klang des Herbstes | Wasserfälle bei Sitovo im Herbst, Plowdiw, Bulgarien (© Nadya85/Getty Images) | [![Der Klang des Herbstes](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_320x240.jpg)](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg) |
-| 2026-10-04 | Der Ruf des Universums | Artemis-I-Mondrakete am Startkomplex 39B, Kennedy Space Center, Florida, USA, 15. Juni 2022 (© EVA MARIE UZCATEGUI/Getty Images) | [![Der Ruf des Universums](https://www.bing.com/th?id=OHR.ArtemisRocket_DE-DE4474155042_320x240.jpg)](https://www.bing.com/th?id=OHR.ArtemisRocket_DE-DE4474155042_UHD.jpg) |
+| 2026-05-24 | Schutz für Europas natürliche Vielfalt | Naturpark Drei Zinnen, Südtirol, Italien (© Adisorn Fineday Chutikunakorn/Getty Images) | [![Schutz für Europas natürliche Vielfalt](https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_320x240.jpg)](https://www.bing.com/th?id=OHR.DolomitesPark_DE-DE0867398048_UHD.jpg) |
+| 2026-10-27 | Goldener Spiegel der Natur | Teichzypressen in herbstlicher Färbung, Georgia, USA (© Chris Moore/Getty Images) | [![Goldener Spiegel der Natur](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_320x240.jpg)](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg) |
+| 2026-10-05 | Lehren der Natur | Adeliepinguine, Antarktis (© Otto Plantema/Minden Pictures) | [![Lehren der Natur](https://www.bing.com/th?id=OHR.AdelieTeacher_DE-DE4553591722_320x240.jpg)](https://www.bing.com/th?id=OHR.AdelieTeacher_DE-DE4553591722_UHD.jpg) |
 
 ## 🍁 [英语（加拿大）](bing-UHD-en-CA-2026.md)
 
@@ -24,55 +24,55 @@
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-13 | Wings in rehearsal | Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com) | [![Wings in rehearsal](https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_320x240.jpg)](https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_UHD.jpg) |
-| 2026-03-03 | Floating legacies | Harbour and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock) | [![Floating legacies](https://www.bing.com/th?id=OHR.SamuiThailand_EN-GB6229613519_320x240.jpg)](https://www.bing.com/th?id=OHR.SamuiThailand_EN-GB6229613519_UHD.jpg) |
-| 2026-10-19 | The road that runs on water | Grand Canal in Venice, Italy (© Juan Romero/Cavan Images) | [![The road that runs on water](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_320x240.jpg)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_UHD.jpg) |
+| 2026-03-14 | A quiet masterpiece in stone | Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy) | [![A quiet masterpiece in stone](https://www.bing.com/th?id=OHR.VendeeVaults_EN-GB7453353937_320x240.jpg)](https://www.bing.com/th?id=OHR.VendeeVaults_EN-GB7453353937_UHD.jpg) |
+| 2026-03-04 | Guardians of the wild | African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com) | [![Guardians of the wild](https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_320x240.jpg)](https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_UHD.jpg) |
+| 2026-10-20 | Life in the slow lane | Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![Life in the slow lane](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_320x240.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg) |
 
 ## 🦁 [英语（印度）](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-28 | The untamed spirit | African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images) | [![The untamed spirit](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_320x240.jpg)](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_UHD.jpg) |
-| 2026-06-03 | Where the road stops, the ride begins | Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images) | [![Where the road stops, the ride begins](https://www.bing.com/th?id=OHR.BardenasReales_EN-IN2901722353_320x240.jpg)](https://www.bing.com/th?id=OHR.BardenasReales_EN-IN2901722353_UHD.jpg) |
-| 2026-03-31 | Underground paradise | Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images) | [![Underground paradise](https://www.bing.com/th?id=OHR.ParadiseCave_EN-IN4544625926_320x240.jpg)](https://www.bing.com/th?id=OHR.ParadiseCave_EN-IN4544625926_UHD.jpg) |
+| 2026-03-29 | Serenity by the sea | Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock) | [![Serenity by the sea](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_320x240.jpg)](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-IN4249382875_UHD.jpg) |
+| 2026-06-04 | Fancy feathers | Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures) | [![Fancy feathers](https://www.bing.com/th?id=OHR.PreeningEgret_EN-IN3047678706_320x240.jpg)](https://www.bing.com/th?id=OHR.PreeningEgret_EN-IN3047678706_UHD.jpg) |
+| 2026-04-01 | Stone, story and stillness | The Great Stupa at Sanchi, Madhya Pradesh (© Dmitry Rukhlenko - Photos of India/Alamy) | [![Stone, story and stillness](https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_320x240.jpg)](https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg) |
 
 ## 🗽 [英语（美国）](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-07 | Where the river tests the brave | Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images) | [![Where the river tests the brave](https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_320x240.jpg)](https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg) |
-| 2026-04-20 | Stories start here | Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy) | [![Stories start here](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_320x240.jpg)](https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg) |
-| 2026-05-20 | The edge of Mallorca | Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images) | [![The edge of Mallorca](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_320x240.jpg)](https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg) |
+| 2026-08-08 | Guiding ships through history | Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock) | [![Guiding ships through history](https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_320x240.jpg)](https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg) |
+| 2026-04-21 | The adventure doesn't end at sundown | Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion) | [![The adventure doesn't end at sundown](https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg) |
+| 2026-05-21 | Where the buzz begins | Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock) | [![Where the buzz begins](https://www.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_320x240.jpg)](https://www.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg) |
 
 ## 🐓 [法语（法国）](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-08-20 | Les voix du canal | Une orque à la surface du canal de Lynn, près des montagnes Chilkat, Alaska, États-Unis (© John Hyde/Alamy) | [![Les voix du canal](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_320x240.jpg)](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_UHD.jpg) |
-| 2026-01-11 | De la résistance au rayonnement | Murs bleus de Chefchaouen, Maroc (© AnetteAndersen/Getty Images) | [![De la résistance au rayonnement](https://www.bing.com/th?id=OHR.BlueMorocco_FR-FR4860652279_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueMorocco_FR-FR4860652279_UHD.jpg) |
-| 2026-02-18 | Nés pour rester sauvages | Chevaux de Przewalski (© Nemyrivskyi Viacheslav/Getty Images) | [![Nés pour rester sauvages](https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_320x240.jpg)](https://www.bing.com/th?id=OHR.PrzewalskisHorse_FR-FR3326076723_UHD.jpg) |
+| 2026-08-21 | Accrochez-vous ! | Route sinueuse du col du Julier, Suisse (© Westend61/Getty Images) | [![Accrochez-vous !](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_320x240.jpg)](https://www.bing.com/th?id=OHR.JulierPass_FR-FR0870283971_UHD.jpg) |
+| 2026-01-12 | L’Estonie, le paradis de nos loutres d’Europe | Une loutre d’Europe et son petit, Estonie (© Sven Zacek/naturepl.com) | [![L’Estonie, le paradis de nos loutres d’Europe](https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_320x240.jpg)](https://www.bing.com/th?id=OHR.SnowOtters_FR-FR5221259508_UHD.jpg) |
+| 2026-02-19 | Un regard hypnotisant | Dragon's Eye, formation rocheuse sur la plage d’Uttakleiv, Norvège (© reisegraf/Getty Images) | [![Un regard hypnotisant](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-FR6691267699_320x240.jpg)](https://www.bing.com/th?id=OHR.DragonsEyeRock_FR-FR6691267699_UHD.jpg) |
 
 ## ⭐ [意大利语（意大利）](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-05-31 | Equilibrio naturale | Vista aerea del parco nazionale delle Everglades, Florida, USA (© Tetra Images/Getty Images) | [![Equilibrio naturale](https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_320x240.jpg)](https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_UHD.jpg) |
-| 2026-08-25 | Giganti antichi | Parchi Nazionali e Statali di Redwood, California, USA (© HadelProductions/Getty Images) | [![Giganti antichi](https://www.bing.com/th?id=OHR.RedwoodPark_IT-IT1204038943_320x240.jpg)](https://www.bing.com/th?id=OHR.RedwoodPark_IT-IT1204038943_UHD.jpg) |
-| 2026-07-23 | Una sinfonia di petali | Fiore di Dalia rosa (© Harald Biebel/Getty Images) | [![Una sinfonia di petali](https://www.bing.com/th?id=OHR.PinkDahlia_IT-IT4710141441_320x240.jpg)](https://www.bing.com/th?id=OHR.PinkDahlia_IT-IT4710141441_UHD.jpg) |
+| 2026-06-01 | Contro vento, onde e tempo | Castello di Dunseverick, contea di Antrim, Irlanda del Nord (© Krzysztof Rogalski/Getty Images) | [![Contro vento, onde e tempo](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_320x240.jpg)](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg) |
+| 2026-08-26 | Una tempesta di colori | L'aurora boreale su Kirkjufell, Islanda (© Cavan Images/Alamy) | [![Una tempesta di colori](https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038_320x240.jpg)](https://www.bing.com/th?id=OHR.AurorasIceland_IT-IT1298284038_UHD.jpg) |
+| 2026-07-24 | Famiglia, a colori | Stormo di fenicotteri americani, Isola Isabela, Isole Galápagos, Ecuador (© Tui De Roy/Nature Picture Library) | [![Famiglia, a colori](https://www.bing.com/th?id=OHR.GalapagosFlamingos_IT-IT7890055647_320x240.jpg)](https://www.bing.com/th?id=OHR.GalapagosFlamingos_IT-IT7890055647_UHD.jpg) |
 
 ## 🌸 [日语（日本）](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-06-13 | 今日ははやぶさの日 | はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images) | [![今日ははやぶさの日](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_320x240.jpg)](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg) |
-| 2026-09-27 | 今日は横浜ベイブリッジ開通日 | 横浜ベイブリッジ, 神奈川県 横浜市 (© Yuga Kurita/Getty Images) | [![今日は横浜ベイブリッジ開通日](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_320x240.jpg)](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg) |
-| 2026-03-30 | 求愛ダンスが得意な鳥 | アネハヅル, インド (© Axel Gomille/Nature Picture Library) | [![求愛ダンスが得意な鳥](https://www.bing.com/th?id=OHR.IndiaCranes_JA-JP0130275400_320x240.jpg)](https://www.bing.com/th?id=OHR.IndiaCranes_JA-JP0130275400_UHD.jpg) |
+| 2026-06-14 | 夕焼けに染まる層をなす岩の景観 | バッドランズ国立公園, 米国 サウスダコタ州 (© Troy Harrison/Getty Images) | [![夕焼けに染まる層をなす岩の景観](https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_320x240.jpg)](https://www.bing.com/th?id=OHR.BadSunset_JA-JP5960860484_UHD.jpg) |
+| 2026-09-28 | 優美な柱が並ぶ宮殿 | アンベール城, インド (© R.M. Nunes/Getty Images) | [![優美な柱が並ぶ宮殿](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_320x240.jpg)](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg) |
+| 2026-03-31 | 光に照らされた幻想的な洞 | 天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images) | [![光に照らされた幻想的な洞](https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_320x240.jpg)](https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_UHD.jpg) |
 
 ## 🐉 [简体中文（中国）](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-01-04 | 王者视野 | 国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) | [![王者视野](https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_320x240.jpg)](https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg) |
-| 2026-03-07 | 治愈、宁静且充满希望 | 布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images) | [![治愈、宁静且充满希望](https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_320x240.jpg)](https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg) |
-| 2026-09-09 | 印度西海岸的生活 | 安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images) | [![印度西海岸的生活](https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_320x240.jpg)](https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg) |
+| 2026-01-05 | 高角羚群紧急戒备 | 一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images) | [![高角羚群紧急戒备](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_320x240.jpg)](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg) |
+| 2026-03-08 | 节约日光的艺术 | 乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images) | [![节约日光的艺术](https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_320x240.jpg)](https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg) |
+| 2026-09-10 | 俯瞰大地拼图 | 奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images) | [![俯瞰大地拼图](https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_320x240.jpg)](https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg) |
 

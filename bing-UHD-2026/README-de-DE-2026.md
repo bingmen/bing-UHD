@@ -1,6 +1,6 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert：2026-11-10 08:29:12 UTC
+> Zuletzt aktualisiert：2026-11-11 04:46:58 UTC
 
 [de-DE](README-de-DE-2026.md) | [en-CA](README-en-CA-2026.md) | [en-GB](README-en-GB-2026.md) | [en-IN](README-en-IN-2026.md) | [en-US](README-en-US-2026.md) | [fr-FR](README-fr-FR-2026.md) | [it-IT](README-it-IT-2026.md) | [ja-JP](README-ja-JP-2026.md) | [zh-CN](README-zh-CN-2026.md)
 
@@ -8,9 +8,9 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2026-03-13 | Ein stilles Meisterwerk aus Stein | Gewölbe der Kirche Notre‑Dame‑de‑Bon‑Port, Les Sables‑d’Olonne, Frankreich (© Helmut Meyer zur Capellen/Alamy) | [![Ein stilles Meisterwerk aus Stein](https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_320x240.jpg)](https://www.bing.com/th?id=OHR.VendeeVaults_DE-DE9788483793_UHD.jpg) |
-| 2026-03-22 | Wo Wasser Grenzen zieht | Tanganjikasee, Afrika (© BEST-BACKGROUNDS/NASA/Shutterstock) | [![Wo Wasser Grenzen zieht](https://www.bing.com/th?id=OHR.TanganyikaWater_DE-DE8174589395_320x240.jpg)](https://www.bing.com/th?id=OHR.TanganyikaWater_DE-DE8174589395_UHD.jpg) |
-| 2026-06-19 | Meer, Licht und Weite | Leuchtturm „La Rocchetta“, Piombino, Italien (© StevanZZ/Getty Images) | [![Meer, Licht und Weite](https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341_320x240.jpg)](https://www.bing.com/th?id=OHR.IsolaElba_DE-DE0710166341_UHD.jpg) |
+| 2026-03-14 | Ein uralter Blick auf π | Lanyon Quoit, neolithischer Dolmen in Cornwall, England (© Helen Hotson/Alamy) | [![Ein uralter Blick auf π](https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_320x240.jpg)](https://www.bing.com/th?id=OHR.CornwallDolmen_DE-DE0215801252_UHD.jpg) |
+| 2026-03-23 | Wenn das Wetter den Weg weist | Gewitter über Saguaro-Kakteen, Sonora-Wüste, Arizona, USA (© Jack Dykinga/Nature Picture Library) | [![Wenn das Wetter den Weg weist](https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_320x240.jpg)](https://www.bing.com/th?id=OHR.SonoranStorm_DE-DE8439783088_UHD.jpg) |
+| 2026-06-20 | Unter vollen Segeln | Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock) | [![Unter vollen Segeln](https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_320x240.jpg)](https://www.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg) |
 
 ## 🍁 [Englisch (Kanada)](bing-UHD-en-CA-2026.md)
 
@@ -24,55 +24,55 @@
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-01-05 | A royal view | Kings Mountain, Chugach Mountains, Alaska, United States (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion) | [![A royal view](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_320x240.jpg)](https://www.bing.com/th?id=OHR.KingMountain_EN-GB6606181740_UHD.jpg) |
-| 2026-03-22 | Where roots run wild | Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library) | [![Where roots run wild](https://www.bing.com/th?id=OHR.LeteaForest_EN-GB4037759034_320x240.jpg)](https://www.bing.com/th?id=OHR.LeteaForest_EN-GB4037759034_UHD.jpg) |
-| 2026-09-03 | An act of wilderness | Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images) | [![An act of wilderness](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_320x240.jpg)](https://www.bing.com/th?id=OHR.AZWilderness_EN-GB2345947468_UHD.jpg) |
+| 2026-01-06 | Herd on high alert | A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images) | [![Herd on high alert](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_320x240.jpg)](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-GB6756876287_UHD.jpg) |
+| 2026-03-23 | When water draws the line | Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock) | [![When water draws the line](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-GB4227251929_320x240.jpg)](https://www.bing.com/th?id=OHR.TanganyikaWater_EN-GB4227251929_UHD.jpg) |
+| 2026-09-04 | Red and white on the horizon | Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images) | [![Red and white on the horizon](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_320x240.jpg)](https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_UHD.jpg) |
 
 ## 🦁 [Englisch (Indien)](bing-UHD-en-IN-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-08-06 | Where the river tests the brave | Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images) | [![Where the river tests the brave](https://www.bing.com/th?id=OHR.MaraCrossing_EN-IN3635876531_320x240.jpg)](https://www.bing.com/th?id=OHR.MaraCrossing_EN-IN3635876531_UHD.jpg) |
-| 2026-03-27 | Still burning bright | Radio City Music Hall in New York City, United States (© Clarence Holmes Photography/Alamy) | [![Still burning bright](https://www.bing.com/th?id=OHR.RadioCityHall_EN-IN3942844565_320x240.jpg)](https://www.bing.com/th?id=OHR.RadioCityHall_EN-IN3942844565_UHD.jpg) |
-| 2026-06-14 | Ducking under water | Mallard duck (© Philippe Paternolli/Getty Images) | [![Ducking under water](https://www.bing.com/th?id=OHR.DuckPond_EN-IN7848254317_320x240.jpg)](https://www.bing.com/th?id=OHR.DuckPond_EN-IN7848254317_UHD.jpg) |
+| 2026-08-07 | The great balancing act | Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images) | [![The great balancing act](https://www.bing.com/th?id=OHR.ValleyDreams_EN-IN0485781632_320x240.jpg)](https://www.bing.com/th?id=OHR.ValleyDreams_EN-IN0485781632_UHD.jpg) |
+| 2026-03-28 | The untamed spirit | African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images) | [![The untamed spirit](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_320x240.jpg)](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-IN4090817745_UHD.jpg) |
+| 2026-06-15 | Aged to scenic perfection | Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images) | [![Aged to scenic perfection](https://www.bing.com/th?id=OHR.ParkEstd_EN-IN7979223128_320x240.jpg)](https://www.bing.com/th?id=OHR.ParkEstd_EN-IN7979223128_UHD.jpg) |
 
 ## 🗽 [Englisch (Vereinigte Staaten)](bing-UHD-en-US-2026.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2026-03-24 | Guided by the weather | Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library) | [![Guided by the weather](https://www.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_320x240.jpg)](https://www.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg) |
-| 2026-08-01 | Trailing through time | Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images) | [![Trailing through time](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_320x240.jpg)](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg) |
-| 2026-07-11 | The land of moving shorelines | Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images) | [![The land of moving shorelines](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_320x240.jpg)](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg) |
+| 2026-03-25 | The shape of spring | Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images) | [![The shape of spring](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_320x240.jpg)](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg) |
+| 2026-08-02 | The power of Kīlauea | A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images) | [![The power of Kīlauea](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_320x240.jpg)](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg) |
+| 2026-07-12 | Where Brittany meets the tide | Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock) | [![Where Brittany meets the tide](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_320x240.jpg)](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg) |
 
 ## 🐓 [Französisch (Frankreich)](bing-UHD-fr-FR-2026.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2026-06-19 | Entre ciel, mer et mémoire | Phare de La Rocchetta, Piombino, Toscane, Italie (© StevanZZ/Getty Images) | [![Entre ciel, mer et mémoire](https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_320x240.jpg)](https://www.bing.com/th?id=OHR.IsolaElba_FR-FR6759091748_UHD.jpg) |
-| 2026-07-01 | Le Canada, sculpté par l'Atlantique | Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada (© Kaitlyn McLachlan/Getty Images) | [![Le Canada, sculpté par l'Atlantique](https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_320x240.jpg)](https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_UHD.jpg) |
-| 2026-05-27 | Aussi attendrissante qu’essentielle | Loutre de mer, Baie de Kachemak, Homer, Alaska, États-Unis (© roclwyr/Getty Images) | [![Aussi attendrissante qu’essentielle](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_320x240.jpg)](https://www.bing.com/th?id=OHR.OtterDay_FR-FR4235881841_UHD.jpg) |
+| 2026-06-20 | Sculpté dans la glace | Arche naturelle sculptée dans un iceberg, Océan Antarctique (© Steven Kazlowski/Nature Picture Library) | [![Sculpté dans la glace](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_320x240.jpg)](https://www.bing.com/th?id=OHR.ArchedIceberg_FR-FR8603937918_UHD.jpg) |
+| 2026-07-02 | Dans l'univers sacré d'Esna | Plafond du temple d'Esna, Égypte (© Nick Brundle Photography/Getty Images) | [![Dans l'univers sacré d'Esna](https://www.bing.com/th?id=OHR.TempleEsna_FR-FR7122811032_320x240.jpg)](https://www.bing.com/th?id=OHR.TempleEsna_FR-FR7122811032_UHD.jpg) |
+| 2026-05-28 | Quand architecture et discipline ne font qu’une | Forteresse de Hwaseong, Suwon, Corée du Sud (© aomam/Getty Images) | [![Quand architecture et discipline ne font qu’une](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_320x240.jpg)](https://www.bing.com/th?id=OHR.HwaesongFortress_FR-FR4479337112_UHD.jpg) |
 
 ## ⭐ [Italienisch (Italien)](bing-UHD-it-IT-2026.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2026-10-20 | La lentezza come strategia | Giovane bradipo tridattilo dalla gola bruna, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures) | [![La lentezza come strategia](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_320x240.jpg)](https://www.bing.com/th?id=OHR.BrownSloth_IT-IT3225849910_UHD.jpg) |
-| 2026-04-08 | La città della musica | Seattle, Washington, USA (© Jim Patterson/Tandem Stills + Motion) | [![La città della musica](https://www.bing.com/th?id=OHR.SeattleSunrise_IT-IT2054215926_320x240.jpg)](https://www.bing.com/th?id=OHR.SeattleSunrise_IT-IT2054215926_UHD.jpg) |
-| 2026-01-27 | Oltre il bianco velo? | Pellicani crespi, lago Kerkini, Grecia (© Guy Edwardes/naturepl.com) | [![Oltre il bianco velo?](https://www.bing.com/th?id=OHR.DalmationPelicans_IT-IT3852237792_320x240.jpg)](https://www.bing.com/th?id=OHR.DalmationPelicans_IT-IT3852237792_UHD.jpg) |
+| 2026-10-21 | Un ponte appena nato | Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam (© VU PHAM VAN/Getty Images) | [![Un ponte appena nato](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_320x240.jpg)](https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg) |
+| 2026-04-09 | Velo di luce | Cascata Sgwd yr Eira, parco nazionale Bannau Brycheiniog, Galles (© Guy Edwardes/Nature Picture Library) | [![Velo di luce](https://www.bing.com/th?id=OHR.WalesWaterfall_IT-IT9480992833_320x240.jpg)](https://www.bing.com/th?id=OHR.WalesWaterfall_IT-IT9480992833_UHD.jpg) |
+| 2026-01-28 | L'acqua e il respiro | Parco Nazionale di Whanganui, Retaruke, Nuova Zelanda (© Matthew Micah Wright/Getty Images) | [![L'acqua e il respiro](https://www.bing.com/th?id=OHR.WhanganuiPark_IT-IT3958915407_320x240.jpg)](https://www.bing.com/th?id=OHR.WhanganuiPark_IT-IT3958915407_UHD.jpg) |
 
 ## 🌸 [Japanisch (Japan)](bing-UHD-ja-JP-2026.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2026-10-14 | 今日は鉄道の日 | 嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock) | [![今日は鉄道の日](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_320x240.jpg)](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg) |
-| 2026-09-01 | 9 月は米国のキノコ月間 | オチバタケ, ベラルーシ (© Máté/Nature Picture Library) | [![9 月は米国のキノコ月間](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_320x240.jpg)](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg) |
-| 2026-08-16 | 歴史を刻む石造りの修道院跡 | ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock) | [![歴史を刻む石造りの修道院跡](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_320x240.jpg)](https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg) |
+| 2026-10-15 | 黄金色に輝く旧市街 | ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock) | [![黄金色に輝く旧市街](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_320x240.jpg)](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg) |
+| 2026-09-02 | 海岸に並ぶカラフルな小屋 | ビーチハット, イングランド (© stevendocwra/Getty Images) | [![海岸に並ぶカラフルな小屋](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_320x240.jpg)](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg) |
+| 2026-08-17 | イソギンチャクにすむ小魚たち | カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library) | [![イソギンチャクにすむ小魚たち](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_320x240.jpg)](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg) |
 
 ## 🐉 [Vereinfachtes Chinesisch (China)](bing-UHD-zh-CN-2026.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2026-05-29 | 巅峰历史时刻 | 珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images) | [![巅峰历史时刻](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_320x240.jpg)](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg) |
-| 2026-11-01 | 林间迷雾 | 黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images) | [![林间迷雾](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_320x240.jpg)](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg) |
-| 2026-01-17 | 普雷比希托广场上的穹顶 | 保罗圣方济圣殿，那不勒斯，意大利 (© javarman3/Getty Images) | [![普雷比希托广场上的穹顶](https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_320x240.jpg)](https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg) |
+| 2026-05-30 | 读懂黑白之间 | 平原斑马幼崽，埃托沙国家公园，纳米比亚 (© Sharon Heald/Nature Picture Library) | [![读懂黑白之间](https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_320x240.jpg)](https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg) |
+| 2026-11-02 | 写在冰上的未来 | 北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大 (© Danita Delimont/Adobe Stock) | [![写在冰上的未来](https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_320x240.jpg)](https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg) |
+| 2026-01-18 | 伪装成沙漠的奇境 | 白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images) | [![伪装成沙漠的奇境](https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_320x240.jpg)](https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg) |
 
