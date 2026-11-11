@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-10 05:59:08 UTC
+> 最終更新: 2026-11-11 04:46:02 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-11 | 驚きに満ちた森 | 大西洋岸森林、ブラジル (© FG Trade/Getty Images) | [![驚きに満ちた森](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg) |
 | 2026-11-10 | 楽園でひと休み | ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images) | [![楽園でひと休み](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg) |
 | 2026-11-09 | 芸術がリズムを刻む街 | セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images) | [![芸術がリズムを刻む街](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg) |
 | 2026-11-08 | 光に包まれる祝祭 | ディーワーリーを彩るランタン、ムンバイ、マハーラーシュトラ州、インド (© Dinodia Photo/Getty Images) | [![光に包まれる祝祭](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_320x240.jpg)](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg) |
