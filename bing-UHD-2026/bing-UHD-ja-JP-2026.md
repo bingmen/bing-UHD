@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-11 04:46:02 UTC
+> 最終更新: 2026-11-12 05:48:20 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-12 | 自然が生んだ建築美 | ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images) | [![自然が生んだ建築美](https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_UHD.jpg) |
 | 2026-11-11 | 驚きに満ちた森 | 大西洋岸森林、ブラジル (© FG Trade/Getty Images) | [![驚きに満ちた森](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg) |
 | 2026-11-10 | 楽園でひと休み | ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images) | [![楽園でひと休み](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg) |
 | 2026-11-09 | 芸術がリズムを刻む街 | セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images) | [![芸術がリズムを刻む街](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg) |
