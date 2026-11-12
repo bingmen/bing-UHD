@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-11-11 04:43:57 UTC
+> Last updated: 2026-11-12 05:46:13 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-12 | Architecture without an architect | North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architecture without an architect](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg) |
 | 2026-11-11 | A forest full of wonder | The Atlantic Forest, Brazil (© FG Trade/Getty Images) | [![A forest full of wonder](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_UHD.jpg) |
 | 2026-11-10 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://www.bing.com/th?id=OHR.RoseIsland_EN-IN1259562642_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-IN1259562642_UHD.jpg) |
 | 2026-11-09 | Where art finds its rhythm | Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images) | [![Where art finds its rhythm](https://www.bing.com/th?id=OHR.TrianaSpain_EN-IN5231956941_320x240.jpg)](https://www.bing.com/th?id=OHR.TrianaSpain_EN-IN5231956941_UHD.jpg) |
