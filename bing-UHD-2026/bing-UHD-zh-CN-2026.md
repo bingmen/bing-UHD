@@ -1,9 +1,10 @@
 # Bing 每日壁纸 - UHD - zh-CN - 2026
 
-> 最后更新: 2026-11-12 05:48:49 UTC
+> 最后更新: 2026-11-13 05:06:18 UTC
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
+| 2026-11-13 | 冰下秘境 | 亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images) | [![冰下秘境](https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg) |
 | 2026-11-12 | 没有建筑师的建筑杰作 | 北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images) | [![没有建筑师的建筑杰作](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg) |
 | 2026-11-11 | 奇妙纷呈的森林 | 大西洋森林，巴西 (© FG Trade/Getty Images) | [![奇妙纷呈的森林](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg) |
 | 2026-11-10 | 惬意放松，尽享海岛时光 | 玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images) | [![惬意放松，尽享海岛时光](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg) |
