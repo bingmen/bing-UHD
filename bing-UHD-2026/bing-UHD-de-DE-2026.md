@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-11-12 05:44:50 UTC
+> Zuletzt aktualisiert: 2026-11-13 05:02:22 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-13 | Verborgene Tiefen | Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images) | [![Verborgene Tiefen](https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg) |
 | 2026-11-12 | Architektur ohne Architekten | North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architektur ohne Architekten](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg) |
 | 2026-11-11 | Ein Wald voller Wunder | Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images) | [![Ein Wald voller Wunder](https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg) |
 | 2026-11-10 | Die Lizenz zum Chillen | Luftaufnahme von Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Die Lizenz zum Chillen](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg) |
