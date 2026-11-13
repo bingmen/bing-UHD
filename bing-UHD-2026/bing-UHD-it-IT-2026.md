@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-12 05:47:50 UTC
+> Ultimo aggiornamento: 2026-11-13 05:05:20 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-13 | Misteri sommersi | Lago Abraham, Alberta, Canada (© Guang Cao/Getty Images) | [![Misteri sommersi](https://www.bing.com/th?id=OHR.AbrahamCanada_IT-IT8830047843_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_IT-IT8830047843_UHD.jpg) |
 | 2026-11-12 | Architettura senza architetto | North Window, Parco Nazionale degli Arches, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architettura senza architetto](https://www.bing.com/th?id=OHR.NorthWindow_IT-IT7586548726_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_IT-IT7586548726_UHD.jpg) |
 | 2026-11-11 | Una foresta piena di meraviglie | Foresta Atlantica, Brasile (© FG Trade/Getty Images) | [![Una foresta piena di meraviglie](https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg) |
 | 2026-11-10 | Missione: relax | Vista aerea di Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Missione: relax](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_IT-IT6994665330_UHD.jpg) |
