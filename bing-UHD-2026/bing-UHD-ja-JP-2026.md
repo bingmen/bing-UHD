@@ -1,9 +1,10 @@
 # Bing デイリー壁紙 - UHD - ja-JP - 2026
 
-> 最終更新: 2026-11-12 05:48:20 UTC
+> 最終更新: 2026-11-13 05:05:51 UTC
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
+| 2026-11-13 | 氷の下の神秘 | アブラハム湖、アルバータ州、カナダ (© Guang Cao/Getty Images) | [![氷の下の神秘](https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_UHD.jpg) |
 | 2026-11-12 | 自然が生んだ建築美 | ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images) | [![自然が生んだ建築美](https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_UHD.jpg) |
 | 2026-11-11 | 驚きに満ちた森 | 大西洋岸森林、ブラジル (© FG Trade/Getty Images) | [![驚きに満ちた森](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg) |
 | 2026-11-10 | 楽園でひと休み | ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images) | [![楽園でひと休み](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg) |
