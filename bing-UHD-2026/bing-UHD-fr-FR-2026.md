@@ -1,9 +1,10 @@
 # Fond d'écran quotidien Bing - UHD - fr-FR - 2026
 
-> Dernière mise à jour: 2026-11-12 05:47:15 UTC
+> Dernière mise à jour: 2026-11-13 05:04:47 UTC
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
+| 2026-11-13 | Des profondeurs mystérieuses | Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images) | [![Des profondeurs mystérieuses](https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg) |
 | 2026-11-12 | Architecture sans architecte | North Window, parc national des Arches, Moab, Utah, États-Unis (© lightphoto/Getty Images) | [![Architecture sans architecte](https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_UHD.jpg) |
 | 2026-11-11 | Une flamme rallumée chaque jour | Arc de Triomphe, Paris, France (© Beboy_ltd/Getty Images) | [![Une flamme rallumée chaque jour](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_320x240.jpg)](https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg) |
 | 2026-11-10 | Permis de se relaxer | Vue aérienne de Rose Island, Bahamas (© Abstract Aerial Art/Getty Images) | [![Permis de se relaxer](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg) |
