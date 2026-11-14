@@ -1,9 +1,10 @@
 # Sfondo giornaliero di Bing - UHD - it-IT - 2026
 
-> Ultimo aggiornamento: 2026-11-13 05:05:20 UTC
+> Ultimo aggiornamento: 2026-11-14 04:57:45 UTC
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
+| 2026-11-14 | Sempre più in alto | Victoria Harbour, Hong Kong, Cina (© Juan Romero/Cavan Images) | [![Sempre più in alto](https://www.bing.com/th?id=OHR.BlueHK_IT-IT8939331622_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueHK_IT-IT8939331622_UHD.jpg) |
 | 2026-11-13 | Misteri sommersi | Lago Abraham, Alberta, Canada (© Guang Cao/Getty Images) | [![Misteri sommersi](https://www.bing.com/th?id=OHR.AbrahamCanada_IT-IT8830047843_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_IT-IT8830047843_UHD.jpg) |
 | 2026-11-12 | Architettura senza architetto | North Window, Parco Nazionale degli Arches, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architettura senza architetto](https://www.bing.com/th?id=OHR.NorthWindow_IT-IT7586548726_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_IT-IT7586548726_UHD.jpg) |
 | 2026-11-11 | Una foresta piena di meraviglie | Foresta Atlantica, Brasile (© FG Trade/Getty Images) | [![Una foresta piena di meraviglie](https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg) |
