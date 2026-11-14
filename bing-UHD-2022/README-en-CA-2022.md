@@ -1,6 +1,6 @@
 # Bing Daily Wallpaper - UHD - en-CA - 2022
 
-> Last updated：2026-11-13 08:08:13 UTC
+> Last updated：2026-11-14 04:59:03 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-10-26 | Ein Geist in den Bergen | Brockengespenst im Nationalpark Zentralbalkan, Bulgarien (© Maya Karkalicheva/Getty Images) | [![Ein Geist in den Bergen](https://www.bing.com/th?id=OHR.BrockenSpecter_DE-DE3726514674_320x240.jpg)](https://www.bing.com/th?id=OHR.BrockenSpecter_DE-DE3726514674_UHD.jpg) |
-| 2022-08-06 | Kleine Insel, großes Meer | Luftbild der Insel Pantaleu nahe Sant Elm, Mallorca, Spanien (© Dimitri Weber/Amazing Aerial Agency) | [![Kleine Insel, großes Meer](https://www.bing.com/th?id=OHR.EsPantaleu_DE-DE0677357046_320x240.jpg)](https://www.bing.com/th?id=OHR.EsPantaleu_DE-DE0677357046_UHD.jpg) |
-| 2022-10-18 | Nachts außerhalb des Museums | Guggenheim-Museum Bilbao, Spanien (© Jeremy Horner/Getty Images) | [![Nachts außerhalb des Museums](https://www.bing.com/th?id=OHR.GB25Anni_DE-DE7299315520_320x240.jpg)](https://www.bing.com/th?id=OHR.GB25Anni_DE-DE7299315520_UHD.jpg) |
+| 2022-11-29 | Traumhafte Gipfelaussicht | Blick von der Kampenwand auf die Chiemgauer Alpen, Aschau im Chiemgau, Bayern (© Toni Anzenberger/plainpicture) | [![Traumhafte Gipfelaussicht](https://www.bing.com/th?id=OHR.AschauChiemgau_DE-DE6716018830_320x240.jpg)](https://www.bing.com/th?id=OHR.AschauChiemgau_DE-DE6716018830_UHD.jpg) |
+| 2022-10-31 | Wer streift durch das unheimliche Waldstück? | Wychwood Forest nahe Chipping Norton, Oxfordshire, England, Vereinigtes Königreich (© Frederick Ardley/Getty Images) | [![Wer streift durch das unheimliche Waldstück?](https://www.bing.com/th?id=OHR.WychwoodForest_DE-DE0714020420_320x240.jpg)](https://www.bing.com/th?id=OHR.WychwoodForest_DE-DE0714020420_UHD.jpg) |
+| 2022-08-20 | Retten und feiern Sie die Honigbienen | Bienenstöcke im Biosphärenreservat Muniellos, Provinz Asturien, Spanien (© ABB Photo/Shutterstock) | [![Retten und feiern Sie die Honigbienen](https://www.bing.com/th?id=OHR.BearProof_DE-DE4987066662_320x240.jpg)](https://www.bing.com/th?id=OHR.BearProof_DE-DE4987066662_UHD.jpg) |
 
 ## 🍁 [English (Canada)](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-08-23 | Rebels of the owl world | A burrowing owl chick and adult in South Florida (© Carlos Carreno/Getty Images) | [![Rebels of the owl world](https://www.bing.com/th?id=OHR.TenderMoment_EN-CA7914594910_320x240.jpg)](https://www.bing.com/th?id=OHR.TenderMoment_EN-CA7914594910_UHD.jpg) |
-| 2022-12-29 | A life-sized snow globe | Maloja, Switzerland (© Roberto Moiola/Getty) | [![A life-sized snow globe](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-CA0131036296_320x240.jpg)](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-CA0131036296_UHD.jpg) |
-| 2022-07-14 | Rocks rock! | Basalt columns of Giant's Causeway, Northern Ireland, United Kingdom (© Olimpio Fantuz/eStock Photo) | [![Rocks rock!](https://www.bing.com/th?id=OHR.BasaltGiants_EN-CA3440264817_320x240.jpg)](https://www.bing.com/th?id=OHR.BasaltGiants_EN-CA3440264817_UHD.jpg) |
+| 2022-10-26 | Park of the Monsters | Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy) | [![Park of the Monsters](https://www.bing.com/th?id=OHR.OrcusMouth_EN-CA8687001963_320x240.jpg)](https://www.bing.com/th?id=OHR.OrcusMouth_EN-CA8687001963_UHD.jpg) |
+| 2022-08-06 | Festival fever | Edinburgh city skyline at night, Scotland (© Suranga Weeratuna/Alamy) | [![Festival fever](https://www.bing.com/th?id=OHR.MilitaryTattoo_EN-CA4590477064_320x240.jpg)](https://www.bing.com/th?id=OHR.MilitaryTattoo_EN-CA4590477064_UHD.jpg) |
+| 2022-10-18 | Widespread and long-eared | Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy) | [![Widespread and long-eared](https://www.bing.com/th?id=OHR.SwedenOwl_EN-CA5369836544_320x240.jpg)](https://www.bing.com/th?id=OHR.SwedenOwl_EN-CA5369836544_UHD.jpg) |
 
 ## 🌹 [English (United Kingdom)](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-09-14 | So good, they built it twice | Marble Canyon bridges over the Colorado River, Arizona, USA (© trekandshoot/Alamy) | [![So good, they built it twice](https://www.bing.com/th?id=OHR.MarbleCanyon_EN-GB9155695273_320x240.jpg)](https://www.bing.com/th?id=OHR.MarbleCanyon_EN-GB9155695273_UHD.jpg) |
-| 2022-08-19 | Panoramic Penzance | Penzance in Cornwall (© Murray Bosley Photography/Getty Images) | [![Panoramic Penzance](https://www.bing.com/th?id=OHR.PenzancePool_EN-GB9755616869_320x240.jpg)](https://www.bing.com/th?id=OHR.PenzancePool_EN-GB9755616869_UHD.jpg) |
-| 2022-05-17 | Incan ingenuity | Salt ponds of Maras in Peru's Sacred Valley of the Incas (© Fotofeeling/Westend61 on Offset/Shutterstock) | [![Incan ingenuity](https://www.bing.com/th?id=OHR.SaltPondsMaras_EN-GB2647676299_320x240.jpg)](https://www.bing.com/th?id=OHR.SaltPondsMaras_EN-GB2647676299_UHD.jpg) |
+| 2022-08-22 | Wise guys | A burrowing owl chick and adult in Florida, USA (© Carlos Carreno/Getty Images) | [![Wise guys](https://www.bing.com/th?id=OHR.TenderMoment_EN-GB2447588739_320x240.jpg)](https://www.bing.com/th?id=OHR.TenderMoment_EN-GB2447588739_UHD.jpg) |
+| 2022-12-29 | Wintry Swiss bliss | Maloja, Switzerland (© Roberto Moiola/Getty) | [![Wintry Swiss bliss](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-GB3341372552_320x240.jpg)](https://www.bing.com/th?id=OHR.ChiesaBianca_EN-GB3341372552_UHD.jpg) |
+| 2022-07-13 | A rock giant | Basalt columns of Giant's Causeway, County Antrim (© Olimpio Fantuz/eStock Photo) | [![A rock giant](https://www.bing.com/th?id=OHR.BasaltGiants_EN-GB1283522320_320x240.jpg)](https://www.bing.com/th?id=OHR.BasaltGiants_EN-GB1283522320_UHD.jpg) |
 
 ## 🦁 [English (India)](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-01 | What are they celebrating? | Skeletons (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images) | [![What are they celebrating?](https://www.bing.com/th?id=OHR.Calacas_EN-IN6289630026_320x240.jpg)](https://www.bing.com/th?id=OHR.Calacas_EN-IN6289630026_UHD.jpg) |
-| 2022-05-24 | An island park for everyone | Kornati National Park, Croatia (© Anton Petrus/Getty Images) | [![An island park for everyone](https://www.bing.com/th?id=OHR.KornatiNP_EN-IN3978976949_320x240.jpg)](https://www.bing.com/th?id=OHR.KornatiNP_EN-IN3978976949_UHD.jpg) |
-| 2022-11-09 | Look, but don’t touch | European hedgehog in Sussex, England (© Jules Cox/Minden Pictures) | [![Look, but don’t touch](https://www.bing.com/th?id=OHR.HedgehogNest_EN-IN8074931663_320x240.jpg)](https://www.bing.com/th?id=OHR.HedgehogNest_EN-IN8074931663_UHD.jpg) |
+| 2022-09-15 | Bridging the gap two ways | Marble Canyon bridges over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy) | [![Bridging the gap two ways](https://www.bing.com/th?id=OHR.MarbleCanyon_EN-IN7065098083_320x240.jpg)](https://www.bing.com/th?id=OHR.MarbleCanyon_EN-IN7065098083_UHD.jpg) |
+| 2022-08-20 | Saving and celebrating honey bees | Beehives in the Muniellos Nature Reserve in the province of Asturias, Spain (© ABB Photo/Shutterstock) | [![Saving and celebrating honey bees](https://www.bing.com/th?id=OHR.BearProof_EN-IN3200284080_320x240.jpg)](https://www.bing.com/th?id=OHR.BearProof_EN-IN3200284080_UHD.jpg) |
+| 2022-05-18 | This museum sets the prairie on fire | Museum at Prairiefire, Overland Park, Kansas (© Bernard P. Friel/Universal Images Group via Getty Images) | [![This museum sets the prairie on fire](https://www.bing.com/th?id=OHR.KansasPrairiefire_EN-IN6795178497_320x240.jpg)](https://www.bing.com/th?id=OHR.KansasPrairiefire_EN-IN6795178497_UHD.jpg) |
 
 ## 🗽 [English (United States)](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-05-31 | A day of remembrance | Rainbow Pool and the field of stars in the World War II Memorial with the Lincoln Memorial in the background, Washington, DC (© Sean Pavone/Getty Images) | [![A day of remembrance](https://www.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_320x240.jpg)](https://www.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg) |
-| 2022-05-05 | The sun sets on the Valley of the Moon | Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images) | [![The sun sets on the Valley of the Moon](https://www.bing.com/th?id=OHR.WadiRum_EN-US2725530460_320x240.jpg)](https://www.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg) |
-| 2022-07-18 | Ride the wave | The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy) | [![Ride the wave](https://www.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_320x240.jpg)](https://www.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg) |
+| 2022-11-01 | Who's in this creepy copse? | Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images) | [![Who's in this creepy copse?](https://www.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_320x240.jpg)](https://www.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg) |
+| 2022-05-24 | Turtle-y nice day for a swim | Florida red-bellied turtle in Rainbow Springs, Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures) | [![Turtle-y nice day for a swim](https://www.bing.com/th?id=OHR.RedBellied_EN-US7363239921_320x240.jpg)](https://www.bing.com/th?id=OHR.RedBellied_EN-US7363239921_UHD.jpg) |
+| 2022-11-09 | Launching hopes and prayers | Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images) | [![Launching hopes and prayers](https://www.bing.com/th?id=OHR.YiPeng_EN-US0467115147_320x240.jpg)](https://www.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg) |
 
 ## 🐓 [French (France)](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-12-05 | Faire le paon | Une grande aigrette dans le parc national des Everglades, Floride, États-Unis (© Troy Harrison/Getty Images) | [![Faire le paon](https://www.bing.com/th?id=OHR.GreatEgret_FR-FR3839545128_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatEgret_FR-FR3839545128_UHD.jpg) |
-| 2022-05-22 | Vivons ensemble | Un zèbre de Burchell et un héron garde-bœufs dans la réserve naturelle de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures) | [![Vivons ensemble](https://www.bing.com/th?id=OHR.ZebraEgret_FR-FR7656451033_320x240.jpg)](https://www.bing.com/th?id=OHR.ZebraEgret_FR-FR7656451033_UHD.jpg) |
-| 2022-08-31 | Deux étoiles bleues | Étoiles de mer Linckias bleues en Nouvelle-Irlande, Papouasie-Nouvelle-Guinée (© Jurgen Freund/Minden Pictures) | [![Deux étoiles bleues](https://www.bing.com/th?id=OHR.BlueLinckia_FR-FR4477595693_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueLinckia_FR-FR4477595693_UHD.jpg) |
+| 2022-05-31 | Splendeur volante | Ara rouge au Costa Rica (© Harry Collins/Getty Images) | [![Splendeur volante](https://www.bing.com/th?id=OHR.ParrotDay_FR-FR0616853074_320x240.jpg)](https://www.bing.com/th?id=OHR.ParrotDay_FR-FR0616853074_UHD.jpg) |
+| 2022-05-05 | Champ précieux | Arbre dans un champ d’agaves près d’Atotonilco, Jalisco, Mexique (© Brian Overcast/Alamy) | [![Champ précieux](https://www.bing.com/th?id=OHR.JaliscoAgave_FR-FR1654274610_320x240.jpg)](https://www.bing.com/th?id=OHR.JaliscoAgave_FR-FR1654274610_UHD.jpg) |
+| 2022-07-18 | Le Japon fête l’océan | L’île Omijima dans le Parc quasi national de Kita-Nagato Kaigan, Japon (© Sean Pavone Photo/Adobe Stock) | [![Le Japon fête l’océan](https://www.bing.com/th?id=OHR.OmijimaIsland_FR-FR2031215669_320x240.jpg)](https://www.bing.com/th?id=OHR.OmijimaIsland_FR-FR2031215669_UHD.jpg) |
 
 ## ⭐ [Italian (Italy)](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-06-29 | Benvenuto ai Tropici, dove terra e mare si fondono | Foresta di mangrovie nella baia di Phang Nga, Mare delle Andamane, Thailandia (© Ratnakorn Piyasirisorost/Getty Images) | [![Benvenuto ai Tropici, dove terra e mare si fondono](https://www.bing.com/th?id=OHR.PhangNgaBay_IT-IT8991911889_320x240.jpg)](https://www.bing.com/th?id=OHR.PhangNgaBay_IT-IT8991911889_UHD.jpg) |
-| 2022-12-03 | Nel parco nazionale più vecchio d’Italia | Lago Agnel e Lago Serrù, Parco Nazionale del Gran Paradiso, Italia (© agustavop/Getty Images) | [![Nel parco nazionale più vecchio d’Italia](https://www.bing.com/th?id=OHR.GranParadiso100th_IT-IT3890893654_320x240.jpg)](https://www.bing.com/th?id=OHR.GranParadiso100th_IT-IT3890893654_UHD.jpg) |
-| 2022-11-04 | Il fascino delle frecce tricolori | Esibizione della Pattuglia Acrobatica Nazionale, conosciuta come le Frecce Tricolori (© canbedone/Getty images) | [![Il fascino delle frecce tricolori](https://www.bing.com/th?id=OHR.ItalyFreccetricolore_IT-IT3229207857_320x240.jpg)](https://www.bing.com/th?id=OHR.ItalyFreccetricolore_IT-IT3229207857_UHD.jpg) |
+| 2022-12-05 | Un po’ di stretching nelle Everglades | Un airone bianco maggiore nel Parco Nazionale delle Everglades, Florida, USA (© Troy Harrison/Getty Images) | [![Un po’ di stretching nelle Everglades](https://www.bing.com/th?id=OHR.GreatEgret_IT-IT8835587032_320x240.jpg)](https://www.bing.com/th?id=OHR.GreatEgret_IT-IT8835587032_UHD.jpg) |
+| 2022-05-22 | Possiamo essere tutti amici | Una zebra di pianura e un airone guardabuoi nella Riserva naturale di Rietvlei in Sud Africa (© Richard Du Toit/Minden Pictures) | [![Possiamo essere tutti amici](https://www.bing.com/th?id=OHR.ZebraEgret_IT-IT8107480688_320x240.jpg)](https://www.bing.com/th?id=OHR.ZebraEgret_IT-IT8107480688_UHD.jpg) |
+| 2022-08-31 | Qui si è fermato Carlo Magno | Castello di Sammezzano, Reggello in provincia di Firenze (© Reflex Life/Shutterstock) | [![Qui si è fermato Carlo Magno](https://www.bing.com/th?id=OHR.SammezzanoCastle_IT-IT8448002045_320x240.jpg)](https://www.bing.com/th?id=OHR.SammezzanoCastle_IT-IT8448002045_UHD.jpg) |
 
 ## 🌸 [Japanese (Japan)](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-08-20 | イベリア半島の養蜂場 | ミツバチの巣箱, スペイン アストゥリアス州 (© ABB Photo/Shutterstock) | [![イベリア半島の養蜂場](https://www.bing.com/th?id=OHR.BearProof_JA-JP5511212587_320x240.jpg)](https://www.bing.com/th?id=OHR.BearProof_JA-JP5511212587_UHD.jpg) |
-| 2022-05-01 | オカラ国定森林の巨大な泉 | ジュニパー・スプリングス, 米国 フロリダ州 (© Michael Warren/Getty Images) | [![オカラ国定森林の巨大な泉](https://www.bing.com/th?id=OHR.OcalaNF_JA-JP1549262515_320x240.jpg)](https://www.bing.com/th?id=OHR.OcalaNF_JA-JP1549262515_UHD.jpg) |
-| 2022-11-21 | 2022 年ワールドカップ開幕 | アフメド・ビン＝アリー・スタジアム, カタール ドーハ (© Qatar 2022/Supreme Committee via Getty Images) | [![2022 年ワールドカップ開幕](https://www.bing.com/th?id=OHR.FIFA2022_JA-JP5434338503_320x240.jpg)](https://www.bing.com/th?id=OHR.FIFA2022_JA-JP5434338503_UHD.jpg) |
+| 2022-06-29 | 今日は国際熱帯デー | パンガー湾のマングローブ林, タイ  アンダマン海 (© Ratnakorn Piyasirisorost/Getty Images) | [![今日は国際熱帯デー](https://www.bing.com/th?id=OHR.PhangNgaBay_JA-JP8895232553_320x240.jpg)](https://www.bing.com/th?id=OHR.PhangNgaBay_JA-JP8895232553_UHD.jpg) |
+| 2022-12-03 | アート・バーゼル・マイアミビーチ | マイアミビーチ, 米国 フロリダ州 (© Matteo Colombo/Getty Images) | [![アート・バーゼル・マイアミビーチ](https://www.bing.com/th?id=OHR.MiamiDT_JA-JP5319718687_320x240.jpg)](https://www.bing.com/th?id=OHR.MiamiDT_JA-JP5319718687_UHD.jpg) |
+| 2022-11-04 | ツタンカーメン王の墓 | ツタンカーメン王の墓, エジプト (© Stefan Lippmann/Universal Images Group via Getty Images) | [![ツタンカーメン王の墓](https://www.bing.com/th?id=OHR.Deities_JA-JP2237725290_320x240.jpg)](https://www.bing.com/th?id=OHR.Deities_JA-JP2237725290_UHD.jpg) |
 
 ## 🐉 [Simplified Chinese (China)](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-11-05 | 重温往日辉煌 | 阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo) | [![重温往日辉煌](https://www.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_320x240.jpg)](https://www.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_UHD.jpg) |
-| 2022-10-29 | 海洋天使 | 海洋天使 (© Alexander Semenov Images/Shutterstock) | [![海洋天使](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_320x240.jpg)](https://www.bing.com/th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg) |
-| 2022-09-28 | 一场现代化的重建 | 卡伯特镇的福斯特廊桥，美国佛蒙特州 (© Alan Majchrowicz/Getty Images) | [![一场现代化的重建](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_320x240.jpg)](https://www.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_UHD.jpg) |
+| 2022-08-20 | 保护蜜蜂、赞美蜜蜂 | 西班牙阿斯图里亚斯省穆涅略斯自然保护区的蜂箱 (© ABB Photo/Shutterstock) | [![保护蜜蜂、赞美蜜蜂](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_320x240.jpg)](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_UHD.jpg) |
+| 2022-05-01 | 一张来自春天的快照 | 盛开的金链花树和紫色葱属植物，加拿大温哥华范度森植物园 (© Greg Vaughn/Alamy) | [![一张来自春天的快照](https://www.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_320x240.jpg)](https://www.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_UHD.jpg) |
+| 2022-11-21 | 令人陶醉的海岛花园 | 伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock) | [![令人陶醉的海岛花园](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_320x240.jpg)](https://www.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg) |
 

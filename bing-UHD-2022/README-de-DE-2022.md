@@ -1,6 +1,6 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2022
 
-> Zuletzt aktualisiert：2026-11-13 08:08:13 UTC
+> Zuletzt aktualisiert：2026-11-14 04:59:03 UTC
 
 [de-DE](README-de-DE-2022.md) | [en-CA](README-en-CA-2022.md) | [en-GB](README-en-GB-2022.md) | [en-IN](README-en-IN-2022.md) | [en-US](README-en-US-2022.md) | [fr-FR](README-fr-FR-2022.md) | [it-IT](README-it-IT-2022.md) | [ja-JP](README-ja-JP-2022.md) | [zh-CN](README-zh-CN-2022.md)
 
@@ -8,71 +8,71 @@
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
-| 2022-12-03 | Die Kunstwelt zu Gast in Miami Beach | Ocean Drive, Miami Beach, Florida, USA (© Matteo Colombo/Getty Images) | [![Die Kunstwelt zu Gast in Miami Beach](https://www.bing.com/th?id=OHR.MiamiDT_DE-DE9731630617_320x240.jpg)](https://www.bing.com/th?id=OHR.MiamiDT_DE-DE9731630617_UHD.jpg) |
-| 2022-07-13 | „Der Damm des Riesen“ | Basaltsäulen des Giant's Causeway, Nordirland, Vereinigtes Königreich (© Olimpio Fantuz/eStock Photo) | [![„Der Damm des Riesen“](https://www.bing.com/th?id=OHR.BasaltGiants_DE-DE8828158408_320x240.jpg)](https://www.bing.com/th?id=OHR.BasaltGiants_DE-DE8828158408_UHD.jpg) |
-| 2022-07-27 | Das einsame Schloss | Nabatäische Felsgräber in Mada'in Salih, Saudi-Arabien (© Tuul & Bruno Morandi/Getty Images) | [![Das einsame Schloss](https://www.bing.com/th?id=OHR.NabateanTomb_DE-DE7214514482_320x240.jpg)](https://www.bing.com/th?id=OHR.NabateanTomb_DE-DE7214514482_UHD.jpg) |
+| 2022-05-06 | Pfad durch ein Blütenmeer | Atlantische Hasenglöckchen in einem Wald in Hertfordshire, England, Vereinigtes Königreich (© JayKay57/Getty Images) | [![Pfad durch ein Blütenmeer](https://www.bing.com/th?id=OHR.HertfordshireBluebells_DE-DE2011706063_320x240.jpg)](https://www.bing.com/th?id=OHR.HertfordshireBluebells_DE-DE2011706063_UHD.jpg) |
+| 2022-08-30 | Pisa bietet mehr als nur schiefe Türme | Regionalpark Migliarino, San Rossore und Massaciuccoli, Italien (© Stefano Valeri/Alamy) | [![Pisa bietet mehr als nur schiefe Türme](https://www.bing.com/th?id=OHR.Migliarino_DE-DE5935991666_320x240.jpg)](https://www.bing.com/th?id=OHR.Migliarino_DE-DE5935991666_UHD.jpg) |
+| 2022-12-02 | Alaskas Schönheit bewahren | Delta des Tlikakila River im Lake-Clark-Nationalpark, Alaska, USA (© Dawn Wilson Photography/Getty Images) | [![Alaskas Schönheit bewahren](https://www.bing.com/th?id=OHR.BraidedRiverDelta_DE-DE9595164711_320x240.jpg)](https://www.bing.com/th?id=OHR.BraidedRiverDelta_DE-DE9595164711_UHD.jpg) |
 
 ## 🍁 [Englisch (Kanada)](bing-UHD-en-CA-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-11-18 | Willamette National Forest, Oregon | Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont) | [![Willamette National Forest, Oregon](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_EN-CA4064453080_320x240.jpg)](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_EN-CA4064453080_UHD.jpg) |
-| 2022-05-24 | Turtle-y nice day for a swim | Florida red-bellied turtle in Rainbow Springs, Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures) | [![Turtle-y nice day for a swim](https://www.bing.com/th?id=OHR.RedBellied_EN-CA1930234626_320x240.jpg)](https://www.bing.com/th?id=OHR.RedBellied_EN-CA1930234626_UHD.jpg) |
-| 2022-05-04 | This lesson is going swimmingly | Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images) | [![This lesson is going swimmingly](https://www.bing.com/th?id=OHR.DuckHen_EN-CA4570032309_320x240.jpg)](https://www.bing.com/th?id=OHR.DuckHen_EN-CA4570032309_UHD.jpg) |
+| 2022-12-03 | Preserving Alaska's natural beauty | Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images) | [![Preserving Alaska's natural beauty](https://www.bing.com/th?id=OHR.BraidedRiverDelta_EN-CA1255112672_320x240.jpg)](https://www.bing.com/th?id=OHR.BraidedRiverDelta_EN-CA1255112672_UHD.jpg) |
+| 2022-07-13 | Spiralling upward... | Bay Marker Lookout, Sydney Olympic Park, Australia (© ai_yoshi/Getty Images) | [![Spiralling upward...](https://www.bing.com/th?id=OHR.SpiralHill_EN-CA3284860853_320x240.jpg)](https://www.bing.com/th?id=OHR.SpiralHill_EN-CA3284860853_UHD.jpg) |
+| 2022-07-27 | Our forgotten forests | Mangrove forest in the Saloum Delta National Park, Senegal (© mariusz_prusaczyk/Getty Images) | [![Our forgotten forests](https://www.bing.com/th?id=OHR.MangroveDay_EN-CA5528092528_320x240.jpg)](https://www.bing.com/th?id=OHR.MangroveDay_EN-CA5528092528_UHD.jpg) |
 
 ## 🌹 [Englisch (Vereinigtes Königreich)](bing-UHD-en-GB-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-06-08 | The buffet is open | Long-beaked common dolphin pod and diving Cape gannets hunting Pacific sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures) | [![The buffet is open](https://www.bing.com/th?id=OHR.CommonDolphin_EN-GB5644788662_320x240.jpg)](https://www.bing.com/th?id=OHR.CommonDolphin_EN-GB5644788662_UHD.jpg) |
-| 2022-11-27 | A symbol of peace | An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock) | [![A symbol of peace](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_320x240.jpg)](https://www.bing.com/th?id=OHR.OliveTreeDay_EN-GB2958109207_UHD.jpg) |
-| 2022-06-12 | A remote oasis in Texas | Cliffs of the Sierra Ponce and Rio Grande River, Big Bend National Park, Texas, USA (© Tim Fitzharris/Minden Pictures) | [![A remote oasis in Texas](https://www.bing.com/th?id=OHR.SierraPonce_EN-GB9567989412_320x240.jpg)](https://www.bing.com/th?id=OHR.SierraPonce_EN-GB9567989412_UHD.jpg) |
+| 2022-11-18 | Night outside the museum | Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images) | [![Night outside the museum](https://www.bing.com/th?id=OHR.GB25Anni_EN-GB0345961428_320x240.jpg)](https://www.bing.com/th?id=OHR.GB25Anni_EN-GB0345961428_UHD.jpg) |
+| 2022-05-23 | Turtle-y nice day for a swim | Florida red-bellied turtle in Rainbow Springs, Rainbow Springs State Park, Florida, USA (© Michel Roggo/Minden Pictures) | [![Turtle-y nice day for a swim](https://www.bing.com/th?id=OHR.RedBellied_EN-GB4326914559_320x240.jpg)](https://www.bing.com/th?id=OHR.RedBellied_EN-GB4326914559_UHD.jpg) |
+| 2022-05-03 | Boardwalk over Balkan lakes | Plitvice Lakes National Park, Croatia (© Janne Kahila/Getty Images) | [![Boardwalk over Balkan lakes](https://www.bing.com/th?id=OHR.PlitviceBoardwalk_EN-GB6033298195_320x240.jpg)](https://www.bing.com/th?id=OHR.PlitviceBoardwalk_EN-GB6033298195_UHD.jpg) |
 
 ## 🦁 [Englisch (Indien)](bing-UHD-en-IN-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-09-29 | Blurring the lines with wearable art | Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt) | [![Blurring the lines with wearable art](https://www.bing.com/th?id=OHR.InfiniD_EN-IN2161897930_320x240.jpg)](https://www.bing.com/th?id=OHR.InfiniD_EN-IN2161897930_UHD.jpg) |
-| 2022-09-22 | Colours of Colorado | The aspen canopy along Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion) | [![Colours of Colorado](https://www.bing.com/th?id=OHR.LastDollarRoad_EN-IN2409980698_320x240.jpg)](https://www.bing.com/th?id=OHR.LastDollarRoad_EN-IN2409980698_UHD.jpg) |
-| 2022-08-25 | America’s backyard | North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion) | [![America’s backyard](https://www.bing.com/th?id=OHR.CascadesNP_EN-IN2301005024_320x240.jpg)](https://www.bing.com/th?id=OHR.CascadesNP_EN-IN2301005024_UHD.jpg) |
+| 2022-06-09 | A very public display of affection | Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images) | [![A very public display of affection](https://www.bing.com/th?id=OHR.SweetheartAbbey_EN-IN3919256242_320x240.jpg)](https://www.bing.com/th?id=OHR.SweetheartAbbey_EN-IN3919256242_UHD.jpg) |
+| 2022-11-27 | Unbe-leaf-able | Cecropia leaf atop lobster claw petals, Mexico (© Gerry Ellis/Minden Pictures) | [![Unbe-leaf-able](https://www.bing.com/th?id=OHR.Cecropia_EN-IN6595144388_320x240.jpg)](https://www.bing.com/th?id=OHR.Cecropia_EN-IN6595144388_UHD.jpg) |
+| 2022-06-13 | The world’s greatest oasis? | Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images) | [![The world’s greatest oasis?](https://www.bing.com/th?id=OHR.OkavangoElephant_EN-IN8910775804_320x240.jpg)](https://www.bing.com/th?id=OHR.OkavangoElephant_EN-IN8910775804_UHD.jpg) |
 
 ## 🗽 [Englisch (Vereinigte Staaten)](bing-UHD-en-US-2022.md)
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
-| 2022-05-06 | This blue succulent is as good as gold here | Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico (© Brian Overcast/Alamy) | [![This blue succulent is as good as gold here](https://www.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_320x240.jpg)](https://www.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg) |
-| 2022-11-23 | A fox in the dunes | Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures) | [![A fox in the dunes](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_320x240.jpg)](https://www.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg) |
-| 2022-09-05 | The Riviera of India | Arambol Beach in Goa, India (© Ben Pipe/Alamy) | [![The Riviera of India](https://www.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_320x240.jpg)](https://www.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg) |
+| 2022-09-29 | A modern recreation | A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images) | [![A modern recreation](https://www.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_320x240.jpg)](https://www.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg) |
+| 2022-09-22 | A dramatic celebration of peace | 'Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images) | [![A dramatic celebration of peace](https://www.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_320x240.jpg)](https://www.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg) |
+| 2022-08-25 | Amber waves of grain | Wheat field in Ukraine (© Yuriy Kulik/Getty Images) | [![Amber waves of grain](https://www.bing.com/th?id=OHR.WheatField_EN-US3537753695_320x240.jpg)](https://www.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg) |
 
 ## 🐓 [Französisch (Frankreich)](bing-UHD-fr-FR-2022.md)
 
 | Date | Titre | Droits d'auteur | Vignette |
 | :---: | :---: | :---: | :---: |
-| 2022-12-06 | Livraison spéciale ! | La Saint-Nicolas à Verbier, Suisse (© Denis Balibouse/Reuters) | [![Livraison spéciale !](https://www.bing.com/th?id=OHR.StNick_FR-FR8289035767_320x240.jpg)](https://www.bing.com/th?id=OHR.StNick_FR-FR8289035767_UHD.jpg) |
-| 2022-11-17 | Il est de retour ! | Vignes en automne, Bourgogne (© javarman3/Getty Images) | [![Il est de retour !](https://www.bing.com/th?id=OHR.Beaune_FR-FR9149240322_320x240.jpg)](https://www.bing.com/th?id=OHR.Beaune_FR-FR9149240322_UHD.jpg) |
-| 2022-09-17 | Bien arrosé ! | Festivaliers de l’Oktoberfest à Munich, Allemagne (© Karl-Josef Hildenbrand/Getty Images) | [![Bien arrosé !](https://www.bing.com/th?id=OHR.Wellenflug_FR-FR2038001705_320x240.jpg)](https://www.bing.com/th?id=OHR.Wellenflug_FR-FR2038001705_UHD.jpg) |
+| 2022-05-06 | Tapis enchanté | Sentier à travers une forêt tapissée de jacinthes, Hertfordshire, Angleterre (© JayKay57/Getty Images) | [![Tapis enchanté](https://www.bing.com/th?id=OHR.HertfordshireBluebells_FR-FR0177253916_320x240.jpg)](https://www.bing.com/th?id=OHR.HertfordshireBluebells_FR-FR0177253916_UHD.jpg) |
+| 2022-11-23 | 1, 1, 2, 3, 5…. | Tournesol (© Dileep Chandran/Alamy) | [![1, 1, 2, 3, 5….](https://www.bing.com/th?id=OHR.HelianthusAnnuus_FR-FR8558006773_320x240.jpg)](https://www.bing.com/th?id=OHR.HelianthusAnnuus_FR-FR8558006773_UHD.jpg) |
+| 2022-09-05 | Tout petit coin de paradis | Plage de Seitan Limania en Crète, Grèce (© Georgios Tsichlis/Alamy) | [![Tout petit coin de paradis](https://www.bing.com/th?id=OHR.SeitanLimania_FR-FR0583337434_320x240.jpg)](https://www.bing.com/th?id=OHR.SeitanLimania_FR-FR0583337434_UHD.jpg) |
 
 ## ⭐ [Italienisch (Italien)](bing-UHD-it-IT-2022.md)
 
 | Data | Titolo | Copyright | Miniatura |
 | :---: | :---: | :---: | :---: |
-| 2022-09-10 | Butta un occhio alla luna | Celebrazioni per la Festa di metà autunno a Kuala Lumpur, Malesia (© Lim Huey Teng/Reuters) | [![Butta un occhio alla luna](https://www.bing.com/th?id=OHR.KLMidAutumn_IT-IT9746155554_320x240.jpg)](https://www.bing.com/th?id=OHR.KLMidAutumn_IT-IT9746155554_UHD.jpg) |
-| 2022-12-24 | Qui, dove regna la calma | Porto di Amalga, Alaska, Stati Uniti (© Mark Kelley/Tandem Stills + Motion) | [![Qui, dove regna la calma](https://www.bing.com/th?id=OHR.AmalgaTree_IT-IT0809820895_320x240.jpg)](https://www.bing.com/th?id=OHR.AmalgaTree_IT-IT0809820895_UHD.jpg) |
-| 2022-07-24 | Leggenda e mistero dietro questa donna | Amelia Earhart impartisce una lezione a degli studenti a Newark, New Jersey, USA (© Bettmann/Getty Images) | [![Leggenda e mistero dietro questa donna](https://www.bing.com/th?id=OHR.AmeliaEarhart_IT-IT5189469482_320x240.jpg)](https://www.bing.com/th?id=OHR.AmeliaEarhart_IT-IT5189469482_UHD.jpg) |
+| 2022-12-06 | Lo slalom di Babbo Natale | Festa di San Nicola a Verbier, Svizzera (© Denis Balibouse/Reuters) | [![Lo slalom di Babbo Natale](https://www.bing.com/th?id=OHR.StNick_IT-IT8878121546_320x240.jpg)](https://www.bing.com/th?id=OHR.StNick_IT-IT8878121546_UHD.jpg) |
+| 2022-11-17 | Pronto per una passeggiata? | Ponte sul fiume McKenzie Trail, Willamette National Forest, Oregon, USA (© Don Paulson/Danita Delimont) | [![Pronto per una passeggiata?](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_IT-IT2780928427_320x240.jpg)](https://www.bing.com/th?id=OHR.McKenzieRiverTrail_IT-IT2780928427_UHD.jpg) |
+| 2022-09-17 | Oscillando su Monaco | Visitatori dell'Oktoberfest a Monaco di Baviera, Germania (© Karl-Josef Hildenbrand/Getty Images) | [![Oscillando su Monaco](https://www.bing.com/th?id=OHR.Wellenflug_IT-IT7293790301_320x240.jpg)](https://www.bing.com/th?id=OHR.Wellenflug_IT-IT7293790301_UHD.jpg) |
 
 ## 🌸 [Japanisch (Japan)](bing-UHD-ja-JP-2022.md)
 
 | 日付 | タイトル | 著作権 | サムネイル |
 | :---: | :---: | :---: | :---: |
-| 2022-05-03 | 初夏のバンデューセン植物園 | キバナフジとアリウム・ギガンテウム, カナダ バンクーバー (© Greg Vaughn/Alamy) | [![初夏のバンデューセン植物園](https://www.bing.com/th?id=OHR.VanBlooms_JA-JP1700020833_320x240.jpg)](https://www.bing.com/th?id=OHR.VanBlooms_JA-JP1700020833_UHD.jpg) |
-| 2022-05-09 | カッパドキアの古代奇岩都市 | ギョレメ国立公園, トルコ カッパドキア (© Anton Petrus/Getty Images) | [![カッパドキアの古代奇岩都市](https://www.bing.com/th?id=OHR.GoremeNationalPark_JA-JP7324843565_320x240.jpg)](https://www.bing.com/th?id=OHR.GoremeNationalPark_JA-JP7324843565_UHD.jpg) |
-| 2022-07-30 | ニュージーランドの世界遺産 | ミルフォード・サウンドの多雨林, ニュージーランド (© Jim Patterson/Tandem Stills + Motion) | [![ニュージーランドの世界遺産](https://www.bing.com/th?id=OHR.FiordlandRainforest_JA-JP5905078657_320x240.jpg)](https://www.bing.com/th?id=OHR.FiordlandRainforest_JA-JP5905078657_UHD.jpg) |
+| 2022-09-10 | 今日は十五夜 | 東京スカイツリー, 東京 墨田区 (© Krzysztof Baranowski/Getty Images) | [![今日は十五夜](https://www.bing.com/th?id=OHR.SkyTreeMoon2022_JA-JP3772619121_320x240.jpg)](https://www.bing.com/th?id=OHR.SkyTreeMoon2022_JA-JP3772619121_UHD.jpg) |
+| 2022-12-24 | アラスカ アマルガ港のクリスマスツリー | アマルガ港のクリスマスツリー, 米国 アラスカ (© Mark Kelley/Tandem Stills + Motion) | [![アラスカ アマルガ港のクリスマスツリー](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_320x240.jpg)](https://www.bing.com/th?id=OHR.AmalgaTree_JA-JP3864422935_UHD.jpg) |
+| 2022-07-24 | 今日はアメリア・イアハートの誕生日 | アメリア・イアハートと学生たち, 米国 ニュージャージー州 (© Bettmann/Getty Images) | [![今日はアメリア・イアハートの誕生日](https://www.bing.com/th?id=OHR.AmeliaEarhart_JA-JP6227711829_320x240.jpg)](https://www.bing.com/th?id=OHR.AmeliaEarhart_JA-JP6227711829_UHD.jpg) |
 
 ## 🐉 [Vereinfachtes Chinesisch (China)](bing-UHD-zh-CN-2022.md)
 
 | 日期 | 标题 | 版权 | 缩略图 |
 | :---: | :---: | :---: | :---: |
-| 2022-11-29 | 付出和给予的一天 | 正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy) | [![付出和给予的一天](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_320x240.jpg)](https://www.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg) |
-| 2022-10-31 | 是谁躲在这令人毛骨悚然的树林里？ | 牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images) | [![是谁躲在这令人毛骨悚然的树林里？](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_320x240.jpg)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg) |
-| 2022-08-20 | 保护蜜蜂、赞美蜜蜂 | 西班牙阿斯图里亚斯省穆涅略斯自然保护区的蜂箱 (© ABB Photo/Shutterstock) | [![保护蜜蜂、赞美蜜蜂](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_320x240.jpg)](https://www.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_UHD.jpg) |
+| 2022-05-03 | 这节游泳课进行得很顺利 | 鸳鸯妈妈和小鸳鸯们，韩国 (© VDCM image/Getty Images) | [![这节游泳课进行得很顺利](https://www.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_320x240.jpg)](https://www.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_UHD.jpg) |
+| 2022-05-09 | 那些生动的岩石 | 从观景台俯瞰格雷梅，格雷梅国家公园，土耳其卡帕多西亚省 (© Anton Petrus/Getty Images) | [![那些生动的岩石](https://www.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_320x240.jpg)](https://www.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_UHD.jpg) |
+| 2022-07-30 | “第八大奇迹”? | 米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion) | [![“第八大奇迹”?](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_320x240.jpg)](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg) |
 
