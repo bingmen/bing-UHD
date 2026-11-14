@@ -1,9 +1,10 @@
 # Bing-Tägliches Hintergrundbild - UHD - de-DE - 2026
 
-> Zuletzt aktualisiert: 2026-11-13 05:02:22 UTC
+> Zuletzt aktualisiert: 2026-11-14 04:55:03 UTC
 
 | Datum | Titel | Urheberrecht | Vorschaubild |
 | :---: | :---: | :---: | :---: |
+| 2026-11-14 | Hoch, höher, Hongkong | Victoria Harbour, Hongkong, China (© Juan Romero/Cavan Images) | [![Hoch, höher, Hongkong](https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueHK_DE-DE1662761141_UHD.jpg) |
 | 2026-11-13 | Verborgene Tiefen | Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images) | [![Verborgene Tiefen](https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg) |
 | 2026-11-12 | Architektur ohne Architekten | North Window, Arches-Nationalpark, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architektur ohne Architekten](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg) |
 | 2026-11-11 | Ein Wald voller Wunder | Der Atlantische Regenwald, Brasilien (© FG Trade/Getty Images) | [![Ein Wald voller Wunder](https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg) |
