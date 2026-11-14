@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-IN - 2026
 
-> Last updated: 2026-11-13 05:03:49 UTC
+> Last updated: 2026-11-14 04:56:21 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-14 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-IN1948913499_UHD.jpg) |
 | 2026-11-13 | Glow of Chhath Puja | Sunset over the Damodar River during Chhath Puja (© ParthapratimMukherjee2056/Shutterstock) | [![Glow of Chhath Puja](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_320x240.jpg)](https://www.bing.com/th?id=OHR.ChhathPuja2026_EN-IN1437573581_UHD.jpg) |
 | 2026-11-12 | Architecture without an architect | North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architecture without an architect](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg) |
 | 2026-11-11 | A forest full of wonder | The Atlantic Forest, Brazil (© FG Trade/Getty Images) | [![A forest full of wonder](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_320x240.jpg)](https://www.bing.com/th?id=OHR.Atlantica_EN-IN3149189379_UHD.jpg) |
