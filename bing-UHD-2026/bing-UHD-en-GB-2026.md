@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-GB - 2026
 
-> Last updated: 2026-11-13 05:03:13 UTC
+> Last updated: 2026-11-14 04:55:55 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-15 | The only way is up | Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images) | [![The only way is up](https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_320x240.jpg)](https://www.bing.com/th?id=OHR.BlueHK_EN-GB3274323919_UHD.jpg) |
 | 2026-11-14 | Hidden depths | Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images) | [![Hidden depths](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-GB1908527515_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-GB1908527515_UHD.jpg) |
 | 2026-11-13 | Architecture without an architect | North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images) | [![Architecture without an architect](https://www.bing.com/th?id=OHR.NorthWindow_EN-GB5518413161_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_EN-GB5518413161_UHD.jpg) |
 | 2026-11-12 | We will remember them | A field of poppies (© lloyd-horgan/Getty Images) | [![We will remember them](https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_320x240.jpg)](https://www.bing.com/th?id=OHR.PoppiesField_EN-GB3947926925_UHD.jpg) |
