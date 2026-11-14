@@ -1,9 +1,10 @@
 # Bing Daily Wallpaper - UHD - en-US - 2026
 
-> Last updated: 2026-11-13 05:04:19 UTC
+> Last updated: 2026-11-14 04:56:47 UTC
 
 | Date | Title | Copyright | Thumbnail |
 | :---: | :---: | :---: | :---: |
+| 2026-11-14 | Hidden depths | Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images) | [![Hidden depths](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_320x240.jpg)](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg) |
 | 2026-11-13 | Architecture without an architect | North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images) | [![Architecture without an architect](https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_320x240.jpg)](https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg) |
 | 2026-11-12 | A salute in red, white, and blue | American flags in a public park in upstate New York (© Matt Champlin/Getty Images) | [![A salute in red, white, and blue](https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_320x240.jpg)](https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg) |
 | 2026-11-11 | Licensed to chill | Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images) | [![Licensed to chill](https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_320x240.jpg)](https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg) |
